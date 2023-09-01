@@ -1,0 +1,228 @@
+{
+  "material": "REDSTONE_TORCH",
+  "item_durability": -1,
+  "name": "Hellstorm Wand",
+  "category": "WAND",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 120,
+    "STRENGTH": 50,
+    "WEAPON_ABILITY_DAMAGE": 12000,
+    "INTELLIGENCE": 100
+  },
+  "ability_damage_scaling": 0.3,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 25
+    }
+  ],
+  "npc_sell_price": 100000,
+  "can_have_attributes": true,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ITEM",
+        "item_id": "SPELL_POWDER",
+        "amount": 2
+      },
+      {
+        "type": "ITEM",
+        "item_id": "LEATHER_CLOTH",
+        "amount": 1
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 300
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "SPELL_POWDER",
+        "amount": 4
+      },
+      {
+        "type": "ITEM",
+        "item_id": "LEATHER_CLOTH",
+        "amount": 2
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 600
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "SPELL_POWDER",
+        "amount": 6
+      },
+      {
+        "type": "ITEM",
+        "item_id": "LEATHER_CLOTH",
+        "amount": 3
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 1200
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "SPELL_POWDER",
+        "amount": 8
+      },
+      {
+        "type": "ITEM",
+        "item_id": "LEATHER_CLOTH",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 2400
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "SPELL_POWDER",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "LEATHER_CLOTH",
+        "amount": 5
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 3600
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "SPELL_POWDER",
+        "amount": 12
+      },
+      {
+        "type": "ITEM",
+        "item_id": "LEATHER_CLOTH",
+        "amount": 6
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 4800
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "SPELL_POWDER",
+        "amount": 14
+      },
+      {
+        "type": "ITEM",
+        "item_id": "LEATHER_CLOTH",
+        "amount": 7
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 7200
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "SPELL_POWDER",
+        "amount": 16
+      },
+      {
+        "type": "ITEM",
+        "item_id": "LEATHER_CLOTH",
+        "amount": 8
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 9000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "SPELL_POWDER",
+        "amount": 18
+      },
+      {
+        "type": "ITEM",
+        "item_id": "LEATHER_CLOTH",
+        "amount": 9
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 11000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "SPELL_POWDER",
+        "amount": 20
+      },
+      {
+        "type": "ITEM",
+        "item_id": "LEATHER_CLOTH",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 13000
+      }
+    ]
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "SAPPHIRE"
+    }
+  ],
+  "id": "HELLSTORM_STAFF",
+  "description": [
+    {"text":""},
+    {"text":"Ability: Hellstorm ","color":"gold","extra":[{"text":"RIGHT CLICK","color":"yellow","bold":true}]},
+    {"text":"Begin a channel.","color":"gray"},
+    {"text":"After not taking damage for","color":"gray"},
+    {"text":"20s","color":"green","extra":[{"text":", unleash a hellstorm","color":"gray"}]},
+    {"text":"dealing ","color":"gray","extra":[{"text":"12,000 ","color":"red"},{"text":"damage and","color":"gray"}]},
+    {"text":"lasting for ","color":"gray","extra":[{"text":"20s","color":"green"},{"text":".","color":"gray"}]},
+    {"text":"Mana Cost: ","color":"dark_gray","extra":[{"text":"1,000","color":"dark_aqua"}]},
+    {"text":"Cooldown: ","color":"dark_gray","extra":[{"text":"30s","color":"green"}]},
+    {"text":""}
+  ]
+}

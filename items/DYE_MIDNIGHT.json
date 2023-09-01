@@ -1,0 +1,15 @@
+{
+  "material": "PURPLE_DYE",
+  "durability": 5,
+  "name": "Midnight Dye",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "DYE_MIDNIGHT",
+  "description": [
+    {"text": "Combineable in Avil", "color": "dark_gray"},
+    {"text": ""},
+    {"text": "Changes the color of leather", "color": "gray"},
+    {"text": "armor piece to ", "color": "gray", "extra": [{"text": "#702670", "color": "#702670"},{"text": "!"}]},
+    {"text": ""}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "material": "COAL_BLOCK",
+  "name": "Enchanted Block of Coal",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 51000,
+  "id": "ENCHANTED_COAL_BLOCK"
+}

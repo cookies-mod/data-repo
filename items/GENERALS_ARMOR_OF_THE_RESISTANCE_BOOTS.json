@@ -1,0 +1,14 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "159,134,9",
+  "name": "Boots of the Rising Sun",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 8,
+    "HEALTH": 8
+  },
+  "npc_sell_price": 8,
+  "museum": true,
+  "id": "GENERALS_ARMOR_OF_THE_RESISTANCE_BOOTS"
+}

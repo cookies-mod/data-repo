@@ -1,0 +1,57 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDIyNTA0NDA4MiwKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZTkyNDExNWQzYThiYmFjZmQ0ZmFmYjZjYzcwZjk5YTJmNzU4MGU0NTgzYTUwZmE5YjljMjg1YTk4YWMwYzU2IgogICAgfQogIH0KfQ",
+  "name": "OnyxBlack Cat",
+  "category": "COSMETIC",
+  "tier": "EPIC",
+  "unstackable": true,
+  "museum": true,
+  "id": "PET_SKIN_BLACK_CAT_ONYX",
+  "description": [
+    {
+      "text": "Consumed on use",
+      "color": "dark_gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Pet skins change the look and",
+      "color": "gray"
+    },
+    {
+      "text": "particle trail of your pet but",
+      "color": "gray"
+    },
+    {
+      "text": "only one skin can be active at a",
+      "color": "gray"
+    },
+    {
+      "text": "time!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "This skin can only be applied",
+      "color": "gray"
+    },
+    {
+      "text": "to Rabbit pets.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "This skin is animated!",
+      "color": "green"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

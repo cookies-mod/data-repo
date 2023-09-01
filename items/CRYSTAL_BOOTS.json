@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "252,243,255",
+  "name": "Crystal Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 15,
+    "INTELLIGENCE": 60
+  },
+  "npc_sell_price": 2000,
+  "id": "CRYSTAL_BOOTS"
+}

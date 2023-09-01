@@ -1,0 +1,11 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTk1Mzc5NjAxNywKICAicHJvZmlsZUlkIiA6ICJmMzA1ZjA5NDI0NTg0ZjU4YmEyYjY0ZjAyZDcyNDYyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJqcm9ja2EzMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMTBmMjBhNTViNmUxODhlYmU3NTc4NDU5YjY0YTZmYmQ4MjUwNjdiYzQ5N2I5MjVjYTQzYzI2NDNkMDU5MDI1IgogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Treasure Artifact",
+  "category": "ACCESSORY",
+  "tier": "LEGENDARY",
+  "npc_sell_price": 1000,
+  "dungeon_item": true,
+  "id": "TREASURE_ARTIFACT"
+}

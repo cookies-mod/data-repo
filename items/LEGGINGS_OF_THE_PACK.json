@@ -1,0 +1,19 @@
+{
+  "material": "IRON_LEGGINGS",
+  "name": "Leggings of the Pack",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 75,
+    "HEALTH": 80
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "wolf",
+      "level": 6
+    }
+  ],
+  "rift_transferrable": true,
+  "id": "LEGGINGS_OF_THE_PACK"
+}

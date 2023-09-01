@@ -1,0 +1,21 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzNiYzk2NWQ1NzljM2M2MDM5ZjBhMTdlYjdjMmU2ZmFmNTM4YzdhNWRlOGU2MGVjN2E3MTkzNjBkMGE4NTdhOSJ9fX0\u003d",
+  "name": "Portal to the Gold Mine",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Gold Mine",
+      "description_name": "%%gray%%the %%gold%%Gold Mine",
+      "destination_mode": "mining_1",
+      "offset": "MINE",
+      "schematic_file": "sb_portal_minecoal",
+      "skill_requirement": {
+        "skill": "MINING",
+        "level": 1
+      }
+    }
+  },
+  "id": "MINING_1_PORTAL"
+}

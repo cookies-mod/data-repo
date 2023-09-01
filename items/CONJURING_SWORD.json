@@ -1,0 +1,92 @@
+{
+  "material": "STONE_SWORD",
+  "name": "Conjuring",
+  "category": "SWORD",
+  "tier": "RARE",
+  "npc_sell_price": 2000,
+  "tiered_stats": {
+    "DAMAGE": [
+      68,
+      73,
+      78,
+      84,
+      90,
+      97,
+      105,
+      112,
+      121,
+      130
+    ],
+    "STRENGTH": [
+      36,
+      39,
+      42,
+      45,
+      49,
+      52,
+      56,
+      61,
+      65,
+      70
+    ],
+    "INTELLIGENCE": [
+      85,
+      92,
+      100,
+      109,
+      119,
+      129,
+      140,
+      152,
+      166,
+      180
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 5
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 100
+      }
+    ]
+  ],
+  "gear_score": 25,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 13
+    }
+  ],
+  "dungeon_item": true,
+  "id": "CONJURING_SWORD"
+}

@@ -1,0 +1,13 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjUwMjg4MjE2MSwKICAicHJvZmlsZUlkIiA6ICJkOTcwYzEzZTM4YWI0NzlhOTY1OGM1ZDQ1MjZkMTM0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmltcHlMYWNlODUxMjciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWRlY2UyOGZhNmRlYzE0Mzg2NzkxZDZmYzFlYzFmNWNhZDg3YWQxOThhNmFjNzU0OTY3Zjk2MWQxMjMyODhmYyIKICAgIH0KICB9Cn0",
+  "name": "Jake\u0027s Plushie",
+  "tier": "UNCOMMON",
+  "soulbound": "SOLO",
+  "category": "ACCESSORY",
+  "stats": {
+    "HEALTH": 2
+  },
+  "id": "JAKE_PLUSHIE"
+}

@@ -1,0 +1,72 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTExMjc1NzY5NSwKICAicHJvZmlsZUlkIiA6ICJkODAwZDI4MDlmNTE0ZjkxODk4YTU4MWYzODE0Yzc5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVCTFJ4eCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYTA0OGU0OTgzZTVlMDc5MGFhMzU4ZjJhYzE0YTVmMThiYTU5YWQ5NmE3NGM1ZDU2NDkyODgyYzIzYzYyYzI2IgogICAgfQogIH0KfQ",
+  "name": "Hard Stone Minion III",
+  "generator": "HARD_STONE",
+  "generator_tier": 3,
+  "tier": "RARE",
+  "id": "HARD_STONE_GENERATOR_3",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and mining",
+      "color": "gray"
+    },
+    {
+      "text": "Hard Stone! Requires an open area",
+      "color": "gray"
+    },
+    {
+      "text": "to place Hard Stone. Minions also",
+      "color": "gray"
+    },
+    {
+      "text": "work when you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "12",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "192",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

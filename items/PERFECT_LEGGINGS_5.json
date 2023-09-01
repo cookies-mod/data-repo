@@ -1,0 +1,83 @@
+{
+  "material": "DIAMOND_LEGGINGS",
+  "name": "Perfect Leggings - Tier V",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 220
+  },
+  "npc_sell_price": 2355200,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "DIAMOND",
+    "amount": 60
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 65
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 110
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 160
+      }
+    ]
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 11
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    }
+  ],
+  "id": "PERFECT_LEGGINGS_5",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "text": "Right-click to view recipes!",
+      "color": "yellow"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

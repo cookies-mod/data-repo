@@ -1,0 +1,43 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNjk2ODc4MzE3MywKICAicHJvZmlsZUlkIiA6ICJiNWRkZTVmODJlYjM0OTkzYmMwN2Q0MGFiNWY2ODYyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJsdXhlbWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q3Y2RkZjViMjBjYjUwZDY2MDBlNTMzM2M2YmIzZmIxNWI0NzQxZjE3ZTM2NzVmYzJiZmMwOWMyY2QwOWU2MTkiCiAgICB9CiAgfQp9",
+  "name": "Pink Bunny Minion Skin",
+  "category": "COSMETIC",
+  "museum": true,
+  "id": "PINK_BUNNY_PERSONALITY",
+  "description": [
+    {
+      "text": "This Minion skin changes your",
+      "color": "gray"
+    },
+    {
+      "text": "minion\u0027s appearance to a",
+      "color": "gray",
+      "extra": [
+        {
+          "text": " Pink Bunny",
+          "color": "yellow"
+        },
+        {
+          "text": ".",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "You can place this item in any",
+      "color": "gray"
+    },
+    {
+      "text": "minion of your choice!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

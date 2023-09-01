@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "96,96,96",
+  "name": "Spooky Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 25
+  },
+  "id": "SPOOKY_BOOTS"
+}

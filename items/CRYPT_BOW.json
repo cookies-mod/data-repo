@@ -1,0 +1,70 @@
+{
+  "material": "BOW",
+  "name": "Soulstealer Bow",
+  "category": "BOW",
+  "tier": "RARE",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "STRENGTH": [
+      50
+    ],
+    "INTELLIGENCE": [
+      157,
+      171,
+      186,
+      202,
+      219,
+      239,
+      259,
+      282,
+      306,
+      333
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 160
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 5
+    }
+  ],
+  "dungeon_item": true,
+  "id": "CRYPT_BOW"
+}

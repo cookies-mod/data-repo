@@ -1,0 +1,9 @@
+{
+  "material": "SAND",
+  "durability": 1,
+  "name": "Enchanted Red Sand",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 800,
+  "id": "ENCHANTED_RED_SAND"
+}

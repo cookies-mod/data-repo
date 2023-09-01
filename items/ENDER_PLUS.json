@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MWM3NzIwOTZmZmY0ODg0NzQwNjRhMmI0OWE1NjM3N2FkNTAwMGJiNjA5M2I1YjE2Y2VlMWZlNTA4NzU2MDNhIn19fQ\u003d\u003d",
+  "name": "Ender Chest+",
+  "furniture": "ENDER_PLUS",
+  "tier": "RARE",
+  "id": "ENDER_PLUS"
+}

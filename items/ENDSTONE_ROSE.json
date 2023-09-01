@@ -1,0 +1,9 @@
+{
+  "material": "RED_ROSE",
+  "name": "Endstone Rose",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 3000,
+  "museum": true,
+  "id": "ENDSTONE_ROSE"
+}

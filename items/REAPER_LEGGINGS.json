@@ -1,0 +1,52 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "27,27,27",
+  "name": "Reaper Leggings",
+  "category": "LEGGINGS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 50,
+    "HEALTH": 120,
+    "STRENGTH": 25,
+    "INTELLIGENCE": 250
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "zombie",
+      "level": 7
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_SAPPHIRE_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_RUBY_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_AMETHYST_GEM",
+          "amount": 5
+        }
+      ]
+    }
+  ],
+  "id": "REAPER_LEGGINGS"
+}

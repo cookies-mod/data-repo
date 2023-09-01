@@ -1,0 +1,115 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTVhMTNiYjQ4ZTM1OTViNTVkZThkZDY5NDNmYzM4ZGI1MjM1MzcxMjc4YzY5NWJkNDUzZTQ5YTA5OTkifX19",
+  "name": "Frozen Blaze Helmet",
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "stats": {
+    "WALK_SPEED": 2,
+    "DEFENSE": 105,
+    "STRENGTH": 40
+  },
+  "npc_sell_price": 576000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "ICE",
+    "amount": 40
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 15
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 35
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 60
+      }
+    ]
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 20
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "JASPER",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_SAPPHIRE_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_RUBY_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_AMETHYST_GEM",
+          "amount": 5
+        }
+      ]
+    }
+  ],
+  "id": "FROZEN_BLAZE_HELMET"
+}

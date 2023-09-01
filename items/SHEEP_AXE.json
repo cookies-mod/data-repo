@@ -1,0 +1,21 @@
+{
+  "material": "WOODEN_AXE",
+  "name": "Sheep Axe",
+  "category": "AXE",
+  "tier": "UNCOMMON",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 15
+    }
+  ],
+  "id": "SHEEP_AXE",
+  "description": [
+    {"text":"Killing a ","color":"gray", "extra": [{"text":"Sheep ","color":"light_purple"},{"text":"increases","color":"gray"}]},
+    {"text":"the amount of drops by ","color":"gray", "extra":[{"text":"+2","color":"green"}]},
+    {"text":"for common loot.","color":"gray"},
+    {"text":""}
+  ],
+  "can_be_reforged": true
+}

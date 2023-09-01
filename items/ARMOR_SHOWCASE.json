@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NjM3ODk2MDU3OTUsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MGY1MGVhNDY2NDRiZWRmOGRmYTUzYWY5NzdmOGMyMDZlN2YzZWU0ZTBmYWFlNmU1YzgyNzhkNzdjMjA3YWQ3In0sIkNBUEUiOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNTNiMWEwZGZjYmFlOTUzY2RlYjZmMmMyYmY2YmY3OTk0MzIzOWIxMzcyNzgwZGE0NGJjYmIyOTI3MzEzMWRhIn19fQ\u003d\u003d",
+  "name": "Armor Stand",
+  "furniture": "ARMOR_SHOWCASE",
+  "tier": "UNCOMMON",
+  "id": "ARMOR_SHOWCASE"
+}

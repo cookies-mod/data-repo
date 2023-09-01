@@ -1,0 +1,8 @@
+{
+  "material": "FLINT",
+  "name": "Block Zapper",
+  "glowing": true,
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "BLOCK_ZAPPER"
+}

@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzQwODAzNDc5MSwKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yODYwMjM1MDhmNmZhNGZlYjhiZTRiYjgxNTNmNGEyNmZlMjZlZGQ2ZjEzMDdjNmY4MDQ0Y2QyYzY1M2EwOGJlIgogICAgfQogIH0KfQ",
+  "name": "Purple Egged Skin",
+  "category": "COSMETIC",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "PURPLE_EGG"
+}

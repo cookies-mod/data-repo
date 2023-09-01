@@ -1,0 +1,13 @@
+{
+  "material": "GOLD_CHESTPLATE",
+  "name": "Chestplate of the Rising Sun",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 15,
+    "HEALTH": 15
+  },
+  "npc_sell_price": 16,
+  "museum": true,
+  "id": "ARMOR_OF_THE_RESISTANCE_CHESTPLATE"
+}

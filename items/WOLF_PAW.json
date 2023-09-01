@@ -1,0 +1,13 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NzE4NTc5NTYyNjksInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdhZmQyMjcwNGVlYjVjNjdiZTY0OWRkZmUxZGEwYzY1ODE1OGE3MDU4ZDAxNzM5ZGUzMWM5NGY2Yjk4MDg4NjkifX19",
+  "name": "Wolf Paw",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "stats": {
+    "WALK_SPEED": 1
+  },
+  "soulbound": "COOP",
+  "id": "WOLF_PAW"
+}

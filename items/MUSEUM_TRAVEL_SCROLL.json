@@ -1,0 +1,16 @@
+{
+  "material": "map",
+  "name": "Travel Scroll to Museum",
+  "category": "TRAVEL_SCROLL",
+  "tier": "EPIC",
+  "id": "MUSEUM_TRAVEL_SCROLL",
+  "description":[
+    {"text": "Consume this item to add its", "color": "gray"},
+    {"text": "destination to your fast travel", "color": "gray"},
+    {"text": "options.", "color": "gray"},
+    {"text": ""},
+    {"text": "Island: ", "color": "gray", "extra": [{"text": "Hub", "color": "green"}]},
+    {"text": "Teleport: ", "color": "gray", "extra": [{"text": "Museum", "color": "yellow"}]},
+    {"text": ""}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "material": "GOLD_INGOT",
+  "name": "Gold Claws",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "tier": "UNCOMMON",
+  "id": "GOLD_CLAWS"
+}

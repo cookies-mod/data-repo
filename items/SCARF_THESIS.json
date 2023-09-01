@@ -1,0 +1,15 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGNlNGM4N2ViNGRkZTI3NDU5ZTNlN2Y4NTkyMWU3ZTU3YjExMTk5MjYwY2FhNWNlNjNmMTM5ZWUzZDE4OGMifX19",
+  "name": "Scarf\u0027s Thesis",
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "npc_sell_price": 1000,
+  "dungeon_item": true,
+  "rift_transferrable": true,
+  "stats": {
+    "rift_Time": 11
+  },
+  "id": "SCARF_THESIS"
+}

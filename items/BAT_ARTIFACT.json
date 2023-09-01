@@ -1,0 +1,14 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzgyZmMzZjcxYjQxNzY5Mzc2YTllOTJmZTNhZGJhYWMzNzcyYjk5OWIyMTljOWQ2YjQ2ODBiYTk5ODNlNTI3In19fQ\u003d\u003d",
+  "name": "Bat Artifact",
+  "category": "ACCESSORY",
+  "tier": "LEGENDARY",
+  "stats": {
+    "WALK_SPEED": 3,
+    "HEALTH": 5,
+    "INTELLIGENCE": 3
+  },
+  "id": "BAT_ARTIFACT"
+}

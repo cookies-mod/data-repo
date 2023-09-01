@@ -1,0 +1,15 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzQ1MTk5OSwKICAicHJvZmlsZUlkIiA6ICJkYmEyNmVkNTk2ZmE0NjBjOTZjOThhYWYwOWM2MDZhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmlnaW5hbFJlemEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjFmNTA3NGRiODZiNjY5Mzc2ZTcxZGQ4ZmU3MDcxNmY3M2UwZTg0Zjk1NTg3OWE0NjgyZWY1ZmExZWE4MmQyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+  "name": "Crux Heirloom",
+  "tier": "LEGENDARY",
+  "category": "ACCESSORY",
+  "origin": "RIFT",
+  "stats": {
+    "rift_time": 70,
+    "rift_intelligence": 10,
+    "rift_walk_speed": 1
+  },
+  "id": "CRUX_TALISMAN_5"
+}

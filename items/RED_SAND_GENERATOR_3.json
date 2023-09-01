@@ -1,0 +1,79 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzODk2MzI1MzYxNywKICAicHJvZmlsZUlkIiA6ICJjMTNkYzkxZjg1YjA0ZWM4OGU2NDk5YzdjZDc4Zjk3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjcnlwdGljX2Zyb2dfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NiOGIyMjNiYTRhODVhNTk4ZjU4ZDgyNWMzYjU4ZWYxYTJlMWMwOTk1ODgwZTI5MTAwMjczMGFhOWNiZDNlMTAiCiAgICB9CiAgfQp9",
+  "name": "Red Sand Minion III",
+  "generator": "RED_SAND",
+  "generator_tier": 3,
+  "tier": "RARE",
+  "requirements": [
+    {
+      "type": "CRIMSON_ISLE_REPUTATION",
+      "faction": "BARBARIANS",
+      "reputation": 1500
+    }
+  ],
+  "id": "RED_SAND_GENERATOR_3",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and mining red",
+      "color": "gray"
+    },
+    {
+      "text": "sand! Requires an open area to",
+      "color": "gray"
+    },
+    {
+      "text": "place red sand. Minions also",
+      "color": "gray"
+    },
+    {
+      "text": "work when you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "25",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "192",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

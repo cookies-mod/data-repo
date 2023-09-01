@@ -1,0 +1,12 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "21,73,24",
+  "name": "Wyld Boots",
+  "category": "BOOTS",
+  "tier": "UNCOMMON",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_TIME": 15
+  },
+  "id": "WYLD_BOOTS"
+}

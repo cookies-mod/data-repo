@@ -1,0 +1,8 @@
+{
+  "material": "EGG",
+  "name": "Enchanted Egg",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 432,
+  "id": "ENCHANTED_EGG"
+}

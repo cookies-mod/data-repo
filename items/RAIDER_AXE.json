@@ -1,0 +1,12 @@
+{
+  "material": "IRON_AXE",
+  "name": "Raider Axe",
+  "category": "SWORD",
+  "sword_type": "AXE",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 80,
+    "STRENGTH": 50
+  },
+  "id": "RAIDER_AXE"
+}

@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "255,255,0",
+  "name": "Farm Suit Chestplate",
+  "category": "CHESTPLATE",
+  "stats": {
+    "DEFENSE": 40,
+    "FARMING_FORTUNE": 5
+  },
+  "npc_sell_price": 40,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 3
+    }
+  ],
+  "id": "FARM_SUIT_CHESTPLATE"
+}

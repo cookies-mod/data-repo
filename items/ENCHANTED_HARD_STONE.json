@@ -1,0 +1,9 @@
+{
+  "material": "STONE",
+  "name": "Enchanted Hard Stone",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 576,
+  "description": "%%gray%%A refined form of heavy rock from the darkest depths.",
+  "id": "ENCHANTED_HARD_STONE"
+}

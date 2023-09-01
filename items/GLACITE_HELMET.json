@@ -1,0 +1,33 @@
+{
+  "material": "PACKED_ICE",
+  "name": "Glacite Helmet",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "stats": {
+    "WALK_SPEED": 10,
+    "DEFENSE": 70,
+    "TRUE_DEFENSE": 5,
+    "MINING_SPEED": 10
+  },
+  "npc_sell_price": 1750,
+  "gemstone_slots": [
+    {
+      "slot_type": "AMBER"
+    },
+    {
+      "slot_type": "JADE",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 5000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JADE_GEM",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "id": "GLACITE_HELMET"
+}

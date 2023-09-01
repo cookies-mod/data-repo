@@ -1,0 +1,13 @@
+{
+  "material": "DIAMOND",
+  "name": "Holy Ice",
+  "tier": "RARE",
+  "motes_sell_price": 5,
+  "unstackable": true,
+  "origin": "RIFT",
+  "item_specific": {
+    "duration_ticks": 30,
+    "damage_multiplier": 0.2
+  },
+  "id": "HOLY_ICE"
+}

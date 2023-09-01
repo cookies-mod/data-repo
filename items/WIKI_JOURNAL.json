@@ -1,0 +1,21 @@
+{
+  "material": "BOOK",
+  "name": "Wiki Journal",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "unstackable": true,
+  "soulbound": "COOP",
+  "museum": true,
+  "id": "WIKI_JOURNAL",
+  "description": [
+    {"text": "Given to special members of","color":"gray"},
+    {"text": "the community who assisted in","color":"gray"},
+    {"text": "the creation of the ","color":"gray", "extra": [{"text":"Official","color":"gold"}]},
+    {"text": "Hypixel Wiki","color":"gold","extra":[{"text":"!","color":"gray"}]},
+    {"text": ""},
+    {"text": "Awarded to: ","color":"gray", "extra": [{"text":"Unknown", "obfuscated":true}]},
+    {"text": "From: ","color":"gray", "extra": [{"text":"Unknown", "obfuscated":true}]},
+    {"text": "Date: ","color":"gray", "extra": [{"text":"1st January 1970", "obfuscated":true}]},
+    {"text": ""}
+  ]
+}

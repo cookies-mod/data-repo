@@ -1,0 +1,8 @@
+{
+  "material": "COMPASS",
+  "name": "Compass Talisman",
+  "glowing": true,
+  "category": "ACCESSORY",
+  "npc_sell_price": 85,
+  "id": "COMPASS_TALISMAN"
+}

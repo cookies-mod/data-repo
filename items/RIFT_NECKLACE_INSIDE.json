@@ -1,0 +1,82 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0Nzg2ODQ3MDQxOCwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljMDg5NDkzMWE1MTAzODdlNGY2MTM4MjhmMDIzOWNhNGQ5MDg1MzQ5OTYzN2Y2MDc5ZDM5MzI3ZjE0NmYwZTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "%%light_purple%%Rift Necklace",
+  "category": "NECKLACE",
+  "tier": "MYTHIC",
+  "soulbound": "SOLO",
+  "origin": "RIFT",
+  "item_specific": {
+    "scaling": {
+      "tiers": [
+        {
+          "numeric": 1,
+          "stats": {
+            "RIFT_TIME": 60
+          }
+        },
+        {
+          "numeric": 2,
+          "stats": {
+            "RIFT_TIME": 110
+          }
+        },
+        {
+          "numeric": 3,
+          "stats": {
+            "RIFT_TIME": 155,
+            "rift_walk_speed": 1,
+            "rift_intelligence": 5
+          }
+        },
+        {
+          "numeric": 4,
+          "stats": {
+            "RIFT_TIME": 200,
+            "rift_walk_speed": 2,
+            "rift_intelligence": 5,
+            "rift_mana_regen": 10
+          }
+        },
+        {
+          "numeric": 5,
+          "stats": {
+            "RIFT_TIME": 245,
+            "rift_walk_speed": 3,
+            "rift_intelligence": 10,
+            "rift_mana_regen": 10
+          }
+        },
+        {
+          "numeric": 6,
+          "stats": {
+            "RIFT_TIME": 290,
+            "rift_walk_speed": 4,
+            "rift_intelligence": 10,
+            "rift_mana_regen": 15,
+            "rift_damage": 1
+          }
+        },
+        {
+          "numeric": 7,
+          "stats": {
+            "RIFT_TIME": 335,
+            "rift_walk_speed": 5,
+            "rift_intelligence": 10,
+            "rift_mana_regen": 20,
+            "rift_damage": 1,
+            "rift_health": 1
+          }
+        },
+        {
+          "numeric": 8,
+          "stats": {
+            "RIFT_TIME": 360
+          }
+        }
+      ]
+    }
+  },
+  "id": "RIFT_NECKLACE_INSIDE"
+}

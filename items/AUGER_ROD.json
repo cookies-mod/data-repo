@@ -1,0 +1,19 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Auger Rod",
+  "category": "FISHING_ROD",
+  "tier": "LEGENDARY",
+  "stats": {
+    "damage": 135,
+    "strength": 90,
+    "fishing_speed": 110
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 25
+    }
+  ],
+  "id": "AUGER_ROD"
+}

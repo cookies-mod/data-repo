@@ -1,0 +1,11 @@
+{
+  "material": "ANVIL",
+  "name": "Living Metal Anchor",
+  "tier": "RARE",
+  "motes_sell_price": 100,
+  "unstackable": true,
+  "glowing": true,
+  "origin": "RIFT",
+  "description": "This anchor has a life.\n%%gray%%It likes music!\n%%gray%%Its favorite genre?\n%%gray%%Heavy metal.\n\n%%dark_gray%%Reed needs this item.",
+  "id": "LIVING_METAL_ANVIL"
+}

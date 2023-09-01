@@ -1,0 +1,10 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Spider Sword",
+  "category": "SWORD",
+  "stats": {
+    "DAMAGE": 30
+  },
+  "npc_sell_price": 5,
+  "id": "SPIDER_SWORD"
+}

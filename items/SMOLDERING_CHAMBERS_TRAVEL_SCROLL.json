@@ -1,0 +1,14 @@
+{
+  "material": "EMPTY_MAP",
+  "name": "Travel Scroll to the Smoldering Tomb",
+  "category": "TRAVEL_SCROLL",
+  "tier": "EPIC",
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "blaze",
+      "level": 4
+    }
+  ],
+  "id": "SMOLDERING_CHAMBERS_TRAVEL_SCROLL"
+}

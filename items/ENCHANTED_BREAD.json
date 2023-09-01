@@ -1,0 +1,7 @@
+{
+  "material": "BREAD",
+  "name": "Enchanted Bread",
+  "glowing": true,
+  "npc_sell_price": 60,
+  "id": "ENCHANTED_BREAD"
+}

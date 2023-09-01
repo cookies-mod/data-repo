@@ -1,0 +1,22 @@
+{
+  "material": "ARROW",
+  "name": "Redstone-tipped Arrow",
+  "category": "ARROW",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 15
+  },
+  "npc_sell_price": 1,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 13
+    },
+    {
+      "type": "TARGET_PRACTICE",
+      "mode": "I"
+    }
+  ],
+  "id": "REDSTONE_TIPPED_ARROW"
+}

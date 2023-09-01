@@ -1,0 +1,8 @@
+{
+  "material": "DROPPER",
+  "name": "Super Compactor 3000",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 50000,
+  "id": "SUPER_COMPACTOR_3000"
+}

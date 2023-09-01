@@ -1,0 +1,13 @@
+{
+  "material": "IRON_PICKAXE",
+  "name": "Iron Pickaxe",
+  "category": "PICKAXE",
+  "stats": {
+    "BREAKING_POWER": 3,
+    "DAMAGE": 25,
+    "MINING_SPEED": 160
+  },
+  "npc_sell_price": 4,
+  "id": "IRON_PICKAXE",
+  "can_be_reforged": true
+}

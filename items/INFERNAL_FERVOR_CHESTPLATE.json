@@ -1,0 +1,360 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "240,71,41",
+  "name": "Infernal Fervor Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "LEGENDARY",
+  "soulbound": "COOP",
+  "stats": {
+    "DEFENSE": 353,
+    "HEALTH": 668,
+    "INTELLIGENCE": 13
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "can_have_attributes": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 30000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 35000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 41000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 48000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 56000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 65500
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 76000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 89000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 105000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 120000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 140000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 6
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 165000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 7
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 192000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 8
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 225000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 9
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 265000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 10
+      }
+    ]
+  ],
+  "id": "INFERNAL_FERVOR_CHESTPLATE",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "text": "Tiered Bonus: Fervor (0/4)",
+      "color": "dark_gray"
+    },
+    {
+      "text": "Blocking damage with your sword grants",
+      "color": "gray"
+    },
+    {
+      "text": "you ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "1 ",
+          "color": "red"
+        },
+        {
+          "text": "stack of ",
+          "color": "gray"
+        },
+        {
+          "text": "Fervor \u0489",
+          "color": "gold"
+        },
+        {
+          "text": ".",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Each ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "Fervor \u0489 ",
+          "color": "gold"
+        },
+        {
+          "text": "stack reduces incoming",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "damage by ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "10%",
+          "color": "red"
+        },
+        {
+          "text": " (50% max).",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "",
+      "color": "gray"
+    },
+    {
+      "text": "At ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "5 ",
+          "color": "red"
+        },
+        {
+          "text": "stacks ",
+          "color": "gray"
+        },
+        {
+          "text": "taunt ",
+          "color": "light_purple"
+        },
+        {
+          "text": "enemies when",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "you are hit (5s cd) and gain ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "3.0%",
+          "color": "light_purple"
+        }
+      ]
+    },
+    {
+      "text": "damage reduction.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Lose 1 stack after ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "4s ",
+          "color": "red"
+        },
+        {
+          "text": "of not gaining",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "a stack.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "can_be_reforged": true
+}

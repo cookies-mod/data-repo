@@ -1,0 +1,72 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NjM5ODE2MjkxODksInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83OTk0YmUzZGNmYmI0ZWQwYTVhNzQ5NWI3MzM1YWYxYTNjZWQwYjU4ODhiNTAwNzI4NmE3OTA3NjdjM2I1N2U2In19fQ\u003d\u003d",
+  "name": "End Stone Minion I",
+  "generator": "ENDER_STONE",
+  "generator_tier": 1,
+  "tier": "RARE",
+  "id": "ENDER_STONE_GENERATOR_1",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and mining end",
+      "color": "gray"
+    },
+    {
+      "text": "stone! Requires an open area to",
+      "color": "gray"
+    },
+    {
+      "text": "place end stone. Minions also",
+      "color": "gray"
+    },
+    {
+      "text": "work when you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "26",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "64",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

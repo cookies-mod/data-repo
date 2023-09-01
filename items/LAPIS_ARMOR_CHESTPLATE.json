@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "0,0,255",
+  "name": "Lapis Armor Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 40
+  },
+  "npc_sell_price": 2000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "MINING",
+      "level": 5
+    }
+  ],
+  "id": "LAPIS_ARMOR_CHESTPLATE"
+}

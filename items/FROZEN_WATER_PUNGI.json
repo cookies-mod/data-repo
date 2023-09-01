@@ -1,0 +1,17 @@
+{
+  "material": "SPIDER_EYE",
+  "name": "Frozen Water Pungi",
+  "tier": "EPIC",
+  "origin": "RIFT",
+  "motes_sell_price": 10,
+  "unstackable": true,
+  "id": "FROZEN_WATER_PUNGI",
+  "description": [
+    {"text":""},
+    {"text":"Ability: Snake Taming ","color":"gold","extra":[{"text":"HOLD RIGHT CLICK","color":"yellow","bold":true}]},
+    {"text":"Aim at a ","color":"gray","extra":[{"text":"Living Metal Snake","color":"blue"}]},
+    {"text":"to deeply calm it, allowing","color":"gray"},
+    {"text":"another player ","color":"yellow","extra":[{"text":"to mine it.","color":"gray"}]},
+    {"text":""}
+  ]
+}

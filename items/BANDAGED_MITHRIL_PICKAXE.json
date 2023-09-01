@@ -1,0 +1,20 @@
+{
+  "material": "STONE_PICKAXE",
+  "name": "Bandaged Mithril Pickaxe",
+  "glowing": true,
+  "category": "PICKAXE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "BREAKING_POWER": 5,
+    "DAMAGE": 30,
+    "MINING_SPEED": 250
+  },
+  "npc_sell_price": 500,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 2
+    }
+  ],
+  "id": "BANDAGED_MITHRIL_PICKAXE"
+}

@@ -1,0 +1,62 @@
+{
+  "material": "IRON_HOE",
+  "name": "Frozen Scythe",
+  "category": "SWORD",
+  "sword_type": "SCYTHE",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 80,
+    "WEAPON_ABILITY_DAMAGE": 1000
+  },
+  "ability_damage_scaling": 0.3,
+  "npc_sell_price": 100,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "ICE",
+    "amount": 50
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 15
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 30
+      }
+    ]
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 10
+    }
+  ],
+  "id": "FROZEN_SCYTHE"
+}

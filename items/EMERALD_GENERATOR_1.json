@@ -1,0 +1,76 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5MTk1MjU2MTUsInByb2ZpbGVJZCI6ImRkZWQ1NmUxZWY4YjQwZmU4YWQxNjI5MjBmN2FlY2RhIiwicHJvZmlsZU5hbWUiOiJEaXNjb3JkQXBwIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YmY1N2YzNDAxYjEzMGM2YjUzODA4ZjJiMWUxMTljYzdiOTg0NjIyZGFjNzA3N2JiZDUzNDU0ZTFmNjViYmYwIn19fQ\u003d\u003d",
+  "name": "Emerald Minion I",
+  "generator": "EMERALD",
+  "generator_tier": 1,
+  "tier": "RARE",
+  "id": "EMERALD_GENERATOR_1",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and mining",
+      "color": "gray"
+    },
+    {
+      "text": "emerald ore! Requires an open",
+      "color": "gray"
+    },
+    {
+      "text": "area to place emerald ore.",
+      "color": "gray"
+    },
+    {
+      "text": "Minions also work when you are",
+      "color": "gray"
+    },
+    {
+      "text": "offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "28",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "64",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

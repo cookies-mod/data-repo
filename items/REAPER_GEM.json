@@ -1,0 +1,11 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmIwNTVjODEwYmRkZmQxNjI2NGVjOGQ0MzljNDMyODNlMzViY2E3MWE1MDk4M2UxNWUzNjRjZDhhYjdjNjY4ZiJ9fX0",
+  "name": "Reaper Gem",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "tier": "LEGENDARY",
+  "soulbound": "COOP",
+  "id": "REAPER_GEM"
+}

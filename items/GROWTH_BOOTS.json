@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "0,190,0",
+  "name": "Boots of Growth",
+  "category": "BOOTS",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 25,
+    "HEALTH": 50
+  },
+  "npc_sell_price": 40000,
+  "id": "GROWTH_BOOTS"
+}

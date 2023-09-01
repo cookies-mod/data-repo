@@ -1,0 +1,9 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "255,10,10",
+  "name": "Minos Hunter Leggings",
+  "category": "LEGGINGS",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 50,
+  "id": "MINOS_HUNTER_LEGGINGS"
+}

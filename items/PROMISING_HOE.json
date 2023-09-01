@@ -1,0 +1,21 @@
+{
+  "material": "IRON_HOE",
+  "name": "Promising Hoe",
+  "category": "HOE",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 10,
+  "museum": true,
+  "id": "PROMISING_HOE",
+  "description": [
+    {"text":"Automatically replants seeds","color":"gray"},
+    {"text":"after harvesting wheat! The more","color":"gray"},
+    {"text":"wheat that's harvested using","color":"gray"},
+    {"text":"this item, the greater the","color":"gray"},
+    {"text":"chance that the wheat will be","color":"gray"},
+    {"text":"regrown.","color":"gray"},
+    {"text":""},
+    {"text":"Wheat Harvested: ","color":"gray","extra":[{"text":"0","color":"green"}]},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

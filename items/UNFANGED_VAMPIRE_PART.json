@@ -1,0 +1,11 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE4ODNlYjVlNDdjZWVlZDAyMDYzZmI4ZWMwZjc1ODQ3MTdhYzhjNzk1MjFhZTMyY2YwNjA2ZWJjZjc0MGU3MCJ9fX0\u003d",
+  "name": "Unfanged Vampire Part",
+  "tier": "LEGENDARY",
+  "origin": "RIFT",
+  "motes_sell_price": 50000,
+  "lose_motes_value_on_transfer": true,
+  "id": "UNFANGED_VAMPIRE_PART"
+}

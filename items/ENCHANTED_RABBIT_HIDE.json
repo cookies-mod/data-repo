@@ -1,0 +1,8 @@
+{
+  "material": "RABBIT_HIDE",
+  "name": "Enchanted Rabbit Hide",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 2880,
+  "id": "ENCHANTED_RABBIT_HIDE"
+}

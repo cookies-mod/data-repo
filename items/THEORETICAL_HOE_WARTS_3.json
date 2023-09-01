@@ -1,0 +1,44 @@
+{
+  "material": "DIAMOND_HOE",
+  "name": "Newton Nether Warts Hoe",
+  "category": "HOE",
+  "tier": "RARE",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 25
+    }
+  ],
+  "id": "THEORETICAL_HOE_WARTS_3",
+  "can_be_reforged": true,
+  "description": [
+    {"text":"Gain ","color":"gray","extra":[{"text":"+10\u2618 Farming Fortune","color":"gold"}]},
+    {"text":"and ","color":"gray","extra":[{"text":"+1\u262f Farming Wisdom ","color":"dark_aqua"},{"text":"for","color":"gray"}]},
+    {"text":"nether warts.","color":"gray"},
+    {"text":""},
+    {"text":"Counter: ","color":"gray","extra":[{"text":"0 Nether Warts","color":"yellow"}]},
+    {"text":""},
+    {"text":"Logarithmic Counter","color":"gold"},
+    {"text":"Gain ","color":"gray","extra":[{"text":"+16\u2618 Farming Fortune","color":"gold"}]},
+    {"text":"for nether warts per digits on","color":"gray"},
+    {"text":"the Counter, minus 4!","color":"gray"},
+    {"text":"You have ","color":"gray","extra":[{"text":"+0\u2618 Farming Fortune","color":"gold"}]},
+    {"text":"for nether warts.","color":"gray"},
+    {"text":""},
+    {"text":"Collection Analysis","color":"gold"},
+    {"text":"Gain ","color":"gray","extra":[{"text":"+8\u2618 Farming Fortune ","color":"gold"},{"text":"for","color":"gray"}]},
+    {"text":"nether warts per digits of your","color":"gray"},
+    {"text":"collection, minus 4!","color":"gray"},
+    {"text":"You have ","color":"gray","extra":[{"text":"+0\u2618 Farming Fortune","color":"gold"}]},
+    {"text":"for nether warts.","color":"gray"},
+    {"text":""},
+    {"text":"Bonus nether warts percent","color":"dark_gray"},
+    {"text":"increases your Farmhand perk's","color":"dark_gray"},
+    {"text":"chances","color":"dark_gray"},
+    {"text":""},
+    {"text":"Reach 100k Counter for +1 Rarity!","color":"yellow"},
+    {"text":""}
+
+  ]
+}

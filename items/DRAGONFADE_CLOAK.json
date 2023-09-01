@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NTY3MDkzNzk5NSwKICAicHJvZmlsZUlkIiA6ICI3MmY5MTdjNWQyNDU0OTk0YjlmYzQ1YjVhM2YyMjIzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGF0X0d1eV9Jc19NZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jODBjODRkMjFmOTk2Mjc1NzZiZGFmZmI3MzM0YmU4ZmFhMWY2MjhlNTRiNWRjZjY2NGVlNmFlMDhkMDFkYzZlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+  "name": "Dragonfade Cloak",
+  "category": "CLOAK",
+  "tier": "EPIC",
+  "npc_sell_price": 5000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 15
+    }
+  ],
+  "stats": {
+    "HEALTH": 30,
+    "DEFENSE": 5,
+    "strength": 5
+  },
+  "id": "DRAGONFADE_CLOAK"
+}

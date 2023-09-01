@@ -1,0 +1,19 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Recluse Fang",
+  "category": "SWORD",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 120,
+    "STRENGTH": 30,
+    "CRITICAL_DAMAGE": 20
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "spider",
+      "level": 2
+    }
+  ],
+  "id": "RECLUSE_FANG"
+}

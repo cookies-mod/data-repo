@@ -1,0 +1,79 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzODk3MzM4ODE1OSwKICAicHJvZmlsZUlkIiA6ICJhYjlkYmMzZjk4NGE0ZWI4YTVmY2RlYWMzNzEzZWFkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDeWJvcm51dDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDIyOTBkOTU2NGE1YTU3MDIyNjAxMjhmZThmNTY1MzJjZGVlMWYxNWVmOTlmMThiMTUyOGUyZWMxNzcxOTk0NiIKICAgIH0KICB9Cn0",
+  "name": "Mycelium Minion XII",
+  "generator": "MYCELIUM",
+  "generator_tier": 12,
+  "tier": "RARE",
+  "requirements": [
+    {
+      "type": "CRIMSON_ISLE_REPUTATION",
+      "faction": "MAGES",
+      "reputation": 12000
+    }
+  ],
+  "id": "MYCELIUM_GENERATOR_12",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and mining",
+      "color": "gray"
+    },
+    {
+      "text": "mycelium! Requires an open area",
+      "color": "gray"
+    },
+    {
+      "text": "to place mycelium. Minions also",
+      "color": "gray"
+    },
+    {
+      "text": "work when you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "11",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "960",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

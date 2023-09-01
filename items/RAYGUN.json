@@ -1,0 +1,13 @@
+{
+  "material": "BOW",
+  "enchantments": {
+    "power": 50
+  },
+  "name": "Raygun",
+  "category": "BOW",
+  "tier": "UNOBTAINABLE",
+  "stats": {
+    "DAMAGE": 99999999
+  },
+  "id": "RAYGUN"
+}

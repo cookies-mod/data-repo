@@ -1,0 +1,9 @@
+{
+  "material": "DOUBLE_PLANT",
+  "durability": 3,
+  "name": "Lush Berberis",
+  "tier": "UNCOMMON",
+  "description": "A wonderful plant!",
+  "npc_sell_price": 3,
+  "id": "LUSH_BERBERIS"
+}

@@ -1,0 +1,11 @@
+{
+  "material": "DIAMOND_LEGGINGS",
+  "name": "Diamond Leggings",
+  "category": "LEGGINGS",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 30
+  },
+  "npc_sell_price": 28,
+  "id": "DIAMOND_LEGGINGS"
+}

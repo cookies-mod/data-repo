@@ -1,0 +1,72 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NzY1MTMxOTQ4MDUsInByb2ZpbGVJZCI6ImRlNTcxYTEwMmNiODQ4ODA4ZmU3YzlmNDQ5NmVjZGFkIiwicHJvZmlsZU5hbWUiOiJNSEZfTWluZXNraW4iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2ZDE4MDY4NGMzNTIxYzlmYzg5NDc4YmE0NDA1YWU5Y2U0OTdkYTgxMjRmYTBkYTVhMDEyNjQzMWM0Yjc4YzMifX19",
+  "name": "Snow Minion I",
+  "generator": "SNOW",
+  "generator_tier": 1,
+  "tier": "RARE",
+  "id": "SNOW_GENERATOR_1",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and shovelling",
+      "color": "gray"
+    },
+    {
+      "text": "snow! Requires an open area to",
+      "color": "gray"
+    },
+    {
+      "text": "place snow. Minions also work",
+      "color": "gray"
+    },
+    {
+      "text": "when you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "13",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "64",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

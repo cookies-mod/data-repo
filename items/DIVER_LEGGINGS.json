@@ -1,0 +1,19 @@
+{
+  "material": "GOLD_LEGGINGS",
+  "name": "Diver\u0027s Trunks",
+  "category": "LEGGINGS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 170,
+    "HEALTH": 75
+  },
+  "npc_sell_price": 15000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 20
+    }
+  ],
+  "id": "DIVER_LEGGINGS"
+}

@@ -1,0 +1,14 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NzUzMDE2MDgyNzUsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I1OTAyMDdhZWVhMmQ4ZmM4MDE5NGYyYTEwOWY1YjE5OTljOTFlYmQzNzdkZmYwMWI5ZTdlYmUwOTFhM2E0MTkifX19",
+  "name": "Broken Piggy Bank",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 16000,
+  "id": "BROKEN_PIGGY_BANK",
+  "description": [
+    {"text":"It broke!","color":"gray"},
+    {"text":""}
+  ]
+}

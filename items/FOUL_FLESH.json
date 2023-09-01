@@ -1,0 +1,8 @@
+{
+  "material": "COAL",
+  "durability": 1,
+  "name": "Foul Flesh",
+  "tier": "RARE",
+  "npc_sell_price": 25000,
+  "id": "FOUL_FLESH"
+}

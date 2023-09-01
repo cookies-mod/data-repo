@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "255,0,0",
+  "name": "Mushroom Leggings",
+  "category": "LEGGINGS",
+  "stats": {
+    "DEFENSE": 5,
+    "HEALTH": 10
+  },
+  "npc_sell_price": 14,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 7
+    }
+  ],
+  "id": "MUSHROOM_LEGGINGS"
+}

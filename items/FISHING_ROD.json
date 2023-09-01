@@ -1,0 +1,12 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Fishing Rod",
+  "category": "FISHING_ROD",
+  "stats": {
+    "DAMAGE": 10,
+    "STRENGTH": 5
+  },
+  "npc_sell_price": 2,
+  "motes_sell_price": 105,
+  "id": "FISHING_ROD"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "WATER_BUCKET",
+  "name": "Plumber\u0027s Bucket",
+  "tier": "UNCOMMON",
+  "origin": "RIFT",
+  "unstackable": true,
+  "id": "RIFT_BUCKET"
+}

@@ -1,0 +1,9 @@
+{
+  "material": "DROPPER",
+  "name": "Personal Compactor 6000",
+  "glowing": true,
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "PERSONAL_COMPACTOR_6000"
+}

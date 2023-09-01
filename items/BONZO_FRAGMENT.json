@@ -1,0 +1,8 @@
+{
+  "material": "RED_MUSHROOM",
+  "name": "Bonzo Fragment",
+  "glowing": true,
+  "tier": "RARE",
+  "dungeon_item": true,
+  "id": "BONZO_FRAGMENT"
+}

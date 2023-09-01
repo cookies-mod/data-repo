@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjExYWIzYTExMzJjOWQxZWY4MzVlYTgxZDk3MmVkOWI1Y2Q4ZGRmZjBhMDdjNTVhNzQ5YmNmY2Y4ZGY1In19fQ\u003d\u003d",
+  "name": "Scavenger Talisman",
+  "category": "ACCESSORY",
+  "npc_sell_price": 200,
+  "id": "SCAVENGER_TALISMAN"
+}

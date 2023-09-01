@@ -1,0 +1,34 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "179,179,179",
+  "name": "Heat Helmet",
+  "category": "HELMET",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 20,
+    "HEALTH": 20,
+    "MINING_FORTUNE": 5,
+    "MINING_SPEED": 10
+  },
+  "requirements": [
+    {
+      "type": "COLLECTION",
+      "collection": "HARD_STONE",
+      "tier": 2
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "RUBY"
+    }
+  ],
+  "id": "HEAT_HELMET",
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Heat Resistance","color":"gold"},
+    {"text":"Grants ","color":"gray","extra":[{"text":"2x ","color":"green"}]},
+    {"text":"increase in ","color":"gray","extra":[{"text":"Magma Fields","color":"red"},{"text":".","color":"gray"}]},
+    {"text":""}
+  ],
+  "can_be_reforged": true
+}

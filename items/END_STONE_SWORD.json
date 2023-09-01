@@ -1,0 +1,25 @@
+{
+  "material": "GOLDEN_SWORD",
+  "name": "End Stone Sword",
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 120,
+    "STRENGTH": 80
+  },
+  "npc_sell_price": 20480,
+  "id": "END_STONE_SWORD",
+  "can_be_reforged":true,
+  "description": [
+    {"text":""},
+    {"text":"Ability: Extreme Focus ","color":"gold","extra":[{"text":" RIGHT CLICK","color":"yellow","bold":true}]},
+    {"text":"Consumes all your remaining mana","color":"gray"},
+    {"text":"to grant Damage Resistance for","color":"gray"},
+    {"text":"5","color":"green","extra":[{"text":" seconds and extra damage","color":"gray"}]},
+    {"text":"on your next hit (within 5","color":"gray"},
+    {"text":"seconds) depending on how much","color":"gray"},
+    {"text":"mana was consumed!","color":"gray"},
+    {"text":"Mana Cost: ","color":"dark_gray","extra":[{"text":"20","color":"dark_aqua"}]},
+    {"text":""}
+  ]
+}

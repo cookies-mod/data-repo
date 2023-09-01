@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "0,0,255",
+  "name": "Lapis Armor Leggings",
+  "category": "LEGGINGS",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 35
+  },
+  "npc_sell_price": 1750,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "MINING",
+      "level": 5
+    }
+  ],
+  "id": "LAPIS_ARMOR_LEGGINGS"
+}

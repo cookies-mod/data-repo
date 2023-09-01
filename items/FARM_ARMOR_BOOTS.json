@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "255,215,0",
+  "name": "Farm Armor Boots",
+  "category": "BOOTS",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 35,
+    "HEALTH": 20,
+    "FARMING_FORTUNE": 10
+  },
+  "npc_sell_price": 2500,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 10
+    }
+  ],
+  "id": "FARM_ARMOR_BOOTS"
+}

@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "88,137,12",
+  "name": "Fermento Chestplate",
+  "tier": "LEGENDARY",
+  "category": "CHESTPLATE",
+  "stats": {
+    "FARMING_FORTUNE": 35,
+    "walk_speed": 6,
+    "health": 195,
+    "defense": 40
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 40
+    }
+  ],
+  "id": "FERMENTO_CHESTPLATE"
+}

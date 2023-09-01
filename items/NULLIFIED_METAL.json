@@ -1,0 +1,9 @@
+{
+  "material": "CARPET",
+  "durability": 11,
+  "name": "Nullified Metal",
+  "tier": "UNCOMMON",
+  "origin": "RIFT",
+  "motes_sell_price": 100,
+  "id": "NULLIFIED_METAL"
+}

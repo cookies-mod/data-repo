@@ -1,0 +1,14 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWIxNWNlODIzNzcwZDlhMjY5YzFlYmY1ODNkM2U0OTMyNzQ3YTEzZWY0MzYxM2NkNGY3NWY4MDRjYTQifX19",
+  "name": "Harmonious Surgery Toolkit",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "origin": "RIFT",
+  "stats": {
+    "rift_walk_speed": 2,
+    "rift_time": 10
+  },
+  "id": "HARMONIOUS_SURGERY_TOOLKIT"
+}

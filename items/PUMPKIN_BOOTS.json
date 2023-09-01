@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "237,170,54",
+  "name": "Pumpkin Boots",
+  "category": "BOOTS",
+  "stats": {
+    "DEFENSE": 8,
+    "HEALTH": 8
+  },
+  "npc_sell_price": 8,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 2
+    }
+  ],
+  "id": "PUMPKIN_BOOTS"
+}

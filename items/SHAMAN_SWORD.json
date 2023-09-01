@@ -1,0 +1,19 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Shaman Sword",
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "WALK_SPEED": 5,
+    "DAMAGE": 100,
+    "STRENGTH": 20
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "wolf",
+      "level": 3
+    }
+  ],
+  "id": "SHAMAN_SWORD"
+}

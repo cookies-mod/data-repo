@@ -1,0 +1,17 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWI4ZjIxZWRiNzExNjkwODBjMGRkNDI5MzVlZTAwMjQyYzhjYzliYjkxNjU5YWI3MDA0ODlhZjliN2M1OGUxNyJ9fX0\u003d",
+  "name": "Ember Fragment",
+  "tier": "RARE",
+  "id": "EMBER_FRAGMENT",
+  "description": [
+    {"text": "Material Extracted from the", "color": "gray"},
+    {"text": "heart of giant Magma Cubes. It", "color": "gray"},
+    {"text": "can be used to craft powerful", "color": "gray"},
+    {"text": "items.", "color": "gray"},
+    {"text": ""},
+    {"text": "!! This item is currently unobtainable besides trading with players !!", "color": "red"},
+    {"text": ""}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "material": "PRISMARINE_SHARD",
+  "name": "Prismarine Blade",
+  "category": "SWORD",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 50,
+    "STRENGTH": 25
+  },
+  "npc_sell_price": 160,
+  "id": "PRISMARINE_BLADE"
+}

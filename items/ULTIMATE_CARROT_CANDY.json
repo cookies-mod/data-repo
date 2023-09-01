@@ -1,0 +1,8 @@
+{
+  "material": "GOLDEN_CARROT",
+  "name": "Ultimate Carrot Candy",
+  "glowing": true,
+  "tier": "LEGENDARY",
+  "npc_sell_price": 1,
+  "id": "ULTIMATE_CARROT_CANDY"
+}

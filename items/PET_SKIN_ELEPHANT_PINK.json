@@ -1,0 +1,57 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTQwMTEyOTc5NSwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3MGVlZjQ3NGVjMGU1NmNjMzRjMjMwN2VhYTM5ZjAyNDYxMmY4Y2Q3MjQ4ZTdkNWIxNDE2OWViZDMwN2M3NDIiCiAgICB9CiAgfQp9",
+  "name": "PinkElephant",
+  "category": "COSMETIC",
+  "tier": "RARE",
+  "unstackable": true,
+  "museum": true,
+  "id": "PET_SKIN_ELEPHANT_PINK",
+  "description": [
+    {
+      "text": "Consumed on use",
+      "color": "dark_gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Pet skins change the look and",
+      "color": "gray"
+    },
+    {
+      "text": "particle trail of your pet but",
+      "color": "gray"
+    },
+    {
+      "text": "only one skin can be active at a",
+      "color": "gray"
+    },
+    {
+      "text": "time!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "This skin can only be applied",
+      "color": "gray"
+    },
+    {
+      "text": "to Rabbit pets.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "This skin is animated!",
+      "color": "green"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

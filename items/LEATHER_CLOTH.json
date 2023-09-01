@@ -1,0 +1,10 @@
+{
+  "material": "LEATHER",
+  "name": "Leather Cloth",
+  "tier": "EPIC",
+  "glowing": true,
+  "soulbound": "COOP",
+  "description": "%%gray%%%%italic%%The origin of that leather is a well kept secret.",
+  "npc_sell_price": 500,
+  "id": "LEATHER_CLOTH"
+}

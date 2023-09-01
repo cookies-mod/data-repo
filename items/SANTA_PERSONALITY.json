@@ -1,0 +1,43 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NzQ1NjU2Njc0MDgsInByb2ZpbGVJZCI6IjIzZjFhNTlmNDY5YjQzZGRiZGI1MzdiZmVjMTA0NzFmIiwicHJvZmlsZU5hbWUiOiIyODA3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMTc4YWUwM2Q4NDIyN2YyMWZhMjM2ODJkOWM2MjAxMzEwMDBmZmI3NjczMzk1NTMzYjI3NDBmYTgzYWIxMDM3In19fQ\u003d\u003d",
+  "name": "Santa Minion Skin",
+  "category": "COSMETIC",
+  "museum": true,
+  "id": "SANTA_PERSONALITY",
+  "description": [
+    {
+      "text": "This Minion skin changes your",
+      "color": "gray"
+    },
+    {
+      "text": "minion\u0027s appearance to a",
+      "color": "gray",
+      "extra": [
+        {
+          "text": " Santa",
+          "color": "yellow"
+        },
+        {
+          "text": ".",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "You can place this item in any",
+      "color": "gray"
+    },
+    {
+      "text": "minion of your choice!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2EwNjM3Nzc4YmRjYTE4MjRmZjI3NTA2MDNhZWY2MmU5YzkzMTA4OGY0YzdhNTFjMDkwMmVkZDU5NmE3NDZkZSJ9fX0\u003d",
+  "name": "Blobfish Hat",
+  "category": "HELMET",
+  "tier": "UNCOMMON",
+  "stats": {
+    "STRENGTH": 25,
+    "INTELLIGENCE": -10
+  },
+  "npc_sell_price": 25,
+  "museum": true,
+  "id": "BLOBFISH_HAT"
+}

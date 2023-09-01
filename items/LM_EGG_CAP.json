@@ -1,0 +1,9 @@
+{
+  "material": "MONSTER_EGG",
+  "durability": 94,
+  "name": "Living Metal Capspawn",
+  "tier": "RARE",
+  "origin": "RIFT",
+  "motes_sell_price": 100,
+  "id": "LM_EGG_CAP"
+}

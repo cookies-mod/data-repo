@@ -1,0 +1,32 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTc1MzA0Mzc5NiwKICAicHJvZmlsZUlkIiA6ICI0ODBkMmFiMmY1ZTk0OWQ0YWM2Mzk0NDdmNjIzYTYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIb3RhbXBhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJiMTVjODY0NWJiYWJjNDIzNTIzNTBiMWM5ZDg0YWY3MTk2NmM0YzU2YTg2ZDAzYWNkMDc5ZWQ1N2YzZWFkM2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ",
+  "name": "Artifact of Power",
+  "category": "ACCESSORY",
+  "tier": "RARE",
+  "gemstone_slots": [
+    {
+      "slot_type": "JADE"
+    },
+    {
+      "slot_type": "AMBER"
+    },
+    {
+      "slot_type": "TOPAZ"
+    },
+    {
+      "slot_type": "SAPPHIRE"
+    },
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "JASPER"
+    },
+    {
+      "slot_type": "RUBY"
+    }
+  ],
+  "id": "POWER_ARTIFACT"
+}

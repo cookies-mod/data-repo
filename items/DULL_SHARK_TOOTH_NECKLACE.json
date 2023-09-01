@@ -1,0 +1,12 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5ODI1MjgyMDkwNywKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mM2FiM2FhMWFkZTc0OTE1ZGFjZDI5ODYxMzkwNDM2MWMxODg3N2VlYmZhODFkOWY5MzYzMDlmMjcxZTEzODlhIgogICAgfQogIH0KfQ",
+  "name": "Dull Shark Tooth Necklace",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "stats": {
+    "STRENGTH": 4
+  },
+  "id": "DULL_SHARK_TOOTH_NECKLACE"
+}

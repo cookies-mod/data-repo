@@ -1,0 +1,10 @@
+{
+  "material": "BOW",
+  "item_durability": -1,
+  "name": "Stun Bow",
+  "category": "BOW",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1,
+  "dungeon_item": true,
+  "id": "ARCHER_DUNGEON_ABILITY_2"
+}

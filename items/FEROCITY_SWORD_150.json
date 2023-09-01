@@ -1,0 +1,11 @@
+{
+  "material": "GOLD_SWORD",
+  "name": "Ferocity Sword 150",
+  "category": "SWORD",
+  "tier": "UNOBTAINABLE",
+  "stats": {
+    "DAMAGE": 10,
+    "FEROCITY": 150
+  },
+  "id": "FEROCITY_SWORD_150"
+}

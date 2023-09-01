@@ -1,0 +1,76 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNzc3OTYxNzA4MCwKICAicHJvZmlsZUlkIiA6ICI0NWY3YTJlNjE3ODE0YjJjODAwODM5MmRmN2IzNWY0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSnVzdERvSXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2E2MWQxNGRiYWVkYzNlNzU4ZjZmYzNiN2M1ZTdkZjJiNWIxMWNiMDI3ZmM0MzUxMjI2ZDM5Y2JmNTY5NTkyOCIKICAgIH0KICB9Cn0",
+  "name": "Mithril Minion IV",
+  "generator": "MITHRIL",
+  "generator_tier": 4,
+  "tier": "RARE",
+  "id": "MITHRIL_GENERATOR_4",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and mining",
+      "color": "gray"
+    },
+    {
+      "text": "mithril ore! Requires an open",
+      "color": "gray"
+    },
+    {
+      "text": "area to place mithril ore.",
+      "color": "gray"
+    },
+    {
+      "text": "Minions also work when you are",
+      "color": "gray"
+    },
+    {
+      "text": "offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "75",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "384",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTg0OTczMDgzOSwKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY2M2U4MWVmYzAzMTBiN2RhYjJiMWYzZjc4NjFmNmNkZmZhMzZjNDNmOTVhZjc4MDhhM2U3MWViYTc2YzgyYyIKICAgIH0KICB9Cn0\u003d",
+  "name": "Ghost Minion Skin",
+  "category": "COSMETIC",
+  "museum": true,
+  "id": "GHOST_PERSONALITY",
+  "description": [
+    {
+      "text": "This Minion skin changes your",
+      "color": "gray"
+    },
+    {
+      "text": "minion\u0027s appearance to a",
+      "color": "gray",
+      "extra": [
+        {
+          "text": " Ghost",
+          "color": "yellow"
+        },
+        {
+          "text": ".",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "You can place this item in any",
+      "color": "gray"
+    },
+    {
+      "text": "minion of your choice!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

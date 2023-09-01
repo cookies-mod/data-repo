@@ -1,0 +1,25 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzM4NTU1MjgyNiwKICAicHJvZmlsZUlkIiA6ICJhZjQwMzQxMTk1YTg0ZDcwODFkNWNmNDE3MDM5ODJmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdHJ4dSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZjM1MTBjMDg2YmNmZGJiNmNkNWM3YTk5ZDMzNGYzZTNkMmJiNThiZDEwOWIyOGRiZDE4MWEzODQ3MWE3OTk2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+  "name": "Pelt Belt",
+  "category": "BELT",
+  "tier": "EPIC",
+  "stats": {
+    "farming_wisdom": 1
+  },
+  "item_specific": {
+    "speed_on_farming_island": 30,
+    "extra_pelts": 1
+  },
+  "id": "PELT_BELT",
+  "description": [
+    {"text":""},
+    {"text":"Gain ","color":"gray","extra":[{"text":"+30\u2726 Speed ","color":"white"},{"text":"while in","color":"gray"}]},
+    {"text":"the ","color":"gray","extra":[{"text":"Mushroom Desert","color":"yellow"},{"text":".","color":"gray"}]},
+    {"text":"Earn ","color":"gray","extra":[{"text":"+1 pelt ","color":"dark_purple"},{"text":"from tracker","color":"gray"}]},
+    {"text":"quests.","color":"gray"},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

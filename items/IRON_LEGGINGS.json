@@ -1,0 +1,10 @@
+{
+  "material": "IRON_LEGGINGS",
+  "name": "Iron Leggings",
+  "category": "LEGGINGS",
+  "stats": {
+    "DEFENSE": 25
+  },
+  "npc_sell_price": 10,
+  "id": "IRON_LEGGINGS"
+}

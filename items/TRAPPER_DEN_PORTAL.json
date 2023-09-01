@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODI2MzEwNDI4NywKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjEwMmY4MjE0ODQ2MWNlZDFmN2I2MmUzMjZlYjJkYjNhOTRhMzNjYmE4MWQ0MjgxNDUyYWY0ZDhhZWNhNDk5MSIKICAgIH0KICB9Cn0\u003d",
+  "name": "Portal to the Trapper\u0027s Den",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Trapper\u0027s Den",
+      "description_name": "%%gray%%the %%aqua%%Trapper\u0027s Den",
+      "destination_mode": "farming_1",
+      "schematic_file": "sb_portal_farming_1",
+      "location_tag": "trappers_den",
+      "offset": "NEW",
+      "skill_requirement": {
+        "skill": "MINING",
+        "level": 12
+      }
+    }
+  },
+  "id": "TRAPPER_DEN_PORTAL"
+}

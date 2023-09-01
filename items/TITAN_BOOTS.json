@@ -1,0 +1,16 @@
+{
+  "material": "DIAMOND_BOOTS",
+  "name": "Titan\u0027s Boots",
+  "category": "BOOTS",
+  "tier": "ADMIN",
+  "can_be_reforged": true,
+  "soulbound": "SOLO",
+  "stats": {
+    "DEFENSE": 100,
+    "HEALTH": 100,
+    "STRENGTH": 10,
+    "INTELLIGENCE": 50
+  },
+  "npc_sell_price": 50000,
+  "id": "TITAN_BOOTS"
+}

@@ -1,0 +1,11 @@
+{
+  "material": "CHAINMAIL_CHESTPLATE",
+  "name": "Wyld Chain Top",
+  "category": "CHESTPLATE",
+  "tier": "UNCOMMON",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_TIME": 15
+  },
+  "id": "WYLD_CHESTPLATE"
+}

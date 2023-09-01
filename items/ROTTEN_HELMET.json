@@ -1,0 +1,98 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "158,112,3",
+  "name": "Rotten Helmet",
+  "category": "HELMET",
+  "tier": "RARE",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "HEALTH": [
+      70,
+      76,
+      83,
+      90,
+      99,
+      108,
+      118,
+      128,
+      139,
+      152
+    ],
+    "STRENGTH": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      17,
+      18,
+      20,
+      22
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 160
+      }
+    ]
+  ],
+  "gear_score": 5,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 1
+    }
+  ],
+  "dungeon_item": true,
+  "id": "ROTTEN_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {"text":""},
+    {"text":"This rotten piece of armor","color":"gray"},
+    {"text":"grants ","color":"gray","extra":[{"text":"15% ","color":"yellow"},{"text":"knockback","color":"gray"}]},
+    {"text":"resistance to arrows per piece","color":"gray"},
+    {"text":"worn.","color":"gray"},
+    {"text":""},
+    {"text":"Full Set Bonus: Sieve Body","color":"gold"},
+    {"text":"Gain an additional ","color":"gray","extra":[{"text":"20%","color":"yellow"}]},
+    {"text":"knockback resistance to","color":"gray"},
+    {"text":"arrows.","color":"gray"},
+    {"text":""},
+    {"text":"This armor piece is undead \u0f15!","color":"dark_green"},
+    {"text":""},
+    {"text":"Perfect 35000 / 35000","color":"green"}
+  ]
+}

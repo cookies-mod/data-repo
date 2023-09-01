@@ -1,0 +1,12 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Sword of the Multiverse",
+  "category": "SWORD",
+  "tier": "UNOBTAINABLE",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_DAMAGE": 99999999
+  },
+  "id": "SWORD_OF_THE_MULTIVERSE",
+  "soulbound":"SOLO"
+}

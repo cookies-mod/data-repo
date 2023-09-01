@@ -1,0 +1,9 @@
+{
+  "material": "ENDER_PEARL",
+  "name": "Spirit Leap",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 100,
+  "dungeon_item": true,
+  "id": "SPIRIT_LEAP"
+}

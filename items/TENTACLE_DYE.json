@@ -1,0 +1,8 @@
+{
+  "material": "INK_SACK",
+  "durability": 12,
+  "name": "Tentacle Dye",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "TENTACLE_DYE"
+}

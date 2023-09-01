@@ -1,0 +1,17 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "203,210,219",
+  "name": "Rabbit Leggings",
+  "category": "LEGGINGS",
+  "stats": {
+    "FARMING_FORTUNE": 15
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 15
+    }
+  ],
+  "id": "RABBIT_LEGGINGS"
+}

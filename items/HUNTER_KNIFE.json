@@ -1,0 +1,12 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Hunter Knife",
+  "category": "SWORD",
+  "tier": "UNCOMMON",
+  "stats": {
+    "WALK_SPEED": 40,
+    "DAMAGE": 50
+  },
+  "soulbound": "COOP",
+  "id": "HUNTER_KNIFE"
+}

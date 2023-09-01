@@ -1,0 +1,21 @@
+{
+  "material": "IRON_LEGGINGS",
+  "name": "Golem Armor Leggings",
+  "category": "LEGGINGS",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 75,
+    "HEALTH": 55
+  },
+  "npc_sell_price": 16800,
+  "id": "GOLEM_ARMOR_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Absorption","color":"gold"},
+    {"text":"Grants the wearer ","color":"gray","extra":[{"text":"Absorption","color":"green"}]},
+    {"text":"3","color":"green","extra":[{"text":" for ","color":"gray"},{"text":"20 seconds","color":"green"},{"text":" when they","color":"gray"}]},
+    {"text":"kill an enemy.","color":"gray"},
+    {"text":""}
+  ]
+}

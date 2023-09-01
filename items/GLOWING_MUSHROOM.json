@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MTg2ODAwNTAzNywKICAicHJvZmlsZUlkIiA6ICJjNTZlMjI0MmNiZWY0MWE2ODdlMzI2MGRjMGNmOTM2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMSlI3MzEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MmIwOWMyODllNzQ2MTQyYzFkOGQzYWY4OGU5MjMxZDdmNDk0ZmI2NTM4NzdjMjYxNzJmMjc0ZWVlNDYxODdmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+  "name": "Glowing Mushroom",
+  "tier": "UNCOMMON",
+  "description": "Did you hear the joke about fungus? You won\u0027t like it, but it will grow on you.",
+  "id": "GLOWING_MUSHROOM"
+}

@@ -1,0 +1,21 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwODMxNDY5NDY2OSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmIyMGIyM2MxYWEyYmUwMjcwZjAxNmI0YzkwZDZlZTZiODMzMGExN2NmZWY4Nzg2OWQ2YWQ2MGIyZmZiZjNiNSIKICAgIH0KICB9Cn0\u003d",
+  "name": "Portal to the Dwarven Mines",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Dwarven Mines",
+      "description_name": "%%gray%%the %%dark_green%%Dwarven Mines",
+      "destination_mode": "mining_3",
+      "schematic_file": "sb_portal_mining_3",
+      "offset": "NEW",
+      "skill_requirement": {
+        "skill": "MINING",
+        "level": 15
+      }
+    }
+  },
+  "id": "DWARVEN_MINES_PORTAL"
+}

@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzMjQ0NjU0NiwKICAicHJvZmlsZUlkIiA6ICI5MWZlMTk2ODdjOTA0NjU2YWExZmMwNTk4NmRkM2ZlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoaGphYnJpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZGYyMzI0NTcwMzBhNjY2N2U0YzY1ZmY5MmU5M2M2Y2VmZmIyMGMxMzMxMTA4NDQwMTJlMGE5MGZiYTc4NmI0IgogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Titanium Alloy",
+  "tier": "UNOBTAINABLE",
+  "npc_sell_price": 1,
+  "id": "TITANIUM_ALLOY"
+}

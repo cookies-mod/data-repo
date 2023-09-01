@@ -1,0 +1,8 @@
+{
+  "material": "YELLOW_FLOWER",
+  "name": "Enchanted Dandelion",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 160,
+  "id": "ENCHANTED_DANDELION"
+}

@@ -1,0 +1,9 @@
+{
+  "material": "DISPENSER",
+  "name": "Personal Deletor 7000",
+  "glowing": true,
+  "category": "ACCESSORY",
+  "tier": "LEGENDARY",
+  "unstackable": true,
+  "id": "PERSONAL_DELETOR_7000"
+}

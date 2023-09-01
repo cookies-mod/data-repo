@@ -1,0 +1,12 @@
+{
+  "material": "BOW",
+  "name": "Hurricane Bow",
+  "category": "BOW",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 120,
+    "STRENGTH": 50
+  },
+  "npc_sell_price": 15500,
+  "id": "HURRICANE_BOW"
+}

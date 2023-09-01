@@ -1,0 +1,12 @@
+{
+  "material": "GOLD_HELMET",
+  "name": "Helmet of the Stars",
+  "category": "HELMET",
+  "tier": "UNOBTAINABLE",
+  "stats": {
+    "DEFENSE": 3000,
+    "HEALTH": 10000,
+    "INTELLIGENCE": 1000
+  },
+  "id": "STAR_HELMET"
+}

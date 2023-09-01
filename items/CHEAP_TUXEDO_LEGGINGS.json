@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "199,199,199",
+  "name": "Cheap Tuxedo Pants",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "CRITICAL_DAMAGE": 25,
+    "INTELLIGENCE": 25
+  },
+  "id": "CHEAP_TUXEDO_LEGGINGS",
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Dashing","color":"gold"},
+    {"text":"Max health set to ","color":"gray","extra":[{"text":"75\u2764","color":"red"},{"text":".","color":"gray"}]},
+    {"text":"Deal ","color":"gray","extra":[{"text":"+50% ","color":"red"},{"text":"damage!","color":"gray"}]},
+    {"text":"Very stylish.","color":"dark_gray"},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

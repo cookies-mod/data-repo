@@ -1,0 +1,10 @@
+{
+  "material": "LEASH",
+  "name": "Kada Lead",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "soulbound": "COOP",
+  "description": "%%gray%%%%italic%%The lead has to be exceedingly soft due to the nature of the mount. The chicken needs to be comfy.",
+  "npc_sell_price": 50,
+  "id": "KADA_LEAD"
+}

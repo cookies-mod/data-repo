@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "128,128,128",
+  "name": "Ghostly Boots",
+  "category": "BOOTS",
+  "tier": "RARE",
+  "npc_sell_price": 77777,
+  "description": "%%gray%%%%italic%%Boots made of pure ghost essence.",
+  "museum": true,
+  "id": "GHOST_BOOTS"
+}

@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NTkxNDEyMjMzNjIsInByb2ZpbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJmNjlhYjJmNGU3MzQxYWMyNjI1OTcwODNjYTM4YWQwMWJmYmJmODczMGZiZmJkZDEwY2E5MGFlZTMzN2EyZGQifX19",
+  "name": "Portal to The Wizard Tower",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Wizard Tower",
+      "description_name": "%%light_purple%%The Wizard Tower",
+      "destination_mode": "hub",
+      "location_tag": "wizard_tower",
+      "schematic_file": "sb_portal_wizard_tower",
+      "offset": "NEW",
+      "skill_requirement": {
+        "skill": "ENCHANTING",
+        "level": 5
+      }
+    }
+  },
+  "id": "WIZARD_TOWER_PORTAL"
+}

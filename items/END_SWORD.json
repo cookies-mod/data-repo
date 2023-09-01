@@ -1,0 +1,11 @@
+{
+  "material": "DIAMOND_SWORD",
+  "name": "End Sword",
+  "category": "SWORD",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 35
+  },
+  "npc_sell_price": 10,
+  "id": "END_SWORD"
+}

@@ -1,0 +1,11 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjc1N2NmYzdjMTFiMWU2ZjEwMjhiODA0NjJkMWU0MzAyZGNhNWFiODU5MjIyNWVhOGM4Yjc2MzljNzBlNjFmOSJ9fX0\u003d",
+  "name": "Shy Crux",
+  "tier": "UNCOMMON",
+  "origin": "RIFT",
+  "description": "Rumors are that Argofays and other creatures really like this.",
+  "motes_sell_price": 100,
+  "id": "SHAME_CRUX"
+}

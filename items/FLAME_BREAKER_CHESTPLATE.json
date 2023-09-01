@@ -1,0 +1,53 @@
+{
+  "material": "CHAINMAIL_CHESTPLATE",
+  "name": "Flamebreaker Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 70,
+    "HEALTH": 70,
+    "MINING_FORTUNE": 10,
+    "MINING_SPEED": 25
+  },
+  "requirements": [
+    {
+      "type": "COLLECTION",
+      "collection": "HARD_STONE",
+      "tier": 5
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "RUBY"
+    },
+    {
+      "slot_type": "AMBER",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 5000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_AMBER_GEM",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "slot_type": "JADE",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 20000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JADE_GEM",
+          "amount": 4
+        }
+      ]
+    }
+  ],
+  "id": "FLAME_BREAKER_CHESTPLATE"
+}

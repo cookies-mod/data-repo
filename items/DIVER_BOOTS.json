@@ -1,0 +1,19 @@
+{
+  "material": "GOLD_BOOTS",
+  "name": "Diver\u0027s Boots",
+  "category": "BOOTS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 110,
+    "HEALTH": 60
+  },
+  "npc_sell_price": 10000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 20
+    }
+  ],
+  "id": "DIVER_BOOTS"
+}

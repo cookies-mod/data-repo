@@ -1,0 +1,8 @@
+{
+  "material": "COOKED_FISH",
+  "name": "Enchanted Cooked Fish",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 150000,
+  "id": "ENCHANTED_COOKED_FISH"
+}

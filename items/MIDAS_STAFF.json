@@ -1,0 +1,62 @@
+{
+  "material": "GOLD_SPADE",
+  "name": "Midas Staff",
+  "category": "SWORD",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DAMAGE": 130,
+    "STRENGTH": 150,
+    "WEAPON_ABILITY_DAMAGE": 6000,
+    "INTELLIGENCE": 50
+  },
+  "ability_damage_scaling": 0.3,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "GOLD",
+    "amount": 100
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 150
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 250
+      }
+    ]
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 25
+    }
+  ],
+  "id": "MIDAS_STAFF"
+}

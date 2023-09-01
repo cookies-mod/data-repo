@@ -1,0 +1,83 @@
+{
+  "material": "DIAMOND_HELMET",
+  "name": "Perfect Helmet - Tier XI",
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 310
+  },
+  "npc_sell_price": 4608000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "DIAMOND",
+    "amount": 40
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 150
+      }
+    ]
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 19
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    }
+  ],
+  "id": "PERFECT_HELMET_11",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "text": "Right-click to view recipes!",
+      "color": "yellow"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

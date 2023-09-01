@@ -1,0 +1,14 @@
+{
+  "material": "IRON_HOE",
+  "name": "Euclid\u0027s Wheat Hoe",
+  "category": "HOE",
+  "tier": "UNCOMMON",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 20
+    }
+  ],
+  "id": "THEORETICAL_HOE_WHEAT_2"
+}

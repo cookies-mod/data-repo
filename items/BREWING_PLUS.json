@@ -1,0 +1,8 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYjFiNWI3NjVkNDM3MDgyYTZkNWUwODZmMDNlZTFmMzllNzZjM2YzNmJjYmQyOWNiNzMyMjA5N2Y2ZDdhMTQ5In19fQ\u003d\u003d",
+  "name": "Brewing+",
+  "furniture": "BREWING_PLUS",
+  "id": "BREWING_PLUS"
+}

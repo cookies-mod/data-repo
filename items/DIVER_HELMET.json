@@ -1,0 +1,21 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTc4MzBjMWQ4Mjg0NWM5MWI4MzQyOWY5ZGM1OTczMTc4NDE1MzhlMTRkNGZiZWQ2MWFlMWEzYjBlYjdjY2QifX19",
+  "name": "Diver\u0027s Mask",
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 120,
+    "HEALTH": 65
+  },
+  "npc_sell_price": 10000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 20
+    }
+  ],
+  "id": "DIVER_HELMET"
+}

@@ -1,0 +1,17 @@
+{
+  "material": "BOW",
+  "name": "Aiming Bow",
+  "category": "BOW",
+  "tier": "UNOBTAINABLE",
+  "stats": {
+    "DAMAGE": 100
+  },
+  "npc_sell_price": 340,
+  "id": "AIMING_BOW",
+  "description": [
+    {"text": ""},
+    {"text": "WARNING!", "color": "red", "bold": true},
+    {"text": "This item is not obtainable, it does ONLY exist in the API.", "color": "red"},
+    {"text": ""}
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "148,69,31",
+  "name": "Cropie Leggings",
+  "tier": "RARE",
+  "category": "LEGGINGS",
+  "stats": {
+    "FARMING_FORTUNE": 25,
+    "walk_speed": 4,
+    "health": 165,
+    "defense": 30
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 30
+    }
+  ],
+  "id": "CROPIE_LEGGINGS",
+  "description": [
+    {"text":""},
+    {"text":"Tiered Bonus: Squashbuckle (0/4)","color":"dark_gray"},
+    {"text":"Farming Pumpkin, Melon, and","color":"gray"},
+    {"text":"Cocoa Beans have a ","color":"gray","extra":[{"text":"0.01%","color":"green"}]},
+    {"text":"chance of dropping a Squash.","color":"gray"},
+    {"text":"Grants ","color":"gray","extra":[{"text":"0\u2618 Farming Fortune","color":"gold"},{"text":".","color":"gray"}]},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

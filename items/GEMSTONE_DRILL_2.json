@@ -1,0 +1,20 @@
+{
+  "material": "PRISMARINE_SHARD",
+  "name": "Gemstone Drill LT-522",
+  "glowing": true,
+  "category": "DRILL",
+  "tier": "RARE",
+  "stats": {
+    "BREAKING_POWER": 8,
+    "DAMAGE": 75,
+    "MINING_SPEED": 300
+  },
+  "npc_sell_price": 253000,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 4
+    }
+  ],
+  "id": "GEMSTONE_DRILL_2"
+}

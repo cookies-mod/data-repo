@@ -1,0 +1,20 @@
+{
+  "material": "DIAMOND_AXE",
+  "name": "Advanced Gardening Axe",
+  "category": "AXE",
+  "tier": "RARE",
+  "npc_sell_price": 100,
+  "stats": {
+    "FARMING_FORTUNE": 10
+  },
+  "enchantments": {
+    "replenish": 1
+  },
+  "requirements": [
+    {
+      "type": "GARDEN_LEVEL",
+      "level": 6
+    }
+  ],
+  "id": "ADVANCED_GARDENING_AXE"
+}

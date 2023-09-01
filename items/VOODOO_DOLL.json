@@ -1,0 +1,24 @@
+{
+  "material": "RAW_FISH",
+  "durability": 3,
+  "name": "Voodoo Doll",
+  "glowing": true,
+  "tier": "RARE",
+  "stats": {
+    "WEAPON_ABILITY_DAMAGE": 1500
+  },
+  "unstackable": true,
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "zombie",
+      "level": 5
+    }
+  ],
+  "item_specific": {
+    "slow_duration_seconds": 10,
+    "mana_cost": 200,
+    "cooldown_seconds": 5
+  },
+  "id": "VOODOO_DOLL"
+}

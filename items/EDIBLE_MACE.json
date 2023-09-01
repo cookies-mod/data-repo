@@ -1,0 +1,18 @@
+{
+  "material": "MUTTON",
+  "name": "Edible Mace",
+  "category": "SWORD",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 125,
+    "STRENGTH": 25
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "wolf",
+      "level": 5
+    }
+  ],
+  "id": "EDIBLE_MACE"
+}

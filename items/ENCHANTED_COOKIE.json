@@ -1,0 +1,8 @@
+{
+  "material": "COOKIE",
+  "name": "Enchanted Cookie",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 61500,
+  "id": "ENCHANTED_COOKIE"
+}

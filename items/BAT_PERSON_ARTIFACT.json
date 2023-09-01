@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMzg5ODc2Njg0NiwKICAicHJvZmlsZUlkIiA6ICJhMmY4MzQ1OTVjODk0YTI3YWRkMzA0OTcxNmNhOTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiUHVuY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzQ0NDRjMzk4MjcyMGIzMDkzOGY1MDRjNDM3NDIzMmIxMWE0ZjZmNTZjZDU3Yzk3M2Q4YWJiMDdmZDBkY2ZmNyIKICAgIH0KICB9Cn0\u003d",
+  "name": "Bat Person Artifact",
+  "category": "ACCESSORY",
+  "tier": "RARE",
+  "id": "BAT_PERSON_ARTIFACT"
+}

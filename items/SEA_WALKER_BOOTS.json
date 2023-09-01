@@ -1,0 +1,9 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "16,97,110",
+  "name": "Sea Walker Boots",
+  "category": "BOOTS",
+  "tier": "UNOBTAINABLE",
+  "npc_sell_price": 50,
+  "id": "SEA_WALKER_BOOTS"
+}

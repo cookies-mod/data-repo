@@ -1,0 +1,60 @@
+{
+  "material": "GOLDen_SWORD",
+  "name": "Super Cleaver",
+  "category": "SWORD",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 105,
+    "STRENGTH": 20,
+    "CRITICAL_DAMAGE": 20
+  },
+  "npc_sell_price": 1,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 2
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 2
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 3
+      }
+    ]
+  ],
+  "dungeon_item": true,
+  "id": "SUPER_CLEAVER",
+  "can_be_reforged": true,
+  "description": [
+    {"text":""},
+    {"text":"When hitting an entity, monsters","color":"gray"},
+    {"text":"in a ","color":"gray", "extra":[{"text":"3 ","color":"green"},{"text":"block range will be","color":"gray"}]},
+    {"text":"hit for a portion of that damage","color":"gray"},
+    {"text":"too.","color":"gray"},
+    {"text":""}
+  ]
+}

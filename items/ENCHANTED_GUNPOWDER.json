@@ -1,0 +1,8 @@
+{
+  "material": "SULPHUR",
+  "name": "Enchanted Gunpowder",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 640,
+  "id": "ENCHANTED_GUNPOWDER"
+}

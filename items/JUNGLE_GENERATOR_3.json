@@ -1,0 +1,72 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5MzczNzc2NzEsInByb2ZpbGVJZCI6IjVkMjRiYTBiMjg4YzQyOTM4YmExMGVjOTkwNjRkMjU5IiwicHJvZmlsZU5hbWUiOiIxbnYzbnQxdjN0NGwzbnQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk4MjlmYTQzMTIxMDY2YmMwMTM0NDc0NWY4ODljNjdmOGU4MGE3NWJhMzBhMzhlMDE3ZDIzOTNlMTdjZmVmMjEifX19",
+  "name": "Jungle Minion III",
+  "generator": "JUNGLE",
+  "generator_tier": 3,
+  "tier": "RARE",
+  "id": "JUNGLE_GENERATOR_3",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and chopping",
+      "color": "gray"
+    },
+    {
+      "text": "jungle logs! Requires an open",
+      "color": "gray"
+    },
+    {
+      "text": "area to place trees. Minions",
+      "color": "gray"
+    },
+    {
+      "text": "also work when you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "45",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "192",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

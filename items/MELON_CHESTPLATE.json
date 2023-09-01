@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "137,158,32",
+  "name": "Melon Chestplate",
+  "tier": "UNCOMMON",
+  "category": "CHESTPLATE",
+  "stats": {
+    "FARMING_FORTUNE": 20,
+    "walk_speed": 3,
+    "health": 150,
+    "defense": 25
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 25
+    }
+  ],
+  "id": "MELON_CHESTPLATE"
+}

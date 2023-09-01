@@ -1,0 +1,23 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDIxNzQ3ODIwMSwKICAicHJvZmlsZUlkIiA6ICJhNWVmNzE3YWI0MjA0MTQ4ODlhOTI5ZDA5OTA0MzcwMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZXBsZXRpbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTliOWY0M2I1MWJkNDViZWRmMDllNDU4MmQ3NjJkMjZjMDMxODQ3ZmM4ZjMwZDI1MzA1NzkyYzU3NDE4MWQzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+  "name": "Four-Eyed Fish",
+  "tier": "EPIC",
+  "category": "PET_ITEM",
+  "id": "FOUR_EYED_FISH",
+  "description": [
+    {"text":"Consumed on use","color":"dark_gray"},
+    {"text":""},
+    {"text":"This pet item may only be used","color":"gray"},
+    {"text":"on a ","color":"gray","extra":[{"text":"Griffin ","color":"gold"},{"text":"pet.","color":"gray"}]},
+    {"text":""},
+    {"text":"Gain ","color":"gray","extra":[{"text":"+2,000 coins ","color":"gold"},{"text":"when","color":"gray"}]},
+    {"text":"digging up any ","color":"gray","extra":[{"text":"Griffin","color":"yellow"}]},
+    {"text":"Burrow","color":"yellow","extra":[{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"Grants ","color":"gray","extra":[{"text":"+10\u272f Magic Find","color":"aqua"},{"text":" and","color":"gray"}]},
+    {"text":"+55\u2748 Defense","color":"green","extra":[{"text":".","color":"gray"}]},
+    {"text":""}
+  ]
+}

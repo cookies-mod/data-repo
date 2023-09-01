@@ -1,0 +1,17 @@
+{
+  "material": "player_head",
+  "durability": 4,
+  "name": "Creeper Hat",
+  "category": "HELMET",
+  "stats": {
+    "DEFENSE": 5,
+    "HEALTH": 5,
+    "STRENGTH": 5,
+    "CRITICAL_DAMAGE": 5,
+    "CRITICAL_CHANCE": 5,
+    "INTELLIGENCE": 5
+  },
+  "npc_sell_price": 16,
+  "museum": true,
+  "id": "CREEPER_HAT"
+}

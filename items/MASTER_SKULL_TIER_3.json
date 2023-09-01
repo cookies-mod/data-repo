@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTg2MzU2Mzg5NywKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmExNTNhZmVkYTFmODBjYjM4MmI1Y2MzMTcxNzUxMDJhMWQ5ZmJkMWQ2YzI2YzkyNTQzMzk3OWE2MzU2NTAxNCIKICAgIH0KICB9Cn0\u003d",
+  "name": "Master Skull - Tier 3",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "dungeon_item": true,
+  "id": "MASTER_SKULL_TIER_3"
+}

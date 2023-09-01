@@ -1,0 +1,9 @@
+{
+  "material": "MONSTER_EGG",
+  "durability": 67,
+  "name": "Omega Enchanted Egg",
+  "glowing": true,
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "OMEGA_EGG"
+}

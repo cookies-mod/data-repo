@@ -1,0 +1,8 @@
+{
+  "material": "INK_SACK",
+  "durability": 9,
+  "name": "Mycelium Dust",
+  "npc_sell_price": 15,
+  "tier": "RARE",
+  "id": "MYCELIUM_DUST"
+}

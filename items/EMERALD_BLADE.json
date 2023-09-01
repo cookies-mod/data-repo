@@ -1,0 +1,11 @@
+{
+  "material": "EMERALD",
+  "name": "Emerald Blade",
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 130
+  },
+  "npc_sell_price": 153000,
+  "id": "EMERALD_BLADE"
+}

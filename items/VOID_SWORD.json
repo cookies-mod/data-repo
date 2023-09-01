@@ -1,0 +1,11 @@
+{
+  "material": "DIAMOND_SWORD",
+  "name": "Void Sword",
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 125
+  },
+  "soulbound": "COOP",
+  "id": "VOID_SWORD"
+}

@@ -1,0 +1,22 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "69,1,1",
+  "name": "Crypt Witherlord Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "WALK_SPEED": 5,
+    "DEFENSE": 120
+  },
+  "npc_sell_price": 1,
+  "gear_score": 10,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 18
+    }
+  ],
+  "dungeon_item": true,
+  "id": "CRYPT_WITHERLORD_CHESTPLATE"
+}

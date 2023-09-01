@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82OGMxNWZiZTY3Mjg4MThkNTY1ZTk3YTkyZGVjOWI0NjdlYmQyMDI1ZDg2NzFkM2JjNzdhY2I5ODAxZWU5ZmJjIn19fQ\u003d\u003d",
+  "name": "Redstone Chest+",
+  "furniture": "REDSTONE_CHEST",
+  "tier": "RARE",
+  "id": "REDSTONE_CHEST"
+}

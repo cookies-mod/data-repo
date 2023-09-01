@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NzA0MDI0NTQ3NiwKICAicHJvZmlsZUlkIiA6ICI3MzY0ODFkZmY2ZGY0NWUwOTA0ODg0ZjNiMWExMjY1NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd2lsaWdodFFBUSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMDBjMTY3MzhjMzcyNDg0NjI4Y2ExNWNmN2IwNzMxYjgxMGJkMzE0MmUwN2MxMDUzYjVlM2RhNmI2ZTUyM2NhIgogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Fiery Kuudra Core",
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "npc_sell_price": 1,
+  "id": "FIERY_KUUDRA_CORE"
+}

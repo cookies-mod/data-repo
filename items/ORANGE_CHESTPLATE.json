@@ -1,0 +1,15 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "255,70,0",
+  "name": "Orange Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_TIME": 45,
+    "rift_intelligence": 5,
+    "rift_mana_regen": 10
+  },
+  "glowing": true,
+  "id": "ORANGE_CHESTPLATE"
+}

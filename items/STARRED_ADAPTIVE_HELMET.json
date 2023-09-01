@@ -1,0 +1,68 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "item_durability": -1,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZmMGQzNGFhYTcxNDM3Nzk4MzcwMWMxYmJlOWIzZjZlN2IzMGNiMzg1NzFiYzBhMmZkNzU0MWQ3ZWRiMTYzNyJ9fX0K",
+  "name": "Adaptive Helmet",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 60,
+    "HEALTH": 120,
+    "STRENGTH": 15,
+    "INTELLIGENCE": 15
+  },
+  "npc_sell_price": 20000,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 150
+      }
+    ]
+  ],
+  "gear_score": 50,
+  "requirements": [
+    {
+      "type": "DUNGEON_TIER",
+      "dungeon_type": "CATACOMBS",
+      "tier": 3
+    }
+  ],
+  "dungeon_item": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT"
+    }
+  ],
+  "id": "STARRED_ADAPTIVE_HELMET"
+}

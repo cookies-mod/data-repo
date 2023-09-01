@@ -1,0 +1,7 @@
+{
+  "material": "IRON_HOE",
+  "name": "Farming Exp Boost",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "id": "PET_ITEM_FARMING_SKILL_BOOST_COMMON"
+}

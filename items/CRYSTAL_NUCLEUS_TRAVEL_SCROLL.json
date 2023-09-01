@@ -1,0 +1,19 @@
+{
+  "material": "map",
+  "name": "Travel Scroll to the Crystal Nucleus",
+  "category": "TRAVEL_SCROLL",
+  "tier": "EPIC",
+  "soulbound": "SOLO",
+  "id": "CRYSTAL_NUCLEUS_TRAVEL_SCROLL",
+  "description": [
+    {"text":"Consume this item to add its","color":"gray"},
+    {"text":"destination to your fast travel","color":"gray"},
+    {"text":"options.","color":"gray"},
+    {"text":""},
+    {"text":"Requires ","color":"gray","extra":[{"text":"MVP","color":"aqua"},{"text":"+ ","color":"red"},{"text":"to consume!","color":"gray"}]},
+    {"text":""},
+    {"text":"Island: ","color":"gray","extra":[{"text":"Crystal Hollows","color":"green"}]},
+    {"text":"Teleport: ","color":"gray","extra":[{"text":"Crystal Nucleus","color":"yellow"}]},
+    {"text":""}
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Zombie Commander Whip",
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 65,
+    "STRENGTH": 5
+  },
+  "npc_sell_price": 1,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 400
+      }
+    ]
+  ],
+  "gear_score": 40,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 18
+    }
+  ],
+  "dungeon_item": true,
+  "id": "ZOMBIE_COMMANDER_WHIP"
+}

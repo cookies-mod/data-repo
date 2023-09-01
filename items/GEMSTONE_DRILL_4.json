@@ -1,0 +1,39 @@
+{
+  "material": "PRISMARINE_SHARD",
+  "name": "Jasper Drill X",
+  "glowing": true,
+  "category": "DRILL",
+  "tier": "EPIC",
+  "stats": {
+    "BREAKING_POWER": 9,
+    "DAMAGE": 75,
+    "MINING_SPEED": 600
+  },
+  "npc_sell_price": 253000,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 6
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMBER"
+    },
+    {
+      "slot_type": "JADE",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JADE_GEM",
+          "amount": 20
+        }
+      ]
+    }
+  ],
+  "id": "GEMSTONE_DRILL_4"
+}

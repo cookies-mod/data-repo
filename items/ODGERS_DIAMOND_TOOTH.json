@@ -1,0 +1,20 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0Mzg4NjI2NDEzNywKICAicHJvZmlsZUlkIiA6ICIyM2YxYTU5ZjQ2OWI0M2RkYmRiNTM3YmZlYzEwNDcxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIyODA3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EyNjgwYTI4OTYyZTlhZDJkNDg3MmQwNmZiYTJjYzYwODI0ZmJiMmQwODI0ZTQyZDk1ODU3NWI3NTYzODg0YWEiCiAgICB9CiAgfQp9",
+  "stats": {
+    "SEA_CREATURE_CHANCE": 2
+  },
+  "name": "Odger\u0027s Diamond Tooth",
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "soulbound": "SOLO",
+  "requirements": [
+    {
+      "type": "TROPHY_FISHING",
+      "reward": "DIAMOND"
+    }
+  ],
+  "description": "%%gray%%%%italic%%A perfectly fine tooth, besides its radiant brightness...",
+  "id": "ODGERS_DIAMOND_TOOTH"
+}

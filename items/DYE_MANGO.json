@@ -1,0 +1,8 @@
+{
+  "material": "INK_SACK",
+  "durability": 14,
+  "name": "Mango Dye",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "DYE_MANGO"
+}

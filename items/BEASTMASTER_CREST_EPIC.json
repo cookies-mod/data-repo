@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTM0MTU2NjdkZTNmYjg5YzVmNDBjODgwYzM5ZTQ5NzFhMGNhYTdmM2E5ZDJjOGY3MTJiYTM3ZmFkY2VlIn19fQ\u003d\u003d",
+  "name": "Beastmaster Crest",
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "id": "BEASTMASTER_CREST_EPIC",
+  "description": [
+    {"text":"Health: ","color":"gray","extra":[{"text":"+0.2","color":"green"}]},
+    {"text":"Intelligence: ","color":"gray","extra":[{"text":"+0.2","color":"green"}]},
+    {"text":""},
+    {"text":"Pet Exp Boost: ","color":"gray","extra":[{"text":"+0.4%","color":"green"}]},
+    {"text":""},
+    {"text":"Gains stats based on how many","color":"gray"},
+    {"text":"mythological creatures and Minos","color":"gray"},
+    {"text":"followers you've slain.","color":"gray"},
+    {"text":""},
+    {"text":"Your kills: ","color":"gray","extra":[{"text":"0","color":"dark_green"},{"text":"/25","color":"dark_gray"}]},
+    {"text":""}
+  ]
+}

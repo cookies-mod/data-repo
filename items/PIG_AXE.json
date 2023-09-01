@@ -1,0 +1,21 @@
+{
+  "material": "WOODen_AXE",
+  "name": "Pig Axe",
+  "category": "AXE",
+  "tier": "UNCOMMON",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 15
+    }
+  ],
+  "id": "PIG_AXE",
+  "can_be_reforged":true,
+  "description":[
+    {"text":"Killing a ","color":"gray","extra":[{"text":"Pig ","color":"light_purple"},{"text":"increases the","color":"gray"}]},
+    {"text":"amount of drops by ","color":"gray","extra":[{"text":"+2 ","color":"green"},{"text":"for","color":"gray"}]},
+    {"text":"common loot.","color":"gray"},
+    {"text":""}
+  ]
+}

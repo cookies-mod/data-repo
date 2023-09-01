@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "252,243,255",
+  "name": "Crystal Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 35,
+    "INTELLIGENCE": 120
+  },
+  "npc_sell_price": 4000,
+  "id": "CRYSTAL_CHESTPLATE"
+}

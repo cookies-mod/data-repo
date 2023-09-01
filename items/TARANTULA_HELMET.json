@@ -1,0 +1,68 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "0,0,0",
+  "name": "Tarantula Helmet",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 80,
+    "HEALTH": 100,
+    "INTELLIGENCE": 100
+  },
+  "dungeon_item_conversion_cost": {
+    "essence_type": "SPIDER",
+    "amount": 30
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 15
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 35
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 45
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 65
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "spider",
+      "level": 4
+    }
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 16
+    }
+  ],
+  "id": "TARANTULA_HELMET"
+}

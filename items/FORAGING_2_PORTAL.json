@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTY2Y2JkZWY4ZWZiOTE0ZDQzYTIxM2JlNjZiNTM5NmY3NWU1YzFiOTEyNGY3NmY2N2Q3Y2QzMjUyNTc0OCJ9fX0\u003d",
+  "name": "Portal to Spruce Woods",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Spruce Woods",
+      "description_name": "%%green%%Spruce Woods",
+      "destination_mode": "foraging_1",
+      "offset": "FORAGING",
+      "schematic_file": "sb_portal_foraging2",
+      "location_tag": "spruce",
+      "skill_requirement": {
+        "skill": "FORAGING",
+        "level": 2
+      }
+    }
+  },
+  "id": "FORAGING_2_PORTAL"
+}

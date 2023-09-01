@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "212,212,212",
+  "name": "Fancy Tuxedo Pants",
+  "category": "LEGGINGS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "CRITICAL_DAMAGE": 35,
+    "INTELLIGENCE": 75
+  },
+  "id": "FANCY_TUXEDO_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Dashing","color":"gold"},
+    {"text":"Max health set to ","color":"gray","extra":[{"text":"150\u2764","color":"red"},{"text":".","color":"gray"}]},
+    {"text":"Deal ","color":"gray","extra":[{"text":"+100% ","color":"red"},{"text":"damage!","color":"gray"}]},
+    {"text":"Very stylish.","color":"dark_gray"},
+    {"text":""}
+  ]
+}

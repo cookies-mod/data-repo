@@ -1,0 +1,91 @@
+{
+  "material": "poppy",
+  "name": "Flower of Truth",
+  "glowing": true,
+  "category": "SWORD",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DAMAGE": 160,
+    "STRENGTH": 300
+  },
+  "npc_sell_price": 100000,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 400
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 800
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "DUNGEON_TIER",
+      "dungeon_type": "CATACOMBS",
+      "tier": 6
+    }
+  ],
+  "dungeon_item": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "JASPER",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 20
+        }
+      ]
+    }
+  ],
+  "id": "FLOWER_OF_TRUTH",
+  "can_be_reforged":true,
+  "description":[
+    {"text":""},
+    {"text":"Ability: Heat-Seeking Rose ","color":"gold","extra":[{"text":"RIGHT CLICK","color":"yellow","bold":true}]},
+    {"text":"Shoots a rose that ricochets","color":"gray"},
+    {"text":"between enemies, damaging up to","color":"gray"},
+    {"text":"3 ","color":"green","extra":[{"text":"of your foes! Damage","color":"gray"}]},
+    {"text":"multiplies as more enemies are","color":"gray"},
+    {"text":"hit.","color":"gray"},
+    {"text":"Mana Cost: ","color":"dark_gray","extra":[{"text":"10","color":"dark_aqua"}]},
+    {"text":"Cooldown: ","color":"dark_gray","extra":[{"text":"1s","color":"green"}]},
+    {"text":""},
+    {"text":"The mana cost of this item is","color":"gray"},
+    {"text":"10.0% ","color":"green","extra":[{"text":"of your maximum mana.","color":"gray"}]},
+    {"text":""},
+    {"text":"Perfect 70000 / 70000","color":"green"},
+  ]
+}

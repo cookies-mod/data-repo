@@ -1,0 +1,13 @@
+{
+  "material": "MELON",
+  "name": "Juicy Healing Melon",
+  "tier": "EPIC",
+  "motes_sell_price": 5,
+  "unstackable": true,
+  "origin": "RIFT",
+  "item_specific": {
+    "heal": 9,
+    "mana_cost": 50
+  },
+  "id": "JUICY_HEALING_MELON"
+}

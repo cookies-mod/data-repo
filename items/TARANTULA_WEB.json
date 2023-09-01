@@ -1,0 +1,8 @@
+{
+  "material": "STRING",
+  "name": "Tarantula Web",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1,
+  "id": "TARANTULA_WEB"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "QUARTZ_BLOCK",
+  "durability": 1,
+  "name": "Enchanted Bone Block",
+  "glowing": true,
+  "tier": "RARE",
+  "id": "ENCHANTED_BONE_BLOCK"
+}

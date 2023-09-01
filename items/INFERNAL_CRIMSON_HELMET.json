@@ -1,0 +1,347 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDM1MTEzMSwKICAicHJvZmlsZUlkIiA6ICI4ODBiZWMwYTE0MmM0YzRlYTJlZjliMTFiMTBkNWNiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmZ2FiIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUwN2Q2YmY3NjExMTkwZWQ5YzU4MGQ4Yzg3YzI5NjA1OTIxNjIzMGM5NTAxZWVjNjM1OWUwZDYwZWM4NDc1OGUiCiAgICB9CiAgfQp9",
+  "name": "Infernal Crimson Helmet",
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "soulbound": "COOP",
+  "stats": {
+    "DEFENSE": 126,
+    "HEALTH": 403,
+    "STRENGTH": 76,
+    "CRITICAL_DAMAGE": 50,
+    "INTELLIGENCE": 38
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "can_have_attributes": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 30000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 35000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 41000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 48000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 56000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 65500
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 76000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 89000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 105000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 120000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 140000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 6
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 165000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 7
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 192000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 8
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 225000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 9
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 265000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 10
+      }
+    ]
+  ],
+  "id": "INFERNAL_CRIMSON_HELMET",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "text": "Tiered Bonus: Dominus (0/4)",
+      "color": "dark_gray"
+    },
+    {
+      "text": "For every melee kill gain ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "1 ",
+          "color": "red"
+        },
+        {
+          "text": "stack"
+        }
+      ]
+    },
+    {
+      "text": "of ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "Dominus \u1750",
+          "color": "gold"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Each ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "Dominus \u1750 ",
+          "color": "gold"
+        },
+        {
+          "text": "stack grants "
+        },
+        {
+          "text": "0.1",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "melee range.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "At ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "10 ",
+          "color": "red"
+        },
+        {
+          "text": "stacks also "
+        },
+        {
+          "text": "swipe ",
+          "color": "light_purple"
+        },
+        {
+          "text": "in a"
+        }
+      ]
+    },
+    {
+      "text": "random direction hitting every enemy",
+      "color": "gray"
+    },
+    {
+      "text": "in the path of the swipe.",
+      "color": "gray"
+    },
+    {
+      "text": "",
+      "color": "gray"
+    },
+    {
+      "text": "Lose 1 stack after ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "4s ",
+          "color": "red"
+        },
+        {
+          "text": "of not"
+        }
+      ]
+    },
+    {
+      "text": "gaining a stack.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "can_be_reforged": true
+}

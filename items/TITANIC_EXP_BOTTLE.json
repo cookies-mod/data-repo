@@ -1,0 +1,8 @@
+{
+  "material": "EXP_BOTTLE",
+  "name": "Titanic Experience Bottle",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 5000,
+  "id": "TITANIC_EXP_BOTTLE"
+}

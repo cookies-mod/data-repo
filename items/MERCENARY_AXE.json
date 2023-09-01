@@ -1,0 +1,21 @@
+{
+  "material": "IRON_AXE",
+  "name": "Mercenary Axe",
+  "category": "SWORD",
+  "sword_type": "AXE",
+  "tier": "RARE",
+  "stats": {
+    "STRENGTH": 20,
+    "DAMAGE": 70
+  },
+  "npc_sell_price": 15000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 4
+    }
+  ],
+  "id": "MERCENARY_AXE",
+  "can_be_reforged":true
+}

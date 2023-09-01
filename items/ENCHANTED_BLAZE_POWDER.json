@@ -1,0 +1,8 @@
+{
+  "material": "BLAZE_POWDER",
+  "name": "Enchanted Blaze Powder",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1440,
+  "id": "ENCHANTED_BLAZE_POWDER"
+}

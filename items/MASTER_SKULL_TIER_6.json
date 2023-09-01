@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTg2MzYxMjYyOCwKICAicHJvZmlsZUlkIiA6ICJjZGM5MzQ0NDAzODM0ZDdkYmRmOWUyMmVjZmM5MzBiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXdMb2JzdGVycyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMWFiNWUzZjg3NWIxMDFlOTI5ZTg4OTU2ZDAxODM1NjgyZDM5ZGI1Njc4MGFkZWVhMzcwMTRkOGVlNDc2YTY1IgogICAgfQogIH0KfQ",
+  "name": "Master Skull - Tier 6",
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "dungeon_item": true,
+  "id": "MASTER_SKULL_TIER_6"
+}

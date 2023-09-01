@@ -1,0 +1,9 @@
+{
+  "material": "DIAMOND",
+  "name": "%%aqua%%Warding Diamathame",
+  "tier": "RARE",
+  "glowing": true,
+  "unstackable": true,
+  "origin": "RIFT",
+  "id": "WAND_OF_WARDING"
+}

@@ -1,0 +1,120 @@
+{
+  "material": "DIAMOND_BOOTS",
+  "stats": {
+    "HEALTH": 130,
+    "DEFENSE": 130
+  },
+  "name": "Diamond Hunter Boots",
+  "category": "BOOTS",
+  "tier": "LEGENDARY",
+  "requirements": [
+    {
+      "type": "TROPHY_FISHING",
+      "reward": "DIAMOND"
+    }
+  ],
+  "soulbound": "SOLO",
+  "can_have_attributes": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT"
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        }
+      ]
+    }
+  ],
+  "upgrade_costs": [
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_DIAMOND",
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_DIAMOND",
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_DIAMOND",
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_DIAMOND",
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_DIAMOND",
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_DIAMOND",
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_DIAMOND",
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_DIAMOND",
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_DIAMOND",
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_DIAMOND",
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      }
+    ]
+  ],
+  "id": "DIAMOND_HUNTER_BOOTS"
+}

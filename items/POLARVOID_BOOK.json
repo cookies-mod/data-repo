@@ -1,0 +1,22 @@
+{
+  "material": "BOOK",
+  "name": "Polarvoid Book",
+  "tier": "RARE",
+  "rift_transferrable": true,
+  "unstackable": true,
+  "origin": "RIFT",
+  "id": "POLARVOID_BOOK",
+  "description": [
+    {"text": "Combineable in Avil", "color": "dark_gray"},
+    {"text": ""},
+    {"text": "When applied to a drill, grants", "color": "gray"},
+    {"text": "+10\u2E15 Mining Speed", "color": "gold", "extra": [{"text": ".", "color": "gray"}]},
+    {"text": ""},
+    {"text": "This can be applied to an item", "color": "gray"},
+    {"text": "up to ", "color": "gray", "extra": [{"text": "5", "color": "green"},{"text": " times!"}]},
+    {"text": ""},
+    {"text": "If at least 1 book is applied,", "color": "gray"},
+    {"text": "grants ", "color": "gray", "extra": [{"text": "+1\u24C5 Breaking Power", "color": "dark_green"},{"text":".","color":"gray"}]},
+    {"text": ""}
+  ]
+}

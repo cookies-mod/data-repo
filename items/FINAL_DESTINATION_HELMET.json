@@ -1,0 +1,21 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyMTkyMjk4ODY5MywKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjIxN2M1NmJiZDc3ZjY0N2I4NDAzODAzZWQ3ZWQ5ODJkZDdhZmNmOGEyY2E0MTMzZDJjMzU3ZWUwODk2ZWZlMiIKICAgIH0KICB9Cn0\u003d",
+  "name": "Final Destination Helmet",
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 100,
+    "HEALTH": 140,
+    "INTELLIGENCE": 100
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "enderman",
+      "level": 4
+    }
+  ],
+  "id": "FINAL_DESTINATION_HELMET"
+}

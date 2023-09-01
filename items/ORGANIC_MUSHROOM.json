@@ -1,0 +1,8 @@
+{
+  "material": "RED_MUSHROOM",
+  "name": "Organic Mushroom",
+  "npc_sell_price": 4,
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "id": "ORGANIC_MUSHROOM"
+}

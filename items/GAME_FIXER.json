@@ -1,0 +1,11 @@
+{
+  "material": "WOOD_PICKAXE",
+  "name": "Game Fixer",
+  "glowing": true,
+  "category": "PICKAXE",
+  "tier": "VERY_SPECIAL",
+  "npc_sell_price": 777,
+  "description": "%%gray%%Given to individuals who broke the game too many times. Thanks for your great help!",
+  "museum": true,
+  "id": "GAME_FIXER"
+}

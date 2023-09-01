@@ -1,0 +1,98 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "1,125,49",
+  "name": "Rotten Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "RARE",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "HEALTH": [
+      125,
+      136,
+      149,
+      162,
+      176,
+      192,
+      209,
+      229,
+      249,
+      271
+    ],
+    "STRENGTH": [
+      20,
+      22,
+      23,
+      26,
+      28,
+      31,
+      33,
+      36,
+      40,
+      43
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 160
+      }
+    ]
+  ],
+  "gear_score": 5,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 1
+    }
+  ],
+  "dungeon_item": true,
+  "id": "ROTTEN_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {"text":""},
+    {"text":"This rotten piece of armor","color":"gray"},
+    {"text":"grants ","color":"gray","extra":[{"text":"15% ","color":"yellow"},{"text":"knockback","color":"gray"}]},
+    {"text":"resistance to arrows per piece","color":"gray"},
+    {"text":"worn.","color":"gray"},
+    {"text":""},
+    {"text":"Full Set Bonus: Sieve Body","color":"gold"},
+    {"text":"Gain an additional ","color":"gray","extra":[{"text":"20%","color":"yellow"}]},
+    {"text":"knockback resistance to","color":"gray"},
+    {"text":"arrows.","color":"gray"},
+    {"text":""},
+    {"text":"This armor piece is undead \u0f15!","color":"dark_green"},
+    {"text":""},
+    {"text":"Perfect 35000 / 35000","color":"green"}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "0,44,166",
+  "name": "Shark Scale Boots",
+  "category": "BOOTS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 100,
+    "HEALTH": 100
+  },
+  "npc_sell_price": 32000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 24
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    }
+  ],
+  "id": "SHARK_SCALE_BOOTS"
+}

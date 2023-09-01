@@ -1,0 +1,8 @@
+{
+  "material": "EGG",
+  "name": "Goblin Egg",
+  "tier": "RARE",
+  "npc_sell_price": 421,
+  "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
+  "id": "GOBLIN_EGG"
+}

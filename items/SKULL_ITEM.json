@@ -1,0 +1,7 @@
+{
+  "material": "player_head",
+  "name": "Skeleton Skull",
+  "tier": "RARE",
+  "npc_sell_price": 20,
+  "id": "SKULL_ITEM"
+}

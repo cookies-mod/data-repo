@@ -1,0 +1,21 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Speedster Rod",
+  "category": "FISHING_ROD",
+  "tier": "UNCOMMON",
+  "stats": {
+    "damage": 30,
+    "strength": 15,
+    "fishing_speed": 45
+  },
+  "npc_sell_price": 1000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 6
+    }
+  ],
+  "museum": true,
+  "id": "SPEEDSTER_ROD"
+}

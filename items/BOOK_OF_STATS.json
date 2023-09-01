@@ -1,0 +1,17 @@
+{
+  "material": "BOOK",
+  "name": "Book of Stats",
+  "category": "COSMETIC",
+  "tier": "EPIC",
+  "unstackable": true,
+  "museum": true,
+  "id": "BOOK_OF_STATS",
+  "description": [
+    {"text": "Combineable in Avil", "color": "dark_gray"},
+    {"text": ""},
+    {"text": "Tracks the amount of kills you", "color": "gray"},
+    {"text": "get with a weapon when applied", "color": "gray"},
+    {"text": "to it.", "color": "gray"},
+    {"text": ""}
+  ]
+}

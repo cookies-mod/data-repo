@@ -1,0 +1,72 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5Mzc0MTI3MzQsInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iODYxOTQ2NGQxMDQ4MjJkOTkzNzM0NGQxMWVlNWMwMzcxNjlhMTNiMjQ3M2Y1OWIyNDgzNmZjYTRjZjIxNGM1In19fQ\u003d\u003d",
+  "name": "Jungle Minion VI",
+  "generator": "JUNGLE",
+  "generator_tier": 6,
+  "tier": "RARE",
+  "id": "JUNGLE_GENERATOR_6",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and chopping",
+      "color": "gray"
+    },
+    {
+      "text": "jungle logs! Requires an open",
+      "color": "gray"
+    },
+    {
+      "text": "area to place trees. Minions",
+      "color": "gray"
+    },
+    {
+      "text": "also work when you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "42",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "576",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

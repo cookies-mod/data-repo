@@ -1,0 +1,8 @@
+{
+  "material": "PAPER",
+  "name": "Enchanted Paper",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 384,
+  "id": "ENCHANTED_PAPER"
+}

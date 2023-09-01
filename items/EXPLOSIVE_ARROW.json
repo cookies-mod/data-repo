@@ -1,0 +1,28 @@
+{
+  "material": "ARROW",
+  "name": "Explosive Arrow",
+  "glowing": true,
+  "category": "ARROW",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 3
+  },
+  "npc_sell_price": 1,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 23
+    },
+    {
+      "type": "COLLECTION",
+      "collection": "COAL",
+      "tier": 7
+    },
+    {
+      "type": "TARGET_PRACTICE",
+      "mode": "III"
+    }
+  ],
+  "id": "EXPLOSIVE_ARROW"
+}

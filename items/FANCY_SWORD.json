@@ -1,0 +1,16 @@
+{
+  "material": "GOLD_SWORD",
+  "enchantments": {
+    "first_strike": 1,
+    "scavenger": 1,
+    "sharpness": 2,
+    "vampirism": 1
+  },
+  "name": "Fancy Sword",
+  "category": "SWORD",
+  "stats": {
+    "DAMAGE": 20
+  },
+  "npc_sell_price": 50,
+  "id": "FANCY_SWORD"
+}

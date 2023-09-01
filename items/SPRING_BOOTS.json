@@ -1,0 +1,12 @@
+{
+  "material": "CHAINMAIL_BOOTS",
+  "name": "Spring Boots",
+  "category": "BOOTS",
+  "tier": "RARE",
+  "enchantments": {
+    "feather_falling": 20
+  },
+  "unstackable": true,
+  "museum": true,
+  "id": "SPRING_BOOTS"
+}

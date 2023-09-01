@@ -1,0 +1,8 @@
+{
+  "material": "RAW_FISH",
+  "name": "Enchanted Raw Fish",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 960,
+  "id": "ENCHANTED_RAW_FISH"
+}

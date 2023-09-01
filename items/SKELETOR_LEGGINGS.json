@@ -1,0 +1,105 @@
+{
+  "material": "CHAINMAIL_LEGGINGS",
+  "color": "145,143,137",
+  "name": "Skeletor Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "npc_sell_price": 5000,
+  "tiered_stats": {
+    "DEFENSE": [
+      36,
+      38,
+      42,
+      46,
+      50,
+      54,
+      58,
+      63,
+      69,
+      74
+    ],
+    "HEALTH": [
+      22,
+      24,
+      26,
+      28,
+      31,
+      34,
+      36,
+      40,
+      43,
+      47
+    ],
+    "CRITICAL_DAMAGE": [
+      20,
+      22,
+      24,
+      26,
+      28,
+      31,
+      33,
+      36,
+      40,
+      43
+    ],
+    "CRITICAL_CHANCE": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      4
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 15
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 120
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 240
+      }
+    ]
+  ],
+  "gear_score": 10,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 15
+    }
+  ],
+  "dungeon_item": true,
+  "id": "SKELETOR_LEGGINGS"
+}

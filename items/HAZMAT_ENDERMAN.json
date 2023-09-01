@@ -1,0 +1,29 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0OTQxNzMzNTczMiwKICAicHJvZmlsZUlkIiA6ICJlM2I0NDVjODQ3ZjU0OGZiOGM4ZmEzZjFmN2VmYmE4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5pRGlnZ2VyVGVzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MWU3Mjg5MGE3OWU1MDBjZjEzYTk3ZDEzNzRjNWFjOGE0ZjE1YTllMGQ2ODg1OTk3ZmM2ZjJlM2MxMTI1NGMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Hazmat Enderman",
+  "category": "POWER_STONE",
+  "tier": "LEGENDARY",
+  "npc_sell_price": 1,
+  "id": "HAZMAT_ENDERMAN",
+  "description": [
+    {"text":"unlock the ","color":"gray","extra":[{"text":"Slender ","color":"green"},{"text":"power.","color":"gray"}]},
+    {"text":""},
+    {"text":"At ","color":"gray","extra":[{"text":"250 Magical Power","color":"gold"},{"text":":","color":"gray"}]},
+    {"text":"+81\u2764 Health","color":"red"},
+    {"text":"+58\u2748 Defense","color":"green"},
+    {"text":"+6\u2726 Speed","color":"white"},
+    {"text":"+58\u2741 Strength","color":"red"},
+    {"text":"+87\u270e Intelligence","color":"aqua"},
+    {"text":"+58\u2620 Crit Damage","color":"blue"},
+    {"text":"+10\u2694 Bonus Attack Speed","color":"yellow"},
+    {"text":""},
+    {"text":"Unique Power Bonus:","color":"gray"},
+    {"text":"+100\u2748 Defense","color":"green"},
+    {"text":"+50\u2741 Strength","color":"red"},
+    {"text":""},
+    {"text":"Requires ","color":"gray","extra":[{"text":"Combat Skill Level XXX","color":"green"},{"text":"!","color":"gray"}]},
+    {"text":""}
+  ]
+}

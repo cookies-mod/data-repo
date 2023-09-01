@@ -1,0 +1,34 @@
+{
+  "material": "DIAMOND_CHESTPLATE",
+  "name": "Revenant Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 70,
+    "HEALTH": 180
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "zombie",
+      "level": 4
+    }
+  ],
+  "id": "REVENANT_CHESTPLATE",
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Trolling The Reaper","color":"gold"},
+    {"text":"Healing Wands heal ","color":"gray","extra":[{"text":"+50%","color":"green"},{"text":".","color":"gray"}]},
+    {"text":"Gain ","color":"gray","extra":[{"text":"+100\u2748 ","color":"green"},{"text":"against Zombies.","color":"gray"}]},
+    {"text":""},
+    {"text":"Piece Bonus: Zombie Bulwark","color":"gold"},
+    {"text":"Kill Zombies to accumulate","color":"gray"},
+    {"text":"defense against them.","color":"gray"},
+    {"text":"Piece Bonus: ","color":"gray","extra":[{"text":"+0\u2748","color":"green"}]},
+    {"text":"Next Upgrade: ","color":"gray","extra":[{"text":"+20\u2748 ","color":"green"},{"text":"(","color":"dark_gray"},{"text":"0","color":"green"},{"text":"/","color":"gray"},{"text":"50","color":"red"},{"text":")","color":"dark_gray"}]},
+    {"text":""},
+    {"text":"This armor piece is undead \u0f15!","color":"dark_green"},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

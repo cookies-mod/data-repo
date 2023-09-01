@@ -1,0 +1,8 @@
+{
+  "material": "ROTTEN_FLESH",
+  "name": "Enchanted Rotten Flesh",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 320,
+  "id": "ENCHANTED_ROTTEN_FLESH"
+}

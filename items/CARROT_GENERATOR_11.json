@@ -1,0 +1,76 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5MzM3NjA0NzAsInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82Mjg1OGM0MjJlMDk2M2YxYjFkYTYxOTZlOWQ0NzkzNmFjZWE0NDliZWE5ZjkwZTJkYmYzMmY5MjFmMjUyMmUifX19",
+  "name": "Carrot Minion XI",
+  "generator": "CARROT",
+  "generator_tier": 11,
+  "tier": "RARE",
+  "id": "CARROT_GENERATOR_11",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and harvesting",
+      "color": "gray"
+    },
+    {
+      "text": "carrots. Requires dirt or soil",
+      "color": "gray"
+    },
+    {
+      "text": "nearby so carrots can be",
+      "color": "gray"
+    },
+    {
+      "text": "planted. Minions also work when",
+      "color": "gray"
+    },
+    {
+      "text": "you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "10",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "960",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

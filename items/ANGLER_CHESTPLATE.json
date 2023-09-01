@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "11,0,79",
+  "name": "Angler Chestplate",
+  "category": "CHESTPLATE",
+  "stats": {
+    "DEFENSE": 40
+  },
+  "npc_sell_price": 24,
+  "id": "ANGLER_CHESTPLATE"
+}

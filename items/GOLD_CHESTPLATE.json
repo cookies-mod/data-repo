@@ -1,0 +1,11 @@
+{
+  "material": "GOLDEN_CHESTPLATE",
+  "name": "Golden Chestplate",
+  "category": "CHESTPLATE",
+  "stats": {
+    "DEFENSE": 25
+  },
+  "npc_sell_price": 16,
+  "id": "GOLD_CHESTPLATE",
+  "can_be_reforged": true
+}

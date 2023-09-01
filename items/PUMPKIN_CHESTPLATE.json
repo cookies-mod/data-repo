@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "237,170,54",
+  "name": "Pumpkin Chestplate",
+  "category": "CHESTPLATE",
+  "stats": {
+    "DEFENSE": 14,
+    "HEALTH": 14
+  },
+  "npc_sell_price": 16,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 2
+    }
+  ],
+  "id": "PUMPKIN_CHESTPLATE"
+}

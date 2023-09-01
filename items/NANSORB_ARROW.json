@@ -1,0 +1,28 @@
+{
+  "material": "ARROW",
+  "name": "Nansorb Arrow",
+  "glowing": true,
+  "category": "ARROW",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 5
+  },
+  "npc_sell_price": 1,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 25
+    },
+    {
+      "type": "COLLECTION",
+      "collection": "CACTUS",
+      "tier": 7
+    },
+    {
+      "type": "TARGET_PRACTICE",
+      "mode": "III"
+    }
+  ],
+  "id": "NANSORB_ARROW"
+}

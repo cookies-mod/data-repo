@@ -1,0 +1,16 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjQ4Nzc4MTYwNCwKICAicHJvZmlsZUlkIiA6ICJjOWRlZTM4MDUzYjg0YzI5YjZlZjA5YjJlMDM5OTc0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQVJfRGVjZW1iZXI1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY1MWMwOTQ1ODg4OGRhN2I2ZjY2YzVjYjFiYTFhMjFhNTNhMjkwNGZjZjFkZmRkYTUxMDNlZGI3M2ZhZWEwODciCiAgICB9CiAgfQp9",
+  "name": "Finwave Belt",
+  "category": "BELT",
+  "tier": "EPIC",
+  "soulbound": "COOP",
+  "npc_sell_price": 9000,
+  "stats": {
+    "health": 18,
+    "health_regeneration": 1,
+    "fishing_speed": 8
+  },
+  "id": "FINWAVE_BELT"
+}

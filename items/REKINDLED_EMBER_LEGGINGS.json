@@ -1,0 +1,217 @@
+{
+  "material": "CHAINMAIL_LEGGINGS",
+  "name": "Rekindled Ember Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "soulbound": "COOP",
+  "stats": {
+    "DEFENSE": 70,
+    "HEALTH": 220,
+    "INTELLIGENCE": 5,
+    "STRENGTH": 30,
+    "CRITICAL_DAMAGE": 20
+  },
+  "npc_sell_price": 70000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "can_have_attributes": true,
+  "salvageable_from_recipe": true,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ITEM",
+        "item_id": "COMPACT_OOZE",
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 1
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "COMPACT_OOZE",
+        "amount": 2
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 2
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 250
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "COMPACT_OOZE",
+        "amount": 3
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 3
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 500
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "COMPACT_OOZE",
+        "amount": 4
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 1000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "COMPACT_OOZE",
+        "amount": 5
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 5
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 1500
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "COMPACT_OOZE",
+        "amount": 6
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 6
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 2000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "COMPACT_OOZE",
+        "amount": 7
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 7
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 3000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "COMPACT_OOZE",
+        "amount": 8
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 8
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 4000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "COMPACT_OOZE",
+        "amount": 9
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 9
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 5000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "COMPACT_OOZE",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 6000
+      }
+    ]
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT"
+    }
+  ],
+  "id": "REKINDLED_EMBER_LEGGINGS"
+}

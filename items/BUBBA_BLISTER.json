@@ -1,0 +1,14 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNiNTcyN2I5ODZjMzZlMDc1ODIxNDhiODg2MTAyY2Y4MDcwYjBlZTNhYTM3NzFiMjQ2NDM5M2Y1ODhhODMyZCJ9fX0\u003d",
+  "name": "Bubba Blister",
+  "category": "REFORGE_STONE",
+  "tier": "LEGENDARY",
+  "motes_sell_price": 10000,
+  "npc_sell_price": 10000,
+  "rift_transferrable": true,
+  "lose_motes_value_on_transfer": true,
+  "origin": "RIFT",
+  "id": "BUBBA_BLISTER"
+}

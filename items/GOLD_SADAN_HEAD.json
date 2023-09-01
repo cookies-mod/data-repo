@@ -1,0 +1,53 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMTQ3NDQ5NDU3OCwKICAicHJvZmlsZUlkIiA6ICJhMmY4MzQ1OTVjODk0YTI3YWRkMzA0OTcxNmNhOTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiUHVuY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTc2NmEwZDIxZDI2MWM4Nzg3NjNjYTgyNjRjZDJkZDBiMTdlY2ZhYzM0MjQxMWRiMDc4ODZiMDc4ZTZjYjAxMyIKICAgIH0KICB9Cn0\u003d",
+  "name": "Golden Sadan Head",
+  "category": "HELMET",
+  "tier": "SPECIAL",
+  "stats": {
+    "DEFENSE": 35,
+    "HEALTH": 70,
+    "STRENGTH": 15
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 75
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 125
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 250
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 500
+      }
+    ]
+  ],
+  "dungeon_item": true,
+  "museum": true,
+  "id": "GOLD_SADAN_HEAD"
+}

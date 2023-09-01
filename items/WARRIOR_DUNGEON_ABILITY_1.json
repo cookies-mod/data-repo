@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDM2MjllODZhZmRiNTgyZGI4MjM1MzI3NDQ5NTczMTNmYzI2YjYyMTk0ODI5YzhkM2Y4MTRjODAyODk2YjIifX19",
+  "name": "Strength Potion",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1,
+  "dungeon_item": true,
+  "id": "WARRIOR_DUNGEON_ABILITY_1"
+}

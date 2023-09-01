@@ -1,0 +1,8 @@
+{
+  "material": "GOLD_NUGGET",
+  "name": "Golden Tooth",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 128,
+  "id": "GOLDEN_TOOTH"
+}

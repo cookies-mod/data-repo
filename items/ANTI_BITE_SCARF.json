@@ -1,0 +1,19 @@
+{
+  "material": "CARPET",
+  "durability": 14,
+  "name": "Anti-Bite Scarf",
+  "tier": "LEGENDARY",
+  "category": "HELMET",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_TIME": 100,
+    "RIFT_INTELLIGENCE": 20,
+    "rift_health": 1
+  },
+  "item_specific": {
+    "rift_time_regain_on_kill": 2,
+    "hearts_reduction": 0.3
+  },
+  "unstackable": true,
+  "id": "ANTI_BITE_SCARF"
+}

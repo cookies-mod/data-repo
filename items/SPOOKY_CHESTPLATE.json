@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "96,96,96",
+  "name": "Spooky Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 50
+  },
+  "id": "SPOOKY_CHESTPLATE"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "REDSTONE_BLOCK",
+  "name": "Enchanted Redstone Block",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 25600,
+  "id": "ENCHANTED_REDSTONE_BLOCK"
+}

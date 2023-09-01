@@ -1,0 +1,21 @@
+{
+  "material": "red_terracotta",
+  "durability": 14,
+  "name": "The Builder\u0027s Clay",
+  "category": "HELMET",
+  "tier": "SPECIAL",
+  "museum": true,
+  "id": "DUECES_BUILDER_CLAY",
+  "description": [
+    {"text":"A block that was used to build","color":"gray","italic":true},
+    {"text":"the world around you","color":"gray","italic":true},
+    {"text":""},
+    {"text":"To: ","color":"gray","extra":[{"text":"Unknown","obfuscated":true}]},
+    {"text":"From: ","color":"gray","extra":[{"text":"Unknown","obfuscated":true}]},
+    {"text":""},
+    {"text":"Edition #","color":"dark_gray","extra":[{"text":"0","obfuscated":true}]},
+    {"text":"January 1970","color":"dark_gray","obfuscated":true},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

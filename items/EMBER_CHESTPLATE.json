@@ -1,0 +1,20 @@
+{
+  "material": "CHAINMAIL_CHESTPLATE",
+  "name": "Ember Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 60,
+    "HEALTH": 65,
+    "INTELLIGENCE": 10
+  },
+  "npc_sell_price": 1000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 8
+    }
+  ],
+  "id": "EMBER_CHESTPLATE"
+}

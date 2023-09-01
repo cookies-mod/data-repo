@@ -1,0 +1,7 @@
+{
+  "material": "ENCHANTED_BOOK",
+  "name": "Spellbook",
+  "tier": "SPECIAL",
+  "npc_sell_price": 1,
+  "id": "SPELL_BOOK_TEST"
+}

@@ -1,0 +1,72 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5Mjk5MTgzMzQsInByb2ZpbGVJZCI6ImNiZGViZGRjODNhNTQ0OWFiZDFiOThhNzBjY2E0ZDhlIiwicHJvZmlsZU5hbWUiOiJDaGVja2lkb2lzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yZjBiMzNhMmFiM2UxNjVhMTkzZDMzZTE0OGY2MTM4NGQwMWVkNDVkOWVkYWJiZjFlNTVhMzAxNmNjZDk5MWY1In19fQ\u003d\u003d",
+  "name": "Acacia Minion IX",
+  "generator": "ACACIA",
+  "generator_tier": 9,
+  "tier": "RARE",
+  "id": "ACACIA_GENERATOR_9",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and chopping",
+      "color": "gray"
+    },
+    {
+      "text": "acacia logs! Requires an open",
+      "color": "gray"
+    },
+    {
+      "text": "area to place trees. Minions",
+      "color": "gray"
+    },
+    {
+      "text": "also work when you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "33",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "768",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

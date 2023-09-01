@@ -1,0 +1,40 @@
+{
+  "material": "PRISMARINE_SHARD",
+  "name": "Titanium Drill DR-X555",
+  "glowing": true,
+  "category": "DRILL",
+  "tier": "EPIC",
+  "stats": {
+    "BREAKING_POWER": 9,
+    "DAMAGE": 75,
+    "MINING_FORTUNE": 70,
+    "MINING_SPEED": 1200
+  },
+  "npc_sell_price": 253000,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 5
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMBER"
+    },
+    {
+      "slot_type": "JADE",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JADE_GEM",
+          "amount": 20
+        }
+      ]
+    }
+  ],
+  "id": "TITANIUM_DRILL_3"
+}

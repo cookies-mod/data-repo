@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "255,242,0",
+  "name": "Chicken Leggs",
+  "category": "LEGGINGS",
+  "tier": "RARE",
+  "description": "%%dark_gray%%Sometimes you pretend to be a dolphin, sometimes a chicken. Cluck cluck!",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_TIME": 35
+  },
+  "id": "CHICKEN_LEGGS"
+}

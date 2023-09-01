@@ -1,0 +1,18 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODY3MjgzMjYxNiwKICAicHJvZmlsZUlkIiA6ICIxYTc1ZTNiYmI1NTk0MTc2OTVjMmY4NTY1YzNlMDAzZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZXJvZmFyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE0OTRiYWFhYTIxNzZhMDQwMmM1MjcxZmVmZTEyMjk3YTFhNTg3N2M4ZTBiZGZkZDRiZTU4ZWRlY2Y2MmNmOGMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Synthesizer v1",
+  "tier": "EPIC",
+  "category": "NECKLACE",
+  "npc_sell_price": 3200,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "unstackable": true,
+  "id": "SYNTHESIZER_V1"
+}

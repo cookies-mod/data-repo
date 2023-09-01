@@ -1,0 +1,8 @@
+{
+  "material": "BEDROCK",
+  "name": "Ragnarok",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1,
+  "dungeon_item": true,
+  "id": "RAGNAROK_ABILITY"
+}

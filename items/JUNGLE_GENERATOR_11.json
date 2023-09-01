@@ -1,0 +1,72 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5Mzc0OTE2ODUsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGJlZmM0ZThkNWM3M2Q5YTllM2ZlNWIxMDA5ZjU2OGM1ZDNjYjA3MWZhODY5YjU0ZDI2MDRjYWRlZjQ3NDUwNSJ9fX0\u003d",
+  "name": "Jungle Minion XI",
+  "generator": "JUNGLE",
+  "generator_tier": 11,
+  "tier": "RARE",
+  "id": "JUNGLE_GENERATOR_11",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and chopping",
+      "color": "gray"
+    },
+    {
+      "text": "jungle logs! Requires an open",
+      "color": "gray"
+    },
+    {
+      "text": "area to place trees. Minions",
+      "color": "gray"
+    },
+    {
+      "text": "also work when you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "27",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "960",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

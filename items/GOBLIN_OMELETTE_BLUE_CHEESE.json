@@ -1,0 +1,16 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDU0NjEzMTc5MCwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I1YmNhYjU1ZDUzZTQyNTU2ZjVlODU4ODc0ZWM4Yjc2YThkYTAwODk4NTIyZTZjYmQ2NzNlM2ZiOTgzM2RlYWYiCiAgICB9CiAgfQp9",
+  "name": "Blue Cheese Goblin Omelette",
+  "tier": "RARE",
+  "npc_sell_price": 20840,
+  "description": "%%gray%%%%italic%%May cause illness",
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 6
+    }
+  ],
+  "id": "GOBLIN_OMELETTE_BLUE_CHEESE"
+}

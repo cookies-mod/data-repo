@@ -1,0 +1,24 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MDAyODM2MDY3OCwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk0YTAyZTFhNGRjZjdhNjE1NThjNzljZGFiYjRmNzhlZDM3YWU4MmY5NjU1NDFiNjEyYWYwODhjZmNmZjJiMWIiCiAgICB9CiAgfQp9",
+  "name": "Mandraa",
+  "category": "POWER_STONE",
+  "tier": "RARE",
+  "npc_sell_price": 1,
+  "id": "MANDRAA",
+  "description":[
+    {"text":"unlock the ","color":"gray","extra":[{"text":"Strong ","color":"green"},{"text":"power.","color":"gray"}]},
+    {"text":""},
+    {"text":"At ","color":"gray","extra":[{"text":"250 Magical Power","color":"gold"},{"text":":","color":"gray"}]},
+    {"text":"+116\u2741 Strength","color":"red"},
+    {"text":"+116\u2620 Crit Damage","color":"blue"},
+    {"text":""},
+    {"text":"Unique Power Bonus:","color":"gray"},
+    {"text":"+25\u2741 Strength","color":"red"},
+    {"text":"+25\u2620 Crit Damage","color":"blue"},
+    {"text":""},
+    {"text":"Requires ","color":"gray","extra":[{"text":"Combat Skill Level XXX","color":"green"},{"text":"!","color":"gray"}]},
+    {"text":""},
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NjMyMzEyOTcwMDAsInByb2ZpbGVJZCI6IjdkYTJhYjNhOTNjYTQ4ZWU4MzA0OGFmYzNiODBlNjhlIiwicHJvZmlsZU5hbWUiOiJHb2xkYXBmZWwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzczYTM3YzU4NmU4NTYxNGRhZWJiZDhjZDRlYmM1M2EwYzNhY2VhNjM2NmRkMDRjZTQ4MjNjN2U3MjU1YmQ0NzUifX19",
+  "name": "Sun Minion Skin",
+  "museum": true,
+  "id": "SUN_PERSONALITY",
+  "description": [
+    {
+      "text": "This Minion skin changes your",
+      "color": "gray"
+    },
+    {
+      "text": "minion\u0027s appearance to a",
+      "color": "gray",
+      "extra": [
+        {
+          "text": " Sun",
+          "color": "yellow"
+        },
+        {
+          "text": ".",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "You can place this item in any",
+      "color": "gray"
+    },
+    {
+      "text": "minion of your choice!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

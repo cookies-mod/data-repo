@@ -1,0 +1,327 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwMzc3ODA5MSwKICAicHJvZmlsZUlkIiA6ICJjNjc3MGJjZWMzZjE0ODA3ODc4MTU0NWRhMGFmMDI1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc2M2QyZmU5Mzg4MWI0ZjI2Y2JlMWRkM2IwOWRhN2NjNDhkYmNkYzU2OGQxOTg1MmFkNjM1ZDVkMTY4NTk2MTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ",
+  "name": "Aurora Helmet",
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 50,
+    "HEALTH": 160,
+    "INTELLIGENCE": 190
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "can_have_attributes": true,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 35
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 45
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 55
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 70
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 2
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 80
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 90
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      }
+    ]
+  ],
+  "prestige": {
+    "item_id": "HOT_AURORA_HELMET",
+    "costs": [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 150
+      },
+      {
+        "type": "ITEM",
+        "item_id": "KUUDRA_TEETH",
+        "amount": 10
+      }
+    ]
+  },
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "id": "AURORA_HELMET",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "text": "Tiered Bonus: Arcane Vision (0/4)",
+      "color": "dark_gray"
+    },
+    {
+      "text": "Gives you the ability to see the runic",
+      "color": "gray"
+    },
+    {
+      "text": "affinity of enemies.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Using the proper ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "Runic Spells ",
+          "color": "aqua"
+        },
+        {
+          "text": "of",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "the ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "Aurora Staff ",
+          "color": "gold"
+        },
+        {
+          "text": "grants 1 stack of",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "Arcane Vision \u046a",
+      "color": "gold",
+      "extra": [
+        {
+          "text": ".",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Each ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "Arcane Vision \u046a ",
+          "color": "gold"
+        },
+        {
+          "text": "stack grants",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "you ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "+2% ",
+          "color": "red"
+        },
+        {
+          "text": "damage on your next Runic",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "Spell.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "At ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "10 ",
+          "color": "red"
+        },
+        {
+          "text": "stacks the ",
+          "color": "gray"
+        },
+        {
+          "text": "Aurora Staff",
+          "color": "gold"
+        }
+      ]
+    },
+    {
+      "text": "spells explode on hit.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Lose 1 stack after ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "4s ",
+          "color": "red"
+        },
+        {
+          "text": "of not",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "gaining a stack.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "can_be_reforged": true
+}

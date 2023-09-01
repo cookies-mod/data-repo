@@ -1,0 +1,80 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5NDc4MjEzMTIsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI2OGIyZDQ0NDU3YTkyOTg4NDAwNjg3ZDQzZTE1NjJlMGNiMmVkMTY2N2VmMGU2MmVkMDMzYTI4ODE3MjNlYjQifX19",
+  "name": "Mushroom Minion V",
+  "generator": "MUSHROOM",
+  "generator_tier": 5,
+  "tier": "RARE",
+  "id": "MUSHROOM_GENERATOR_5",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and harvesting",
+      "color": "gray"
+    },
+    {
+      "text": "red and brown mushrooms!",
+      "color": "gray"
+    },
+    {
+      "text": "Requires an area that is",
+      "color": "gray"
+    },
+    {
+      "text": "suitable for mushrooms to be",
+      "color": "gray"
+    },
+    {
+      "text": "placed. Minions also work when",
+      "color": "gray"
+    },
+    {
+      "text": "you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "26",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "384",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

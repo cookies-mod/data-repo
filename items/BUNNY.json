@@ -1,0 +1,17 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VjMjQyZTY2N2FlZTQ0NDkyNDEzZWY0NjFiODEwY2FjMzU2Yjc0ZDg3MThlNWNlYzFmODkyYTZiNDNlNWUxIn19fQ\u003d\u003d",
+  "name": "Bunny",
+  "furniture": "BUNNY",
+  "tier": "RARE",
+  "id": "BUNNY",
+  "description": [
+    {"text": "Easter Cosmetic", "color": "dark_gray"},
+    {"text": ""},
+    {"text": "This exclusive ", "color": "gray", "extra": [{"text": "Easter", "color": "light_purple"}]},
+    {"text": "cosmetic can be placed on your", "color": "gray"},
+    {"text": "island or traded.", "color": "gray"},
+    {"text": ""}
+  ]
+}

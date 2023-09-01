@@ -1,0 +1,8 @@
+{
+  "material": "potato",
+  "name": "Enchanted Potato",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 480,
+  "id": "ENCHANTED_POTATO"
+}

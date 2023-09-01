@@ -1,0 +1,68 @@
+{
+  "material": "BOW",
+  "name": "Super Undead Bow",
+  "category": "BOW",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 220
+  },
+  "npc_sell_price": 1000,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 150
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 300
+      }
+    ]
+  ],
+  "gear_score": 40,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 16
+    }
+  ],
+  "dungeon_item": true,
+  "id": "SUPER_UNDEAD_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {"text":""},
+    {"text":"Deals ","color":"gray","extra":[{"text":"+100% ","color":"green"},{"text":"damage to","color":"gray"}]},
+    {"text":"Undead monsters","color":"green","extra":[{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"Your arrows have a ","color":"gray","extra":[{"text":"25.0%","color":"yellow"}]},
+    {"text":"chance to bounce to another","color":"gray"},
+    {"text":"target after it hits something.","color":"gray"},
+    {"text":""}
+  ]
+}

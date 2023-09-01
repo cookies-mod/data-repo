@@ -1,0 +1,43 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Yeti Rod",
+  "category": "FISHING_ROD",
+  "tier": "EPIC",
+  "stats": {
+    "damage": 150,
+    "strength": 130,
+    "fishing_speed": 75
+  },
+  "npc_sell_price": 150000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 25
+    }
+  ],
+  "salvages": [
+    {
+      "type": "ESSENCE",
+      "essence_type": "ICE",
+      "amount": 20
+    }
+  ],
+  "id": "YETI_ROD",
+  "description": [
+    {"text":""},
+    {"text":"Doubles the chance of the sea","color":"gray"},
+    {"text":"creatures that you spawn to be","color":"gray"},
+    {"text":"winter sea creatures.","color":"gray"},
+    {"text":""},
+    {"text":"Increase your walk speed by ","color":"gray","extra":[{"text":"1%","color":"green"}]},
+    {"text":"for every ","color":"gray","extra":[{"text":"10 ","color":"yellow"},{"text":"fish that you","color":"gray"}]},
+    {"text":"catch using this rod! Maximum","color":"gray"},
+    {"text":"increase of ","color":"gray","extra":[{"text":"100%","color":"green"},{"text":"!","color":"gray"}]},
+    {"text":""},
+    {"text":"Fish Caught: ","color":"gray", "extra":[{"text":"0","color":"green"}]},
+    {"text":"Walk Speed Bonus: ","color":"gray","extra":[{"text":"0","color":"white"}]},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

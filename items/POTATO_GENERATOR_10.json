@@ -1,0 +1,76 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5NDY4NzEwNjAsInByb2ZpbGVJZCI6IjVkMjRiYTBiMjg4YzQyOTM4YmExMGVjOTkwNjRkMjU5IiwicHJvZmlsZU5hbWUiOiIxbnYzbnQxdjN0NGwzbnQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UwNWMyYWI3ZjQxY2ExZjNmMjIxYjk0OWVkYzdiMjBiODAwZWQzYmJhZWIzNjUxNGViMDAzODg3MzM4Zjk2MCJ9fX0\u003d",
+  "name": "Potato Minion X",
+  "generator": "POTATO",
+  "generator_tier": 10,
+  "tier": "RARE",
+  "id": "POTATO_GENERATOR_10",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and harvesting",
+      "color": "gray"
+    },
+    {
+      "text": "potatoes. Requires dirt or soil",
+      "color": "gray"
+    },
+    {
+      "text": "nearby so potatoes can be",
+      "color": "gray"
+    },
+    {
+      "text": "planted. Minions also work when",
+      "color": "gray"
+    },
+    {
+      "text": "you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "12",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "960",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

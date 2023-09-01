@@ -1,0 +1,12 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5ODI1Mjg5ODE0MCwKICAicHJvZmlsZUlkIiA6ICI1NjY3NWIyMjMyZjA0ZWUwODkxNzllOWM5MjA2Y2ZlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRyYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NzkyNjc2NjY0YWM3MTE0ODg2NDFmNzJiMjU5NjE4MzU2MTNkYTlmZmQ0M2VhM2JkZDE2M2NiMzY1MzQzYTYiCiAgICB9CiAgfQp9",
+  "name": "Razor-sharp Shark Tooth Necklace",
+  "category": "ACCESSORY",
+  "tier": "LEGENDARY",
+  "stats": {
+    "STRENGTH": 10
+  },
+  "id": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE"
+}

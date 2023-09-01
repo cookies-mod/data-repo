@@ -1,0 +1,184 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "36,221,229",
+  "name": "Thunder Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "HEALTH": 220,
+    "DEFENSE": 200,
+    "STRENGTH": 25,
+    "SEA_CREATURE_CHANCE": 4
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 36
+    }
+  ],
+  "npc_sell_price": 175000,
+  "can_have_attributes": true,
+  "salvageable_from_recipe": true,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ITEM",
+        "item_id": "THUNDER_SHARDS",
+        "amount": 2
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "THUNDER_SHARDS",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "THUNDER_SHARDS",
+        "amount": 6
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 120
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "THUNDER_SHARDS",
+        "amount": 8
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 160
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "THUNDER_SHARDS",
+        "amount": 10
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "THUNDER_SHARDS",
+        "amount": 15
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 300
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "THUNDER_SHARDS",
+        "amount": 20
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 400
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "THUNDER_SHARDS",
+        "amount": 25
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 500
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "HORN_OF_TAURUS",
+        "amount": 30
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 600
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "HORN_OF_TAURUS",
+        "amount": 40
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 800
+      }
+    ]
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT"
+    }
+  ],
+  "id": "THUNDER_LEGGINGS",
+  "description": [
+    {"text":""},
+    {"text":"Tiered Bonus: Static Charge (0/5)","color":"dark_gray"},
+    {"text":"Gains ","color":"gray","extra":[{"text":"1","color":"red"},{"text":" static charge every","color":"gray"}]},
+    {"text":"30","color":"yellow","extra":[{"text":" seconds.","color":"gray"},{"text":"Hitting a target will cause a","color":"gray"}]},
+    {"text":"discharge, adding ","color":"gray","extra":[{"text":"15%","color":"green"},{"text":" damage","color":"gray"}]},
+    {"text":"to that hit for each charge","color":"gray"},
+    {"text":"collected.","color":"gray"},
+    {"text":""},
+    {"text":"Maximum Charge Capacity: ","color":"gray","extra":[{"text":"2","color":"red"}]},
+    {"text":""},
+    {"text":"Damage taken by ","color":"gray","extra":[{"text":"Lava Sea","color":"red"}]},
+    {"text":"Creatures ","color":"red","extra":[{"text":"is reduced by ","color":"gray"},{"text":"10%","color":"green"}]},
+    {"text":"and damage dealt is increased","color":"gray"},
+    {"text":"by ","color":"gray","extra":[{"text":"1.2x","color":"red"},{"text":".","color":"gray"}]},
+    {"text":"","color":"gray"},
+  ],
+  "can_be_reforged":true
+}

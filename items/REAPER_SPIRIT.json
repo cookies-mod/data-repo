@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5NDY1MDQ4MzAyNSwKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3Rab2duaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MjRkMjA3MjkxODA1NGE5NWE0ZjRiYmM5MzFiZjM5MjlkMDFjYjAxMjM2OGJjNGM3OGQwYTNhY2M5Y2RiZWVhIgogICAgfQogIH0KfQ",
+  "name": "Spirit Skin",
+  "category": "COSMETIC",
+  "tier": "MYTHIC",
+  "unstackable": true,
+  "id": "REAPER_SPIRIT"
+}

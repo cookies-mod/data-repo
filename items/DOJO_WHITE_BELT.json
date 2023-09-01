@@ -1,0 +1,52 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwMDAzNDYwMiwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyZDJlM2ZjZjBlMzkwMzdlYWYyMjM4NGRhYjNmMDg1MjJhNmI4OTFkMjdhNDdiNzUyNzkxNmVhODFhZGQzYzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "White Belt",
+  "tier": "COMMON",
+  "stats": {
+    "HEALTH": 10,
+    "DEFENSE": 5
+  },
+  "category": "BELT",
+  "unstackable": true,
+  "soulbound": "SOLO",
+  "can_have_attributes": true,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ITEM",
+        "item_id": "KADA_LEAD",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "MAGMAG",
+        "amount": 20
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "KADA_LEAD",
+        "amount": 20
+      },
+      {
+        "type": "ITEM",
+        "item_id": "MAGMAG",
+        "amount": 30
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 500
+      }
+    ]
+  ],
+  "id": "DOJO_WHITE_BELT"
+}

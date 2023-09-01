@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3ODgyMjE3NDk0MywKICAicHJvZmlsZUlkIiA6ICIxMWY3ZTIxMDMyOGE0MjRmYTU0NmFlZDk1M2FkNGU3ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1bnR1bmVkMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYzdkNTUyMGE3M2UxZDZkNzg1NDk2YjVmNWFmOGM5ZTE0YjQwZDZmNmViZDYyOTIzMWRkYmNlMjdkNDIyMjE0IgogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Cropie Talisman",
+  "tier": "COMMON",
+  "category": "ACCESSORY",
+  "id": "CROPIE_TALISMAN"
+}

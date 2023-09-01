@@ -1,0 +1,43 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0OTQzNjM2MDg1NywKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2NlOWVlNmM5NDcyYTFmOThhYjlmNzg0NDc4NTQwNWRmYThiNTZkOGUyMzFjZDMyNjc1YWM1YmFhOTg0OWJlOSIKICAgIH0KICB9Cn0\u003d",
+  "name": "Tropical Bird 1 Minion Skin",
+  "category": "COSMETIC",
+  "museum": true,
+  "id": "TROPICAL_BIRD_1_PERSONALITY",
+  "description": [
+    {
+      "text": "This Minion skin changes your",
+      "color": "gray"
+    },
+    {
+      "text": "minion\u0027s appearance to a",
+      "color": "gray",
+      "extra": [
+        {
+          "text": " Tropical Bird 1",
+          "color": "yellow"
+        },
+        {
+          "text": ".",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "You can place this item in any",
+      "color": "gray"
+    },
+    {
+      "text": "minion of your choice!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

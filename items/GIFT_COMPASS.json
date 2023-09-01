@@ -1,0 +1,8 @@
+{
+  "material": "COMPASS",
+  "name": "Gift Compass",
+  "tier": "UNCOMMON",
+  "soulbound": "COOP",
+  "npc_sell_price": 1,
+  "id": "GIFT_COMPASS"
+}

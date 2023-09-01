@@ -1,0 +1,10 @@
+{
+  "material": "IRON_AXE",
+  "name": "Iron Axe",
+  "category": "AXE",
+  "stats": {
+    "DAMAGE": 25
+  },
+  "npc_sell_price": 4,
+  "id": "IRON_AXE"
+}

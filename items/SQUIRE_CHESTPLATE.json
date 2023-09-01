@@ -1,0 +1,19 @@
+{
+  "material": "IRON_CHESTPLATE",
+  "name": "Squire Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 40,
+    "HEALTH": 40
+  },
+  "npc_sell_price": 4000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 4
+    }
+  ],
+  "id": "SQUIRE_CHESTPLATE"
+}

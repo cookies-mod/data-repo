@@ -1,0 +1,9 @@
+{
+  "material": "STICK",
+  "name": "Polymorph Wand",
+  "glowing": true,
+  "category": "SWORD",
+  "tier": "RARE",
+  "npc_sell_price": 64000,
+  "id": "POLYMORPH_WAND"
+}

@@ -1,0 +1,28 @@
+{
+  "material": "DEAD_BUSH",
+  "name": "Great Spook Staff",
+  "tier": "LEGENDARY",
+  "unstackable": true,
+  "museum": true,
+  "npc_sell_price": 0,
+  "id": "GREAT_SPOOK_STAFF",
+  "description": [
+    {"text":"Fear: ","color":"gray","extra":[{"text":"+10","color":"green"}]},
+    {"text":""},
+    {"text":"Obtained during the ","color":"gray","extra":[{"text":"2021","color":"yellow"}]},
+    {"text":"Alchemist ","color":"dark_purple","extra":[{"text":"experiments!","color":"gray"}]},
+    {"text":""},
+    {"text":"Ability: Spooker ","color":"gold","extra":[{"text":"LEFT CLICK","color":"yellow","bold":true}]},
+    {"text":"Will spook other players with a ","color":"gray","extra":[{"text":"scary","color":"dark_gray","italic":true}]},
+    {"text":"message when you ","color":"gray","extra":[{"text":"punch ","color":"red"},{"text":"them.","color":"gray"}]},
+    {"text":"Cooldown: ","color":"dark_gray","extra":[{"text":"1m","color":"green"}]},
+    {"text":""},
+    {"text":"Ability: Spook ","color":"gold","extra":[{"text":"RIGHT CLICK","color":"yellow","bold":true}]},
+    {"text":"Will make you appear as a","color":"gray"},
+    {"text":"Dead Bush ","color":"yellow","extra":[{"text":"to other players.","color":"gray"}]},
+    {"text":"Cooldown: ","color":"dark_gray","extra":[{"text":"15s","color":"green"}]},
+    {"text":""},
+    {"text":"Edition #","color":"dark_gray","extra":[{"text":"1","obfuscated":true}]},
+    {"text":""}
+  ]
+}

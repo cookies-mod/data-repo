@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NzMwNjU2NzkyMDMsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhmYjI2NWM4Y2M2MTM2MDYzYjRlYjE1NDUwZmUxZmUxYWI3NzM4YjBiZjU0ZDI2NTQ5MGUxZWY0OWRhNjBiN2MifX19",
+  "name": "Exquisite Ring of Love",
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "soulbound": "COOP",
+  "id": "WEDDING_RING_7"
+}

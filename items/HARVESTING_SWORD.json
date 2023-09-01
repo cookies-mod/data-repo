@@ -1,0 +1,11 @@
+{
+  "material": "DIAMOND_SWORD",
+  "name": "Harvesting Sword",
+  "category": "SWORD",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 50
+  },
+  "npc_sell_price": 1,
+  "id": "HARVESTING_SWORD"
+}

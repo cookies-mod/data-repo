@@ -1,0 +1,9 @@
+{
+  "material": "PUMPKIN_PIE",
+  "name": "Spooky Pie",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "museum": true,
+  "soulbound": "COOP",
+  "id": "SPOOKY_PIE"
+}

@@ -1,0 +1,20 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "10,0,17",
+  "name": "Final Destination Boots",
+  "category": "BOOTS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 100,
+    "HEALTH": 100,
+    "INTELLIGENCE": 100
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "enderman",
+      "level": 4
+    }
+  ],
+  "id": "FINAL_DESTINATION_BOOTS"
+}

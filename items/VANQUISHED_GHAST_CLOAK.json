@@ -1,0 +1,159 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ5NTQ0Njc4OCwKICAicHJvZmlsZUlkIiA6ICJmZTYxY2RiMjUyMTA0ODYzYTljY2E2ODAwZDRiMzgzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNeVNoYWRvd3MiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTc3NDQ4OWM5NGIyMmJmMzE2OGFkZDEzOGM1NjMyOGU3OGRjZWM5MTM1NDIyYTYyMWE5NWQwZmY1YWRmMmY3MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+  "name": "Vanquished Ghast Cloak",
+  "category": "CLOAK",
+  "tier": "EPIC",
+  "npc_sell_price": 275340,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "stats": {
+    "HEALTH": 10,
+    "DEFENSE": 10
+  },
+  "can_have_attributes": true,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "TENTACLE_MEAT",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 20
+      },
+      {
+        "type": "ITEM",
+        "item_id": "TENTACLE_MEAT",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 30
+      },
+      {
+        "type": "ITEM",
+        "item_id": "TENTACLE_MEAT",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 40
+      },
+      {
+        "type": "ITEM",
+        "item_id": "TENTACLE_MEAT",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 50
+      },
+      {
+        "type": "ITEM",
+        "item_id": "TENTACLE_MEAT",
+        "amount": 90
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 60
+      },
+      {
+        "type": "ITEM",
+        "item_id": "TENTACLE_MEAT",
+        "amount": 130
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 70
+      },
+      {
+        "type": "ITEM",
+        "item_id": "TENTACLE_MEAT",
+        "amount": 180
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 80
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      },
+      {
+        "type": "ITEM",
+        "item_id": "TENTACLE_MEAT",
+        "amount": 240
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 90
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      },
+      {
+        "type": "ITEM",
+        "item_id": "TENTACLE_MEAT",
+        "amount": 310
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 100
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      },
+      {
+        "type": "ITEM",
+        "item_id": "TENTACLE_MEAT",
+        "amount": 390
+      }
+    ]
+  ],
+  "id": "VANQUISHED_GHAST_CLOAK"
+}

@@ -1,0 +1,11 @@
+{
+  "material": "DIAMOND_HELMET",
+  "name": "Diamond Helmet",
+  "category": "HELMET",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 15
+  },
+  "npc_sell_price": 20,
+  "id": "DIAMOND_HELMET"
+}

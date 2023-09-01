@@ -1,0 +1,8 @@
+{
+  "material": "NOTE_BLOCK",
+  "name": "Silence Block",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 160,
+  "id": "SILENCE_BLOCK"
+}

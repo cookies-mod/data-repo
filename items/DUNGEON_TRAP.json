@@ -1,0 +1,7 @@
+{
+  "material": "IRON_PLATE",
+  "name": "Trap",
+  "tier": "UNCOMMON",
+  "dungeon_item": true,
+  "id": "DUNGEON_TRAP"
+}

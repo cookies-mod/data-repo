@@ -1,0 +1,8 @@
+{
+  "material": "COOKED_FISH",
+  "name": "Bat the Fish",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "museum": true,
+  "id": "BAT_THE_FISH"
+}

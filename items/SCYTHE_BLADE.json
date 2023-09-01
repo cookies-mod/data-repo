@@ -1,0 +1,8 @@
+{
+  "material": "DIAMOND",
+  "name": "Scythe Blade",
+  "glowing": true,
+  "tier": "LEGENDARY",
+  "unstackable": true,
+  "id": "SCYTHE_BLADE"
+}

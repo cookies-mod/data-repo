@@ -1,0 +1,19 @@
+{
+  "material": "CHAINMAIL_LEGGINGS",
+  "name": "Squire Leggings",
+  "category": "LEGGINGS",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 30,
+    "HEALTH": 30
+  },
+  "npc_sell_price": 3500,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 4
+    }
+  ],
+  "id": "SQUIRE_LEGGINGS"
+}

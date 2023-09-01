@@ -1,0 +1,16 @@
+{
+  "material": "lime_dye",
+  "durability": 10,
+  "name": "Toxic Arrow Poison",
+  "category": "ARROW_POISON",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 2000,
+  "id": "TOXIC_ARROW_POISON",
+  "description": [
+    {"text":"Consumed on arrow shot","color":"dark_gray"},
+    {"text":"Arrows deal ","color":"gray","extra":[{"text":"+10% ","color":"dark_green"},{"text":"damage","color":"gray"}]},
+    {"text":"and reduces healing by ","color":"gray","extra":[{"text":"24%","color":"dark_green"}]},
+    {"text":"over ","color":"gray","extra":[{"text":"4 ","color":"aqua"},{"text":"seconds.","color":"gray"}]},
+    {"text":""}
+  ]
+}

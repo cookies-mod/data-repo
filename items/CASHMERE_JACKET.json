@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "name": "Cashmere Jacket",
+  "tier": "RARE",
+  "category": "CHESTPLATE",
+  "stats": {
+    "health": 25,
+    "defense": 10
+  },
+  "id": "CASHMERE_JACKET"
+}

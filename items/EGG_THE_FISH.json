@@ -1,0 +1,9 @@
+{
+  "material": "COOKED_FISH",
+  "durability": 1,
+  "name": "Egg the Fish",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "museum": true,
+  "id": "EGG_THE_FISH"
+}

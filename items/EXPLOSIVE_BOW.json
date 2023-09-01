@@ -1,0 +1,22 @@
+{
+  "material": "BOW",
+  "name": "Explosive Bow",
+  "category": "BOW",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 100,
+    "STRENGTH": 20
+  },
+  "npc_sell_price": 62000,
+  "id": "EXPLOSIVE_BOW",
+  "can_be_reforged":true,
+  "description": [
+    {"text":""},
+    {"text":"Ability: Explosive Shot","color":"gold"},
+    {"text":"Creates an explosion on impact!","color":"gray"},
+    {"text":"Every Monster caught in this","color":"gray"},
+    {"text":"explosion takes the full damage","color":"gray"},
+    {"text":"of the weapon!","color":"gray"},
+    {"text":""}
+  ]
+}

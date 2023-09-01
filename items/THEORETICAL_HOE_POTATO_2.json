@@ -1,0 +1,37 @@
+{
+  "material": "IRON_HOE",
+  "name": "Pythagorean Potato Hoe",
+  "category": "HOE",
+  "tier": "UNCOMMON",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 20
+    }
+  ],
+  "id": "THEORETICAL_HOE_POTATO_2",
+  "description": [
+    {"text":"Gain ","color":"gray","extra":[{"text":"+25\u2618 Farming Fortune","color":"gold"}]},
+    {"text":"and ","color":"gray","extra":[{"text":"+2\u262f Farming Wisdom ","color":"dark_aqua"},{"text":"for","color":"gray"}]},
+    {"text":"potatoes.","color":"gray"},
+    {"text":""},
+    {"text":"Counter: ","color":"gray","extra":[{"text":"0 Potatoes","color":"yellow"}]},
+    {"text":""},
+    {"text":"Logarithmic Counter","color":"gold"},
+    {"text":"Gain ","color":"gray","extra":[{"text":"+16\u2618 Farming Fortune","color":"gold"}]},
+    {"text":"for potatoes per digits on the","color":"gray"},
+    {"text":"Counter, minus 4!","color":"gray"},
+    {"text":"You have ","color":"gray","extra":[{"text":"+0\u2618 Farming Fortune","color":"gold"}]},
+    {"text":"for potatoes.","color":"gray"},
+    {"text":""},
+    {"text":"Bonus potatoes percent","color":"dark_gray"},
+    {"text":"increases your Farmhand perk's","color":"dark_gray"},
+    {"text":"chances","color":"dark_gray"},
+    {"text":""},
+    {"text":"Reach 100k Counter for +1 Rarity!","color":"yellow"},
+    {"text":"Right-click to view recipes!","color":"yellow"},
+    {"text":""}
+  ],
+  "can_be_reforged": true
+}

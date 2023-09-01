@@ -1,0 +1,19 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI2OTc1YWY3MDcyNGQ2YTQ0ZmQ1OTQ2ZTYwYjI3MTc3MzdkZmRiNTQ1YjRkYWIxODkzMzUxYTljOWRkMTgzYyJ9fX0\u003d",
+  "name": "Hocus-Pocus Cipher",
+  "tier": "EPIC",
+  "category": "ACCESSORY",
+  "unstackable": true,
+  "rift_transferrable": true,
+  "cannot_reforge": true,
+  "item_specific": {
+    "stats_on_rift": {
+      "rift_time": 65,
+      "rift_intelligence": 5,
+      "rift_mana_regen": 5
+    }
+  },
+  "id": "HOCUS_POCUS_CIPHER"
+}

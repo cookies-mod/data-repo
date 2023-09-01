@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMThhMmJlODRiZDZjZTdmNDZiYzRhMWZhMDM0Y2Y2ZmRmNjNkNjIwMDU3OGFjYzc1ZjlmMzE4MTY0YjM5NjdiIn19fQ\u003d\u003d",
+  "name": "Portal to Dark Thicket",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Dark Thicket",
+      "description_name": "%%green%%Dark Thicket",
+      "destination_mode": "foraging_1",
+      "offset": "FORAGING",
+      "schematic_file": "sb_portal_foraging5",
+      "location_tag": "dark",
+      "skill_requirement": {
+        "skill": "FORAGING",
+        "level": 3
+      }
+    }
+  },
+  "id": "FORAGING_5_PORTAL"
+}

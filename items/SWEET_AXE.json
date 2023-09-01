@@ -1,0 +1,12 @@
+{
+  "material": "IRON_AXE",
+  "name": "Sweet Axe",
+  "category": "AXE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 25
+  },
+  "npc_sell_price": 25,
+  "museum": true,
+  "id": "SWEET_AXE"
+}

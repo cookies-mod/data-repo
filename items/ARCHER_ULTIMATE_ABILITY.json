@@ -1,0 +1,11 @@
+{
+  "material": "bow",
+  "name": "Machine Gun Bow",
+  "tier": "UNOBTAINABLE",
+  "npc_sell_price": 1,
+  "dungeon_item": true,
+  "id": "ARCHER_ULTIMATE_ABILITY",
+  "description": [
+    {"text":"Dungeon archer ultimate","color":"gray"}
+  ]
+}

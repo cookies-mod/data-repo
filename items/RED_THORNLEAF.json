@@ -1,0 +1,9 @@
+{
+  "material": "DEAD_BUSH",
+  "name": "Red Thornleaf",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "description": "%%gray%%%%italic%%A leaf that grows on the ground. Really pushing the envelope.",
+  "npc_sell_price": 20,
+  "id": "RED_THORNLEAF"
+}

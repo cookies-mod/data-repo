@@ -1,0 +1,8 @@
+{
+  "material": "NAME_TAG",
+  "name": "Name Tag",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 50,
+  "museum": true,
+  "id": "NAME_TAG"
+}

@@ -1,0 +1,67 @@
+{
+  "material": "LEATHER_BOOTS",
+  "item_durability": -1,
+  "color": "191,188,178",
+  "name": "Adaptive Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 45,
+    "HEALTH": 90,
+    "STRENGTH": 15,
+    "INTELLIGENCE": 15
+  },
+  "npc_sell_price": 20000,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 150
+      }
+    ]
+  ],
+  "gear_score": 50,
+  "requirements": [
+    {
+      "type": "DUNGEON_TIER",
+      "dungeon_type": "CATACOMBS",
+      "tier": 3
+    }
+  ],
+  "dungeon_item": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "DEFENSIVE"
+    }
+  ],
+  "id": "ADAPTIVE_BOOTS"
+}

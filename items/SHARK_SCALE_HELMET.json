@@ -1,0 +1,29 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzkwMTE2ZGE1MTRhNzNkZGQ5Mjk1NDkxODUyYWRjNTg4MDA3ZjJhY2Q3ZGUyNjk3ODhhMjEyOGQ4ZTRhNzY0YiJ9fX0\u003d",
+  "name": "Shark Scale Helmet",
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 120,
+    "HEALTH": 120
+  },
+  "npc_sell_price": 40000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 24
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    }
+  ],
+  "id": "SHARK_SCALE_HELMET"
+}

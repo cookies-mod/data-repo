@@ -1,0 +1,18 @@
+{
+  "material": "BOW",
+  "name": "Artisanal Shortbow",
+  "category": "BOW",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 40
+  },
+  "npc_sell_price": 200,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 4
+    }
+  ],
+  "id": "ARTISANAL_SHORTBOW"
+}

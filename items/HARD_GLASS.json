@@ -1,0 +1,7 @@
+{
+  "material": "STAINED_GLASS",
+  "durability": 7,
+  "name": "Hard Glass",
+  "npc_sell_price": 20,
+  "id": "HARD_GLASS"
+}

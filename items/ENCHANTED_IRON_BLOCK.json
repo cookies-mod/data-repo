@@ -1,0 +1,8 @@
+{
+  "material": "IRON_BLOCK",
+  "name": "Enchanted Iron Block",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 76800,
+  "id": "ENCHANTED_IRON_BLOCK"
+}

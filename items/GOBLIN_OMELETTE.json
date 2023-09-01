@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzMjI2NjM4MiwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZTk0N2ZlMDllYmI3ZTdiMzc2OWJiOGE1ZGE1Y2I3MzQ2NDZiMmM3OTczYWI2YTM1YjY2MjdhN2RjMTI0NWQxIgogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Goblin Omelette",
+  "tier": "RARE",
+  "npc_sell_price": 20840,
+  "description": "%%gray%%%%italic%%May cause diseases",
+  "id": "GOBLIN_OMELETTE"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "FEATHER",
+  "name": "Enchanted Feather",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 480,
+  "id": "ENCHANTED_FEATHER"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "GRILLED_PORK",
+  "name": "Enchanted Grilled Pork",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 128000,
+  "id": "ENCHANTED_GRILLED_PORK"
+}

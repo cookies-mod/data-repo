@@ -1,0 +1,10 @@
+{
+  "material": "IRON_HELMET",
+  "name": "Iron Helmet",
+  "category": "HELMET",
+  "stats": {
+    "DEFENSE": 10
+  },
+  "npc_sell_price": 7,
+  "id": "IRON_HELMET"
+}

@@ -1,0 +1,53 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTU1MjgyNDM1MiwKICAicHJvZmlsZUlkIiA6ICJhMmY4MzQ1OTVjODk0YTI3YWRkMzA0OTcxNmNhOTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiUHVuY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGIxMTVjZGM0NWZkODRmMjFmYmE3YWMwZjJiYzc3YmMzYjYzMDJiZTY3MDg0MmY2ZTExZjY2ZWI1NTdmMTNlZSIKICAgIH0KICB9Cn0\u003d",
+  "name": "Diamond Necron Head",
+  "category": "HELMET",
+  "tier": "SPECIAL",
+  "stats": {
+    "DEFENSE": 80,
+    "HEALTH": 220,
+    "STRENGTH": 40
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 75
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 125
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 250
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 500
+      }
+    ]
+  ],
+  "dungeon_item": true,
+  "museum": true,
+  "id": "DIAMOND_NECRON_HEAD"
+}

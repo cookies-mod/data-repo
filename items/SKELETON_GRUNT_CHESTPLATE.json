@@ -1,0 +1,93 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "225,235,52",
+  "name": "Skeleton Grunt Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "DEFENSE": [
+      38,
+      41,
+      44,
+      49,
+      52,
+      57,
+      62,
+      67,
+      73,
+      80
+    ],
+    "HEALTH": [
+      23,
+      26,
+      28,
+      31,
+      33,
+      36,
+      40,
+      42,
+      46,
+      50
+    ],
+    "CRITICAL_DAMAGE": [
+      15,
+      16,
+      18,
+      19,
+      21,
+      23,
+      24,
+      27,
+      29,
+      32
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 160
+      }
+    ]
+  ],
+  "gear_score": 5,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 1
+    }
+  ],
+  "dungeon_item": true,
+  "id": "SKELETON_GRUNT_CHESTPLATE"
+}

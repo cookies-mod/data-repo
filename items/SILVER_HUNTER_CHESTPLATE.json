@@ -1,0 +1,124 @@
+{
+  "material": "IRON_CHESTPLATE",
+  "stats": {
+    "HEALTH": 185,
+    "DEFENSE": 185
+  },
+  "name": "Silver Hunter Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "RARE",
+  "requirements": [
+    {
+      "type": "TROPHY_FISHING",
+      "reward": "SILVER"
+    }
+  ],
+  "soulbound": "SOLO",
+  "can_have_attributes": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT"
+    }
+  ],
+  "upgrade_costs": [
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_SILVER",
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_SILVER",
+        "amount": 2
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_SILVER",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_SILVER",
+        "amount": 4
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_SILVER",
+        "amount": 5
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_SILVER",
+        "amount": 6
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_SILVER",
+        "amount": 7
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_SILVER",
+        "amount": 8
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_SILVER",
+        "amount": 9
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_SILVER",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      }
+    ]
+  ],
+  "id": "SILVER_HUNTER_CHESTPLATE",
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Peace Treaty","color":"gold"},
+    {"text":"Gain immunity to Sea Creatures","color":"gray"},
+    {"text":"but they are immune to you and","color":"gray"},
+    {"text":"you can no longer catch them.","color":"gray"},
+    {"text":""},
+    {"text":"Full Set Bonus: Odger's Blessing","color":"gold"},
+    {"text":"Increases the chance to catch","color":"gray"},
+    {"text":"Trophy Fish by ","color":"gray","extra":[{"text":"5%","color":"green"},{"text":".","color":"gray"}]},
+    {"text":"","color":"gray"}
+  ],
+  "can_be_reforged":true
+}

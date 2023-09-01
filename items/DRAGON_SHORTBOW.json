@@ -1,0 +1,17 @@
+{
+  "material": "BOW",
+  "name": "Dragon Shortbow",
+  "category": "BOW",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 120,
+    "STRENGTH": 40,
+    "CRITICAL_DAMAGE": 50,
+    "CRITICAL_CHANCE": 15
+  },
+  "enchantments": {
+    "aiming": 5
+  },
+  "soulbound": "COOP",
+  "id": "DRAGON_SHORTBOW"
+}

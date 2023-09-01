@@ -1,0 +1,21 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Chum Rod",
+  "category": "FISHING_ROD",
+  "tier": "RARE",
+  "stats": {
+    "damage": 55,
+    "strength": 40,
+    "sea_creature_chance": 2,
+    "fishing_speed": 70
+  },
+  "npc_sell_price": 750,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 5
+    }
+  ],
+  "id": "CHUM_ROD"
+}

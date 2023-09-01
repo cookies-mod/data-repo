@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjQ1NTlkNzU0NjRiMmU0MGE1MThlNGRlOGU2Y2YzMDg1ZjBhM2NhMGIxYjcwMTI2MTRjNGNkOTZmZWQ2MDM3OCJ9fX0\u003d",
+  "name": "Portal to the Hub Castle",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Hub Castle",
+      "description_name": "%%gray%%the %%aqua%%Hub Castle",
+      "destination_mode": "hub",
+      "location_tag": "castle",
+      "schematic_file": "sb_portal_hub_castle",
+      "offset": "NEW",
+      "skill_requirement": {
+        "skill": "COMBAT",
+        "level": 3
+      }
+    }
+  },
+  "id": "HUB_CASTLE_PORTAL"
+}

@@ -1,0 +1,12 @@
+{
+  "material": "FLOWER_POT",
+  "name": "Pet Satchel",
+  "id": "PET_SATCHEL",
+  "tier":"UNOBTAINABLE",
+  "description": [
+    {"text": ""},
+    {"text": "WARNING!", "color": "red", "bold": true},
+    {"text": "This item is not obtainable, it does ONLY exist in the API.", "color": "red"},
+    {"text": ""}
+  ]
+}

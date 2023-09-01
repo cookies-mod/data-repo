@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NzI5ODA0NDkwNDMsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg2OTBjMThlMmI4NzgwYzkyN2ZkMTIxZDVhMzYxOTZhNTNhNzJjNjcwYTg5ZDc4NWRlZWRlZTMxNTUwMjRiMmEifX19",
+  "name": "Mediocre Ring of Love",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "soulbound": "COOP",
+  "id": "WEDDING_RING_2"
+}

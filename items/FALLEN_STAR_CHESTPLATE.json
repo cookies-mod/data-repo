@@ -1,0 +1,9 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "88,97,88",
+  "name": "Fallen Star Chestplate",
+  "category": "CHESTPLATE",
+  "npc_sell_price": 1000,
+  "id": "FALLEN_STAR_CHESTPLATE",
+  "tier": "UNOBTAINABLE"
+}

@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzgzMjY3OTEwNywKICAicHJvZmlsZUlkIiA6ICI3MDQ0ZDlkY2I5OGI0YzgzYWFjNjIzNjFlYTY5YmNmOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfV2F0cnlzaGthXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMDk3ZDA4YWRhOGJkZTY5MjI4MzQ1YjZkMTA1NjVjODU0ZjdhZTlkMjQ0YTEyODlmMWJmOWYyZTg0OTQ1NTgwIgogICAgfQogIH0KfQ",
+  "name": "Arachne\u0027s Fang",
+  "npc_sell_price": 500,
+  "tier": "UNCOMMON",
+  "id": "ARACHNE_FANG"
+}

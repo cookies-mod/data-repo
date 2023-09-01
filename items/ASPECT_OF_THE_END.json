@@ -1,0 +1,17 @@
+{
+  "material": "DIAMOND_SWORD",
+  "name": "Aspect of the End",
+  "category": "SWORD",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 100,
+    "STRENGTH": 100
+  },
+  "npc_sell_price": 56000,
+  "gemstone_slots": [
+    {
+      "slot_type": "SAPPHIRE"
+    }
+  ],
+  "id": "ASPECT_OF_THE_END"
+}

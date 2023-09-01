@@ -1,0 +1,13 @@
+{
+  "material": "STONE_HOE",
+  "name": "Gauss Carrot Hoe",
+  "category": "HOE",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 15
+    }
+  ],
+  "id": "THEORETICAL_HOE_CARROT_1"
+}

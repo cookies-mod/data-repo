@@ -1,0 +1,10 @@
+{
+  "material": "GLOWSTONE_DUST",
+  "name": "Spell Powder",
+  "tier": "EPIC",
+  "glowing": true,
+  "soulbound": "COOP",
+  "description": "%%gray%%%%italic%%Looks like Sulphur, smells like Sulphur... Suspicious.",
+  "npc_sell_price": 500,
+  "id": "SPELL_POWDER"
+}

@@ -1,0 +1,35 @@
+{
+  "material": "GOLD_SWORD",
+  "name": "Pooch Sword",
+  "category": "SWORD",
+  "tier": "LEGENDARY",
+  "stats": {
+    "WALK_SPEED": 5,
+    "DAMAGE": 120,
+    "STRENGTH": 20
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "wolf",
+      "level": 6
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "JASPER",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 20
+        }
+      ]
+    }
+  ],
+  "id": "POOCH_SWORD"
+}

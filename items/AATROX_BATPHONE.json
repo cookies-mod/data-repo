@@ -1,0 +1,19 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1Njc5OTg1NDE4MDYsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzMzZkN2NjOTVjYmY2Njg5ZjVlOGM5NTQyOTRlYzhkMWVmYzQ5NGE0MDMxMzI1YmI0MjdiYzgxZDU2YTQ4NGQifX19",
+  "name": "Maddox Batphone",
+  "tier": "UNCOMMON",
+  "unstackable": true,
+  "soulbound": "COOP",
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "wolf",
+      "level": 3
+    }
+  ],
+  "rift_transferrable": true,
+  "museum": true,
+  "id": "AATROX_BATPHONE"
+}

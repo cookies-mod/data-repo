@@ -1,0 +1,20 @@
+{
+  "material": "ghast_spawn_egg",
+  "name": "Island NPC",
+  "tier": "RARE",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "SOCIAL",
+      "level": 5
+    }
+  ],
+  "id": "ISLAND_NPC",
+  "description": [
+    {"text":"Spawn island NPCs for your","color":"gray"},
+    {"text":"private world! Right-Click one","color":"gray"},
+    {"text":"to edit its settings and add","color":"gray"},
+    {"text":"dialogue.","color":"gray"},
+    {"text":""}
+  ]
+}

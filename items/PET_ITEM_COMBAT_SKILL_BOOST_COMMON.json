@@ -1,0 +1,7 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Combat Exp Boost",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "id": "PET_ITEM_COMBAT_SKILL_BOOST_COMMON"
+}

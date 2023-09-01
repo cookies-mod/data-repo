@@ -1,0 +1,9 @@
+{
+  "material": "INK_SACK",
+  "durability": 5,
+  "name": "Mite Gel",
+  "tier": "EPIC",
+  "npc_sell_price": 2000,
+  "description": "%%dark_gray%%%%italic%%Sticky goo scraped off an Endermite.",
+  "id": "MITE_GEL"
+}

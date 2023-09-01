@@ -1,0 +1,8 @@
+{
+  "material": "PUMPKIN",
+  "name": "Organic Pumpkin",
+  "npc_sell_price": 4,
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "id": "ORGANIC_PUMPKIN"
+}

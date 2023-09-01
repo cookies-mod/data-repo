@@ -1,0 +1,14 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ExMjE4ODI1ODYwMWJjYjdmNzZlM2UyNDg5NTU1YTI2YzBkNzZlNmVmZWMyZmQ5NjZjYTM3MmI2ZGRlMDAifX19",
+  "name": "Cat Talisman",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "stats": {
+    "WALK_SPEED": 1
+  },
+  "soulbound": "COOP",
+  "npc_sell_price": 1000,
+  "id": "CAT_TALISMAN"
+}

@@ -1,0 +1,29 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWQwNmQ5YTA0YTVhNzcyMDYxNGU5MzRjNzVjNmI2NTFmMGViYWJlYTNhNzQ2MWYxYzc0MTA1YzdhMmEwZTY3MiJ9fX0\u003d",
+  "name": "Vampire Dentist Relic",
+  "tier": "LEGENDARY",
+  "category": "ACCESSORY",
+  "origin": "RIFT",
+  "npc_sell_price": 80000,
+  "rift_transferrable": true,
+  "stats": {
+    "health_regeneration": 10,
+    "vitality": 1,
+    "rift_time": 30,
+    "rift_health": 1
+  },
+  "item_specific": {
+    "cooldown_seconds": 1,
+    "bonus_heal": 1
+  },
+  "id": "VAMPIRE_DENTIST_RELIC",
+  "description": [
+    {"text":""},
+    {"text":"Apply a natural regen tick when", "color":"gray"},
+    {"text":"you deal melee damage. ", "color":"gray", "extra":[{"text":"(0.5s","color":"dark_gray"}]},
+    {"text":"cooldown)","color":"dark_gray"},
+    {"text":""}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDU0NjE2NTc4OSwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk5ZmU5N2MyODI1ZWU5YzE0NDFkZWEzY2QyYjY4ZGEzZDYzYmY2NDZhZTFiMTdmOGQzZTFhOTg2MTgwYWU0MmMiCiAgICB9CiAgfQp9",
+  "name": "Sunny Side Goblin Omelette",
+  "tier": "RARE",
+  "npc_sell_price": 20840,
+  "description": "%%gray%%%%italic%%May cause inflammation",
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 4
+    }
+  ],
+  "id": "GOBLIN_OMELETTE_SUNNY_SIDE"
+}

@@ -1,0 +1,21 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Farmer\u0027s Rod",
+  "category": "FISHING_ROD",
+  "tier": "UNCOMMON",
+  "stats": {
+    "damage": 50,
+    "strength": 20,
+    "fishing_speed": 60
+  },
+  "npc_sell_price": 1050,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 8
+    }
+  ],
+  "museum": true,
+  "id": "FARMER_ROD"
+}

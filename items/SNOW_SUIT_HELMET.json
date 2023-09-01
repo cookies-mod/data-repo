@@ -1,0 +1,21 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2QxMTE5NjQzY2VjZmJlMDA0MTQxYTFlYTQwNjJmODMxNWNhNzhlNTAzOTU4YWM1MDUwNWU4NTkyYzQ0YTYwMSJ9fX0\u003d",
+  "name": "Snow Suit Helmet",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 30,
+    "HEALTH": 70
+  },
+  "npc_sell_price": 1000,
+  "salvages": [
+    {
+      "type": "ESSENCE",
+      "essence_type": "ICE",
+      "amount": 10
+    }
+  ],
+  "id": "SNOW_SUIT_HELMET"
+}

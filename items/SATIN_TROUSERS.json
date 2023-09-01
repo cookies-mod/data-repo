@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "name": "Satin Trousers",
+  "tier": "RARE",
+  "category": "LEGGINGS",
+  "stats": {
+    "health": 25,
+    "defense": 10
+  },
+  "id": "SATIN_TROUSERS"
+}

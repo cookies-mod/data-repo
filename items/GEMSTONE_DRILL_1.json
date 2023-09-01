@@ -1,0 +1,20 @@
+{
+  "material": "PRISMARINE_SHARD",
+  "name": "Ruby Drill TX-15",
+  "glowing": true,
+  "category": "DRILL",
+  "tier": "RARE",
+  "stats": {
+    "BREAKING_POWER": 7,
+    "DAMAGE": 75,
+    "MINING_SPEED": 150
+  },
+  "npc_sell_price": 253000,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 3
+    }
+  ],
+  "id": "GEMSTONE_DRILL_1"
+}

@@ -1,0 +1,14 @@
+{
+  "material": "STONE_AXE",
+  "enchantments": {
+    "efficiency": 1
+  },
+  "name": "Rookie Axe",
+  "category": "AXE",
+  "stats": {
+    "DAMAGE": 20
+  },
+  "npc_sell_price": 6,
+  "museum": true,
+  "id": "ROOKIE_AXE"
+}

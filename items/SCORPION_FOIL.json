@@ -1,0 +1,18 @@
+{
+  "material": "WOOD_SWORD",
+  "name": "Scorpion Foil",
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 100,
+    "STRENGTH": 100
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "spider",
+      "level": 6
+    }
+  ],
+  "id": "SCORPION_FOIL"
+}

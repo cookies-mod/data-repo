@@ -1,0 +1,20 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "212,142,242",
+  "name": "Celeste Helmet",
+  "category": "HELMET",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 10,
+    "INTELLIGENCE": 30
+  },
+  "npc_sell_price": 2500,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 4
+    }
+  ],
+  "id": "CELESTE_HELMET"
+}

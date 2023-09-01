@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "106,156,27",
+  "name": "Fermento Leggings",
+  "category": "LEGGINGS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "FARMING_FORTUNE": 35,
+    "walk_speed": 6,
+    "health": 195,
+    "defense": 40
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 40
+    }
+  ],
+  "id": "FERMENTO_LEGGINGS"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "RAW_FISH",
+  "durability": 1,
+  "name": "Grizzly Bait",
+  "tier": "RARE",
+  "unstackable": true,
+  "id": "GRIZZLY_BAIT"
+}

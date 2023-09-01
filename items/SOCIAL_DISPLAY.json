@@ -1,0 +1,13 @@
+{
+  "material": "GOLD_BLOCK",
+  "name": "Social Display",
+  "tier": "UNCOMMON",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "SOCIAL",
+      "level": 2
+    }
+  ],
+  "id": "SOCIAL_DISPLAY"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "FLINT",
+  "name": "Enchanted Flint",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 640,
+  "id": "ENCHANTED_FLINT"
+}

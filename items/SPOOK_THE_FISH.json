@@ -1,0 +1,9 @@
+{
+  "material": "RAW_FISH",
+  "durability": 1,
+  "name": "Spook the Fish",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "museum": true,
+  "id": "SPOOK_THE_FISH"
+}

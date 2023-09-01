@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "0,255,0",
+  "name": "Cactus Chestplate",
+  "category": "CHESTPLATE",
+  "stats": {
+    "DEFENSE": 25,
+    "HEALTH": 15
+  },
+  "npc_sell_price": 4,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 5
+    }
+  ],
+  "id": "CACTUS_CHESTPLATE"
+}

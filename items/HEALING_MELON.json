@@ -1,0 +1,13 @@
+{
+  "material": "SPECKLED_MELON",
+  "name": "Healing Melon",
+  "tier": "UNCOMMON",
+  "motes_sell_price": 5,
+  "unstackable": true,
+  "origin": "RIFT",
+  "item_specific": {
+    "heal": 7,
+    "mana_cost": 50
+  },
+  "id": "HEALING_MELON"
+}

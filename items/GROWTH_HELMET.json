@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "0,190,0",
+  "name": "Helmet of Growth",
+  "category": "HELMET",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 30,
+    "HEALTH": 50
+  },
+  "npc_sell_price": 50000,
+  "id": "GROWTH_HELMET"
+}

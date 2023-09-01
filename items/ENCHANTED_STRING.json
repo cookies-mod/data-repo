@@ -1,0 +1,8 @@
+{
+  "material": "STRING",
+  "name": "Enchanted String",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 576,
+  "id": "ENCHANTED_STRING"
+}

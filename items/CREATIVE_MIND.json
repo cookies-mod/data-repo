@@ -1,0 +1,9 @@
+{
+  "material": "PAINTING",
+  "name": "Creative Mind",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "npc_sell_price": 123,
+  "museum": true,
+  "id": "CREATIVE_MIND"
+}

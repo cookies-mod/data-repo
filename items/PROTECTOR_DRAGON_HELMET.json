@@ -1,0 +1,85 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFmMWExY2NiYjAyNGVkMWQyODQ3MWJjNGIzYzI4ZDA5MzI3NzE2MWEzODcxZDI2OTlkNjhlNWQyYzM4Nzk2NCJ9fX0\u003d",
+  "name": "Protector Dragon Helmet",
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 135,
+    "HEALTH": 70
+  },
+  "npc_sell_price": 100000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "DRAGON",
+    "amount": 40
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 150
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 16
+    }
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 18
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMETHYST",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_AMETHYST_GEM",
+          "amount": 20
+        }
+      ]
+    }
+  ],
+  "id": "PROTECTOR_DRAGON_HELMET"
+}

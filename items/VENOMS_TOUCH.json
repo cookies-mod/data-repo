@@ -1,0 +1,12 @@
+{
+  "material": "BOW",
+  "name": "Venom\u0027s Touch",
+  "category": "BOW",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 250,
+    "STRENGTH": 100
+  },
+  "npc_sell_price": 5000,
+  "id": "VENOMS_TOUCH"
+}

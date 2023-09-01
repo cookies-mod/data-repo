@@ -1,0 +1,21 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Rod of Legends",
+  "category": "FISHING_ROD",
+  "tier": "EPIC",
+  "stats": {
+    "damage": 130,
+    "strength": 120,
+    "sea_creature_chance": 6,
+    "fishing_speed": 105
+  },
+  "npc_sell_price": 111000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 20
+    }
+  ],
+  "id": "LEGEND_ROD"
+}

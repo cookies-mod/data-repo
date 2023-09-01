@@ -1,0 +1,8 @@
+{
+  "material": "WHEAT",
+  "name": "Organic Wheat",
+  "npc_sell_price": 1,
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "id": "ORGANIC_WHEAT"
+}

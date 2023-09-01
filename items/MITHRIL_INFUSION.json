@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNzk2Njc3NzM2NSwKICAicHJvZmlsZUlkIiA6ICI2MWVhMDkyM2FhNDQ0OTEwYmNlZjViZmQ2ZDNjMGQ1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVEYXJ0aEZhdGhlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZTA1MWRmNGRkMjE1MTQ4MWY1MTQ1YjkzZmI3YTlhYTYyODg4ZmJjYjkwYWRkOTg5MGFkMDdjYWYxZmFjYTczIgogICAgfQogIH0KfQ",
+  "name": "Mithril Infusion",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 4346,
+  "id": "MITHRIL_INFUSION"
+}

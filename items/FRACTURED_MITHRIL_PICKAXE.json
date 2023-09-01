@@ -1,0 +1,14 @@
+{
+  "material": "STONE_PICKAXE",
+  "name": "Fractured Mithril Pickaxe",
+  "glowing": true,
+  "category": "PICKAXE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "BREAKING_POWER": 5,
+    "DAMAGE": 30,
+    "MINING_SPEED": 200
+  },
+  "npc_sell_price": 500,
+  "id": "FRACTURED_MITHRIL_PICKAXE"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "SLIME_BLOCK",
+  "name": "Enchanted Slime Block",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 128000,
+  "id": "ENCHANTED_SLIME_BLOCK"
+}

@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTcyMDkxN2NkYTA1Njc0NDI2MTdmMjcyMWU4OGJlOWQyZmZiYjBiMjZhM2Y0YzJmZTIxNjU1ODE0ZDRmNDQ3NiJ9fX0K",
+  "name": "Catacombs Pass V",
+  "category": "DUNGEON_PASS",
+  "tier": "RARE",
+  "dungeon_item": true,
+  "id": "CATACOMBS_PASS_5"
+}

@@ -1,0 +1,119 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "255,188,11",
+  "name": "Skeleton Soldier Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "DEFENSE": [
+      38,
+      42,
+      46,
+      50,
+      54,
+      58,
+      63,
+      69,
+      74,
+      82
+    ],
+    "HEALTH": [
+      24,
+      26,
+      28,
+      31,
+      34,
+      36,
+      40,
+      43,
+      47,
+      51
+    ],
+    "CRITICAL_DAMAGE": [
+      17,
+      18,
+      20,
+      21,
+      23,
+      25,
+      27,
+      30,
+      32,
+      35
+    ],
+    "CRITICAL_CHANCE": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      4,
+      4
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 15
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 120
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 240
+      }
+    ]
+  ],
+  "gear_score": 10,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 9
+    }
+  ],
+  "dungeon_item": true,
+  "id": "SKELETON_SOLDIER_LEGGINGS",
+  "description": [
+    {"text":""},
+    {"text":"Increase the damage you deal","color":"gray"},
+    {"text":"with arrows by ","color":"gray","extra":[{"text":"5%","color":"red"},{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"Full Set Bonus: Skeleton Soldier","color":"gold"},
+    {"text":"Increase the damage you deal","color":"gray"},
+    {"text":"with arrows by an extra ","color":"gray","extra":[{"text":"25%","color":"red"},{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"This armor piece is undead \u0f15!","color":"dark_green"},
+    {"text":""},
+    {"text":"Perfect 52500 / 52500","color":"green"},
+  ],
+  "can_be_reforged":true
+}

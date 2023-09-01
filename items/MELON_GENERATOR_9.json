@@ -1,0 +1,72 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5NDQzMzc4MDQsInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZWJhYzljM2RkYmI3NmVhODYyYjkxYTY5OTJiYWUzNThjMGVhZWQ3YjJjYTczZmIyOGI4MTE1YmUwMTllMzJiIn19fQ\u003d\u003d",
+  "name": "Melon Minion IX",
+  "generator": "MELON",
+  "generator_tier": 9,
+  "tier": "RARE",
+  "id": "MELON_GENERATOR_9",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and harvesting",
+      "color": "gray"
+    },
+    {
+      "text": "melons! Requires an open area to",
+      "color": "gray"
+    },
+    {
+      "text": "place melons. Minions also work",
+      "color": "gray"
+    },
+    {
+      "text": "when you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "16",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "768",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

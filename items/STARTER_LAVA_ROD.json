@@ -1,0 +1,20 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Starter Lava Rod",
+  "category": "FISHING_ROD",
+  "tier": "UNCOMMON",
+  "stats": {
+    "damage": 50,
+    "strength": 50,
+    "fishing_speed": 8
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 10
+    }
+  ],
+  "soulbound": "COOP",
+  "id": "STARTER_LAVA_ROD"
+}

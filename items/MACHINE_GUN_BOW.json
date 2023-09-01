@@ -1,0 +1,91 @@
+{
+  "material": "BOW",
+  "name": "Machine Gun Bow",
+  "category": "BOW",
+  "tier": "RARE",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "DAMAGE": [
+      75,
+      82,
+      89,
+      96,
+      105,
+      114,
+      124,
+      135,
+      146,
+      159
+    ],
+    "STRENGTH": [
+      50,
+      23,
+      25,
+      27,
+      29,
+      32,
+      34,
+      37,
+      40,
+      44
+    ],
+    "CRITICAL_DAMAGE": [
+      12,
+      13,
+      15,
+      16,
+      17,
+      19,
+      20,
+      22,
+      24,
+      26
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 160
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 2
+    }
+  ],
+  "dungeon_item": true,
+  "id": "MACHINE_GUN_BOW"
+}

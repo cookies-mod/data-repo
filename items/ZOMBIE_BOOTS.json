@@ -1,0 +1,69 @@
+{
+  "material": "DIAMOND_BOOTS",
+  "name": "Zombie Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 25,
+    "HEALTH": 120
+  },
+  "npc_sell_price": 120000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "UNDEAD",
+    "amount": 120
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 35
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 65
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 100
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 16
+    }
+  ],
+  "id": "ZOMBIE_BOOTS",
+  "can_be_reforged":true,
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Projectile Absorption","color":"gold"},
+    {"text":"Heals the wearer for ","color":"gray","extra":[{"text":"10","color":"green"},{"text":" per","color":"gray"}]},
+    {"text":"second for ","color":"gray","extra":[{"text":"5","color":"green"},{"text":" seconds when","color":"gray"}]},
+    {"text":"hit by a projectile.","color":"gray"},
+    {"text":""}
+  ]
+}

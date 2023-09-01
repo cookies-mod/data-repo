@@ -1,0 +1,25 @@
+{
+  "material": "BLAZE_ROD",
+  "name": "Wizard Wand",
+  "glowing": true,
+  "category": "WAND",
+  "tier": "EPIC",
+  "id": "WIZARD_WAND",
+  "description": [
+    {"text":"A private joke amongst","color":"gray","italic":true},
+    {"text":"Wizards, but you wouldn't","color":"gray","italic":true},
+    {"text":"understand.","color":"gray","italic":true},
+    {"text":""},
+    {"text":"Intelligence Earned: ","color":"gray","extra":[{"text":"+0","color":"aqua"}]},
+    {"text":""},
+    {"text":"Ability: Time Warp!","color":"gold","extra":[ {"text":" RIGHT CLICK","color":"yellow","bold":true}]},
+    {"text":"Teleport through time (a work","color":"gray"},
+    {"text":"in progress).","color":"gray"},
+    {"text":""},
+    {"text":"Claimed by: ","color":"gray","extra":[{"text":"Unknown","color":"gray","obfuscated":true}]},
+    {"text":""},
+    {"text":"Edition #","color":"dark_gray","extra":[{"text":"0","obfuscated":true}]},
+    {"text":"January 1970","color":"dark_gray","obfuscated":true},
+    {"text":""},
+  ]
+}

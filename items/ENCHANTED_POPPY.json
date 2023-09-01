@@ -1,0 +1,8 @@
+{
+  "material": "poppy",
+  "name": "Enchanted Poppy",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 576,
+  "id": "ENCHANTED_POPPY"
+}

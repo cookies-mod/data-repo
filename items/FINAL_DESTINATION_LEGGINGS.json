@@ -1,0 +1,20 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "255,117,255",
+  "name": "Final Destination Leggings",
+  "category": "LEGGINGS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 100,
+    "HEALTH": 160,
+    "INTELLIGENCE": 100
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "enderman",
+      "level": 4
+    }
+  ],
+  "id": "FINAL_DESTINATION_LEGGINGS"
+}

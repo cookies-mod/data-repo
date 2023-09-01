@@ -1,0 +1,15 @@
+{
+  "material": "BOOK",
+  "name": "Gloomlock Grimoire",
+  "glowing": true,
+  "tier": "EPIC",
+  "unstackable": true,
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "enderman",
+      "level": 5
+    }
+  ],
+  "id": "GLOOMLOCK_GRIMOIRE"
+}

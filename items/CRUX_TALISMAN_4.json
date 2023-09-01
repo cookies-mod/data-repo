@@ -1,0 +1,14 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzQyNTM2OSwKICAicHJvZmlsZUlkIiA6ICI1ZTg2ZTc3OGQ0NTc0N2NjYjQ4N2E1OWRlZDMzZDRlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQbGVpc18iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWRhYjJmZjlmMmI1ZTJkMzY5MjIyNmY2MzhlYjllNjc2NGE0NWI0M2JhMDI3OGM1ZTBiZDhkNzQ5NDJjNTcyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+  "name": "Crux Relic",
+  "tier": "EPIC",
+  "category": "ACCESSORY",
+  "origin": "RIFT",
+  "stats": {
+    "rift_time": 55,
+    "rift_intelligence": 7
+  },
+  "id": "CRUX_TALISMAN_4"
+}

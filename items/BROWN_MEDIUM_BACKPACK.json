@@ -1,0 +1,35 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcyMTU3ZjUyMDNhNmQ1ODQyMTA0ZjdjNGExODZjMWYyOGYyM2I3OGUwMjU0NzUxNWFmNjA3NzgwYjA1NWMxNDgifX19",
+  "name": "Medium Backpack",
+  "tier": "RARE",
+  "id": "BROWN_MEDIUM_BACKPACK",
+  "description": [
+    {
+      "text": "A bag with ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "18",
+          "color": "green"
+        },
+        {
+          "text": " slots which",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "can be placed in your Storage",
+      "color": "gray"
+    },
+    {
+      "text": "Menu to store additional items.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

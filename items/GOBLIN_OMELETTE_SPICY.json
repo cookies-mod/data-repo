@@ -1,0 +1,28 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDU0NjEwODc2NSwKICAicHJvZmlsZUlkIiA6ICI0ZjU2ZTg2ODk2OGU0ZWEwYmNjM2M2NzRlNzQ3ODdjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JjOTRjNmVkYmQ5YzkxYTQ1MTA1YjdlMWZlOWViNThmMWJlZWM1NDliNzM4NTAxZDc4NDFmZTczZTA0NzQ3YjkiCiAgICB9CiAgfQp9",
+  "name": "Spicy Goblin Omelette",
+  "tier": "RARE",
+  "npc_sell_price": 20840,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 4
+    }
+  ],
+  "id": "GOBLIN_OMELETTE_SPICY",
+  "description": [
+    {"text":"Drill Part","color":"dark_gray"},
+    {"text":""},
+    {"text":"Part Type: ","color":"gray","extra":[{"text":"Upgrade Module","color":"gold"}]},
+    {"text":""},
+    {"text":"Titanium Ore will drop ","color":"gray","extra":[ {"text":"20","color":"green"}]},
+    {"text":"Mithril Powder ","color":"dark_green","extra":[{"text":"when mined.","color":"gray"}]},
+    {"text":""},
+    {"text":"Can be applied to Drills by","color":"gray"},
+    {"text":"talking to a ","color":"gray","extra":[{"text":"Drill Mechanic","color":"dark_green"},{"text":"!","color":"gray"}]},
+    {"text":"May cause infections","color":"gray","italic":true},
+    {"text":""}
+  ]
+}

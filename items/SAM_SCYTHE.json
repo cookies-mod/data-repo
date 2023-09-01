@@ -1,0 +1,9 @@
+{
+  "material": "WOOD_HOE",
+  "name": "Sam\u0027s Scythe",
+  "tier": "COMMON",
+  "npc_sell_price": 1,
+  "glowing": true,
+  "soulbound": "COOP",
+  "id": "SAM_SCYTHE"
+}

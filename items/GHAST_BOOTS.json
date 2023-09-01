@@ -1,0 +1,10 @@
+{
+  "material": "CHAINMAIL_BOOTS",
+  "name": "Ghast Boots",
+  "category": "BOOTS",
+  "tier": "RARE",
+  "stats": {
+    "HEALTH": 100
+  },
+  "id": "GHAST_BOOTS"
+}

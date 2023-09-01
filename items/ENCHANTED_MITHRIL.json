@@ -1,0 +1,8 @@
+{
+  "material": "PRISMARINE_CRYSTALS",
+  "name": "Enchanted Mithril",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 1280,
+  "id": "ENCHANTED_MITHRIL"
+}

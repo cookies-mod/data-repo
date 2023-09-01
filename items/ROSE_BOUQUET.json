@@ -1,0 +1,8 @@
+{
+  "material": "DOUBLE_PLANT",
+  "durability": 4,
+  "name": "§cRose Bouquet",
+  "description": "%%gray%%%%italic%%A hastily-made bouquet consisting of Marco\u0027s finest roses.",
+  "soulbound": "COOP",
+  "id": "ROSE_BOUQUET"
+}

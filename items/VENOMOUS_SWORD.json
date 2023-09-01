@@ -1,0 +1,11 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Venomous Sword",
+  "category": "SWORD",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 30
+  },
+  "npc_sell_price": 20,
+  "id": "VENOMOUS_SWORD"
+}

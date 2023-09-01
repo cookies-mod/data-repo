@@ -1,0 +1,8 @@
+{
+  "material": "BOOK",
+  "name": "Fuming Potato Book",
+  "glowing": true,
+  "tier": "EPIC",
+  "dungeon_item": true,
+  "id": "FUMING_POTATO_BOOK"
+}

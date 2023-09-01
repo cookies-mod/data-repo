@@ -1,0 +1,18 @@
+{
+  "material": "SPONGE",
+  "name": "Sponge Helmet",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 80
+  },
+  "npc_sell_price": 40000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 17
+    }
+  ],
+  "id": "SPONGE_HELMET"
+}

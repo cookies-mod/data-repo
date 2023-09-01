@@ -1,0 +1,25 @@
+{
+  "material": "DIAMOND_HOE",
+  "name": "Advanced Gardening Hoe",
+  "category": "HOE",
+  "tier": "RARE",
+  "npc_sell_price": 100,
+  "stats": {
+    "FARMING_FORTUNE": 10
+  },
+  "enchantments": {
+    "replenish": 1
+  },
+  "requirements": [
+    {
+      "type": "GARDEN_LEVEL",
+      "level": 3
+    },
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 7
+    }
+  ],
+  "id": "ADVANCED_GARDENING_HOE"
+}

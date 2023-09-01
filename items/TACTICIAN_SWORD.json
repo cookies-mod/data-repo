@@ -1,0 +1,11 @@
+{
+  "material": "WOOD_SWORD",
+  "name": "Tactician\u0027s Sword",
+  "category": "SWORD",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 50,
+    "CRITICAL_CHANCE": 20
+  },
+  "id": "TACTICIAN_SWORD"
+}

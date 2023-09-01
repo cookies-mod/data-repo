@@ -1,0 +1,8 @@
+{
+  "material": "GHAST_TEAR",
+  "name": "Enchanted Ghast Tear",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 80,
+  "id": "ENCHANTED_GHAST_TEAR"
+}

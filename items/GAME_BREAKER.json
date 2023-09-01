@@ -1,0 +1,9 @@
+{
+  "material": "TNT",
+  "name": "Game Breaker",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "npc_sell_price": 777,
+  "museum": true,
+  "id": "GAME_BREAKER"
+}

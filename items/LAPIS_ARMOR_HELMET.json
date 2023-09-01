@@ -1,0 +1,18 @@
+{
+  "material": "SEA_LANTERN",
+  "name": "Lapis Armor Helmet",
+  "category": "HELMET",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 25
+  },
+  "npc_sell_price": 1000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "MINING",
+      "level": 5
+    }
+  ],
+  "id": "LAPIS_ARMOR_HELMET"
+}

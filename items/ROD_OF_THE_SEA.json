@@ -1,0 +1,21 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Rod of the Sea",
+  "category": "FISHING_ROD",
+  "tier": "LEGENDARY",
+  "stats": {
+    "damage": 150,
+    "strength": 150,
+    "sea_creature_chance": 7,
+    "fishing_speed": 110
+  },
+  "npc_sell_price": 111000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 24
+    }
+  ],
+  "id": "ROD_OF_THE_SEA"
+}

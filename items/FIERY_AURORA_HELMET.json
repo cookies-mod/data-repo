@@ -1,0 +1,207 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDQ2NzQzMCwKICAicHJvZmlsZUlkIiA6ICJmNWQwYjFhZTQxNmU0YTE5ODEyMTRmZGQzMWU3MzA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXRjaFRoZVdhdmUxMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xODU1YWFiYWZhNDYxZDM1Yjg2NDI5MWQ0OTRjYTM2YTJmNDYzMDdjZWFkYWQzYTI4Nzc0MDU0Zjg2Nzg4ZTgiCiAgICB9CiAgfQp9",
+  "name": "Fiery Aurora Helmet",
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "soulbound": "COOP",
+  "stats": {
+    "DEFENSE": 100,
+    "HEALTH": 320,
+    "INTELLIGENCE": 380
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "can_have_attributes": true,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 5000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 5600
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 6300
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 7000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 8000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 9000
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 10200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 11500
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 13000
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 14500
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      }
+    ]
+  ],
+  "prestige": {
+    "item_id": "INFERNAL_AURORA_HELMET",
+    "costs": [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 25500
+      },
+      {
+        "type": "ITEM",
+        "item_id": "KUUDRA_TEETH",
+        "amount": 80
+      }
+    ]
+  },
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "id": "FIERY_AURORA_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {"text":""},
+    {"text":"Tiered Bonus: Arcane Vision (0/4)","color":"dark_gray"},
+    {"text":"Gives you the ability to see the runic","color":"gray"},
+    {"text":"affinity of enemies.","color":"gray"},
+    {"text":""},
+    {"text":"Using the proper ","color":"gray","extra":[{"text":"Runic Spells ","color":"aqua"},{"text":"of","color":"gray"}]},
+    {"text":"the ","color":"gray","extra":[{"text":"Aurora Staff ","color":"gold"},{"text":"grants 1 stack of","color":"gray"}]},
+    {"text":"Arcane Vision \u046a","color":"gold","extra":[{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"Each ","color":"gray","extra":[{"text":"Arcane Vision \u046a ","color":"gold"},{"text":"stack grants","color":"gray"}]},
+    {"text":"you ","color":"gray","extra":[{"text":"+2% ","color":"red"},{"text":"damage on your next Runic","color":"gray"}]},
+    {"text":"Spell.","color":"gray"},
+    {"text":""},
+    {"text":"At ","color":"gray","extra":[{"text":"10 ","color":"red"},{"text":"stacks the ","color":"gray"},{"text":"Aurora Staff","color":"gold"}]},
+    {"text":"spells explode on hit.","color":"gray"},
+    {"text":""},
+    {"text":"Lose 1 stack after ","color":"gray","extra":[{"text":"4s ","color":"red"},{"text":"of not","color":"gray"}]},
+    {"text":"gaining a stack.","color":"gray"},
+    {"text":""}
+  ]
+}

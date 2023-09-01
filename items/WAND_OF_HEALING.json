@@ -1,0 +1,15 @@
+{
+  "material": "STICK",
+  "name": "Wand of Healing",
+  "glowing": true,
+  "category": "WAND",
+  "tier": "UNCOMMON",
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "zombie",
+      "level": 1
+    }
+  ],
+  "id": "WAND_OF_HEALING"
+}

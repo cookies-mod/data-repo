@@ -1,0 +1,11 @@
+{
+  "material": "GOLDEN_AXE",
+  "name": "Golden Axe",
+  "category": "AXE",
+  "stats": {
+    "DAMAGE": 20
+  },
+  "npc_sell_price": 6,
+  "id": "GOLD_AXE",
+  "can_be_reforged": true
+}

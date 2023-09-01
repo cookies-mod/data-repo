@@ -1,0 +1,14 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDg4YmE4YmI1MGI3OWU0NDFlNDdiN2U0NTI3NjRkNWZmZjY2OTM3NzlkMmRhZGQ5ZjdmNTJmOThkN2VhMCJ9fX0\u003d",
+  "name": "Sea Walker Helmet",
+  "category": "HELMET",
+  "tier": "UNOBTAINABLE",
+  "stats": {
+    "DEFENSE": 20,
+    "HEALTH": 20
+  },
+  "npc_sell_price": 50,
+  "id": "SEA_WALKER_HELMET"
+}

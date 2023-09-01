@@ -1,0 +1,13 @@
+{
+  "material": "STONE_HOE",
+  "name": "Euclid\u0027s Wheat Hoe",
+  "category": "HOE",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 15
+    }
+  ],
+  "id": "THEORETICAL_HOE_WHEAT_1"
+}

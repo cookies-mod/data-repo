@@ -1,0 +1,10 @@
+{
+  "material": "STAINED_GLASS",
+  "durability": 11,
+  "name": "Living Metal",
+  "tier": "RARE",
+  "origin": "RIFT",
+  "motes_sell_price": 5,
+  "description": "It snakes around your blocky hand as your hold it.",
+  "id": "LIVING_METAL"
+}

@@ -1,0 +1,17 @@
+{
+  "material": "BOOK",
+  "name": "Book of Progression",
+  "category": "ACCESSORY",
+  "tier": "COMMON",
+  "id": "BOOK_OF_PROGRESSION",
+  "soulbound": "SOLO",
+  "description": [
+    {"text":"This book, imbued with great","color":"gray"},
+    {"text":"power, upgrades as you do.","color":"gray"},
+    {"text":""},
+    {"text":"A wise novel once thought to","color":"dark_gray","italic":true},
+    {"text":"be the cure to all problems.","color":"dark_gray", "italic":true},
+    {"text":"Click to select modifiers!","color":"yellow"},
+    {"text":""}
+  ]
+}

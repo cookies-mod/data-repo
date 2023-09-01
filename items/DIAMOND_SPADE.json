@@ -1,0 +1,11 @@
+{
+  "material": "DIAMOND_SPADE",
+  "name": "Diamond Shovel",
+  "category": "SPADE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 30
+  },
+  "npc_sell_price": 4,
+  "id": "DIAMOND_SPADE"
+}

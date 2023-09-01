@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODY5OTE1NDEyNSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTIyZGM2MThlMzk2Zjk2YjBmZjdiYjUwMTM1ZTNjYjAwYjcxZjBkNjJmMzkyZWNiMGY4MjczMmNlMzM5ZjEwMiIKICAgIH0KICB9Cn0\u003d",
+  "name": "Shiny Relic",
+  "tier": "SPECIAL",
+  "museum": true,
+  "id": "SHINY_RELIC"
+}

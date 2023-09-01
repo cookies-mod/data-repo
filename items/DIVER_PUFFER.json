@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWM2ZjU0ZmMwNmZjMzg4ZTA0OGQ0ODljMDQ5NTg2ZWFhZTc2MDEwMTU5MWUzMDY0ZDA1MDY4OTQ0ODJiNmI1NSJ9fX0K",
+  "name": "Puffer Fish Skin",
+  "category": "COSMETIC",
+  "tier": "LEGENDARY",
+  "unstackable": true,
+  "id": "DIVER_PUFFER",
+  "description": [
+    {"text":"Combinable in Anvil","color":"dark_gray"},
+    {"text":""},
+    {"text":"Item skins give your gear a","color":"gray"},
+    {"text":"fresh new look! Apply them just","color":"gray"},
+    {"text":"like an enchant book using the","color":"gray"},
+    {"text":"anvil.","color":"gray"},
+    {"text":""},
+    {"text":"This skin can be applied to","color":"gray"},
+    {"text":"Diver's Mask","color":"gold","extra":[{"text":".","color":"gray"}]},
+    {"text":""}
+  ]
+}

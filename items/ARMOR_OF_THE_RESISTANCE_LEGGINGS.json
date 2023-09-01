@@ -1,0 +1,14 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "222,188,21",
+  "name": "Leggings of the Rising Sun",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 12,
+    "HEALTH": 12
+  },
+  "npc_sell_price": 14,
+  "museum": true,
+  "id": "ARMOR_OF_THE_RESISTANCE_LEGGINGS"
+}

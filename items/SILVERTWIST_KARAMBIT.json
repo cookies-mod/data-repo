@@ -1,0 +1,19 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Silver-Twist Karambit",
+  "tier": "EPIC",
+  "category": "SWORD",
+  "sword_type": "KARAMBIT",
+  "glowing": true,
+  "origin": "RIFT",
+  "stats": {
+    "rift_damage": 6,
+    "rift_walk_speed": 15
+  },
+  "item_specific": {
+    "mana_refund": 6,
+    "bonus_rift_damage_vs_vampire": 5,
+    "heal_on_hit": 0.5
+  },
+  "id": "SILVERTWIST_KARAMBIT"
+}

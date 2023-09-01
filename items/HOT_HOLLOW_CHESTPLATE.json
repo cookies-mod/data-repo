@@ -1,0 +1,288 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "255,203,13",
+  "name": "Hot Hollow Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "LEGENDARY",
+  "soulbound": "COOP",
+  "stats": {
+    "WALK_SPEED": 6,
+    "DEFENSE": 82,
+    "HEALTH": 290,
+    "STRENGTH": 19,
+    "CRITICAL_DAMAGE": 13,
+    "INTELLIGENCE": 107
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "can_have_attributes": true,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 170
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 190
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 215
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 240
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 270
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 300
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 340
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 390
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 440
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 500
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      }
+    ]
+  ],
+  "prestige": {
+    "item_id": "BURNING_HOLLOW_CHESTPLATE",
+    "costs": [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 800
+      },
+      {
+        "type": "ITEM",
+        "item_id": "KUUDRA_TEETH",
+        "amount": 20
+      }
+    ]
+  },
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "id": "HOT_HOLLOW_CHESTPLATE",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "text": "Tiered Bonus: Spirit (0/4)",
+      "color": "dark_gray"
+    },
+    {
+      "text": "Each kill by you or a recently supported",
+      "color": "gray"
+    },
+    {
+      "text": "player grants ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "1 ",
+          "color": "red"
+        },
+        {
+          "text": "stack of ",
+          "color": "gray"
+        },
+        {
+          "text": "Spirit",
+          "color": "gold"
+        }
+      ]
+    },
+    {
+      "text": "\u26b6",
+      "color": "gold",
+      "extra": [
+        {
+          "text": ". ",
+          "color": "gray"
+        },
+        {
+          "text": "(Max 30)",
+          "color": "dark_gray"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Each ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "Spirit \u26b6 ",
+          "color": "gold"
+        },
+        {
+          "text": "stack can be used as",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "charge for the ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "Hollow Boots",
+          "color": "gold"
+        },
+        {
+          "text": ".",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Lose 1 stack after ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "4s ",
+          "color": "red"
+        },
+        {
+          "text": "of not gaining",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "a stack.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "can_be_reforged": true
+}

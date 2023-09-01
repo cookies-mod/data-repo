@@ -1,0 +1,25 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjUwMjg0NTQyNiwKICAicHJvZmlsZUlkIiA6ICJmMTdkOWJlZmM2NGM0YzA4ODVhYWU3NWQ0YjhiNWE0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaXJCYW5kZXJzbmF0Y2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNlOGQxOWIwMTYzZDFlYWRkZTU2MzM3NzM5NGIwNWRlNjM0MjdjNmUzZjhhOTQ5ZTBkZmEzMmJiMjBkN2YyZCIKICAgIH0KICB9Cn0",
+  "name": "Lotus Belt",
+  "category": "BELT",
+  "tier": "RARE",
+  "npc_sell_price": 100,
+  "stats": {
+    "FARMING_FORTUNE": 5,
+    "health": 10
+  },
+  "requirements": [
+    {
+      "type": "GARDEN_LEVEL",
+      "level": 3
+    },
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 10
+    }
+  ],
+  "id": "LOTUS_BELT"
+}

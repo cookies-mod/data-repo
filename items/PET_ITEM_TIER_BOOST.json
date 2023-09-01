@@ -1,0 +1,8 @@
+{
+  "material": "HOPPER",
+  "name": "Tier Boost",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "tier": "LEGENDARY",
+  "id": "PET_ITEM_TIER_BOOST"
+}

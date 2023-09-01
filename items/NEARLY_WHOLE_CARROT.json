@@ -1,0 +1,9 @@
+{
+  "material": "CARROT_ITEM",
+  "name": "Nearly-Whole Carrot",
+  "tier": "UNCOMMON",
+  "origin": "RIFT",
+  "glowing": true,
+  "description": "The whole is better than the sum of its parts...",
+  "id": "NEARLY_WHOLE_CARROT"
+}

@@ -1,0 +1,75 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmQxOGJjZWM0MGZhZWI5ZDhkZGUwZWY0M2QzYThkZTE0NzQzYjU1NGVhNDNiYzM5MjM3YTE3OWJmZmFkZmM3ZSJ9fX0\u003d",
+  "name": "Flex Helmet",
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "origin": "RIFT",
+  "item_specific": {
+    "flex_skins": [
+      {
+        "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmQxOGJjZWM0MGZhZWI5ZDhkZGUwZWY0M2QzYThkZTE0NzQzYjU1NGVhNDNiYzM5MjM3YTE3OWJmZmFkZmM3ZSJ9fX0\u003d",
+        "name": "Duck",
+        "description": "Fact: Ducks have a specially designed beak that allow them to filter water and mud for food while swimming."
+      },
+      {
+        "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjVhNGU4MWVkOWEwMjg1NmE4NWI3ZGY1OGQyNWVmOTYyNGJkYWI0YzBjMGFiMWRhNWQ0ZDU1NDcwNmY1M2Y3NSJ9fX0\u003d",
+        "name": "Fox",
+        "description": "Fact: Foxes have a unique hunting technique where they use the Earth\u0027s magnetic field to pinpoint the exact location of their prey."
+      },
+      {
+        "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmNjYzNkNDI3MjAwZDdjMTM0MGQwNTk4MjJiNDE0MzY1NWE3MzBlNGZjMzcxODgyOTY2NGUzZTRhYTM2YmQyIn19fQ\u003d\u003d",
+        "name": "Sheep",
+        "description": "Fact: Sheeps have an excellent sense of smell and can recognize individual members of their flock by their unique scent."
+      },
+      {
+        "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODBmOTZlNzU5ZDQ4ZGUyMzU0ZTYzNjhhZTFiYzM2MjY0MzA0MGIyYTgxNGRlNThlY2ViNjRjY2U5MzgwMDliNCJ9fX0\u003d",
+        "name": "Chicken",
+        "description": "Fact: Chickens are one of the closest living relative to the Tyrannosaurus Rex."
+      },
+      {
+        "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTFmODUyZWZlMWE4MzAwYzVkNjlkYTUwZmU0MWIxYjQ2NDliNGQ5ZDY2NWUzM2RjZTJmMTE3NzJmYjQ1NzA0NCJ9fX0\u003d",
+        "name": "Penguin",
+        "description": "Fact: Penguins have a special gland above their eyes that filters salt from the seawater they ingest."
+      },
+      {
+        "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWU1YjFhYzA1ZWQ5Yzg5MzlhMzlhYTI1ZWEwZDhkMzFiNGM3NTk1MjAzZTQ1Y2YyNGU1ODY0MzFkZTE0NmQifX19",
+        "name": "Whale",
+        "description": "Fact: Antarctic blue whales can weigh 112,000kg (250,000lb) and still swim at 25+ km/h (18 mp/h)."
+      },
+      {
+        "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjZkOTg3NDYyZTVhNTZhOTdmMDY5NDlmYjUyNTlkYmZhYThjYTc0Yzk4ZTZmYmNmMDZmNGY5MWFiOTRmYWYwYiJ9fX0\u003d",
+        "name": "Panda",
+        "description": "Fact: Pandas have a \"pseudo thumb\" made of an elongated wrist bone that helps them hold bamboo stalks."
+      },
+      {
+        "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NlYjA4OWFlMjVlYjc1MTk4NTcxODM1NGU1NGQ1ZWQ2YmZhYTZiMGRjYzc1NjkzMzFjZDFiMmJjNjkwMTdjYSJ9fX0\u003d",
+        "name": "Monkey",
+        "description": "Fact: Monkeys have been known to use their own fur as a tool to floss their teeth."
+      },
+      {
+        "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGZlYjI5YTJlYTYzNmRlYzAzODI3YjIxZTU3MzNjYmVmZTk1N2FhY2U3NDMxMTdmYWE1YmQ5NDVmMTU0NmQyOCJ9fX0\u003d",
+        "name": "Dog",
+        "description": "Fact: Dogs have a unique sense of smell and are even able to detect diseases like cancer and changes in blood sugar levels in people with diabetes."
+      },
+      {
+        "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGI5YmNjNGZiYmUzZjNmOGVhOWFjYWQ4YTk3M2VlNzA3MGUyZmViMzQ4NDMxYjJhNTEyNmMzMzRiMmVkNzBiYyJ9fX0\u003d",
+        "name": "Squid",
+        "description": "Fact: Squids have the ability to change the color and texture of their skin to blend in with their surroundings, communicate with other squids and even hypnotize their prey."
+      },
+      {
+        "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE1Njg3MGZlNTJjN2M1MDkwNDViYWIzZTlmYzY2ZDJjMTYzY2YxYzg0MmJhMGE5YWI0MmY5OGE3OWNiMzA2YSJ9fX0\u003d",
+        "name": "Toad",
+        "description": "Fact: Toads have glands behind their eyes that secrete bufotoxin, which can cause hallucinations, seizures and death in predators that try to eat them."
+      },
+      {
+        "skin_value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmRhZjg1NDI5ZTg5MGFhYjVkYWI4Y2IwNzA3MTI0YjQxOTM4ODQxNjRkMzBlNGY4MTEyMDI5YzJkZTk2NjA0YSJ9fX0\u003d",
+        "name": "Hippo",
+        "description": "Fact: Hippos secrete a sticky pink substance called \"blood sweat\" that acts as a natural sunscreen and moisturizer for their sensitive skin."
+      }
+    ]
+  },
+  "rift_transferrable": true,
+  "id": "FLEX_HELMET"
+}

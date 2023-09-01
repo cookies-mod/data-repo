@@ -1,0 +1,8 @@
+{
+  "material": "STONE_AXE",
+  "name": "Sculptor\u0027s Axe",
+  "category": "AXE",
+  "npc_sell_price": 64,
+  "museum": true,
+  "id": "SCULPTORS_AXE"
+}

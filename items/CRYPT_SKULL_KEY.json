@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjA1ZDcwYzRiNDM3ZjhmZTY1NTZkZjQyNWY2ZGViNTFkYzljMzlhN2I3ZjI5MzM2ZGI0MmUyNTQ2MjJhMmYifX19",
+  "name": "Crypt Skull Key",
+  "tier": "UNCOMMON",
+  "dungeon_item": true,
+  "id": "CRYPT_SKULL_KEY"
+}

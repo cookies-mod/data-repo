@@ -1,0 +1,20 @@
+{
+  "material": "CHAINMAIL_BOOTS",
+  "name": "Ender Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 25,
+    "HEALTH": 15
+  },
+  "npc_sell_price": 10000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 12
+    }
+  ],
+  "soulbound": "COOP",
+  "id": "END_BOOTS"
+}

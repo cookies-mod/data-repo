@@ -1,0 +1,15 @@
+{
+  "material": "DIAMOND_HOE",
+  "name": "Hoe of Greatest Tilling",
+  "category": "HOE",
+  "tier": "EPIC",
+  "glowing": true,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 10
+    }
+  ],
+  "id": "HOE_OF_GREATEST_TILLING"
+}

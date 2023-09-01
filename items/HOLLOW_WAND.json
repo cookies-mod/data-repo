@@ -1,0 +1,125 @@
+{
+  "material": "FEATHER",
+  "name": "Hollow Wand",
+  "glowing": true,
+  "category": "WAND",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DAMAGE": 150,
+    "STRENGTH": 20,
+    "INTELLIGENCE": 120,
+    "WEAPON_ABILITY_DAMAGE": 15000
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "npc_sell_price": 10000,
+  "can_have_attributes": true,
+  "salvageable_from_recipe": true,
+  "id": "HOLLOW_WAND",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "text": "Tiered Bonus: Spirit (0/4)",
+      "color": "dark_gray"
+    },
+    {
+      "text": "Each kill by you or a recently supported",
+      "color": "gray"
+    },
+    {
+      "text": "player grants ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "1 ",
+          "color": "red"
+        },
+        {
+          "text": "stack of ",
+          "color": "gray"
+        },
+        {
+          "text": "Spirit",
+          "color": "gold"
+        }
+      ]
+    },
+    {
+      "text": "\u26b6",
+      "color": "gold",
+      "extra": [
+        {
+          "text": ". ",
+          "color": "gray"
+        },
+        {
+          "text": "(Max 30)",
+          "color": "dark_gray"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Each ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "Spirit \u26b6 ",
+          "color": "gold"
+        },
+        {
+          "text": "stack can be used as",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "charge for the ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "Hollow Boots",
+          "color": "gold"
+        },
+        {
+          "text": ".",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Lose 1 stack after ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "4s ",
+          "color": "red"
+        },
+        {
+          "text": "of not gaining",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "a stack.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "can_be_reforged": true
+}

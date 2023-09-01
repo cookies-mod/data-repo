@@ -1,0 +1,79 @@
+{
+  "material": "LEATHER_BOOTS",
+  "item_durability": -1,
+  "color": "0,0,0",
+  "name": "Shadow Assassin Boots",
+  "category": "BOOTS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "WALK_SPEED": 8,
+    "DEFENSE": 55,
+    "HEALTH": 135,
+    "STRENGTH": 30,
+    "CRITICAL_DAMAGE": 25
+  },
+  "npc_sell_price": 5000,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 300
+      }
+    ]
+  ],
+  "gear_score": 25,
+  "requirements": [
+    {
+      "type": "DUNGEON_TIER",
+      "dungeon_type": "CATACOMBS",
+      "tier": 5
+    }
+  ],
+  "dungeon_item": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 20
+        }
+      ]
+    }
+  ],
+  "id": "STARRED_SHADOW_ASSASSIN_BOOTS"
+}

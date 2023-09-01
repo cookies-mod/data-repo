@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjVkMmYzMWJhMTYyZmU2MjcyZTgzMWFlZDE3ZjUzMjEzZGI2ZmExYzRjYmU0ZmM4MjdmMzk2M2NjOThiOSJ9fX0\u003d",
+  "name": "Portal to the Hub Crypts",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Hub Crypts",
+      "description_name": "%%gray%%the %%aqua%%Hub Crypts",
+      "destination_mode": "hub",
+      "location_tag": "crypts",
+      "schematic_file": "sb_portal_hub_crypts",
+      "offset": "NEW",
+      "skill_requirement": {
+        "skill": "COMBAT",
+        "level": 5
+      }
+    }
+  },
+  "id": "HUB_CRYPTS_PORTAL"
+}

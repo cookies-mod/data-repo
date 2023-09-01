@@ -1,0 +1,8 @@
+{
+  "material": "MELON_BLOCK",
+  "name": "Enchanted Melon Block",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 51200,
+  "id": "ENCHANTED_MELON_BLOCK"
+}

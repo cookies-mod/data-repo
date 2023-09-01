@@ -1,0 +1,9 @@
+{
+  "material": "SAPLING",
+  "durability": 2,
+  "name": "Soul Esoward",
+  "glowing": true,
+  "tier": "RARE",
+  "unstackable": true,
+  "id": "SOUL_ESOWARD"
+}

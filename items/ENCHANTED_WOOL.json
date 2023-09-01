@@ -1,0 +1,8 @@
+{
+  "material": "white_WOOL",
+  "name": "Enchanted Wool",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 320,
+  "id": "ENCHANTED_WOOL"
+}

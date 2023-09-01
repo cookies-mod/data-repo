@@ -1,0 +1,8 @@
+{
+  "material": "DIAMOND_BLOCK",
+  "name": "Enchanted Diamond Block",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 204800,
+  "id": "ENCHANTED_DIAMOND_BLOCK"
+}

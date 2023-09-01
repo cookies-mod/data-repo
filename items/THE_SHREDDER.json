@@ -1,0 +1,20 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Shredder",
+  "category": "FISHING_WEAPON",
+  "tier": "LEGENDARY",
+  "stats": {
+    "damage": 120,
+    "ferocity": 50,
+    "fishing_speed": 115
+  },
+  "npc_sell_price": 1000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 20
+    }
+  ],
+  "id": "THE_SHREDDER"
+}

@@ -1,0 +1,35 @@
+{
+  "material": "BLAZE_ROD",
+  "item_durability": -1,
+  "name": "Aurora Staff",
+  "category": "SWORD",
+  "tier": "LEGENDARY",
+  "npc_sell_price": 46875,
+  "stats": {
+    "DAMAGE": 20,
+    "WEAPON_ABILITY_DAMAGE": 10000,
+    "INTELLIGENCE": 250
+  },
+  "ability_damage_scaling": 0.2,
+  "gemstone_slots": [
+    {
+      "slot_type": "SAPPHIRE",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        }
+      ]
+    },
+    {
+      "slot_type": "SAPPHIRE",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        }
+      ]
+    }
+  ],
+  "id": "RUNIC_STAFF"
+}

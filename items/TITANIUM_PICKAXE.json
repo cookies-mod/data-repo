@@ -1,0 +1,20 @@
+{
+  "material": "IRON_PICKAXE",
+  "name": "Titanium Pickaxe",
+  "glowing": true,
+  "category": "PICKAXE",
+  "tier": "RARE",
+  "stats": {
+    "BREAKING_POWER": 6,
+    "DAMAGE": 60,
+    "MINING_SPEED": 310
+  },
+  "npc_sell_price": 5000,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 3
+    }
+  ],
+  "id": "TITANIUM_PICKAXE"
+}

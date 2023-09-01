@@ -1,0 +1,16 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNTQ3YzQ0YTI1YjdlNDg4MjA3OGVmY2M2ZTIyNjYzZjQxZDVhMjkyYzU2NzlhYjM3M2NkY2I3ZDExYWZmN2MzIn19fQ\u003d\u003d",
+  "name": "Candle Arch",
+  "furniture": "CANDLE_ARCH",
+  "id": "CANDLE_ARCH",
+  "description": [
+    {"text": "Holiday Cosmetic", "color": "dark_gray"},
+    {"text": ""},
+    {"text": "This exclusive ", "color": "gray", "extra": [{"text": "Holiday", "color": "red"}]},
+    {"text": "cosmetic can be placed on your", "color": "gray"},
+    {"text": "island or traded.", "color": "gray"},
+    {"text": ""}
+  ]
+}

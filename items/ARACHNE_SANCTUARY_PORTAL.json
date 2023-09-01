@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVlMjQ4ZGEyZTEwOGYwOTgxM2E2Yjg0OGEwZmNlZjExMTMwMDk3ODE4MGVkYTQxZDNkMWE3YThlNGRiYTNjMyJ9fX0\u003d",
+  "name": "Portal to Arachne\u0027s Sanctuary",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Arachne\u0027s Sanctuary",
+      "description_name": "%%dark_red%%Arachne\u0027s Sanctuary",
+      "destination_mode": "combat_1",
+      "location_tag": "arachne_sanctuary",
+      "schematic_file": "sb_portal_arachne_sanctuary",
+      "offset": "NEW",
+      "skill_requirement": {
+        "skill": "COMBAT",
+        "level": 5
+      }
+    }
+  },
+  "id": "ARACHNE_SANCTUARY_PORTAL"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ExNzc0MGU2YTVlZGQ4ZDRmMzljN2YwYTkwNjRhODRiNmU0YzIwZDNkYjU1NTU3ZDcyM2NlN2RiM2FkN2NjNDYifX19",
+  "name": "Scarecrow",
+  "furniture": "SCARECROW",
+  "id": "SCARECROW"
+}

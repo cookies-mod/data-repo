@@ -1,0 +1,12 @@
+{
+  "material": "CHAINMAIL_BOOTS",
+  "name": "Chainmail Boots",
+  "category": "BOOTS",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 7
+  },
+  "npc_sell_price": 1,
+  "id": "CHAINMAIL_BOOTS",
+  "can_be_reforged": true
+}

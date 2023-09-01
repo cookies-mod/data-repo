@@ -1,0 +1,23 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQ0MDQxYzAzMzRmN2IxOGZlOTdmN2Q0Y2MzODI2NzgzMjY2Y2E0ZTQ1MWI0ZjEwYTA4MDA2YzUzMjk4NTRmYiJ9fX0\u003d",
+  "name": "Magma Urchin",
+  "category": "POWER_STONE",
+  "tier": "EPIC",
+  "npc_sell_price": 1,
+  "id": "MAGMA_URCHIN",
+  "description": [
+    {"text":"unlock the ","color":"gray","extra":[{"text":"Hurtful ","color":"green"},{"text":"power.","color":"gray"}]},
+    {"text":""},
+    {"text":"At ","color":"gray","extra":[{"text":"250 Magical Power","color":"gold"},{"text":":","color":"gray"}]},
+    {"text":"+46❁ Strength","color":"red"},
+    {"text":"+185☠ Crit Damage","color":"blue"},
+    {"text":""},
+    {"text":"Unique Power Bonus:","color":"gray"},
+    {"text":"+15⚔ Bonus Attack Speed","color":"yellow"},
+    {"text":""},
+    {"text":"Requires ","color":"gray","extra":[{"text":"Combat Skill Level XXV","color":"green"},{"text":"!","color":"gray"}]},
+    {"text":""},
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "material": "ARROW",
+  "name": "Gold-tipped Arrow",
+  "category": "ARROW",
+  "stats": {
+    "DAMAGE": 10
+  },
+  "npc_sell_price": 1,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 8
+    },
+    {
+      "type": "TARGET_PRACTICE",
+      "mode": "I"
+    }
+  ],
+  "id": "GOLD_TIPPED_ARROW"
+}

@@ -1,0 +1,13 @@
+{
+  "material": "DOUBLE_PLANT",
+  "name": "Staff of the Rising Sun",
+  "glowing": true,
+  "category": "WAND",
+  "tier": "EPIC",
+  "stats": {
+    "WEAPON_ABILITY_DAMAGE": 500
+  },
+  "ability_damage_scaling": 0.2,
+  "museum": true,
+  "id": "HOPE_OF_THE_RESISTANCE"
+}

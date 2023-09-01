@@ -1,0 +1,8 @@
+{
+  "material": "SPONGE",
+  "name": "Enchanted Sponge",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 2000,
+  "id": "ENCHANTED_SPONGE"
+}

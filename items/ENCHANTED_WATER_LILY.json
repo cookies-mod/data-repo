@@ -1,0 +1,8 @@
+{
+  "material": "WATER_LILY",
+  "name": "Enchanted Lily Pad",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1600,
+  "id": "ENCHANTED_WATER_LILY"
+}

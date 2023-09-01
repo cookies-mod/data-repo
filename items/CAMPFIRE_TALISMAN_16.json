@@ -1,0 +1,18 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNjZmQ5NGU5MjVlYWI0MzMwYTc2OGFmY2FlNmMxMjhiMGEyOGUyMzE0OWVlZTQxYzljNmRmODk0YzI0ZjNkZSJ9fX0\u003d",
+  "name": "Campfire Scion Badge",
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "soulbound": "COOP",
+  "id": "CAMPFIRE_TALISMAN_16",
+  "description": [
+    {"text":"Heal ","color":"gray","extra":[{"text":"34\u2764 ","color":"red"},{"text":"per second while","color":"gray"}]},
+    {"text":"burning.","color":"gray"},
+    {"text":""},
+    {"text":"Trial of Fire XVII","color":"gold"},
+    {"text":" \"Fire guy!\"","color":"dark_gray","italic":true},
+    {"text":""},
+  ]
+}

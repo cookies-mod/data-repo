@@ -1,0 +1,11 @@
+{
+  "material": "DIAMOND_BOOTS",
+  "name": "Diamond Boots",
+  "category": "BOOTS",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 15
+  },
+  "npc_sell_price": 16,
+  "id": "DIAMOND_BOOTS"
+}

@@ -1,0 +1,10 @@
+{
+  "material": "INK_SACK",
+  "durability": 2,
+  "name": "Biofuel",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 10000,
+  "description": "%%gray%%%%italic%%100% renewable energy!",
+  "id": "BIOFUEL"
+}

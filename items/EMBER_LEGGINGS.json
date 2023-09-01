@@ -1,0 +1,20 @@
+{
+  "material": "CHAINMAIL_LEGGINGS",
+  "name": "Ember Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 55,
+    "HEALTH": 60,
+    "INTELLIGENCE": 5
+  },
+  "npc_sell_price": 1000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 8
+    }
+  ],
+  "id": "EMBER_LEGGINGS"
+}

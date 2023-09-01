@@ -1,0 +1,16 @@
+{
+  "material": "STRING",
+  "name": "Larva Silk",
+  "tier": "UNCOMMON",
+  "origin": "RIFT",
+  "glowing": true,
+  "id": "LARVA_SILK",
+  "description": [
+    {"text":"Click two ledge blocks with this","color":"gray"},
+    {"text":"item to setup a ","color":"gray","extra":[{"text":"Silkwire","color":"yellow"},{"text":".","color":"gray"}]},
+    {"text":"","color":"gray"},
+    {"text":"May the larvas which died for","color":"dark_gray"},
+    {"text":"it rest in pieces.","color":"dark_gray"},
+    {"text":""}
+  ]
+}

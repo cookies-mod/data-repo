@@ -1,0 +1,12 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Elle\u0027s Lava Rod",
+  "category": "FISHING_ROD",
+  "tier": "SPECIAL",
+  "stats": {
+    "damage": 50,
+    "strength": 50,
+    "fishing_speed": 8
+  },
+  "id": "ELLES_LAVA_ROD"
+}

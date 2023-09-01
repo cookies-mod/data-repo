@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5NjAzODQyNTM5OSwKICAicHJvZmlsZUlkIiA6ICJjZGM5MzQ0NDAzODM0ZDdkYmRmOWUyMmVjZmM5MzBiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXdMb2JzdGVycyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMjlhZDc2YzI0NTk5MTFjMmJiYWNkY2QwYTdiODJlMDgzNTU2N2UzZTUxMzRiMDVhNmY1YWY2NjlkZDg4YjgzIgogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Spirit Wing",
+  "tier": "EPIC",
+  "dungeon_item": true,
+  "id": "SPIRIT_WING"
+}

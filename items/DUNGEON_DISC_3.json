@@ -1,0 +1,16 @@
+{
+  "material": "RECORD_9",
+  "name": "Watcher Disc",
+  "tier": "EPIC",
+  "npc_sell_price": 1,
+  "museum": true,
+  "id": "DUNGEON_DISC_3",
+  "description": [
+    {"text":"Place this inside a jukebox to","color":"gray"},
+    {"text":"play a dungeon song!", "color": "gray"},
+    {"text":""},
+    {"text":"The Watcher", "color": "gold"},
+    {"text":"  By ShinkoNet", "color": "gray"},
+    {"text":""},
+  ]
+}

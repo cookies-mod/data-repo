@@ -1,0 +1,19 @@
+{
+  "material": "IRON_CHESTPLATE",
+  "name": "Mercenary Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 70,
+    "HEALTH": 70
+  },
+  "npc_sell_price": 20000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 8
+    }
+  ],
+  "id": "MERCENARY_CHESTPLATE"
+}

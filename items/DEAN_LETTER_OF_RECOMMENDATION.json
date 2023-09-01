@@ -1,0 +1,8 @@
+{
+  "material": "PAPER",
+  "name": "Letter of Recommendation",
+  "tier": "RARE",
+  "npc_sell_price": 0,
+  "soulbound": "SOLO",
+  "id": "DEAN_LETTER_OF_RECOMMENDATION"
+}

@@ -1,0 +1,14 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "26,0,76",
+  "name": "Snake-in-a-Boot",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_TIME": 60,
+    "rift_walk_speed": 7
+  },
+  "description": "You\u0027ve got a friend in me.",
+  "id": "SNAKE_IN_A_BOOT"
+}

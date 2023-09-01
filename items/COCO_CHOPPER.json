@@ -1,0 +1,13 @@
+{
+  "material": "GOLDen_AXE",
+  "name": "Cocoa Chopper",
+  "category": "AXE",
+  "tier": "EPIC",
+  "id": "COCO_CHOPPER",
+  "description": [
+    {"text":"Grants ","color":"gray", "extra": [{"text":"+20\u2618 Farming Fortune","color":"gold"}]},
+    {"text":"when harvesting Cocoa Beans.","color":"gray"},
+    {"text":""},
+  ],
+  "can_be_reforged": true
+}

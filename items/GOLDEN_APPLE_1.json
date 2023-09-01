@@ -1,0 +1,8 @@
+{
+  "material": "GOLDEN_APPLE",
+  "durability": 1,
+  "name": "Enchanted Golden Apple",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 125,
+  "id": "GOLDEN_APPLE:1"
+}

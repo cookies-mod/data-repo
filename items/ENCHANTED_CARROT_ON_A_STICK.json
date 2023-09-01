@@ -1,0 +1,8 @@
+{
+  "material": "CARROT_STICK",
+  "name": "Enchanted Carrot on a Stick",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 10300,
+  "id": "ENCHANTED_CARROT_ON_A_STICK"
+}

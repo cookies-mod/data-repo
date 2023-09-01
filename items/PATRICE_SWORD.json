@@ -1,0 +1,10 @@
+{
+  "material": "GOLD_SWORD",
+  "name": "Épée de Patrice",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DAMAGE": 100,
+    "STRENGTH": 50
+  },
+  "id": "PATRICE_SWORD"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "CARROT",
+  "name": "Great Carrot Candy",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 1,
+  "id": "GREAT_CARROT_CANDY"
+}

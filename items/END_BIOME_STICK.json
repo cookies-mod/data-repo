@@ -1,0 +1,7 @@
+{
+  "material": "STICK",
+  "name": "End Biome Stick",
+  "glowing": true,
+  "npc_sell_price": 64,
+  "id": "END_BIOME_STICK"
+}

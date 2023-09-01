@@ -1,0 +1,18 @@
+{
+  "material": "IRON_BOOTS",
+  "name": "Boots of the Pack",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 45,
+    "HEALTH": 50
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "wolf",
+      "level": 6
+    }
+  ],
+  "id": "BOOTS_OF_THE_PACK"
+}

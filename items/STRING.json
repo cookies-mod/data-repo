@@ -1,0 +1,7 @@
+{
+  "material": "STRING",
+  "name": "String",
+  "npc_sell_price": 3,
+  "motes_sell_price": 30,
+  "id": "STRING"
+}

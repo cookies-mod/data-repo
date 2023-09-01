@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_BOOTS",
+  "name": "Oxford Shoes",
+  "tier": "RARE",
+  "category": "BOOTS",
+  "stats": {
+    "health": 25,
+    "defense": 10
+  },
+  "id": "OXFORD_SHOES"
+}

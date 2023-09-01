@@ -1,0 +1,15 @@
+{
+  "material": "STONE_HOE",
+  "name": "Rookie Hoe",
+  "category": "HOE",
+  "npc_sell_price": 3,
+  "museum": true,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 1
+    }
+  ],
+  "id": "ROOKIE_HOE"
+}

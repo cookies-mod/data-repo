@@ -1,0 +1,21 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Winter Rod",
+  "category": "FISHING_ROD",
+  "tier": "RARE",
+  "stats": {
+    "damage": 50,
+    "strength": 50,
+    "fishing_speed": 75
+  },
+  "npc_sell_price": 20000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 10
+    }
+  ],
+  "museum": true,
+  "id": "WINTER_ROD"
+}

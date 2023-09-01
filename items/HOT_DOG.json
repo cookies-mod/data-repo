@@ -1,0 +1,12 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODI0Yzg2NjdlMWU2NzA5NTI0ZDhmNzYzZDFhZGQwNWE4NDVlNWJhMGE0ZmU5MDc2ZmUwYjU4NzE5MWVmNWMwIn19fQ\u003d\u003d",
+  "name": "Hot Dog",
+  "tier": "COMMON",
+  "origin": "RIFT",
+  "unstackable": true,
+  "description": "Deposit on Joey\u0027s plate.",
+  "soulbound": "SOLO",
+  "id": "HOT_DOG"
+}

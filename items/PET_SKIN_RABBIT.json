@@ -1,0 +1,57 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTM0NjMxZDk0MGZkZGI2ODlkZGVmNmEzYjM1MmM1MDIyMGM0NjBkYmEwNWNkMThkYzgzMTkyYjU5ZGM2NDdmOCJ9fX0K",
+  "name": "PrettyRabbit",
+  "category": "COSMETIC",
+  "tier": "EPIC",
+  "unstackable": true,
+  "museum": true,
+  "id": "PET_SKIN_RABBIT",
+  "description": [
+    {
+      "text": "Consumed on use",
+      "color": "dark_gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Pet skins change the look and",
+      "color": "gray"
+    },
+    {
+      "text": "particle trail of your pet but",
+      "color": "gray"
+    },
+    {
+      "text": "only one skin can be active at a",
+      "color": "gray"
+    },
+    {
+      "text": "time!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "This skin can only be applied",
+      "color": "gray"
+    },
+    {
+      "text": "to Rabbit pets.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "This skin is animated!",
+      "color": "green"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

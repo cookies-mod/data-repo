@@ -1,0 +1,10 @@
+{
+  "material": "IRON_BOOTS",
+  "name": "Iron Boots",
+  "category": "BOOTS",
+  "stats": {
+    "DEFENSE": 10
+  },
+  "npc_sell_price": 6,
+  "id": "IRON_BOOTS"
+}

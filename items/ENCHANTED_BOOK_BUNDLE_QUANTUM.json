@@ -1,0 +1,17 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTViZTIyYjVkNGE4NzVkNzdkZjNmNzcxMGZmNDU3OGVmMjc5MzlhOTY4NGNiZGIzZDMxZDk3M2YxNjY4NDkifX19",
+  "enchantments": {
+    "quantum": 3
+  },
+  "name": "Enchanted Book Bundle",
+  "tier": "UNCOMMON",
+  "unstackable": true,
+  "motes_sell_price": 8000,
+  "npc_sell_price": 15000,
+  "rift_transferrable": true,
+  "origin": "RIFT",
+  "lose_motes_value_on_transfer": true,
+  "id": "ENCHANTED_BOOK_BUNDLE_QUANTUM"
+}

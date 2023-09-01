@@ -1,0 +1,79 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NjgzNTg1OTU4OTEsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg3ZGZiN2MxZWU0ZGUzMWY1NDkzMWVhYzVjNjU3YzE0NWU0ZmE3ZmEwOWUzZjUyYjE3ODhhNjgyYjY1YWM3NSJ9fX0\u003d",
+  "name": "Crystallized Heart",
+  "category": "HELMET",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 10,
+    "HEALTH": 50,
+    "INTELLIGENCE": 50
+  },
+  "dungeon_item_conversion_cost": {
+    "essence_type": "UNDEAD",
+    "amount": 100
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 45
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 75
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 90
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "zombie",
+      "level": 3
+    }
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 8
+    }
+  ],
+  "id": "CRYSTALLIZED_HEART",
+  "can_be_reforged": true,
+  "description": [
+    {"text":""},
+    {"text":"Ability: Healing Boost","color":"gold"},
+    {"text":"Doubles your ","color":"gray","extra":[{"text":"\u2604 Mending ","color":"green"},{"text":"and","color":"gray"}]},
+    {"text":"\u2668 Vitality ","color":"dark_red","extra":[{"text":"while wearing.","color":"gray"}]},
+    {"text":""},
+    {"text":"This armor piece is undead \u0f15!","color":"dark_green"},
+    {"text":""}
+  ]
+}

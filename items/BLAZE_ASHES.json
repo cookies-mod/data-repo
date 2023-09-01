@@ -1,0 +1,11 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MjQ0MTYzODA1NSwKICAicHJvZmlsZUlkIiA6ICIzZjM4YmViZGYwMWQ0MjNkYWI4MjczZjUwNGFiNGEyNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjazM0Nzk0MjM1NzUzNzMxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcxZTAyOWE4ZWVlYTgwYmEzYTI3NDA3YTlmMGYyMjZiNWVjMjNjMzU2ZDMyMzUzN2RlNDgyNjk2MGY0ZDRlNzgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Blaze Ashes",
+  "npc_sell_price": 50,
+  "tier": "UNCOMMON",
+  "description": "%%gray%%%%italic%%Blazes are ephemeral creatures, constantly consuming themselves. Their ashes are said to bring good fortune.",
+  "soulbound": "COOP",
+  "id": "BLAZE_ASHES"
+}

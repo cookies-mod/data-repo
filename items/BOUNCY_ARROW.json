@@ -1,0 +1,28 @@
+{
+  "material": "ARROW",
+  "name": "Bouncy Arrow",
+  "glowing": true,
+  "category": "ARROW",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 5
+  },
+  "npc_sell_price": 1,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 20
+    },
+    {
+      "type": "COLLECTION",
+      "collection": "SLIME_BALL",
+      "tier": 7
+    },
+    {
+      "type": "TARGET_PRACTICE",
+      "mode": "II"
+    }
+  ],
+  "id": "BOUNCY_ARROW"
+}

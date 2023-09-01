@@ -1,0 +1,8 @@
+{
+  "material": "CAKE",
+  "name": "Enchanted Cake",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 2700,
+  "id": "ENCHANTED_CAKE"
+}

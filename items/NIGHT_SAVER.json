@@ -1,0 +1,7 @@
+{
+  "material": "DAYLIGHT_DETECTOR",
+  "name": "Night Saver",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 35,
+  "id": "NIGHT_SAVER"
+}

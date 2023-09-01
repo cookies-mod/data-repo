@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "0,0,0",
+  "name": "Obsidian Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 250
+  },
+  "npc_sell_price": 2500,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 14
+    }
+  ],
+  "id": "OBSIDIAN_CHESTPLATE"
+}

@@ -1,0 +1,25 @@
+{
+  "material": "STONE_HOE",
+  "name": "Pythagorean Potato Hoe",
+  "category": "HOE",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 15
+    }
+  ],
+  "id": "THEORETICAL_HOE_POTATO_1",
+  "description": [
+    {"text":"Gain ","color":"gray","extra":[{"text":"+10\u2618 Farming Fortune","color":"gold"}]},
+    {"text":"and ","color":"gray","extra":[{"text":"+1\u262f Farming Wisdom ","color":"dark_aqua"},{"text":"for","color":"gray"}]},
+    {"text":"potatoes.","color":"gray"},
+    {"text":""},
+    {"text":"Counter: ","color":"gray","extra":[{"text":"0 Potatoes","color":"yellow"}]},
+    {"text":""},
+    {"text":"Reach 100k Counter for +1 Rarity!","color":"dark_gray"},
+    {"text":"Right-click to view recipes!","color":"yellow"},
+    {"text":""}
+  ],
+  "can_be_reforged": true
+}

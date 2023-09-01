@@ -1,0 +1,12 @@
+{
+  "material": "GOLD_BOOTS",
+  "name": "Boots of the Stars",
+  "category": "BOOTS",
+  "tier": "UNOBTAINABLE",
+  "stats": {
+    "DEFENSE": 2500,
+    "HEALTH": 7500,
+    "INTELLIGENCE": 1000
+  },
+  "id": "STAR_BOOTS"
+}

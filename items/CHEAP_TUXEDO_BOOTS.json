@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "56,56,56",
+  "name": "Cheap Tuxedo Oxfords",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "CRITICAL_DAMAGE": 25,
+    "INTELLIGENCE": 25
+  },
+  "id": "CHEAP_TUXEDO_BOOTS",
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Dashing","color":"gold"},
+    {"text":"Max health set to ","color":"gray","extra":[{"text":"75\u2764","color":"red"},{"text":".","color":"gray"}]},
+    {"text":"Deal ","color":"gray","extra":[{"text":"+50% ","color":"red"},{"text":"damage!","color":"gray"}]},
+    {"text":"Very stylish.","color":"dark_gray"},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

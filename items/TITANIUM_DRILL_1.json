@@ -1,0 +1,21 @@
+{
+  "material": "PRISMARINE_SHARD",
+  "name": "Titanium Drill DR-X355",
+  "glowing": true,
+  "category": "DRILL",
+  "tier": "EPIC",
+  "stats": {
+    "BREAKING_POWER": 7,
+    "DAMAGE": 75,
+    "MINING_FORTUNE": 25,
+    "MINING_SPEED": 700
+  },
+  "npc_sell_price": 36000,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 5
+    }
+  ],
+  "id": "TITANIUM_DRILL_1"
+}

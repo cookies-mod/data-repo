@@ -1,0 +1,8 @@
+{
+  "material": "MILK_BUCKET",
+  "name": "Organic Milk",
+  "npc_sell_price": 3,
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "id": "ORGANIC_MILK"
+}

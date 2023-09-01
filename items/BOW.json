@@ -1,0 +1,11 @@
+{
+  "material": "BOW",
+  "name": "Bow",
+  "category": "BOW",
+  "stats": {
+    "DAMAGE": 30
+  },
+  "npc_sell_price": 9,
+  "motes_sell_price": 105,
+  "id": "BOW"
+}

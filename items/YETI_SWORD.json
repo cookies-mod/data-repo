@@ -1,0 +1,92 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Yeti Sword",
+  "category": "SWORD",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DAMAGE": 150,
+    "STRENGTH": 170,
+    "WEAPON_ABILITY_DAMAGE": 15000,
+    "INTELLIGENCE": 50
+  },
+  "ability_damage_scaling": 0.3,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "ICE",
+    "amount": 100
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 150
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 250
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 300
+      }
+    ]
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 22
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "SAPPHIRE",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_SAPPHIRE_GEM",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "slot_type": "JASPER",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 100000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 40
+        }
+      ]
+    }
+  ],
+  "id": "YETI_SWORD"
+}

@@ -1,0 +1,12 @@
+{
+  "material": "WOOD_PICKAXE",
+  "name": "Wooden Pickaxe",
+  "category": "PICKAXE",
+  "stats": {
+    "BREAKING_POWER": 1,
+    "DAMAGE": 15,
+    "MINING_SPEED": 70
+  },
+  "npc_sell_price": 1,
+  "id": "WOOD_PICKAXE"
+}

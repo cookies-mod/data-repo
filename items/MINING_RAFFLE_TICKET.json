@@ -1,0 +1,11 @@
+{
+  "material": "NAME_TAG",
+  "name": "Raffle Ticket",
+  "tier": "UNCOMMON",
+  "id": "MINING_RAFFLE_TICKET",
+  "description": [
+    {"text":"Bring this back to the raffle","color":"gray"},
+    {"text":"box!","color":"gray"},
+    {"text":""}
+  ]
+}

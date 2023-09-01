@@ -1,0 +1,8 @@
+{
+  "material": "INK_SACK",
+  "durability": 11,
+  "name": "Pure Yellow Dye",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "DYE_PURE_YELLOW"
+}

@@ -1,0 +1,7 @@
+{
+  "material": "MONSTER_EGG",
+  "durability": 120,
+  "name": "Inflatable Jerry",
+  "dungeon_item": true,
+  "id": "INFLATABLE_JERRY"
+}

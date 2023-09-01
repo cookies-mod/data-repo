@@ -1,0 +1,13 @@
+{
+  "material": "STICK",
+  "name": "Seismic Wave",
+  "glowing": true,
+  "category": "SWORD",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 10
+  },
+  "npc_sell_price": 1,
+  "dungeon_item": true,
+  "id": "SEISMIC_WAVE_STICK"
+}

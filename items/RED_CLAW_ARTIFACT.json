@@ -1,0 +1,19 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NzA1NTAwMzc2MTYsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NhZjU5YjhhYTBmODM1NDZlZjBkMTc4Y2NmODdlN2VkODhjZjc4NThjYWFlNzliMzYzM2NiZDc1YjY1MDUyNWYifX19",
+  "name": "Red Claw Artifact",
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "stats": {
+    "CRITICAL_DAMAGE": 5
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "wolf",
+      "level": 5
+    }
+  ],
+  "id": "RED_CLAW_ARTIFACT"
+}

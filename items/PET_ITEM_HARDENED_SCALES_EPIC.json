@@ -1,0 +1,8 @@
+{
+  "material": "PRISMARINE_CRYSTALS",
+  "name": "Hardened Scales",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "tier": "EPIC",
+  "id": "PET_ITEM_HARDENED_SCALES_EPIC"
+}

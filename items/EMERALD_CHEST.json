@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MWM1YWFlNmFlYTA5NDAwZDI3MThhMjFlNjJkZTQwZTIzYWI1MzBiNmY4ZjQ4NmNkMzNiNjYxNGMxZjQ3ZGEwIn19fQ\u003d\u003d",
+  "name": "Emerald Chest+",
+  "furniture": "EMERALD_CHEST",
+  "tier": "RARE",
+  "id": "EMERALD_CHEST"
+}

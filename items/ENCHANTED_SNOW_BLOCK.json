@@ -1,0 +1,8 @@
+{
+  "material": "SNOW_BLOCK",
+  "name": "Enchanted Snow Block",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 600,
+  "id": "ENCHANTED_SNOW_BLOCK"
+}

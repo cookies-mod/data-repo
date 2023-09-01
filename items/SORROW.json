@@ -1,0 +1,9 @@
+{
+  "material": "GHAST_TEAR",
+  "name": "Sorrow",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 13,
+  "description": "%%gray%%%%italic%%To become a ghost, one must go through unimaginable distress.",
+  "id": "SORROW"
+}

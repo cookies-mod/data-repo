@@ -1,0 +1,53 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5NDQwOTkwNTg0MiwKICAicHJvZmlsZUlkIiA6ICJhMmY4MzQ1OTVjODk0YTI3YWRkMzA0OTcxNmNhOTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiUHVuY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjEyZjkwYTJhNjZkN2Y5MzdjZjlmYjE1YzdkOGFlZjk3ZDM4ZjU2MmJkOTY3OGIyNGY0YzkwNGI2NWJjYzYwYyIKICAgIH0KICB9Cn0\u003d",
+  "name": "Golden Scarf Head",
+  "category": "HELMET",
+  "tier": "SPECIAL",
+  "stats": {
+    "DEFENSE": 15,
+    "HEALTH": 30,
+    "STRENGTH": 10
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 75
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 125
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 250
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 500
+      }
+    ]
+  ],
+  "dungeon_item": true,
+  "museum": true,
+  "id": "GOLD_SCARF_HEAD"
+}

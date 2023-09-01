@@ -1,0 +1,10 @@
+{
+  "material": "SHEARS",
+  "name": "Defuse Kit",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1,
+  "dungeon_item": true,
+  "museum": true,
+  "id": "DEFUSE_KIT"
+}

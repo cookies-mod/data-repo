@@ -1,0 +1,41 @@
+{
+  "material": "STONE_SWORD",
+  "name": "Kindlebane Dagger",
+  "category": "SWORD",
+  "sword_type": "DAGGER",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 130,
+    "STRENGTH": 55,
+    "CRITICAL_DAMAGE": 20,
+    "ATTACK_SPEED": 10
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "blaze",
+      "level": 4
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        }
+      ]
+    },
+    {
+      "slot_type": "OPAL",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 500000
+        }
+      ]
+    }
+  ],
+  "id": "BURSTFIRE_DAGGER"
+}

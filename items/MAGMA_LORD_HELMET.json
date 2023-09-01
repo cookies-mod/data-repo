@@ -1,0 +1,171 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwNTU1MjE0NywKICAicHJvZmlsZUlkIiA6ICJjNTZlMjI0MmNiZWY0MWE2ODdlMzI2MGRjMGNmOTM2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMSlI3MzEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83N2Q5MWJhYzQ3NTVkYmM5NjhhZGQ3NWU2ZWMzOTc5YTc0ZGEzMGJjYjRkMjU1NmUzNWE0NjM1NzE4YWU3MzkwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+  "name": "Magma Lord Helmet",
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "stats": {
+    "HEALTH": 220,
+    "DEFENSE": 190,
+    "STRENGTH": 10,
+    "CRITICAL_DAMAGE": 35,
+    "SEA_CREATURE_CHANCE": 4.5
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 45
+    }
+  ],
+  "npc_sell_price": 250000,
+  "can_have_attributes": true,
+  "salvageable_from_recipe": true,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_LORD_FRAGMENT",
+        "amount": 1
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_LORD_FRAGMENT",
+        "amount": 2
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 160
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_LORD_FRAGMENT",
+        "amount": 3
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 240
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_LORD_FRAGMENT",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 320
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_LORD_FRAGMENT",
+        "amount": 5
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 400
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_LORD_FRAGMENT",
+        "amount": 7
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 600
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_LORD_FRAGMENT",
+        "amount": 10
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 800
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_LORD_FRAGMENT",
+        "amount": 12
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 1000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_LORD_FRAGMENT",
+        "amount": 15
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 1200
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_LORD_FRAGMENT",
+        "amount": 20
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 1600
+      }
+    ]
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT"
+    },
+    {
+      "slot_type": "COMBAT"
+    }
+  ],
+  "id": "MAGMA_LORD_HELMET"
+}

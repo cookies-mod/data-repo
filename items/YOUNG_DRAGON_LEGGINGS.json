@@ -1,0 +1,100 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "221,228,240",
+  "name": "Young Dragon Leggings",
+  "category": "LEGGINGS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "WALK_SPEED": 20,
+    "DEFENSE": 140,
+    "HEALTH": 100
+  },
+  "npc_sell_price": 100000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "DRAGON",
+    "amount": 60
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 65
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 110
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 160
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 16
+    }
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 15
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_SAPPHIRE_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_RUBY_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_AMETHYST_GEM",
+          "amount": 5
+        }
+      ]
+    }
+  ],
+  "id": "YOUNG_DRAGON_LEGGINGS"
+}

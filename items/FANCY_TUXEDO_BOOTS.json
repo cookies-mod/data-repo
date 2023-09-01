@@ -1,0 +1,22 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "51,42,42",
+  "name": "Fancy Tuxedo Oxfords",
+  "category": "BOOTS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "WALK_SPEED": 10,
+    "CRITICAL_DAMAGE": 35,
+    "INTELLIGENCE": 75
+  },
+  "id": "FANCY_TUXEDO_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Dashing","color":"gold"},
+    {"text":"Max health set to ","color":"gray","extra":[{"text":"150\u2764","color":"red"},{"text":".","color":"gray"}]},
+    {"text":"Deal ","color":"gray","extra":[{"text":"+100% ","color":"red"},{"text":"damage!","color":"gray"}]},
+    {"text":"Very stylish.","color":"dark_gray"},
+    {"text":""}
+  ]
+}

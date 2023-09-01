@@ -1,0 +1,10 @@
+{
+  "material": "cooked_cod",
+  "durability": 1,
+  "name": "Diamond the Fish",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "description": [{"text":"Shines bright like a fish","italic":true,"color":"gray"},{"text":""}],
+  "museum": true,
+  "id": "DIAMOND_THE_FISH"
+}

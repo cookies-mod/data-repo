@@ -1,0 +1,57 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMTEwMjQ0MjI1NCwKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTA1YzliNGY0MjE4Njc3YzViNGJjYzljN2Q5ZTI5ZTE4ZDE2ODRhNTM2NzgxZmVkZTEyODBmYzVlNjk2MTUzOCIKICAgIH0KICB9Cn0",
+  "name": "Neon RedEnder Dragon",
+  "category": "COSMETIC",
+  "tier": "LEGENDARY",
+  "unstackable": true,
+  "museum": true,
+  "id": "PET_SKIN_DRAGON_NEON_RED",
+  "description": [
+    {
+      "text": "Consumed on use",
+      "color": "dark_gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Pet skins change the look and",
+      "color": "gray"
+    },
+    {
+      "text": "particle trail of your pet but",
+      "color": "gray"
+    },
+    {
+      "text": "only one skin can be active at a",
+      "color": "gray"
+    },
+    {
+      "text": "time!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "This skin can only be applied",
+      "color": "gray"
+    },
+    {
+      "text": "to Rabbit pets.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "This skin is animated!",
+      "color": "green"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

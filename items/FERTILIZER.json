@@ -1,0 +1,8 @@
+{
+  "material": "LONG_GRASS",
+  "name": "Fertilizer",
+  "durability": 2,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 4,
+  "id": "FERTILIZER"
+}

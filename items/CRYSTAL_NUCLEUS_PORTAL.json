@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTQ5MjQ2MDEzMSwKICAicHJvZmlsZUlkIiA6ICI0ZWQ4MjMzNzFhMmU0YmI3YTVlYWJmY2ZmZGE4NDk1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJlYnlyZDg4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM0ZDQyZjljNDYxY2VlMTk5N2I2N2JmMzYxMGM2NDExYmY4NTJiOWU1ZGI2MDdiYmY2MjY1MjdjZmI0MjkxMmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Portal to the Crystal Nucleus",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Crystal Nucleus",
+      "description_name": "%%gray%%the %%dark_purple%%Crystal Nucleus",
+      "destination_mode": "crystal_hollows",
+      "location_tag": "nucleus",
+      "schematic_file": "sb_portal_crystal_hollows",
+      "offset": "NEW",
+      "skill_requirement": {
+        "skill": "MINING",
+        "level": 16
+      }
+    }
+  },
+  "id": "CRYSTAL_NUCLEUS_PORTAL"
+}

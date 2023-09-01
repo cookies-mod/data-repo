@@ -1,0 +1,33 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "168,43,118",
+  "name": "Salmon Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 70,
+    "SEA_CREATURE_CHANCE": 1.5,
+    "HEALTH": 150
+  },
+  "npc_sell_price": 200,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 13
+    }
+  ],
+  "museum": true,
+  "id": "SALMON_CHESTPLATE",
+  "description": [
+    {"text":""},
+    {"text":"Ability: Water Burst ","color":"gold","extra":[{"text":"SNEAK","color":"yellow","bold":true}]},
+    {"text":"When wearing the full set,","color":"gray"},
+    {"text":"grants the wearer with the","color":"gray"},
+    {"text":"ability to ","color":"gray","extra":[{"text":"burst forward","color":"green"}]},
+    {"text":"when sneaking in water.","color":"gray"},
+    {"text":"Mana Cost: ","color":"dark_gray","extra":[{"text":"20","color":"dark_aqua"}]},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

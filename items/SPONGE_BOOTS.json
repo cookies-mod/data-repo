@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "255,220,81",
+  "name": "Spongy Shoes",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 60
+  },
+  "npc_sell_price": 32000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 17
+    }
+  ],
+  "id": "SPONGE_BOOTS"
+}

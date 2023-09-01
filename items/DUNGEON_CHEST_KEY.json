@@ -1,0 +1,8 @@
+{
+  "material": "TRIPWIRE_HOOK",
+  "name": "Dungeon Chest Key",
+  "tier": "RARE",
+  "npc_sell_price": 1,
+  "dungeon_item": true,
+  "id": "DUNGEON_CHEST_KEY"
+}

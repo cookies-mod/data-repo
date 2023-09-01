@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjJmMjQ5OWFiNGNmYzk3ZTY1ZjBmYTlmZTYzY2M2MDY3MDdhNGFlOTZhZjQwNzg0NmIxYjUzNTRmM2ZhZDk5In19fQ\u003d\u003d",
+  "name": "Bingo Ring",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "museum": true,
+  "id": "BINGO_RING"
+}

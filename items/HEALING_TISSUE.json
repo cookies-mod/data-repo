@@ -1,0 +1,7 @@
+{
+  "material": "ROTTEN_FLESH",
+  "name": "Healing Tissue",
+  "tier": "RARE",
+  "dungeon_item": true,
+  "id": "HEALING_TISSUE"
+}

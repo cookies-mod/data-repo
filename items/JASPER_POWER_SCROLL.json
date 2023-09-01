@@ -1,0 +1,17 @@
+{
+  "material": "writable_book",
+  "name": "Jasper Power Scroll",
+  "glowing": true,
+  "tier": "EPIC",
+  "id": "JASPER_POWER_SCROLL",
+  "description": [
+    {"text":"Gain ","color":"gray","extra":[{"text":"+10\u2741 Strength ","color":"red"},{"text":"for ","color":"gray"},{"text":"5s","color":"green"}]},
+    {"text":"when using your ","color":"gray","extra":[{"text":" RIGHT CLICK","color":"yellow","bold":true}]},
+    {"text":"Item Ability","color":"gold","extra":[{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"Can be combined with any ","color":"gray","extra":[{"text":"item","color":"aqua"}]},
+    {"text":"with a ","color":"gray","extra":[{"text":"RIGHT CLICK ","color":"yellow","bold":true},{"text":"Item","color":"gold"}]},
+    {"text":"Ability ","color":"gold","extra":[{"text":"at an anvil.","color":"gray"}]},
+    {"text":""}
+  ]
+}

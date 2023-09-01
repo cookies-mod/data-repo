@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "255,255,255",
+  "name": "Helmet of the Pack",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 65,
+    "HEALTH": 70
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "wolf",
+      "level": 6
+    }
+  ],
+  "id": "HELMET_OF_THE_PACK"
+}

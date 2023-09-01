@@ -1,0 +1,8 @@
+{
+  "material": "IRON_BARDING",
+  "name": "Iron Horse Armor",
+  "tier": "RARE",
+  "npc_sell_price": 500,
+  "museum": true,
+  "id": "IRON_BARDING"
+}

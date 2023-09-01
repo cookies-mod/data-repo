@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWVkYzY5ZmVmYWQxODRlZThjOTE4NjkyOGRhOTgyYWRkZmQ3ODNiZWQ5OGQ5NTA4MzQwOGJmNDE5ZTBjY2NkMCJ9fX0K",
+  "name": "Large Enchanted Mining Sack",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "LARGE_ENCHANTED_MINING_SACK"
+}

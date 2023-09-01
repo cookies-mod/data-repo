@@ -1,0 +1,81 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "90,100,100",
+  "name": "Super Heavy Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "WALK_SPEED": [
+      -10,
+      -10,
+      -10,
+      -10,
+      -10,
+      -10,
+      -10,
+      -10,
+      -10,
+      -10
+    ],
+    "DEFENSE": [
+      112,
+      124,
+      139,
+      154,
+      171,
+      190,
+      211,
+      234,
+      261,
+      290
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 400
+      }
+    ]
+  ],
+  "gear_score": 10,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 15
+    }
+  ],
+  "dungeon_item": true,
+  "id": "SUPER_HEAVY_CHESTPLATE"
+}

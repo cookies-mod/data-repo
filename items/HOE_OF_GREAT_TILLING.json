@@ -1,0 +1,14 @@
+{
+  "material": "STONE_HOE",
+  "name": "Hoe of Great Tilling",
+  "category": "HOE",
+  "tier": "UNCOMMON",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 2
+    }
+  ],
+  "id": "HOE_OF_GREAT_TILLING"
+}

@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWI4NzhhOTFlZTQyNzhkMTZlZjE1MTc1ZWQ4ZTI4NjE1NDFkZTc5NzQ3NWNmNGE0NzMyOTE1ODc2YzZlOWEifX19",
+  "name": "Walnut",
+  "category": "NONE",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 200,
+  "id": "WALNUT"
+}

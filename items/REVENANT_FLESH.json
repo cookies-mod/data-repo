@@ -1,0 +1,8 @@
+{
+  "material": "ROTTEN_FLESH",
+  "name": "Revenant Flesh",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1,
+  "id": "REVENANT_FLESH"
+}

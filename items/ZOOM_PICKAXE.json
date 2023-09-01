@@ -1,0 +1,16 @@
+{
+  "material": "WOODen_PICKAXE",
+  "name": "Zoom",
+  "glowing": true,
+  "category": "PICKAXE",
+  "tier": "ADMIN",
+  "stats": {
+    "BREAKING_POWER": 10,
+    "DAMAGE": 30,
+    "MINING_SPEED": 3000
+  },
+  "npc_sell_price": 5000,
+  "id": "ZOOM_PICKAXE",
+  "can_be_reforged": true,
+  "soulbound": "SOLO"
+}

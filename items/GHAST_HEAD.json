@@ -1,0 +1,13 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E4YjcxNGQzMmQ3ZjZjZjhiMzdlMjIxYjc1OGI5YzU5OWZmNzY2NjdjN2NkNDViYmM0OWM1ZWYxOTg1ODY0NiJ9fX0\u003d",
+  "name": "Ghast Head",
+  "category": "HELMET",
+  "stats": {
+    "HEALTH": 100
+  },
+  "npc_sell_price": 64,
+  "museum": true,
+  "id": "GHAST_HEAD"
+}

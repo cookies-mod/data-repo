@@ -1,0 +1,18 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTI0Mjc1NzEwMCwKICAicHJvZmlsZUlkIiA6ICJiNzVjZDRmMThkZjg0MmNlYjJhY2MxNTU5MTNiMjA0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLcmlzdGlqb25hczEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3YTZkMzVlOWQ0MzU0MmQyNzUwYzQ4MzZiNDAzN2Y3NTE0NmViMjc4NzUzMmI0YzRjNWMzYjI2YmI2M2RjMTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Empty Thunder Bottle",
+  "tier": "EPIC",
+  "unstackable": true,
+  "npc_sell_price": 5000,
+  "id": "THUNDER_IN_A_BOTTLE_EMPTY",
+  "description": [
+    {"text":"This bottle is empty, I wonder","color":"gray"},
+    {"text":"if there is a way to charge it","color":"gray"},
+    {"text":"up...","color":"gray"},
+    {"text":""},
+    {"text":"Charge: ","color":"gray","extra":[{"text":"0","color":"yellow"},{"text":"/","color":"gold"},{"text":"50,000","color":"yellow"}]},
+    {"text":""},
+  ]
+}

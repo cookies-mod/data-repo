@@ -1,0 +1,7 @@
+{
+  "material": "REDSTONE_ORE",
+  "name": "Redstone Ore",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 6,
+  "id": "REDSTONE_ORE"
+}

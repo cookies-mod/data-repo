@@ -1,0 +1,12 @@
+{
+  "material": "CHAINMAIL_BOOTS",
+  "name": "Dashing Boots",
+  "category": "BOOTS",
+  "tier": "UNOBTAINABLE",
+  "stats": {
+    "WALK_SPEED": 30,
+    "DEFENSE": 1
+  },
+  "npc_sell_price": 1000,
+  "id": "DASHING_BOOTS"
+}

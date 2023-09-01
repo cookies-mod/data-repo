@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3OTMzNDUzOTYzMSwKICAicHJvZmlsZUlkIiA6ICJkYjYzNWE3MWI4N2U0MzQ5YThhYTgwOTMwOWFhODA3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbmdlbHMxNzQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjg0YTNjNTcwYmQxZGQ3ZjgyNmVmOGQzNWFmNTk2OGQ1Yjk0NmIyOWY2ZDk2YWQ2ZjAzNGIwMTE4MDcwYjAxMiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+  "name": "Proto-Chicken",
+  "tier": "EPIC",
+  "origin": "RIFT",
+  "description": "The animal which came right before the first chicken.",
+  "id": "PROTOCHICKEN"
+}

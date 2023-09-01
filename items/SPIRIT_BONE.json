@@ -1,0 +1,15 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjhhNzljNTEyY2ZmMWE5ZjQ3MzE5ZmQ3N2VmZDA2ZjY3M2E3NzJhYTk3NTk3NDM2YjAxNjBjNDA5YzhhMmU2MCJ9fX0\u003d",
+  "name": "Spirit Bone",
+  "tier": "EPIC",
+  "dungeon_item": true,
+  "id": "SPIRIT_BONE",
+  "description": [
+    {"text":"A Wolf Spirit is attached to","color":"gray"},
+    {"text":"this bone. Wolf Spirits always","color":"gray"},
+    {"text":"come back to their masters.","color":"gray"},
+    {"text":""}
+  ]
+}

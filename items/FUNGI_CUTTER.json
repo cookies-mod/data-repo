@@ -1,0 +1,14 @@
+{
+  "material": "GOLD_HOE",
+  "name": "Fungi Cutter",
+  "category": "HOE",
+  "tier": "RARE",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 10
+    }
+  ],
+  "id": "FUNGI_CUTTER"
+}

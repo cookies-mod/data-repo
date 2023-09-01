@@ -1,0 +1,77 @@
+{
+  "material": "CHAINMAIL_CHESTPLATE",
+  "name": "Sorrow Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "LEGENDARY",
+  "stats": {
+    "MAGIC_FIND": 5,
+    "MINING_FORTUNE": 20,
+    "TRUE_DEFENSE": 80,
+    "MINING_SPEED": 50
+  },
+  "npc_sell_price": 120000,
+  "gemstone_slots": [
+    {
+      "slot_type": "AMBER"
+    },
+    {
+      "slot_type": "JADE",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 100000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JADE_GEM",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "slot_type": "UNIVERSAL",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JADE_GEM",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_AMBER_GEM",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_TOPAZ_GEM",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_RUBY_GEM",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_AMETHYST_GEM",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_SAPPHIRE_GEM",
+          "amount": 20
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 20
+        }
+      ]
+    }
+  ],
+  "id": "SORROW_CHESTPLATE"
+}

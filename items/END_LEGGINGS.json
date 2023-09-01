@@ -1,0 +1,20 @@
+{
+  "material": "CHAINMAIL_LEGGINGS",
+  "name": "Ender Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 50,
+    "HEALTH": 25
+  },
+  "npc_sell_price": 10000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 12
+    }
+  ],
+  "soulbound": "COOP",
+  "id": "END_LEGGINGS"
+}

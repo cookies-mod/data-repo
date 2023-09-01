@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWE2YzE5YzQ1YTQwMjZkMzM1MThjNTJmZWY3N2I0OTg1YjhhMmUzNjM3Yzc0NTQzYjJhZjY5MTAwODEzNDVlNCJ9fX0\u003d",
+  "name": "Suspicious Stew",
+  "description": "Comes with a Health Disclaimer: \"Expired in the year 87. Do not consume.\" %%black%%?",
+  "tier": "RARE",
+  "npc_sell_price": 50,
+  "id": "SUSPICIOUS_STEW"
+}

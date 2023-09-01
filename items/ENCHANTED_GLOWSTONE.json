@@ -1,0 +1,8 @@
+{
+  "material": "GLOWSTONE",
+  "name": "Enchanted Glowstone",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 61000,
+  "id": "ENCHANTED_GLOWSTONE"
+}

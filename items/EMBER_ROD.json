@@ -1,0 +1,23 @@
+{
+  "material": "BLAZE_ROD",
+  "name": "Ember Rod",
+  "glowing": true,
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 80,
+    "STRENGTH": 35,
+    "WEAPON_ABILITY_DAMAGE": 30,
+    "INTELLIGENCE": 50
+  },
+  "npc_sell_price": 1000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 8
+    }
+  ],
+  "museum": true,
+  "id": "EMBER_ROD"
+}

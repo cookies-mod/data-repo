@@ -1,0 +1,9 @@
+{
+  "material": "DIAMOND_SWORD",
+  "name": "Sword of Live Reloading",
+  "stats": {
+    "DAMAGE": 69,
+    "ferocity": 600
+  },
+  "id": "SWORD_OF_LIVE_RELOADING"
+}

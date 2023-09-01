@@ -1,0 +1,122 @@
+{
+  "material": "LEATHER_BOOTS",
+  "item_durability": -1,
+  "color": "231,110,60",
+  "name": "Necron\u0027s Boots",
+  "category": "BOOTS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 85,
+    "HEALTH": 145,
+    "STRENGTH": 40,
+    "CRITICAL_DAMAGE": 30,
+    "INTELLIGENCE": 10
+  },
+  "npc_sell_price": 5000,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 350
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 500
+      }
+    ]
+  ],
+  "gear_score": 25,
+  "requirements": [
+    {
+      "type": "DUNGEON_TIER",
+      "dungeon_type": "CATACOMBS",
+      "tier": 7
+    }
+  ],
+  "dungeon_item": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "JASPER",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "id": "POWER_WITHER_BOOTS",
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Witherborn","color":"gold"},
+    {"text":"Spawns a wither minion every","color":"gray"},
+    {"text":"30 ","color":"yellow", "extra":[{"text":"seconds up to a maximum","color":"gray"}]},
+    {"text":"maximum ","color":"gray", "extra":[{"text":"1 ","color":"green"},{"text":"wither. Your withers will","color":"gray"}]},
+    {"text":"travel to and explode on nearby","color":"gray"},
+    {"text":"enemies.","color":"gray"},
+    {"text":""},
+    {"text":"Reduces the damage you take from","color":"gray"},
+    {"text":"withers by ","color":"gray", "extra":[{"text":"10%","color":"red"},{"text":"."}]},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

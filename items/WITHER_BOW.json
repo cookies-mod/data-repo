@@ -1,0 +1,11 @@
+{
+  "material": "BOW",
+  "name": "Wither Bow",
+  "category": "BOW",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 30
+  },
+  "npc_sell_price": 1,
+  "id": "WITHER_BOW"
+}

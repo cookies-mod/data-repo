@@ -1,0 +1,10 @@
+{
+  "material": "WOOD_AXE",
+  "name": "Wooden Axe",
+  "category": "AXE",
+  "stats": {
+    "DAMAGE": 10
+  },
+  "npc_sell_price": 1,
+  "id": "WOOD_AXE"
+}

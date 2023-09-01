@@ -1,0 +1,8 @@
+{
+  "material": "BEDROCK",
+  "name": "Explosive Shot",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1,
+  "dungeon_item": true,
+  "id": "EXPLOSIVE_SHOT_ABILITY"
+}

@@ -1,0 +1,11 @@
+{
+  "material": "WOOD_SWORD",
+  "name": "Sword of Revelations",
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 180,
+    "STRENGTH": 50
+  },
+  "id": "SWORD_OF_REVELATIONS"
+}

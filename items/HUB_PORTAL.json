@@ -1,0 +1,21 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjUxMzU0M2E3NzExOGY4MjAxZjQ5YjdjOGI2MzJkY2ZkMzgwMzdlYmZjNjAxYTFiYzkxYWVkYzRjYWJhIn19fQ\u003d\u003d",
+  "name": "Portal to the Hub",
+  "npc_sell_price": 1,
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "%%gray%%the %%aqua%%Hub",
+      "destination_mode": "hub",
+      "schematic_file": "sb_portal_hub",
+      "offset": "MINE",
+      "skill_requirement": {
+        "skill": "FORAGING",
+        "level": 0
+      }
+    }
+  },
+  "id": "HUB_PORTAL"
+}

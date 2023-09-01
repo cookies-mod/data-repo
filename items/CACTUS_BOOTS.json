@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "0,255,0",
+  "name": "Cactus Boots",
+  "category": "BOOTS",
+  "stats": {
+    "DEFENSE": 10,
+    "HEALTH": 5
+  },
+  "npc_sell_price": 2,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 5
+    }
+  ],
+  "id": "CACTUS_BOOTS"
+}

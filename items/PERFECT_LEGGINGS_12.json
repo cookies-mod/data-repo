@@ -1,0 +1,71 @@
+{
+  "material": "DIAMOND_LEGGINGS",
+  "name": "Perfect Leggings - Tier XII",
+  "category": "LEGGINGS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 360
+  },
+  "npc_sell_price": 5222400,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "DIAMOND",
+    "amount": 60
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 65
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 110
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 160
+      }
+    ]
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 21
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    }
+  ],
+  "id": "PERFECT_LEGGINGS_12",
+  "can_be_reforged": true
+}

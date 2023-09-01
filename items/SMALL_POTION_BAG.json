@@ -1,0 +1,14 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDVjNmRjMmJiZjUxYzM2Y2ZjNzcxNDU4NWE2YTU2ODNlZjJiMTRkNDdkOGZmNzE0NjU0YTg5M2Y1ZGE2MjIifX19",
+  "name": "Small Potion Bag",
+  "id": "SMALL_POTION_BAG",
+  "tier": "UNOBTAINABLE",
+  "description": [
+    {"text": ""},
+    {"text": "WARNING!", "color": "red", "bold": true},
+    {"text": "This item is not obtainable, it does ONLY exist in the API.", "color": "red"},
+    {"text": ""}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk1MzIwMywKICAicHJvZmlsZUlkIiA6ICIwNDNkZWIzOGIyNjE0MTg1YTIzYzU4ZmI2YTc5ZWZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRhbFNpZ256MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODg3NDUwNDk3OGJkODY4ODgwYjAwNGU4ZTYxMTEzYmI1OGExMDIzYWY4NjczN2U3NzUxMTEwOGEyNmVjMDViIgogICAgfQogIH0KfQ",
+  "name": "Snow Gloves",
+  "category": "GLOVES",
+  "tier": "RARE",
+  "museum": true,
+  "npc_sell_price": 0,
+  "id": "SNOW_GLOVES",
+  "can_be_reforged":true,
+  "description": [
+    {"text":"Full Set Bonus: Cold Thumb","color":"gold"},
+    {"text":"Allows the wearer to shoot","color":"gray"},
+    {"text":"unlimited snowballs when using","color":"gray"},
+    {"text":"Frosty the Snow Cannon","color":"blue","extra":[{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"Each piece grants a ","color":"gray","extra":[{"text":"5% ","color":"green"},{"text":"bonus","color":"gray"}]},
+    {"text":"gift chance for every present","color":"gray"},
+    {"text":"you earn from the ","color":"gray","extra":[{"text":"Gift Attack ","color":"red"},{"text":"minigame!","color":"gray"}]},
+    {"text":""},
+    {"text":"All stats of this armor piece","color":"gray"},
+    {"text":"are doubled while on the Winter","color":"gray"},
+    {"text":"Island!","color":"gray"},
+    {"text":""}
+  ]
+}

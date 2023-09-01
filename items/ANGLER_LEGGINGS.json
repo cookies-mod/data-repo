@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "11,0,79",
+  "name": "Angler Leggings",
+  "category": "LEGGINGS",
+  "stats": {
+    "DEFENSE": 30
+  },
+  "npc_sell_price": 21,
+  "id": "ANGLER_LEGGINGS"
+}

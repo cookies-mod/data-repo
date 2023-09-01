@@ -1,0 +1,16 @@
+{
+  "material": "DIAMOND_LEGGINGS",
+  "name": "Titan\u0027s Leggings",
+  "category": "LEGGINGS",
+  "tier": "ADMIN",
+  "can_be_reforged": true,
+  "soulbound": "SOLO",
+  "stats": {
+    "DEFENSE": 175,
+    "HEALTH": 200,
+    "STRENGTH": 15,
+    "INTELLIGENCE": 50
+  },
+  "npc_sell_price": 75000,
+  "id": "TITAN_LEGGINGS"
+}

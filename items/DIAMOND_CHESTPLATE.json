@@ -1,0 +1,11 @@
+{
+  "material": "DIAMOND_CHESTPLATE",
+  "name": "Diamond Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 40
+  },
+  "npc_sell_price": 32,
+  "id": "DIAMOND_CHESTPLATE"
+}

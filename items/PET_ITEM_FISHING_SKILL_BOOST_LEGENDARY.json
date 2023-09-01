@@ -1,0 +1,8 @@
+{
+  "material": "RAW_FISH",
+  "name": "Fishing Exp Boost",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "tier": "LEGENDARY",
+  "id": "PET_ITEM_FISHING_SKILL_BOOST_LEGENDARY"
+}

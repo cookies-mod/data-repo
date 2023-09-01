@@ -1,0 +1,9 @@
+{
+  "material": "RAW_FISH",
+  "durability": 2,
+  "name": "Oops the Fish",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "museum": true,
+  "id": "OOPS_THE_FISH"
+}

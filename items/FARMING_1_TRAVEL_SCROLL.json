@@ -1,0 +1,16 @@
+{
+  "material": "map",
+  "name": "Travel Scroll to The Barn",
+  "category": "TRAVEL_SCROLL",
+  "tier": "RARE",
+  "id": "FARMING_1_TRAVEL_SCROLL",
+  "description":[
+    {"text": "Consume this item to add its", "color": "gray"},
+    {"text": "destination to your fast travel", "color": "gray"},
+    {"text": "options.", "color": "gray"},
+    {"text": ""},
+    {"text": "Island: ", "color": "gray", "extra": [{"text": "The Barn", "color": "green"}]},
+    {"text": "Teleport: ", "color": "gray", "extra": [{"text": "Spawn", "color": "yellow"}]},
+    {"text": ""}
+  ]
+}

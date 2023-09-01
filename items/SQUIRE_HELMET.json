@@ -1,0 +1,19 @@
+{
+  "material": "CHAINMAIL_HELMET",
+  "name": "Squire Helmet",
+  "category": "HELMET",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 25,
+    "HEALTH": 25
+  },
+  "npc_sell_price": 2500,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 4
+    }
+  ],
+  "id": "SQUIRE_HELMET"
+}

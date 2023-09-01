@@ -1,0 +1,8 @@
+{
+  "material": "INK_SACK",
+  "durability": 1,
+  "name": "Carmine Dye",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "DYE_CARMINE"
+}

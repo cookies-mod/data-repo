@@ -1,0 +1,11 @@
+{
+  "material": "GOLDEN_LEGGINGS",
+  "name": "Golden Leggings",
+  "category": "LEGGINGS",
+  "stats": {
+    "DEFENSE": 15
+  },
+  "npc_sell_price": 14,
+  "id": "GOLD_LEGGINGS",
+  "can_be_reforged": true
+}

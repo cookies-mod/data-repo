@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTk5NTI0MjAzNywKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc4YmY2MDZmNWFjZTRlM2NmYjgxYTE0NzQyOTkyZmY1YTg2OGQxZjBmOWQxNGI0YmVjOTM5Mzg1OWUwZTBhMDAiCiAgICB9CiAgfQp9",
+  "name": "Shimmer Skin",
+  "category": "COSMETIC",
+  "tier": "MYTHIC",
+  "unstackable": true,
+  "id": "OLD_SHIMMER"
+}

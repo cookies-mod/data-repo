@@ -1,0 +1,18 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Y5Mjk4MmYxYTMwMjMxMDY0M2EyMGNlNTE2MjNmODE5OWI3NTQ1ZTcwZGM2YjkzZWQ2YmQ2MWRjNDJmZjIxMyJ9fX0K",
+  "name": "Dante Talisman",
+  "category": "ACCESSORY",
+  "museum": true,
+  "id": "DANTE_TALISMAN",
+  "description": [
+    {"text":"Official medal proving your","color":"gray"},
+    {"text":"eternal support for Dante.","color":"gray"},
+    {"text":""},
+    {"text":"Can be shown to goons in place","color":"gray"},
+    {"text":"of a Happy Mask for entry into","color":"gray"},
+    {"text":"official buildings.","color":"gray"},
+    {"text":""}
+  ]
+}

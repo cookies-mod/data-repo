@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "255,147,0",
+  "name": "Armor of Magma Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 15,
+    "HEALTH": 45
+  },
+  "npc_sell_price": 30000,
+  "id": "ARMOR_OF_MAGMA_BOOTS"
+}

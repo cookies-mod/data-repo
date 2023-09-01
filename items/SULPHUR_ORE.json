@@ -1,0 +1,8 @@
+{
+  "material": "GLOWSTONE_DUST",
+  "name": "Sulphur",
+  "description": "%%gray%%%%italic%%\"Give me some Sulphur and I\u0027ll make a wand. Give me all the Sulphur and I\u0027ll conquer the world.\" - Unnamed Mage.",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 10,
+  "id": "SULPHUR_ORE"
+}

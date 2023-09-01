@@ -1,0 +1,11 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA5ODU5OTQ1NCwKICAicHJvZmlsZUlkIiA6ICI1NzdhNGViOGFjNzE0Y2M0OTQxOThhOGM2ODkyOTkxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYW1wYXJvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzMzYwNTRjODU4YzBhZDY1MWYwOGJhYjZjNmIzZmRmMWM0N2Y1ZjY1NmZkOTZkNDU0ZTk4MWQzZmNlYjk5YzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Orb of Energy",
+  "tier": "RARE",
+  "soulbound": "COOP",
+  "description": "%%gray%%%%italic%%According to Professor Selta they are 9V batteries and can supply about 50mA of current. Professor Selta is currently in a mental asylum.",
+  "npc_sell_price": 200,
+  "id": "ORB_OF_ENERGY"
+}

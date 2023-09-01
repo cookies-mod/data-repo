@@ -1,0 +1,8 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MWJmNWJjZWQ3MTM3Y2E2NDc0OTc5MTUyZjY0ZjNhODcxNzdkYzYyOThhNzk0YmZjMDMyY2YyY2VkNDg3NzA1In19fQ\u003d\u003d",
+  "name": "Stocking",
+  "furniture": "STOCKING",
+  "id": "STOCKING"
+}

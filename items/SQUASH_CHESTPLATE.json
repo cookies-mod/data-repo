@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "3,67,14",
+  "name": "Squash Chestplate",
+  "tier": "EPIC",
+  "category": "CHESTPLATE",
+  "stats": {
+    "FARMING_FORTUNE": 30,
+    "walk_speed": 5,
+    "health": 180,
+    "defense": 35
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 35
+    }
+  ],
+  "id": "SQUASH_CHESTPLATE"
+}

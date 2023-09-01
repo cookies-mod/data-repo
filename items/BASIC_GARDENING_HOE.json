@@ -1,0 +1,22 @@
+{
+  "material": "IRON_HOE",
+  "name": "Basic Gardening Hoe",
+  "category": "HOE",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 100,
+  "stats": {
+    "FARMING_FORTUNE": 5
+  },
+  "requirements": [
+    {
+      "type": "GARDEN_LEVEL",
+      "level": 1
+    },
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 5
+    }
+  ],
+  "id": "BASIC_GARDENING_HOE"
+}

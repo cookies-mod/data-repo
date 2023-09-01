@@ -1,0 +1,10 @@
+{
+  "material": "COAL_BLOCK",
+  "name": "Bingo Display",
+  "category": "COSMETIC",
+  "tier": "COMMON",
+  "unstackable": true,
+  "description": "%%gray%%Show off your total %%gold%%Bingo Points%%gray%%!",
+  "museum": true,
+  "id": "BINGO_DISPLAY"
+}

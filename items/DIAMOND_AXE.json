@@ -1,0 +1,11 @@
+{
+  "material": "DIAMOND_AXE",
+  "name": "Diamond Axe",
+  "category": "AXE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 30
+  },
+  "npc_sell_price": 12,
+  "id": "DIAMOND_AXE"
+}

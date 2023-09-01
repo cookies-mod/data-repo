@@ -1,0 +1,11 @@
+{
+  "material": "WOOD_SWORD",
+  "name": "Great Spook Sword",
+  "category": "SWORD",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DAMAGE": 0
+  },
+  "museum": true,
+  "id": "GREAT_SPOOK_SWORD"
+}

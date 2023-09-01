@@ -1,0 +1,14 @@
+{
+  "material": "GOLD_HELMET",
+  "name": "Crown of Greed",
+  "glowing": true,
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "stats": {
+    "MAGIC_FIND": 4,
+    "DEFENSE": 90,
+    "HEALTH": 130
+  },
+  "npc_sell_price": 1000000,
+  "id": "CROWN_OF_GREED"
+}

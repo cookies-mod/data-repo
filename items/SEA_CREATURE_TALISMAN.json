@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VhYTQ0YjE3MGQ3NDljZTQwOTlhYTc4ZDk4OTQ1ZDE5MzY1MTQ4NDA4OWVmYjg3YmE4ODg5MmM2ZmVkMmFmMzEifX19",
+  "name": "Sea Creature Talisman",
+  "category": "ACCESSORY",
+  "npc_sell_price": 180,
+  "id": "SEA_CREATURE_TALISMAN"
+}

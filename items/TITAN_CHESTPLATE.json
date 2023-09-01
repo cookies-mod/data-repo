@@ -1,0 +1,16 @@
+{
+  "material": "DIAMOND_CHESTPLATE",
+  "name": "Titan\u0027s Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "ADMIN",
+  "can_be_reforged": true,
+  "soulbound": "SOLO",
+  "stats": {
+    "DEFENSE": 200,
+    "HEALTH": 300,
+    "STRENGTH": 20,
+    "INTELLIGENCE": 75
+  },
+  "npc_sell_price": 100000,
+  "id": "TITAN_CHESTPLATE"
+}

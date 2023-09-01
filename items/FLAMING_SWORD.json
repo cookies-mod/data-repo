@@ -1,0 +1,12 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Flaming Sword",
+  "category": "SWORD",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 50,
+    "STRENGTH": 20
+  },
+  "npc_sell_price": 20,
+  "id": "FLAMING_SWORD"
+}

@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "11,0,79",
+  "name": "Angler Boots",
+  "category": "BOOTS",
+  "stats": {
+    "DEFENSE": 15
+  },
+  "npc_sell_price": 12,
+  "id": "ANGLER_BOOTS"
+}

@@ -1,0 +1,79 @@
+{
+  "material": "DIAMOND_BOOTS",
+  "name": "Mastiff Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": -1000000,
+    "HEALTH": 500,
+    "INTELLIGENCE": 25
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "wolf",
+      "level": 4
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "RUBY"
+    },
+    {
+      "slot_type": "RUBY"
+    },
+    {
+      "slot_type": "RUBY",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 5000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_RUBY_GEM",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "slot_type": "RUBY",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 20000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_RUBY_GEM",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "slot_type": "RUBY",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_RUBY_GEM",
+          "amount": 16
+        }
+      ]
+    }
+  ],
+  "id": "MASTIFF_BOOTS",
+  "can_be_reforged":true,
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Absolute Unit","color":"gold"},
+    {"text":"+50\u2764 ","color":"red","extra":[{"text":"per ","color":"gray"},{"text":"1\u2620 Crit Damage","color":"blue"}]},
+    {"text":"Regain ","color":"gray","extra":[{"text":"2% ","color":"red"},{"text":"of ","color":"gray"},{"text":"max \u2764 ","color":"red"},{"text":"when hit. ","color":"gray"},{"text":"(1s cd)","color":"dark_gray"}]},
+    {"text":"Receive ","color":"gray","extra":[{"text":"-20% ","color":"green"},{"text":"damage from wolves.","color":"gray"}]},
+    {"text":"Your ","color":"gray","extra":[{"text":"\u2620 Crit Damage ","color":"blue"},{"text":"is ","color":"gray"},{"text":"50% ","color":"blue"},{"text":"less effective.","color":"gray"}]},
+    {"text":""}
+  ]
+}

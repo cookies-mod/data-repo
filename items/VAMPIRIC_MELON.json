@@ -1,0 +1,9 @@
+{
+  "material": "MELON_BLOCK",
+  "name": "Vampiric Melon",
+  "tier": "UNCOMMON",
+  "motes_sell_price": 120,
+  "origin": "RIFT",
+  "description": "Perfect ingredient for a healing melon.",
+  "id": "VAMPIRIC_MELON"
+}

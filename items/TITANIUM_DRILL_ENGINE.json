@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzNjAyNzQzOCwKICAicHJvZmlsZUlkIiA6ICI5MWZlMTk2ODdjOTA0NjU2YWExZmMwNTk4NmRkM2ZlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoaGphYnJpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYjkwNTE0ODVlMTU3MDA0MTgwMjJlMzhhNWRiMjhhMDQ5YTJlNjI3YzVmZmE1NmZkMzEzYmNkZWFkNDA2YThlIgogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Titanium-Plated Drill Engine",
+  "tier": "RARE",
+  "npc_sell_price": 103000,
+  "id": "TITANIUM_DRILL_ENGINE"
+}

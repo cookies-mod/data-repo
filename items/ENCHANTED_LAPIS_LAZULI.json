@@ -1,0 +1,9 @@
+{
+  "material": "INK_SACK",
+  "durability": 4,
+  "name": "Enchanted Lapis Lazuli",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 160,
+  "id": "ENCHANTED_LAPIS_LAZULI"
+}

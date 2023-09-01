@@ -1,0 +1,11 @@
+{
+  "material": "PRISMARINE_CRYSTALS",
+  "name": "Ectoplasm",
+  "glowing": true,
+  "tier": "RARE",
+  "id": "ECTOPLASM",
+  "description": [
+    {"text":"Spooky, yet practical.","color":"gray"},
+    {"text":""}
+  ]
+}

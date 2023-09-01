@@ -1,0 +1,15 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjQ4Nzc2NjA4NSwKICAicHJvZmlsZUlkIiA6ICJiMDBmZWRjOTM0YmU0NWIxOGI3M2MyOTgzNjFjZTg3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGRlcmJyYXVlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NhNjQzOGRmY2NjZmUyNmFmMzU2ZjIxNTE4OWJiYmZhYzM5NGUyOGNhZmQ5YjNjYmM0NmEzOWVhY2Q3MWQxMzAiCiAgICB9CiAgfQp9",
+  "name": "Ichthyic Belt",
+  "category": "BELT",
+  "tier": "RARE",
+  "soulbound": "COOP",
+  "npc_sell_price": 4500,
+  "stats": {
+    "health": 12,
+    "fishing_speed": 4
+  },
+  "id": "ICHTHYIC_BELT"
+}

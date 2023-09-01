@@ -1,0 +1,59 @@
+{
+  "material": "GOLD_SWORD",
+  "name": "Hyper Cleaver",
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 175,
+    "STRENGTH": 50,
+    "CRITICAL_DAMAGE": 50
+  },
+  "npc_sell_price": 1,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 5
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 15
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 25
+      }
+    ]
+  ],
+  "gear_score": 20,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 16
+    }
+  ],
+  "dungeon_item": true,
+  "id": "HYPER_CLEAVER"
+}

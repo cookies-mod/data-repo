@@ -1,0 +1,14 @@
+{
+  "material": "MELON",
+  "name": "Luscious Healing Melon",
+  "tier": "LEGENDARY",
+  "glowing": true,
+  "motes_sell_price": 5,
+  "unstackable": true,
+  "origin": "RIFT",
+  "item_specific": {
+    "heal": 12,
+    "mana_cost": 50
+  },
+  "id": "LUSCIOUS_HEALING_MELON"
+}

@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "255,142,222",
+  "name": "Celeste Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 20,
+    "INTELLIGENCE": 60,
+    "HEALTH": 20
+  },
+  "npc_sell_price": 4000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 4
+    }
+  ],
+  "id": "CELESTE_CHESTPLATE"
+}

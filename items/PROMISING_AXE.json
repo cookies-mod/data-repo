@@ -1,0 +1,12 @@
+{
+  "material": "IRON_AXE",
+  "name": "Promising Axe",
+  "category": "AXE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 25
+  },
+  "npc_sell_price": 20,
+  "museum": true,
+  "id": "PROMISING_AXE"
+}

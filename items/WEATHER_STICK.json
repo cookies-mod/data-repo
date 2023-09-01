@@ -1,0 +1,8 @@
+{
+  "material": "STICK",
+  "name": "Weather Stick",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 160,
+  "id": "WEATHER_STICK"
+}

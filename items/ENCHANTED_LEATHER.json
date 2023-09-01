@@ -1,0 +1,8 @@
+{
+  "material": "LEATHER",
+  "name": "Enchanted Leather",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1700,
+  "id": "ENCHANTED_LEATHER"
+}

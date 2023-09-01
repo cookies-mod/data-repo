@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "19,86,30",
+  "name": "Squash Boots",
+  "tier": "EPIC",
+  "category": "BOOTS",
+  "stats": {
+    "FARMING_FORTUNE": 25,
+    "walk_speed": 4,
+    "health": 120,
+    "defense": 35
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 35
+    }
+  ],
+  "id": "SQUASH_BOOTS"
+}

@@ -1,0 +1,11 @@
+{
+  "material": "RAW_FISH",
+  "durability": 1,
+  "name": "Zoop the Fish",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "origin": "RIFT",
+  "museum": true,
+  "rift_transferrable": true,
+  "id": "ZOOP_THE_FISH"
+}

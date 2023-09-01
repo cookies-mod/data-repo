@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "0,0,0",
+  "name": "Squid Boots",
+  "category": "BOOTS",
+  "tier": "UNCOMMON",
+  "stats": {
+    "SEA_CREATURE_CHANCE": 1,
+    "HEALTH": 100
+  },
+  "npc_sell_price": 15,
+  "id": "SQUID_BOOTS",
+  "description": [
+    {"text":""},
+    {"text":"Your shoes spit out Squid ink!","color":"gray"},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

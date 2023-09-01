@@ -1,0 +1,9 @@
+{
+  "material": "NETHER_STAR",
+  "name": "Nether Star",
+  "tier": "LEGENDARY",
+  "npc_sell_price": 10000,
+  "museum": true,
+  "soulbound": "COOP",
+  "id": "CORRUPTED_NETHER_STAR"
+}

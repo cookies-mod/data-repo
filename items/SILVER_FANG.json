@@ -1,0 +1,17 @@
+{
+  "material": "GHAST_TEAR",
+  "name": "Silver Fang",
+  "glowing": true,
+  "category": "SWORD",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 100,
+    "RIFT_DAMAGE": 1
+  },
+  "rift_transferrable": true,
+  "npc_sell_price": 2000,
+  "item_specific": {
+    "bonus_rift_damage_vs_vampire": 3
+  },
+  "id": "SILVER_FANG"
+}

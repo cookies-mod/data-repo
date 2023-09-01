@@ -1,0 +1,10 @@
+{
+  "material": "STICK",
+  "name": "Tribal Spear",
+  "category": "SWORD",
+  "tier": "RARE",
+  "stats": {
+    "STRENGTH": 100
+  },
+  "id": "TRIBAL_SPEAR"
+}

@@ -1,0 +1,9 @@
+{
+  "material": "GOLD_HOE",
+  "name": "Wand of Farming",
+  "category": "WAND",
+  "tier": "RARE",
+  "origin": "RIFT",
+  "glowing": true,
+  "id": "FARMING_WAND"
+}

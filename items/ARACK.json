@@ -1,0 +1,18 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Arack",
+  "category": "SWORD",
+  "tier": "EPIC",
+  "npc_sell_price": 5000,
+  "stats": {
+    "damage": 90
+  },
+  "salvages": [
+    {
+      "type": "ESSENCE",
+      "essence_type": "SPIDER",
+      "amount": 5
+    }
+  ],
+  "id": "ARACK"
+}

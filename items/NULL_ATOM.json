@@ -1,0 +1,8 @@
+{
+  "material": "WOOD_BUTTON",
+  "name": "Null Atom",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 33333,
+  "id": "NULL_ATOM"
+}

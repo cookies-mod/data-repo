@@ -1,0 +1,54 @@
+{
+  "material": "player_head",
+  "name": "Skeleton Hat",
+  "category": "HELMET",
+  "stats": {
+    "WALK_SPEED": 2,
+    "WEAPON_ABILITY_DAMAGE": 50,
+    "INTELLIGENCE": 10
+  },
+  "npc_sell_price": 8,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "UNDEAD",
+    "amount": 40
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 60
+      }
+    ]
+  ],
+  "museum": true,
+  "id": "SKELETON_HAT"
+}

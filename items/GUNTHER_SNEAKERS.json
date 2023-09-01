@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "79,40,134",
+  "name": "Gunther\u0027s Sneakers",
+  "category": "BOOTS",
+  "tier": "RARE",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_TIME": 30,
+    "rift_walk_speed": 4
+  },
+  "id": "GUNTHER_SNEAKERS"
+}

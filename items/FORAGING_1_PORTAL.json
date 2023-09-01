@@ -1,0 +1,32 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTIyMWY4MTNkYWNlZTBmZWY4YzU5Zjc2ODk0ZGJiMjY0MTU0NzhkOWRkZmM0NGMyZTcwOGE2ZDNiNzU0OWIifX19",
+  "name": "Portal to Birch Park",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Birch Park",
+      "description_name": "%%green%%Birch Park",
+      "destination_mode": "foraging_1",
+      "offset": "FORAGING",
+      "schematic_file": "sb_portal_foraging1",
+      "location_tag": "birch",
+      "skill_requirement": {
+        "skill": "FORAGING",
+        "level": 1
+      }
+    }
+  },
+  "id": "FORAGING_1_PORTAL",
+  "description": [
+    {"text":"Placing the item on your private","color":"gray"},
+    {"text":"island will create a portal to","color":"gray"},
+    {"text":"the Birch Park for you to use","color":"gray"},
+    {"text":"whenever you want!","color":"gray"},
+    {"text":""},
+    {"text":"The portal will spawn facing","color":"dark_gray"},
+    {"text":"you on the block you click on.","color":"dark_gray"},
+    {"text":""}
+  ]
+}

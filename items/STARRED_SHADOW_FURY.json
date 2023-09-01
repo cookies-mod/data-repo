@@ -1,0 +1,117 @@
+{
+  "material": "DIAMOND_SWORD",
+  "item_durability": -1,
+  "name": "Shadow Fury",
+  "category": "SWORD",
+  "tier": "LEGENDARY",
+  "stats": {
+    "WALK_SPEED": 40,
+    "DAMAGE": 310,
+    "STRENGTH": 160,
+    "CRITICAL_DAMAGE": 60
+  },
+  "npc_sell_price": 500000,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 400
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 800
+      }
+    ]
+  ],
+  "gear_score": 100,
+  "requirements": [
+    {
+      "type": "DUNGEON_TIER",
+      "dungeon_type": "CATACOMBS",
+      "tier": 5
+    }
+  ],
+  "dungeon_item": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "JASPER",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 100000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 100000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_SAPPHIRE_GEM",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_RUBY_GEM",
+          "amount": 40
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_AMETHYST_GEM",
+          "amount": 40
+        }
+      ]
+    }
+  ],
+  "id": "STARRED_SHADOW_FURY",
+  "description": [
+    {"text":""},
+    {"text":"Ability: Shadow Fury ","color":"gold","extra":[{"text":"RIGHT CLICK","color":"yellow","bold":true}]},
+    {"text":"Rapidly teleports you to up to","color":"gray"},
+    {"text":"5 ","color":"aqua","extra":[{"text":"enemies within ","color":"gray"},{"text":"12","color":"yellow"}]},
+    {"text":"blocks, rooting each of them","color":"gray"},
+    {"text":"and allowing you to hit them.","color":"gray"},
+    {"text":"Cooldown: ","color":"dark_gray","extra":[{"text":"15s","color":"green"}]},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

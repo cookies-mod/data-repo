@@ -1,0 +1,12 @@
+{
+  "material": "GOLD_SWORD",
+  "name": "Cleaver",
+  "category": "SWORD",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 40,
+    "STRENGTH": 10
+  },
+  "npc_sell_price": 8,
+  "id": "CLEAVER"
+}

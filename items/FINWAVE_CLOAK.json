@@ -1,0 +1,16 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjU1OTUzMDE5OCwKICAicHJvZmlsZUlkIiA6ICI1NjY3NWIyMjMyZjA0ZWUwODkxNzllOWM5MjA2Y2ZlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRyYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNWU3NGU2M2IzZTAzNjE5YjU2MzZkZWY1ZDgwZTZmYTg4ZTVjZWJkZWFmZTQwOTA1Y2JhZDQ5ODU4MzYxMDYyIgogICAgfQogIH0KfQ",
+  "name": "Finwave Cloak",
+  "category": "CLOAK",
+  "tier": "EPIC",
+  "soulbound": "COOP",
+  "npc_sell_price": 9000,
+  "stats": {
+    "health": 15,
+    "health_regeneration": 1,
+    "fishing_speed": 8
+  },
+  "id": "FINWAVE_CLOAK"
+}

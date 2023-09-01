@@ -1,0 +1,25 @@
+{
+  "material": "GOLDEN_SWORD",
+  "enchantments": {
+    "sharpness": 25
+  },
+  "name": "Sword of the Stars 3000",
+  "category": "SWORD",
+  "tier": "ADMIN",
+  "stats": {
+    "DAMAGE": 999999
+  },
+  "id": "STAR_SWORD_3000",
+  "description": [
+    {"text":""},
+    {"text":"Sharpness XXV","color":"blue"},
+    {"text":"Increases melee damage dealt by","color":"gray"},
+    {"text":"65%","color":"green","extra":[{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"\"Only those with the power to","color":"light_purple"},
+    {"text":"create this world can wield this","color":"light_purple"},
+    {"text":"blade.\"","color":"light_purple"},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

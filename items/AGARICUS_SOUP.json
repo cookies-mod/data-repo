@@ -1,0 +1,11 @@
+{
+  "material": "RABBIT_STEW",
+  "name": "Agaricus Soup",
+  "tier": "UNCOMMON",
+  "origin": "RIFT",
+  "item_specific": {
+    "speed_duration_seconds": 60,
+    "cooldown_seconds": 60
+  },
+  "id": "AGARICUS_SOUP"
+}

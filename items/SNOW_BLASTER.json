@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTI1ZTMzM2IyNWM1ZDViMjQzMzY5NTE2ZjU4ODhiY2EzOGMxYWEwZTFkOTgwOTI3MzgxODdhNzQ0MDZiNTRhIn19fQ\u003d\u003d",
+  "name": "Frosty the Snow Blaster",
+  "tier": "EPIC",
+  "npc_sell_price": 100,
+  "museum": true,
+  "id": "SNOW_BLASTER"
+}

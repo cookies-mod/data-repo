@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMjRhNGQzMmQ0M2QxYzJhOTQ2YmU2NDYzNWMzMWEwN2QwMzAwY2ZkY2FiZjZmMjNjNGY4MjQyMDc3Y2NkYjZlIn19fQ\u003d\u003d",
+  "name": "Wood Chest+",
+  "furniture": "WOOD_CHEST",
+  "tier": "UNCOMMON",
+  "id": "WOOD_CHEST"
+}

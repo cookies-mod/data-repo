@@ -1,0 +1,20 @@
+{
+  "material": "CHAINMAIL_CHESTPLATE",
+  "name": "Ender Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 60,
+    "HEALTH": 30
+  },
+  "npc_sell_price": 10000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 12
+    }
+  ],
+  "soulbound": "COOP",
+  "id": "END_CHESTPLATE"
+}

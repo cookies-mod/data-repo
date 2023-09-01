@@ -1,0 +1,8 @@
+{
+  "material": "BOOK",
+  "name": "Hot Potato Book",
+  "glowing": true,
+  "tier": "EPIC",
+  "npc_sell_price": 38400,
+  "id": "HOT_POTATO_BOOK"
+}

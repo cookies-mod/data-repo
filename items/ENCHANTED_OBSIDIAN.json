@@ -1,0 +1,8 @@
+{
+  "material": "OBSIDIAN",
+  "name": "Enchanted Obsidian",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1440,
+  "id": "ENCHANTED_OBSIDIAN"
+}

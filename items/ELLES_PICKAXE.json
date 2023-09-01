@@ -1,0 +1,14 @@
+{
+  "material": "IRON_PICKAXE",
+  "name": "Elle\u0027s Pickaxe",
+  "glowing": true,
+  "category": "PICKAXE",
+  "tier": "SPECIAL",
+  "stats": {
+    "BREAKING_POWER": 5,
+    "DAMAGE": 10,
+    "MINING_SPEED": 250
+  },
+  "npc_sell_price": 0,
+  "id": "ELLES_PICKAXE"
+}

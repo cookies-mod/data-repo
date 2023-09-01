@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzhkMTk5ZTIzYzE3NDg4YTAxYTA3MDA1YTQxZmUzMzBiMWQyMmIwNGU5OTk0M2M5ZjhjODk3ZDE1NmU5NTU1YSJ9fX0\u003d",
+  "name": "Ember Helmet",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 35,
+    "HEALTH": 40,
+    "INTELLIGENCE": 5
+  },
+  "npc_sell_price": 1000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 8
+    }
+  ],
+  "id": "EMBER_HELMET"
+}

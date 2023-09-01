@@ -1,0 +1,52 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Undead Sword",
+  "category": "SWORD",
+  "stats": {
+    "DAMAGE": 30
+  },
+  "npc_sell_price": 5,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "UNDEAD",
+    "amount": 10
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 60
+      }
+    ]
+  ],
+  "gear_score": 10,
+  "id": "UNDEAD_SWORD"
+}

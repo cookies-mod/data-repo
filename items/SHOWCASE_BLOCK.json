@@ -1,0 +1,14 @@
+{
+  "material": "GLASS",
+  "name": "Showcase Block",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "SOCIAL",
+      "level": 10
+    }
+  ],
+  "id": "SHOWCASE_BLOCK"
+}

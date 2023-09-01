@@ -1,0 +1,51 @@
+{
+  "material": "DIAMOND_SWORD",
+  "name": "Voidedge Katana",
+  "category": "SWORD",
+  "sword_type": "KATANA",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 125,
+    "STRENGTH": 60,
+    "CRITICAL_DAMAGE": 20,
+    "INTELLIGENCE": 50
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "enderman",
+      "level": 3
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "JASPER",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "slot_type": "SAPPHIRE",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 100000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_SAPPHIRE_GEM",
+          "amount": 40
+        }
+      ]
+    }
+  ],
+  "id": "VOIDEDGE_KATANA"
+}

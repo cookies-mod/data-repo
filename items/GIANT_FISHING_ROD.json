@@ -1,0 +1,13 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Giant Fishing Rod",
+  "category": "FISHING_ROD",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DAMAGE": 20,
+    "STRENGTH": 10,
+    "fishing_speed": 20
+  },
+  "museum": true,
+  "id": "GIANT_FISHING_ROD"
+}

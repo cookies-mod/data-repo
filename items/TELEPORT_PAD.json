@@ -1,0 +1,8 @@
+{
+  "material": "ENDER_PORTAL_FRAME",
+  "name": "Teleport Pad",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1000,
+  "id": "TELEPORT_PAD"
+}

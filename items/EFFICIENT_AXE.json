@@ -1,0 +1,18 @@
+{
+  "material": "IRON_AXE",
+  "name": "Efficient Axe",
+  "category": "AXE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 25
+  },
+  "npc_sell_price": 25,
+  "id": "EFFICIENT_AXE",
+  "description": [
+    {"text":""},
+    {"text":"Drops 5 Planks from chopping","color":"gray"},
+    {"text":"Logs.","color":"gray"},
+    {"text":""}
+  ],
+  "can_be_reforged": true
+}

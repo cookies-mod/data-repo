@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "237,170,54",
+  "name": "Pumpkin Helmet",
+  "category": "HELMET",
+  "stats": {
+    "DEFENSE": 8,
+    "HEALTH": 8
+  },
+  "npc_sell_price": 10,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 2
+    }
+  ],
+  "id": "PUMPKIN_HELMET"
+}

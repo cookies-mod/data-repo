@@ -1,0 +1,12 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "204,229,255",
+  "name": "Mineral Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "WALK_SPEED": 15,
+    "DEFENSE": 125
+  },
+  "id": "MINERAL_LEGGINGS"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "WEB",
+  "name": "Tarantula Silk",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 128,
+  "id": "TARANTULA_SILK"
+}

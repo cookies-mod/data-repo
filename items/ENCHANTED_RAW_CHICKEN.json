@@ -1,0 +1,8 @@
+{
+  "material": "RAW_CHICKEN",
+  "name": "Enchanted Raw Chicken",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 640,
+  "id": "ENCHANTED_RAW_CHICKEN"
+}

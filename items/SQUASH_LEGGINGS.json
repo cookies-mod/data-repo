@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "12,74,22",
+  "name": "Squash Leggings",
+  "tier": "EPIC",
+  "category": "LEGGINGS",
+  "stats": {
+    "FARMING_FORTUNE": 30,
+    "walk_speed": 5,
+    "health": 180,
+    "defense": 35
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 35
+    }
+  ],
+  "id": "SQUASH_LEGGINGS"
+}

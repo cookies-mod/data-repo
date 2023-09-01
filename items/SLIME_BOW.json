@@ -1,0 +1,12 @@
+{
+  "material": "BOW",
+  "name": "Slime Bow",
+  "category": "BOW",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 100,
+    "CRITICAL_DAMAGE": 50
+  },
+  "npc_sell_price": 960000,
+  "id": "SLIME_BOW"
+}

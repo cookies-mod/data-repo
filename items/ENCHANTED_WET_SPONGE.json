@@ -1,0 +1,9 @@
+{
+  "material": "SPONGE",
+  "durability": 1,
+  "name": "Enchanted Wet Sponge",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 80000,
+  "id": "ENCHANTED_WET_SPONGE"
+}

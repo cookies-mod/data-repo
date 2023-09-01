@@ -1,0 +1,8 @@
+{
+  "material": "INK_SACK",
+  "durability": 6,
+  "name": "Livid Dye",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "DYE_LIVID"
+}

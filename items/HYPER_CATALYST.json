@@ -1,0 +1,8 @@
+{
+  "material": "NETHER_STAR",
+  "name": "Hyper Catalyst",
+  "glowing": true,
+  "tier": "EPIC",
+  "npc_sell_price": 500,
+  "id": "HYPER_CATALYST"
+}

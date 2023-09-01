@@ -1,0 +1,93 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "item_durability": -1,
+  "color": "0,0,0",
+  "name": "Shadow Assassin Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "WALK_SPEED": 7,
+    "DEFENSE": 95,
+    "HEALTH": 210,
+    "STRENGTH": 25,
+    "CRITICAL_DAMAGE": 25
+  },
+  "npc_sell_price": 5000,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 120
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 250
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 400
+      }
+    ]
+  ],
+  "gear_score": 25,
+  "requirements": [
+    {
+      "type": "DUNGEON_TIER",
+      "dungeon_type": "CATACOMBS",
+      "tier": 5
+    }
+  ],
+  "dungeon_item": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "JASPER",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 20
+        }
+      ]
+    }
+  ],
+  "id": "SHADOW_ASSASSIN_LEGGINGS",
+  "description": [
+    {"text": ""},
+    {"text": "Full Set Bonus: Shadow Assassin", "color": "gold"},
+    {"text": "Collect the shadows of the", "color": "gray"},
+    {"text": "enemies you kill increasing your", "color": "gray"},
+    {"text": "damage for the rest of the", "color": "gray"},
+    {"text": "dungeon while wearing this set.", "color": "gray"},
+    {"text": "+1\u2741 Strength ", "color": "red", "extra": [{"text": "every kill", "color": "gray"}]},
+    {"text": ""},
+    {"text": "On teleport: Grants ", "color": "gray", "extra": [{"text": "+10\u2741", "color": "red"}]},
+    {"text": "Strength", "color": "red", "extra": [{"text": " for", "color": "gray"},{"text": " 10 ", "color": "aqua"},{"text": "seconds", "color": "gray"}]},
+    {"text": ""}
+  ],
+  "can_be_reforged": true
+}

@@ -1,0 +1,20 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Sponge Rod",
+  "category": "FISHING_ROD",
+  "stats": {
+    "damage": 20,
+    "strength": 15,
+    "fishing_speed": 30
+  },
+  "npc_sell_price": 36,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 5
+    }
+  ],
+  "museum": true,
+  "id": "SPONGE_ROD"
+}

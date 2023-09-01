@@ -1,0 +1,22 @@
+{
+  "material": "CHAINMAIL_CHESTPLATE",
+  "name": "Mithril Coat",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "WALK_SPEED": 15,
+    "DEFENSE": 125
+  },
+  "npc_sell_price": 25000,
+  "id": "MITHRIL_COAT",
+  "description": [
+    {"text":""},
+    {"text":"Ability: Mithril's Protection","color":"gold"},
+    {"text":"Any damage taken is max ","color":"gray","extra":[{"text":"40%","color":"green"}]},
+    {"text":"of the wearer's ","color":"gray","extra":[{"text":"\u2764 Health","color":"red"},{"text":".","color":"gray"}]},
+    {"text":"Gain ","color":"gray","extra":[{"text":"Regeneration ","color":"red"},{"text":"when this","color":"gray"}]},
+    {"text":"ability activates.","color":"gray"},
+    {"text":""}
+  ],
+  "can_be_reforged": tre
+}

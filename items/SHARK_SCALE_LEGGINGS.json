@@ -1,0 +1,28 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "0,44,166",
+  "name": "Shark Scale Leggings",
+  "category": "LEGGINGS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 150,
+    "HEALTH": 150
+  },
+  "npc_sell_price": 56000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 24
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    }
+  ],
+  "id": "SHARK_SCALE_LEGGINGS"
+}

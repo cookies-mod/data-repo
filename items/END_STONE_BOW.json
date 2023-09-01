@@ -1,0 +1,18 @@
+{
+  "material": "BOW",
+  "name": "End Stone Bow",
+  "category": "BOW",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 140
+  },
+  "npc_sell_price": 2500,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 15
+    }
+  ],
+  "id": "END_STONE_BOW"
+}

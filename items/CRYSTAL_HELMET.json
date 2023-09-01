@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "252,243,255",
+  "name": "Crystal Helmet",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 20,
+    "INTELLIGENCE": 65
+  },
+  "npc_sell_price": 2500,
+  "id": "CRYSTAL_HELMET"
+}

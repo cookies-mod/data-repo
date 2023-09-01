@@ -1,0 +1,17 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGViNWVlZTQyNTM1ZDY4Y2NlNWJmOTUyMDEzN2I3YTM2Y2IzMTNkYzY1YmRjZDg4MDQzNTNhMjkxOTRmOTIyYyJ9fX0\u003d",
+  "name": "Greenhouse Planter",
+  "furniture": "GREENHOUSE",
+  "tier": "EPIC",
+  "id": "GREENHOUSE",
+  "description": [
+    {"text": "Summer Cosmetic", "color": "dark_gray"},
+    {"text": ""},
+    {"text": "This exclusive ", "color": "gray", "extra": [{"text": "Summer", "color": "green"}]},
+    {"text": "cosmetic can be placed on your", "color": "gray"},
+    {"text": "island or traded.", "color": "gray"},
+    {"text": ""}
+  ]
+}

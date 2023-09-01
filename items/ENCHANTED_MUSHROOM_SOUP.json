@@ -1,0 +1,8 @@
+{
+  "material": "MUSHROOM_SOUP",
+  "name": "Enchanted Mushroom Soup",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 82000,
+  "id": "ENCHANTED_MUSHROOM_SOUP"
+}

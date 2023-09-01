@@ -1,0 +1,15 @@
+{
+  "material": "CHAINMAIL_CHESTPLATE",
+  "name": "Lively Sepulture Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "LEGENDARY",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_TIME": 65,
+    "rift_health": 1,
+    "rift_intelligence": 30,
+    "rift_mana_regen": 25
+  },
+  "glowing": true,
+  "id": "LIVELY_SEPULTURE_CHESTPLATE"
+}

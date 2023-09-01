@@ -1,0 +1,11 @@
+{
+  "material": "IRON_PICKAXE",
+  "name": "Zombie Pickaxe",
+  "category": "PICKAXE",
+  "stats": {
+    "BREAKING_POWER": 3,
+    "MINING_SPEED": 190
+  },
+  "npc_sell_price": 3,
+  "id": "ZOMBIE_PICKAXE"
+}

@@ -1,0 +1,28 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "55,176,66",
+  "name": "Goblin Boots",
+  "category": "BOOTS",
+  "tier": "RARE",
+  "stats": {
+    "HEALTH": 60,
+    "INTELLIGENCE": -1,
+    "MINING_SPEED": 10
+  },
+  "npc_sell_price": 1500,
+  "gemstone_slots": [
+    {
+      "slot_type": "SAPPHIRE"
+    },
+    {
+      "slot_type": "AMBER",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 5000
+        }
+      ]
+    }
+  ],
+  "id": "GOBLIN_BOOTS"
+}

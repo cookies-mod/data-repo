@@ -1,0 +1,10 @@
+{
+  "material": "WOOD_SPADE",
+  "name": "Wooden Shovel",
+  "category": "SPADE",
+  "stats": {
+    "DAMAGE": 15
+  },
+  "npc_sell_price": 1,
+  "id": "WOOD_SPADE"
+}

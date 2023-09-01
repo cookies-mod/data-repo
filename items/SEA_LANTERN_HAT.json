@@ -1,0 +1,13 @@
+{
+  "material": "SEA_LANTERN",
+  "name": "Sea Lantern Hat",
+  "category": "HELMET",
+  "tier": "UNCOMMON",
+  "id": "SEA_LANTERN_HAT",
+  "can_be_reforged": true,
+  "description": [
+    {"text":"Breathe ","color":"gray","extra":[{"text":"5x ","color":"green"},{"text":"as long"}]},
+    {"text":"underwater when wearing!","color":"gray"},
+    {"text":""}
+  ]
+}

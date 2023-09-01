@@ -1,0 +1,131 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "160,218,239",
+  "name": "Frozen Blaze Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "LEGENDARY",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "stats": {
+    "WALK_SPEED": 2,
+    "DEFENSE": 180,
+    "STRENGTH": 40
+  },
+  "npc_sell_price": 921600,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "ICE",
+    "amount": 80
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 35
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 45
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "ICE",
+        "amount": 70
+      }
+    ]
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 20
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "JASPER",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_SAPPHIRE_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_RUBY_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_AMETHYST_GEM",
+          "amount": 5
+        }
+      ]
+    }
+  ],
+  "id": "FROZEN_BLAZE_CHESTPLATE",
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Frozen Blazing Aura","color":"gold"},
+    {"text":"Damages mobs in a ","color":"gray","extra":[{"text":"5 ","color":"green"},{"text":"block","color":"gray"}]},
+    {"text":"range for ","color":"gray","extra":[{"text":"300 ","color":"green"},{"text":"base damage +","color":"gray"}]},
+    {"text":"3%","color":"green","extra":[{"text":" of their max ","color":"gray"},{"text":"\u2764 Health","color":"red"}]},
+    {"text":"every second and applies ","color":"gray","extra":[{"text":"Slowness I ","color":"aqua"},{"text":"for ","color":"gray"},{"text":"4","color":"yellow"}]},
+    {"text":"seconds.","color":"gray"},
+    {"text":""},
+    {"text":"Max ","color":"gray", "extra":[{"text":"500 ","color":"red"},{"text":"damage/s","color":"gray"}]},
+    {"text":"Blaze Rod Collection: ","color":"gray","extra":[{"text":"0","color":"gold"}]},
+    {"text":"+100 per 5,000 rods","color":"dark_gray"},
+    {"text":""},
+    {"text":"Permanent ","color":"gray","extra":[{"text":"Fire ","color":"red"},{"text":"and ","color":"gray"},{"text":"Lava ","color":"red"},{"text":"immunity.","color":"gray"}]},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MDE5MDk0MDQ1MywKICAicHJvZmlsZUlkIiA6ICIxYmY4ZjBiZDRkZjc0Njg1ODQwNjU2NDc2ZGU0NmNmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnV6YWRhMjIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWZjM2I1ZGI5YmQ5OWNkMTIxNjFlZDJlYTQ2MjM3OTVmMjhlNzkzYzZkYWI2N2NkM2U4MDNjY2ZhYWFkN2NmZCIKICAgIH0KICB9Cn0",
+  "name": "Flower Sack",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "FLOWER_SACK"
+}

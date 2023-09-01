@@ -1,0 +1,8 @@
+{
+  "material": "DIAMOND",
+  "name": "All Skills Exp Boost",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "tier": "EPIC",
+  "id": "PET_ITEM_ALL_SKILLS_BOOST_EPIC"
+}

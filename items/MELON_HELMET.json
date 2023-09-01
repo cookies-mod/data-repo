@@ -1,0 +1,20 @@
+{
+  "material": "MELON_BLOCK",
+  "name": "Melon Helmet",
+  "category": "HELMET",
+  "tier": "UNCOMMON",
+  "stats": {
+    "FARMING_FORTUNE": 15,
+    "walk_speed": 2,
+    "health": 100,
+    "defense": 25
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 25
+    }
+  ],
+  "id": "MELON_HELMET"
+}

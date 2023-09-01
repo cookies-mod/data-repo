@@ -1,0 +1,9 @@
+{
+  "material": "EMPTY_MAP",
+  "name": "Quality Map",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "npc_sell_price": 1337,
+  "museum": true,
+  "id": "QUALITY_MAP"
+}

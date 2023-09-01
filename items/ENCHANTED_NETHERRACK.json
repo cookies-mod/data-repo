@@ -1,0 +1,8 @@
+{
+  "material": "NETHERRACK",
+  "name": "Enchanted Netherrack",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 160,
+  "id": "ENCHANTED_NETHERRACK"
+}

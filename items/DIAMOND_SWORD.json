@@ -1,0 +1,12 @@
+{
+  "material": "DIAMOND_SWORD",
+  "name": "Diamond Sword",
+  "category": "SWORD",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 35
+  },
+  "npc_sell_price": 8,
+  "id": "DIAMOND_SWORD",
+  "can_be_reforged": true
+}

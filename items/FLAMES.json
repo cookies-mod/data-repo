@@ -1,0 +1,10 @@
+{
+  "material": "BLAZE_POWDER",
+  "name": "Flames",
+  "tier": "RARE",
+  "glowing": true,
+  "soulbound": "COOP",
+  "description": "%%gray%%%%italic%%Some say that the same substance can be found in the abdomen of Dragons, allowing them to breathe fire. Fire bats are much cuter though.",
+  "npc_sell_price": 200,
+  "id": "FLAMES"
+}

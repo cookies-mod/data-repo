@@ -1,0 +1,14 @@
+{
+  "material": "DIAMOND_HOE",
+  "name": "Euclid\u0027s Wheat Hoe",
+  "category": "HOE",
+  "tier": "RARE",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 25
+    }
+  ],
+  "id": "THEORETICAL_HOE_WHEAT_3"
+}

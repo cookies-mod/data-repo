@@ -1,0 +1,51 @@
+{
+  "material": "GOLD_BARDING",
+  "item_durability": -1,
+  "name": "Jerry-chine Gun",
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 80,
+    "WEAPON_ABILITY_DAMAGE": 500,
+    "INTELLIGENCE": 200
+  },
+  "ability_damage_scaling": 0.2,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 5
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 100
+      }
+    ]
+  ],
+  "id": "JERRY_STAFF"
+}

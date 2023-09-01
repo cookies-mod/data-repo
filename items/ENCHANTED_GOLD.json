@@ -1,0 +1,8 @@
+{
+  "material": "GOLD_INGOT",
+  "name": "Enchanted Gold",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 640,
+  "id": "ENCHANTED_GOLD"
+}

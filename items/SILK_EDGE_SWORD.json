@@ -1,0 +1,62 @@
+{
+  "material": "GOLD_SWORD",
+  "name": "Silk-Edge Sword",
+  "category": "SWORD",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DAMAGE": 175,
+    "STRENGTH": 125,
+    "CRITICAL_DAMAGE": 25,
+    "WEAPON_ABILITY_DAMAGE": 400
+  },
+  "npc_sell_price": 375000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "SPIDER",
+    "amount": 20
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 5
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 15
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 25
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 13
+    }
+  ],
+  "id": "SILK_EDGE_SWORD"
+}

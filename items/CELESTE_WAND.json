@@ -1,0 +1,18 @@
+{
+  "material": "STICK",
+  "name": "Celeste Wand",
+  "category": "WAND",
+  "tier": "UNCOMMON",
+  "stats": {
+    "WEAPON_ABILITY_DAMAGE": 40
+  },
+  "npc_sell_price": 2500,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 4
+    }
+  ],
+  "id": "CELESTE_WAND"
+}

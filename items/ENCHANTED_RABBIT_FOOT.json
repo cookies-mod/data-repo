@@ -1,0 +1,8 @@
+{
+  "material": "RABBIT_FOOT",
+  "name": "Enchanted Rabbit Foot",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 800,
+  "id": "ENCHANTED_RABBIT_FOOT"
+}

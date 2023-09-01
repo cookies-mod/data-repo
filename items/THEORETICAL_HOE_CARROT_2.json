@@ -1,0 +1,14 @@
+{
+  "material": "IRON_HOE",
+  "name": "Gauss Carrot Hoe",
+  "category": "HOE",
+  "tier": "UNCOMMON",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 20
+    }
+  ],
+  "id": "THEORETICAL_HOE_CARROT_2"
+}

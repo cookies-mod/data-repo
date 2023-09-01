@@ -1,0 +1,7 @@
+{
+  "material": "WATER_BUCKET",
+  "name": "Magical Water Bucket",
+  "glowing": true,
+  "npc_sell_price": 40,
+  "id": "MAGICAL_WATER_BUCKET"
+}

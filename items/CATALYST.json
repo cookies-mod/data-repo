@@ -1,0 +1,14 @@
+{
+  "material": "NETHER_STAR",
+  "name": "Catalyst",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 500,
+  "id": "CATALYST",
+  "description": [
+    {"text":"Increases the number of","color":"gray"},
+    {"text":"resources created by this minion","color":"gray"},
+    {"text":"by ","color":"gray","extra":[{"text":"x3","color":"green"},{"text":" for 3 hours","color":"gray"},{"text":"!","color":"gray"}]},
+    {"text":""},
+  ]
+}

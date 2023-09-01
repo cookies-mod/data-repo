@@ -1,0 +1,12 @@
+{
+  "material": "BOW",
+  "name": "Prismarine Bow",
+  "category": "BOW",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 50,
+    "STRENGTH": 25
+  },
+  "npc_sell_price": 120,
+  "id": "PRISMARINE_BOW"
+}

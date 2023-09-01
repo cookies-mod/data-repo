@@ -1,0 +1,18 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "255,0,0",
+  "name": "Mushroom Boots",
+  "category": "BOOTS",
+  "stats": {
+    "HEALTH": 15
+  },
+  "npc_sell_price": 8,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 7
+    }
+  ],
+  "id": "MUSHROOM_BOOTS"
+}

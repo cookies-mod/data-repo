@@ -1,0 +1,7 @@
+{
+  "material": "SLIME_BLOCK",
+  "name": "Launch Pad",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 3200,
+  "id": "LAUNCH_PAD"
+}

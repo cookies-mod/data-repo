@@ -1,0 +1,10 @@
+{
+  "material": "ROTTEN_FLESH",
+  "name": "Mysterious Meat",
+  "glowing": true,
+  "id": "MYSTERIOUS_MEAT",
+  "description":[
+    {"text":"Quest item", "color":"gray"},
+    {"text":""}
+  ]
+}

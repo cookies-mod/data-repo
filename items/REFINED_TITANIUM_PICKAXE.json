@@ -1,0 +1,27 @@
+{
+  "material": "IRON_PICKAXE",
+  "name": "Refined Titanium Pickaxe",
+  "glowing": true,
+  "category": "PICKAXE",
+  "tier": "RARE",
+  "stats": {
+    "BREAKING_POWER": 6,
+    "DAMAGE": 65,
+    "MINING_SPEED": 400
+  },
+  "npc_sell_price": 14500,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 4
+    }
+  ],
+  "id": "REFINED_TITANIUM_PICKAXE",
+  "description": [
+    {"text":""},
+    {"text":"Grants ","color":"gray","extra":[{"text":"+15 ","color":"green"},{"text":"\u2618 Mining Fortune","color":"gold"}]},
+    {"text":"when mining Titanium Ore.","color":"gray"},
+    {"text":""}
+  ],
+  "can_be_reforged": true
+}

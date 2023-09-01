@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNzU5MTA4MzExOSwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYTNmZTM0NGE2YTAyN2I2YzY2ZDg1NDExNDZkNDgxOWRmMzZhYjkxZTlmYzRkZjUzMjc0OGEwZDc2ZDc0YjEzIgogICAgfQogIH0KfQ",
+  "name": "King Talisman",
+  "category": "ACCESSORY",
+  "npc_sell_price": 2000,
+  "soulbound": "COOP",
+  "id": "KING_TALISMAN"
+}

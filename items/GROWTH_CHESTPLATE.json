@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "0,190,0",
+  "name": "Chestplate of Growth",
+  "category": "CHESTPLATE",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 50,
+    "HEALTH": 100
+  },
+  "npc_sell_price": 80000,
+  "id": "GROWTH_CHESTPLATE"
+}

@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZWM4M2FiMjA1OWNjZmVhYTM2YzNmNGYyMGRhYTk1MDNkNDgzYTUzMGZiZGI4MGY5NDA5NDBhYTgxZDJjNjEifX19",
+  "name": "Enchanting Table+",
+  "furniture": "ENCHANTING_PLUS",
+  "tier": "RARE",
+  "id": "ENCHANTING_PLUS"
+}

@@ -1,0 +1,79 @@
+{
+  "material": "IRON_SWORD",
+  "item_durability": -1,
+  "name": "Livid Dagger",
+  "category": "SWORD",
+  "sword_type": "DAGGER",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DAMAGE": 210,
+    "STRENGTH": 60,
+    "ATTACK_SPEED": 50,
+    "CRITICAL_DAMAGE": 50,
+    "CRITICAL_CHANCE": 100
+  },
+  "npc_sell_price": 500000,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 120
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 250
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 400
+      }
+    ]
+  ],
+  "gear_score": 75,
+  "requirements": [
+    {
+      "type": "DUNGEON_TIER",
+      "dungeon_type": "CATACOMBS",
+      "tier": 5
+    }
+  ],
+  "dungeon_item": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "JASPER",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 20
+        }
+      ]
+    }
+  ],
+  "id": "LIVID_DAGGER"
+}

@@ -1,0 +1,104 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "242,223,17",
+  "name": "Superior Dragon Leggings",
+  "category": "LEGGINGS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "WALK_SPEED": 3,
+    "DEFENSE": 170,
+    "HEALTH": 130,
+    "STRENGTH": 10,
+    "CRITICAL_DAMAGE": 10,
+    "CRITICAL_CHANCE": 2,
+    "INTELLIGENCE": 25
+  },
+  "npc_sell_price": 100000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "DRAGON",
+    "amount": 85
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 130
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 220
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 320
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 20
+    }
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 19
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_SAPPHIRE_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_RUBY_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_AMETHYST_GEM",
+          "amount": 5
+        }
+      ]
+    }
+  ],
+  "id": "SUPERIOR_DRAGON_LEGGINGS"
+}

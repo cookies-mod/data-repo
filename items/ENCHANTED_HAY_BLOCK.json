@@ -1,0 +1,8 @@
+{
+  "material": "HAY_BLOCK",
+  "name": "Enchanted Hay Bale",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 7776,
+  "id": "ENCHANTED_HAY_BLOCK"
+}

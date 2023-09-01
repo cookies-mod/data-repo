@@ -1,0 +1,18 @@
+{
+  "material": "MAP",
+  "name": "Travel Scroll to the Wizard Tower",
+  "category": "TRAVEL_SCROLL",
+  "tier": "EPIC",
+  "origin": "RIFT",
+  "rift_transferrable": true,
+  "id": "HUB_WIZARD_TOWER_TRAVEL_SCROLL",
+  "description":[
+    {"text": "Consume this item to add its", "color": "gray"},
+    {"text": "destination to your fast travel", "color": "gray"},
+    {"text": "options.", "color": "gray"},
+    {"text": ""},
+    {"text": "Island: ", "color": "gray", "extra": [{"text": "Hub", "color": "green"}]},
+    {"text": "Teleport: ", "color": "gray", "extra": [{"text": "Wizard Tower", "color": "yellow"}]},
+    {"text": ""}
+  ]
+}

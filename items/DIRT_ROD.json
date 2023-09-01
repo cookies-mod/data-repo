@@ -1,0 +1,11 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Dirt Rod",
+  "category": "FISHING_ROD",
+  "tier": "UNCOMMON",
+  "museum": true,
+  "stats": {
+    "fishing_speed": 15
+  },
+  "id": "DIRT_ROD"
+}

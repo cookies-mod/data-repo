@@ -1,0 +1,8 @@
+{
+  "material": "MUTTON",
+  "name": "Enchanted Mutton",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 800,
+  "id": "ENCHANTED_MUTTON"
+}

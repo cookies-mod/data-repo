@@ -1,0 +1,216 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Blade of the Volcano",
+  "glowing": true,
+  "category": "SWORD",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 220,
+    "STRENGTH": 70,
+    "CRITICAL_DAMAGE": 20
+  },
+  "npc_sell_price": 5000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "can_have_attributes": true,
+  "salvages": [
+    {
+      "type": "ESSENCE",
+      "essence_type": "CRIMSON",
+      "amount": 10
+    }
+  ],
+  "upgrade_costs": [
+    [
+      {
+        "type": "ITEM",
+        "item_id": "LUMP_OF_MAGMA",
+        "amount": 5
+      },
+      {
+        "type": "ITEM",
+        "item_id": "CUP_OF_BLOOD",
+        "amount": 1
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "LUMP_OF_MAGMA",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "CUP_OF_BLOOD",
+        "amount": 2
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "LUMP_OF_MAGMA",
+        "amount": 15
+      },
+      {
+        "type": "ITEM",
+        "item_id": "CUP_OF_BLOOD",
+        "amount": 3
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "LUMP_OF_MAGMA",
+        "amount": 20
+      },
+      {
+        "type": "ITEM",
+        "item_id": "CUP_OF_BLOOD",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "LUMP_OF_MAGMA",
+        "amount": 25
+      },
+      {
+        "type": "ITEM",
+        "item_id": "CUP_OF_BLOOD",
+        "amount": 5
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "LUMP_OF_MAGMA",
+        "amount": 30
+      },
+      {
+        "type": "ITEM",
+        "item_id": "CUP_OF_BLOOD",
+        "amount": 6
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 150
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "LUMP_OF_MAGMA",
+        "amount": 35
+      },
+      {
+        "type": "ITEM",
+        "item_id": "CUP_OF_BLOOD",
+        "amount": 7
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "LUMP_OF_MAGMA",
+        "amount": 40
+      },
+      {
+        "type": "ITEM",
+        "item_id": "CUP_OF_BLOOD",
+        "amount": 8
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 250
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "LUMP_OF_MAGMA",
+        "amount": 45
+      },
+      {
+        "type": "ITEM",
+        "item_id": "CUP_OF_BLOOD",
+        "amount": 9
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 300
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "LUMP_OF_MAGMA",
+        "amount": 50
+      },
+      {
+        "type": "ITEM",
+        "item_id": "CUP_OF_BLOOD",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 350
+      }
+    ]
+  ],
+  "id": "BLADE_OF_THE_VOLCANO"
+}

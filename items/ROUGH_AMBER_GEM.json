@@ -1,0 +1,8 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTE1OTk2OSwKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhMTk0MzZmNjE1MWE3YjY2ZDY1ZWQ3NjI0YWRkNDMyNWNmYmJjMmVlZTgxNWZjZjc2ZjRjMjlkZGYwOGY3NWIiCiAgICB9CiAgfQp9",
+  "name": "Rough Amber Gemstone",
+  "npc_sell_price": 3,
+  "id": "ROUGH_AMBER_GEM"
+}

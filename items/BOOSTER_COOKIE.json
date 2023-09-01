@@ -1,0 +1,28 @@
+{
+  "material": "COOKIE",
+  "name": "Booster Cookie",
+  "glowing": true,
+  "tier": "LEGENDARY",
+  "unstackable": true,
+  "id": "BOOSTER_COOKIE",
+  "description":[
+    {"text":"Consume to gain the ","color":"gray","extra":[{"text":"Cookie","color":"light_purple"}]},
+    {"text":"Buff ","color":"light_purple","extra":[{"text":"for ","color":"gray"},{"text":"4 ","color":"aqua"},{"text":"days:","color":"gray"}]},
+    {"text":""},
+    {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"Ability to gain ","color":"gray"},{"text":"Bits","color":"aqua"},{"text":"!","color":"gray"}]},
+    {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"+25\u262f ","color":"dark_aqua"},{"text":"on all ","color":"gray"},{"text":"Wisdom ","color":"dark_aqua"},{"text":"stats","color":"gray"}]},
+    {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"+15\u272f ","color":"aqua"},{"text":"Magic Find","color":"gray"}]},
+    {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"Keep ","color":"gray"},{"text":"coins ","color":"gold"},{"text":"on death","color":"gray"}]},
+    {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"Permafly ","color":"yellow"},{"text":"on private islands and gardens","color":"gray"}]},
+    {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"Access ","color":"gray"},{"text":"/ah ","color":"gold"},{"text":"and ","color":"gray"},{"text":"/bazaar ","color":"gold"},{"text":"anywhere","color":"gray"}]},
+    {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"Sell items directly to the trades and cookie menu","color":"gray"}]},
+    {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"AFK ","color":"gray"},{"text":"immunity ","color":"green"},{"text":"on your island and garden","color":"gray"}]},
+    {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"Toggle specific ","color":"gray"},{"text":"potion effects","color":"light_purple"}]},
+    {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"Access to ","color":"gray"},{"text":"/anvil","color":"gold"},{"text":", ","color":"gray"},{"text":"/etable","color":"gold"},{"text":", and ","color":"gray"},{"text":", and ","color":"gray"}]},
+    {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"Access to ","color":"gray"},{"text":"/accessorybag","color":"gold"},{"text":", ","color":"gray"},{"text":"/fishingbag","color":"aqua"},{"text":",","color":"gray"}]},
+    {"text":"/potionbag","color":"light_purple","extra":[{"text":", and ","color":"gray"},{"text":"/quiver","color":"yellow"}]},
+    {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"Link your items in chat using ","color":"gray"},{"text":"/show","color":"yellow"}]},
+    {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"Insta-sell your Material stash to the ","color":"gray"},{"text":"Bazaar","color":"gold"}]},
+    {"text":""},
+  ]
+}

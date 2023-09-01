@@ -1,0 +1,52 @@
+{
+  "material": "IRON_HELMET",
+  "name": "Skeleton\u0027s Helmet",
+  "category": "HELMET",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 75
+  },
+  "npc_sell_price": 51000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "UNDEAD",
+    "amount": 100
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 45
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 75
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 90
+      }
+    ]
+  ],
+  "id": "SKELETON_HELMET"
+}

@@ -1,0 +1,15 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyMTQ4MzgwMjYzMCwKICAicHJvZmlsZUlkIiA6ICIxYWZhZjc2NWI1ZGY0NjA3YmY3ZjY1ZGYzYWIwODhhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3lfQmxvb2RBbmdlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YmMwZjY0N2I0NzY5ZGYzMDAwMDFiMDI5NGQ5OWIwMjkwMGRmZGM5YTc0NTA1MDE3ZWMyOWE4NzE5MTcwMTEzIgogICAgfQogIH0KfQ",
+  "name": "Synthetic Heart",
+  "tier": "RARE",
+  "id": "SYNTHETIC_HEART",
+  "description": [
+    {"text":"A key component needed by the","color":"gray"},
+    {"text":"Professor to repair ","color":"gray","extra":[{"text":"Automaton","color":"aqua"}]},
+    {"text":"Prime ","color":"aqua","extra":[{"text":"in the ","color":"gray"},{"text":"Lost Precursor","color":"aqua"}]},
+    {"text":"City","color":"aqua","extra":[{"text":"!","color":"gray"}]},
+    {"text":""}
+  ]
+}

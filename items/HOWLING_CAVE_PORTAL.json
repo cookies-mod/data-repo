@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTgzMmQ1Mzk5N2I0NTE2MzVjOWNmOTAwNGIwZjIyYmIzZDk5YWI1YTA5Mzk0MmI1YjVmNmJiNGU0ZGU0NzA2NSJ9fX0\u003d",
+  "name": "Portal to the Howling Cave",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Howling Cave",
+      "description_name": "%%gray%%the %%aqua%%Howling Cave",
+      "destination_mode": "foraging_1",
+      "location_tag": "howling_cave",
+      "schematic_file": "sb_portal_park_cave",
+      "offset": "NEW",
+      "skill_requirement": {
+        "skill": "FORAGING",
+        "level": 2
+      }
+    }
+  },
+  "id": "HOWLING_CAVE_PORTAL"
+}

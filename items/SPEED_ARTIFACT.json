@@ -1,0 +1,13 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5MDA4OTk4MjM0MiwKICAicHJvZmlsZUlkIiA6ICJjOTU4YTRiMWY4OGU0ZGVjOTI3NGVlMGQ3Nzg2ZGFkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHNvRGN0ciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMDY3MDZlZWNiMmQ1NThhY2UyN2FiZGEwYjBiN2I4MDFkMzZkMTdkZDdhODkwYTk1MjBkYmU1MjIzNzRmOGE2IgogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Speed Artifact",
+  "category": "ACCESSORY",
+  "tier": "RARE",
+  "npc_sell_price": 1400000,
+  "stats": {
+    "WALK_SPEED": 5
+  },
+  "id": "SPEED_ARTIFACT"
+}

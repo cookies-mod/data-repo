@@ -1,0 +1,316 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDMwMzExNSwKICAicHJvZmlsZUlkIiA6ICI0OTVlYTMyM2E0N2U0ODk0OWRjZmJmNDQxZmFhODM4YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb29sZVZlbnQxNjgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzAzMGMzMjE3YTJhYzA3MGU0MDRjZjhjMjFlYWZiYTNhMGY2YjU3OWRiZjRlYzlmZGMxNjMzYWQyMTgwY2YyOCIKICAgIH0KICB9Cn0",
+  "name": "Hot Fervor Helmet",
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "soulbound": "COOP",
+  "stats": {
+    "DEFENSE": 126,
+    "HEALTH": 227,
+    "INTELLIGENCE": 19
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "can_have_attributes": true,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 170
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 190
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 215
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 240
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 270
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 300
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 340
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 390
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 440
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 500
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      }
+    ]
+  ],
+  "prestige": {
+    "item_id": "BURNING_FERVOR_HELMET",
+    "costs": [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 800
+      },
+      {
+        "type": "ITEM",
+        "item_id": "KUUDRA_TEETH",
+        "amount": 20
+      }
+    ]
+  },
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "id": "HOT_FERVOR_HELMET",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "text": "Tiered Bonus: Fervor (0/4)",
+      "color": "dark_gray"
+    },
+    {
+      "text": "Blocking damage with your sword grants",
+      "color": "gray"
+    },
+    {
+      "text": "you ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "1 ",
+          "color": "red"
+        },
+        {
+          "text": "stack of ",
+          "color": "gray"
+        },
+        {
+          "text": "Fervor \u0489",
+          "color": "gold"
+        },
+        {
+          "text": ".",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Each ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "Fervor \u0489 ",
+          "color": "gold"
+        },
+        {
+          "text": "stack reduces incoming",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "damage by ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "10%",
+          "color": "red"
+        },
+        {
+          "text": " (50% max).",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "",
+      "color": "gray"
+    },
+    {
+      "text": "At ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "5 ",
+          "color": "red"
+        },
+        {
+          "text": "stacks ",
+          "color": "gray"
+        },
+        {
+          "text": "taunt ",
+          "color": "light_purple"
+        },
+        {
+          "text": "enemies when",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "you are hit (5s cd) and gain ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "3.0%",
+          "color": "light_purple"
+        }
+      ]
+    },
+    {
+      "text": "damage reduction.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Lose 1 stack after ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "4s ",
+          "color": "red"
+        },
+        {
+          "text": "of not gaining",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": "a stack.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "can_be_reforged": true
+}

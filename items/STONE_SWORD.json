@@ -1,0 +1,10 @@
+{
+  "material": "STONE_SWORD",
+  "name": "Stone Sword",
+  "category": "SWORD",
+  "stats": {
+    "DAMAGE": 25
+  },
+  "npc_sell_price": 1,
+  "id": "STONE_SWORD"
+}

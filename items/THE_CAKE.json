@@ -1,0 +1,10 @@
+{
+  "material": "CAKE",
+  "name": "The Cake",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "npc_sell_price": 1337,
+  "museum": true,
+  "soulbound": "SOLO",
+  "id": "THE_CAKE"
+}

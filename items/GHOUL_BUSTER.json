@@ -1,0 +1,13 @@
+{
+  "material": "IRON_HOE",
+  "name": "Ghoul Buster",
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 140,
+    "STRENGTH": 90,
+    "CRITICAL_DAMAGE": 25
+  },
+  "museum": true,
+  "id": "GHOUL_BUSTER"
+}

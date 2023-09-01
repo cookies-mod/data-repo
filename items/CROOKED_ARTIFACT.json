@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NzUyNzA1MzcwOTgsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViN2ZmODhkMTU0ZDA0YThhMjY5OTVjOTlmNjRlNTNiNTc0YzdiODJlYzIxYTEyYTllNDQ4YmNhMWU3MGY0NjEifX19",
+  "name": "Crooked Artifact",
+  "category": "ACCESSORY",
+  "tier": "RARE",
+  "soulbound": "COOP",
+  "id": "CROOKED_ARTIFACT"
+}

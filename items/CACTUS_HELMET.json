@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "0,255,0",
+  "name": "Cactus Helmet",
+  "category": "HELMET",
+  "stats": {
+    "DEFENSE": 10,
+    "HEALTH": 5
+  },
+  "npc_sell_price": 3,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 5
+    }
+  ],
+  "id": "CACTUS_HELMET"
+}

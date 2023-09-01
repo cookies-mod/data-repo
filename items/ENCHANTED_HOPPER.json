@@ -1,0 +1,8 @@
+{
+  "material": "HOPPER",
+  "name": "Enchanted Hopper",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 192000,
+  "id": "ENCHANTED_HOPPER"
+}

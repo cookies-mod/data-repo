@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "255,0,0",
+  "name": "Chestplate of the Pack",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 95,
+    "HEALTH": 100
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "wolf",
+      "level": 6
+    }
+  ],
+  "id": "CHESTPLATE_OF_THE_PACK"
+}

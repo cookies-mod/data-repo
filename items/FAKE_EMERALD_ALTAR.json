@@ -1,0 +1,8 @@
+{
+  "material": "EMERALD_BLOCK",
+  "name": "§aFake Emerald Altar",
+  "description": "%%gray%%%%italic%%Can\u0027t bring the girl to the altar? Bring the altar to the girl!",
+  "tier": "UNCOMMON",
+  "soulbound": "COOP",
+  "id": "FAKE_EMERALD_ALTAR"
+}

@@ -1,0 +1,26 @@
+{
+  "material": "BEACON",
+  "name": "Beacon I",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 1540,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 1
+    }
+  ],
+  "id": "BEACON_1",
+  "description": [
+    {"text":"Tier: ","color":"gray","extra":[{"text":"I","color":"aqua"}]},
+    {"text":""},
+    {"text":"Can be placed on your private island.","color":"gray"},
+    {"text":""},
+    {"text":"Grants special buffs to the","color":"gray"},
+    {"text":"island owners when powered by","color":"gray"},
+    {"text":"Power Crystals ","color":"light_purple","extra":[{"text":"obtained from","color":"gray"}]},
+    {"text":"the forge in the ","color":"gray","extra":[{"text":"Dwarven","color":"dark_green"}]},
+    {"text":"Mines","color":"dark_green","extra":[{"text":".","color":"gray"}]},
+    {"text":""}
+  ]
+}

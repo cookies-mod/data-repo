@@ -1,0 +1,9 @@
+{
+  "material": "BOOK",
+  "name": "Jalapeno Book",
+  "glowing": true,
+  "tier": "EPIC",
+  "npc_sell_price": 56000,
+  "unstackable": true,
+  "id": "JALAPENO_BOOK"
+}

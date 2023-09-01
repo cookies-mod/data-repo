@@ -1,0 +1,12 @@
+{
+  "material": "IRON_PLATE",
+  "name": "Parkour Checkpoint",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "SOCIAL",
+      "level": 1
+    }
+  ],
+  "id": "PARKOUR_POINT"
+}

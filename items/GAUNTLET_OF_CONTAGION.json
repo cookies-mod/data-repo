@@ -1,0 +1,211 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDUwMDQ1MTI0MCwKICAicHJvZmlsZUlkIiA6ICJjMDNlZTUxNjIzZTU0ZThhODc1NGM1NmVhZmJjZDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXltYW51ZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdkNzViOGNmNzY1N2IwZGI3YzhmMTJjOGM3MzgzN2FhYTQxMDQ4ZTIwZTMzZmQwNTJlODU1YTQ3YmMwOTc3NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+  "name": "Gauntlet of Contagion",
+  "category": "GLOVES",
+  "tier": "EPIC",
+  "npc_sell_price": 201000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "stats": {
+    "HEALTH": 20,
+    "DEFENSE": 10,
+    "STRENGTH": 15
+  },
+  "can_have_attributes": true,
+  "salvageable_from_recipe": true,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ITEM",
+        "item_id": "BEZOS",
+        "amount": 5
+      },
+      {
+        "type": "ITEM",
+        "item_id": "ENCHANTED_MYCELIUM",
+        "amount": 20
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "BEZOS",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "ENCHANTED_MYCELIUM",
+        "amount": 40
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 500
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "BEZOS",
+        "amount": 15
+      },
+      {
+        "type": "ITEM",
+        "item_id": "ENCHANTED_MYCELIUM",
+        "amount": 80
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 1000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "BEZOS",
+        "amount": 20
+      },
+      {
+        "type": "ITEM",
+        "item_id": "ENCHANTED_MYCELIUM_CUBE",
+        "amount": 1
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 2000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "BEZOS",
+        "amount": 30
+      },
+      {
+        "type": "ITEM",
+        "item_id": "ENCHANTED_MYCELIUM_CUBE",
+        "amount": 2
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 3000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "BEZOS",
+        "amount": 40
+      },
+      {
+        "type": "ITEM",
+        "item_id": "ENCHANTED_MYCELIUM_CUBE",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 4000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "BEZOS",
+        "amount": 50
+      },
+      {
+        "type": "ITEM",
+        "item_id": "ENCHANTED_MYCELIUM_CUBE",
+        "amount": 8
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 6000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "BEZOS",
+        "amount": 60
+      },
+      {
+        "type": "ITEM",
+        "item_id": "ENCHANTED_MYCELIUM_CUBE",
+        "amount": 16
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 8000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "BEZOS",
+        "amount": 70
+      },
+      {
+        "type": "ITEM",
+        "item_id": "ENCHANTED_MYCELIUM_CUBE",
+        "amount": 32
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 10000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "BEZOS",
+        "amount": 80
+      },
+      {
+        "type": "ITEM",
+        "item_id": "ENCHANTED_MYCELIUM_CUBE",
+        "amount": 64
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 12000
+      }
+    ]
+  ],
+  "id": "GAUNTLET_OF_CONTAGION"
+}

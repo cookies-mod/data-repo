@@ -1,0 +1,9 @@
+{
+  "material": "BEDROCK",
+  "name": "Bedrock",
+  "tier": "LEGENDARY",
+  "npc_sell_price": 1,
+  "description": "%%red%%I guess you have this now.",
+  "museum": true,
+  "id": "BEDROCK"
+}

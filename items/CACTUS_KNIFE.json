@@ -1,0 +1,14 @@
+{
+  "material": "GOLD_HOE",
+  "name": "Cactus Knife",
+  "category": "HOE",
+  "tier": "EPIC",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 10
+    }
+  ],
+  "id": "CACTUS_KNIFE"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "WOOD_AXE",
+  "name": "Jungle Axe",
+  "category": "AXE",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 480,
+  "id": "JUNGLE_AXE"
+}

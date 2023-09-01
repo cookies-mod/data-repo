@@ -1,0 +1,15 @@
+{
+  "material": "WOODEN_SHOVEL",
+  "name": "Aspect of the Leech",
+  "category": "WAND",
+  "origin": "RIFT",
+  "tier": "RARE",
+  "id": "ASPECT_OF_THE_LEECH_1",
+  "description": [
+    {"text":"Ability: Weird Transmission ","color":"gold","extra":[{"text":"RIGHT CLICK","color":"yellow","bold":true}]},
+    {"text":"Teleport ","color":"gray","extra":[{"text":"3 blocks","color":"green"},{"text":" ahead of","color":"gray"}]},
+    {"text":"you.","color":"gray"},
+    {"text":"Mana Cost: ","color":"dark_gray","extra":[{"text":"60","color":"dark_aqua"}]},
+    {"text":""}
+  ]
+}

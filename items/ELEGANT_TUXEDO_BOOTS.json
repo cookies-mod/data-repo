@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "25,25,25",
+  "name": "Elegant Tuxedo Oxfords",
+  "category": "BOOTS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "WALK_SPEED": 10,
+    "CRITICAL_DAMAGE": 50,
+    "INTELLIGENCE": 100
+  },
+  "id": "ELEGANT_TUXEDO_BOOTS"
+}

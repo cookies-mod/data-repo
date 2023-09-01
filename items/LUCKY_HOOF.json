@@ -1,0 +1,12 @@
+{
+  "material": "iron_horse_armor",
+  "name": "Lucky Hoof",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "id": "LUCKY_HOOF",
+  "description": [
+    {"text":"Gain ","color":"gray","extra":[{"text":"1% ","color":"green"},{"text":"chance to find Trick","color":"gray"}]},
+    {"text":"or Treat Chests.","color":"gray"},
+    {"text":""}
+  ]
+}

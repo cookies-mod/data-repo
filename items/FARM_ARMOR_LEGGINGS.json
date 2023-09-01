@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "255,215,0",
+  "name": "Farm Armor Leggings",
+  "category": "LEGGINGS",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 50,
+    "HEALTH": 20,
+    "FARMING_FORTUNE": 10
+  },
+  "npc_sell_price": 4500,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 10
+    }
+  ],
+  "id": "FARM_ARMOR_LEGGINGS"
+}

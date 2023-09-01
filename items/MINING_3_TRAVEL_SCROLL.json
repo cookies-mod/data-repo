@@ -1,0 +1,17 @@
+{
+  "material": "MAP",
+  "name": "Travel Scroll to Dwarven Mines",
+  "category": "TRAVEL_SCROLL",
+  "tier": "RARE",
+  "soulbound": "COOP",
+  "id": "MINING_3_TRAVEL_SCROLL",
+  "description":[
+    {"text": "Consume this item to add its", "color": "gray"},
+    {"text": "destination to your fast travel", "color": "gray"},
+    {"text": "options.", "color": "gray"},
+    {"text": ""},
+    {"text": "Island: ", "color": "gray", "extra": [{"text": "Dwarven Mines", "color": "green"}]},
+    {"text": "Teleport: ", "color": "gray", "extra": [{"text": "Spawn", "color": "yellow"}]},
+    {"text": ""}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2Mzc1MzgzNzM2OCwKICAicHJvZmlsZUlkIiA6ICIzYjgwOTg1YWU4ODY0ZWZlYjA3ODg2MmZkOTRhMTVkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLaWVyYW5fVmF4aWxpYW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTRiYWNiOTY3MzRlMjQ0YjlmNzMzMWQ0NTNlNjg2ZmEyZTMyNTIyYTQxMWFhNTY4Zjk2MGU3NDFkNzRiMzI4OSIKICAgIH0KICB9Cn0",
+  "name": "Cropie Helmet",
+  "tier": "RARE",
+  "category": "HELMET",
+  "stats": {
+    "FARMING_FORTUNE": 20,
+    "walk_speed": 3,
+    "health": 110,
+    "defense": 30
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 30
+    }
+  ],
+  "id": "CROPIE_HELMET",
+  "description": [
+    {"text":""},
+    {"text":"Tiered Bonus: Squashbuckle (0/4)","color":"dark_gray"},
+    {"text":"Farming Pumpkin, Melon, and","color":"gray"},
+    {"text":"Cocoa Beans have a ","color":"gray","extra":[{"text":"0.01%","color":"green"}]},
+    {"text":"chance of dropping a Squash.","color":"gray"},
+    {"text":"Grants ","color":"gray","extra":[{"text":"0\u2618 Farming Fortune","color":"gold"},{"text":".","color":"gray"}]},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

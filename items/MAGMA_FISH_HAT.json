@@ -1,0 +1,13 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzMzM4MTUwOCwKICAicHJvZmlsZUlkIiA6ICJiOTE5M2NiMjkzMWI0M2FhYmM1OGQ2NjAwMTg3NGRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiMmJsYWtlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QxODRkZjlmNzYxNWY3MTkxMDNiOWQxYjBmZDNmNTQ1Yzg4NTc0NmZhZGUyY2I4MWU5NjU4NTZlYjJhM2E5NDgiCiAgICB9CiAgfQp9",
+  "name": "Magmafish Hat",
+  "category": "HELMET",
+  "tier": "UNCOMMON",
+  "stats": {
+    "INTELLIGENCE": 50
+  },
+  "npc_sell_price": 80,
+  "id": "MAGMA_FISH_HAT"
+}

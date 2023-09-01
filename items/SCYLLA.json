@@ -1,0 +1,131 @@
+{
+  "material": "IRON_SWORD",
+  "item_durability": -1,
+  "name": "Scylla",
+  "category": "SWORD",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DAMAGE": 270,
+    "STRENGTH": 150,
+    "CRITICAL_DAMAGE": 35,
+    "CRITICAL_CHANCE": 12,
+    "FEROCITY": 30,
+    "INTELLIGENCE": 50
+  },
+  "npc_sell_price": 200,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 150
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 300
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 500
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 900
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 1500
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "DUNGEON_TIER",
+      "dungeon_type": "CATACOMBS",
+      "tier": 7
+    }
+  ],
+  "dungeon_item": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "id": "SCYLLA",
+  "description": [
+    {"text":""},
+    {"text":"Deals +","color":"gray","extra":[{"text":"50% ","color":"red"},{"text":"damage to","color":"gray"}]},
+    {"text":"Withers. Grants ","color":"gray","extra":[{"text":"+1 ","color":"red"},{"text":"\u2741 Damage","color":"red"}]},
+    {"text":"+1 ","color":"green","extra":[{"text":"\u2620 Crit Damage ","color":"blue"},{"text":"per","color":"gray"}]},
+    {"text":"Catacombs ","color":"red","extra":[{"text":"level.","color":"gray"}]},
+    {"text":""}
+  ],
+  "can_be_reforged": true
+}

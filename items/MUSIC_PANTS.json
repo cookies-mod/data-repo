@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "4,207,211",
+  "name": "Stereo Pants",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 35
+  },
+  "npc_sell_price": 1000,
+  "museum": true,
+  "id": "MUSIC_PANTS"
+}

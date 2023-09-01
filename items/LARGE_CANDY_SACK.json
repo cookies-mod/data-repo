@@ -1,0 +1,23 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNDA2ODIxMjAzMCwKICAicHJvZmlsZUlkIiA6ICJhMmY4MzQ1OTVjODk0YTI3YWRkMzA0OTcxNmNhOTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiUHVuY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTJlZjM5NDM3ZDdkNDNhMDM0YzVhNDBiOTc0ZThkMmM2NzM0YTIxOGM3NjQ4NWQwNDkxMGY1MDdiZGMyZTgwOSIKICAgIH0KICB9Cn0\u003d",
+  "name": "Spooky Sack",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "LARGE_CANDY_SACK",
+  "description": [
+    {"text":"Item pickups go directly into","color":"gray"},
+    {"text":"your sacks.","color":"gray"},
+    {"text":""},
+    {"text":"Items: ","color":"gray","extra":[{"text":"Green Candy","color":"green"},{"text":", ","color":"gray"},{"text":"Spooky Shard","color":"green"},{"text":",","color":"gray"}]},
+    {"text":"Ectoplasm","color":"green","extra":[{"text":", ","color":"gray"},{"text":"Werewolf Skin","color":"green"},{"text":", ","color":"gray"},{"text":"Purple","color":"green"}]},
+    {"text":"Candy","color":"green","extra":[{"text":", ","color":"gray"},{"text":"Pumpkin Guts","color":"green"}]},
+    {"text":""},
+    {"text":"Capacity: ","color":"gray","extra":[{"text":"20,160 per item","color":"yellow"}]},
+    {"text":"Sacks sum their capacity.","color":"dark_gray"},
+    {"text":""},
+    {"text":"Right Click to open sack!","color":"yellow"},
+    {"text":""}
+  ]
+}

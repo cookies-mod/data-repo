@@ -1,0 +1,10 @@
+{
+  "material": "WOOD_SWORD",
+  "name": "Aspect of the Jerry",
+  "category": "SWORD",
+  "stats": {
+    "DAMAGE": 1
+  },
+  "museum": true,
+  "id": "ASPECT_OF_THE_JERRY"
+}

@@ -1,0 +1,20 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "84,84,84",
+  "name": "Squire Boots",
+  "category": "BOOTS",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 20,
+    "HEALTH": 20
+  },
+  "npc_sell_price": 2000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 4
+    }
+  ],
+  "id": "SQUIRE_BOOTS"
+}

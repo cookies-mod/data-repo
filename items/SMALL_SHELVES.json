@@ -1,0 +1,8 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMGE1ZGE2YTFhYmM1YjRlOTA5NTY3ZWRlMzMzOThlMmU1YmE1M2VlZDYyYTU0MDMwZWI0MjUzNWUxODBiNTdkIn19fQ\u003d\u003d",
+  "name": "Small Shelves",
+  "furniture": "SMALL_SHELVES",
+  "id": "SMALL_SHELVES"
+}

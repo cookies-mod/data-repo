@@ -1,0 +1,37 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "255,255,255",
+  "name": "Snow Suit Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 40,
+    "HEALTH": 100
+  },
+  "npc_sell_price": 1000,
+  "salvages": [
+    {
+      "type": "ESSENCE",
+      "essence_type": "ICE",
+      "amount": 10
+    }
+  ],
+  "id": "SNOW_SUIT_CHESTPLATE",
+  "description": [
+    {"text": ""},
+    {"text": "Full Set Bonus: Cold Thumb", "color": "gold"},
+    {"text": "Allows the wearer to shoot", "color": "gray"},
+    {"text": "unlimited snowballs when using", "color": "gray"},
+    {"text": "Frosty the Snow Cannon.", "color": "blue", "extra": [{"text": ".", "color": "gray"}]},
+    {"text": ""},
+    {"text": "Each piece grants a ", "color": "gray", "extra": [{"text": "5% ", "color": "green"}, {"text": "bonus"}]},
+    {"text": "gift chance for every present", "color": "gray"},
+    {"text": "you earn from the ", "color": "gray", "extra": [{"text": "Gift Attack", "color": "red"}]},
+    {"text": ""},
+    {"text": "All stats of this armor piece", "color": "gray"},
+    {"text": "are doubled while on the Winter", "color": "gray"},
+    {"text": "Island!", "color": "gray"},
+    {"text": ""}
+  ],
+  "can_be_reforged": true
+}

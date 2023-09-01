@@ -1,0 +1,9 @@
+{
+  "material": "RAW_FISH",
+  "name": "Pre-Digestion Fish",
+  "tier": "EPIC",
+  "soulbound": "COOP",
+  "glowing": true,
+  "description": "The obvious result of mixing cat food, spacetime bending and mystical mythology.",
+  "id": "PRE_DIGESTION_FISH"
+}

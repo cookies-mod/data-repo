@@ -1,0 +1,20 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "224,252,247",
+  "name": "Mercenary Boots",
+  "category": "BOOTS",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 30,
+    "HEALTH": 30
+  },
+  "npc_sell_price": 5000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 8
+    }
+  ],
+  "id": "MERCENARY_BOOTS"
+}

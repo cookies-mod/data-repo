@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMzg5ODczMjQzMiwKICAicHJvZmlsZUlkIiA6ICJhMmY4MzQ1OTVjODk0YTI3YWRkMzA0OTcxNmNhOTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiUHVuY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQ0NTFlY2YyNTg0YTM2ZGU0Mjk3MDMxYzZkODUyOTc3ZDNlMjQ5ZTg1YTNmMGFkZDk2N2ZjZDdkNmJkZTk1MyIKICAgIH0KICB9Cn0\u003d",
+  "name": "Bat Person Ring",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "id": "BAT_PERSON_RING"
+}

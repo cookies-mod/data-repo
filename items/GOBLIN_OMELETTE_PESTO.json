@@ -1,0 +1,16 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDU0NjE0OTA5NiwKICAicHJvZmlsZUlkIiA6ICJhYTZhNDA5NjU4YTk0MDIwYmU3OGQwN2JkMzVlNTg5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiejE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ0ZDM2OWU5OGY5ZGM2NWFlNTNlZTdjYjc4MGE3N2JlODY1NTA1MzkwMjRlM2JmOWUyMDY3M2RkZmY1NjI4MTYiCiAgICB9CiAgfQp9",
+  "name": "Pesto Goblin Omelette",
+  "tier": "RARE",
+  "npc_sell_price": 20840,
+  "description": "%%gray%%%%italic%%May cause nausea",
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 3
+    }
+  ],
+  "id": "GOBLIN_OMELETTE_PESTO"
+}

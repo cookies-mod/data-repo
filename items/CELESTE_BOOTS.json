@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "255,142,182",
+  "name": "Celeste Boots",
+  "category": "BOOTS",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 5,
+    "INTELLIGENCE": 20,
+    "HEALTH": 5
+  },
+  "npc_sell_price": 2000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 4
+    }
+  ],
+  "id": "CELESTE_BOOTS"
+}

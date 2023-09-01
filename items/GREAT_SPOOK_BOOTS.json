@@ -1,0 +1,24 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "153,51,153",
+  "name": "Great Spook Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "museum": true,
+  "npc_sell_price": 0,
+  "id": "GREAT_SPOOK_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {"text":"Obtained during the ","color":"gray","extra":[{"text":"2021","color":"yellow"}]},
+    {"text":"Alchemist ","color":"gray","extra":[{"text":"experiments!","color":"dark_purple"}]},
+    {"text":""},
+    {"text":"Full Set Bonus: Spooky","color":"gold"},
+    {"text":"Lets you ","color":"gray","extra":[{"text":"spook ","color":"dark_color"},{"text":"other"}]},
+    {"text":"players while worn by punching","color":"gray"},
+    {"text":"them with the ","color":"gray","extra":[{"text":"Great Spook","color":"gold"}]},
+    {"text":"Staff","color":"gold","extra":[{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"Edition #","color":"dark_gray","extra":[{"text":"1","obfuscated":true}]},
+    {"text":""},
+  ]
+}

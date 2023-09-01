@@ -1,0 +1,11 @@
+{
+  "material": "EGG",
+  "name": "\u00A73Blue Goblin Egg",
+  "tier": "RARE",
+  "id": "GOBLIN_EGG_BLUE",
+  "description": [
+    {"text":"What came first the goblin","color":"gray","italic":true},
+    {"text":"or the egg?","color":"gray","italic":true},
+    {"text":""}
+  ]
+}

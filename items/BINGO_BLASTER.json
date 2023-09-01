@@ -1,0 +1,14 @@
+{
+  "material": "GOLD_BARDING",
+  "name": "Bingo Blaster",
+  "category": "WAND",
+  "tier": "EPIC",
+  "stats": {
+    "ABILITY_DAMAGE_PERCENT": 20,
+    "WEAPON_ABILITY_DAMAGE": 625,
+    "INTELLIGENCE": 300
+  },
+  "origin": "BINGO",
+  "soulbound": "SOLO",
+  "id": "BINGO_BLASTER"
+}

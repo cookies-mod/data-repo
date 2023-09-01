@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTUxNDE3ODQzMSwKICAicHJvZmlsZUlkIiA6ICJiMDU4MTFjYTdmNDk0YTM5OTZiNDU4ZjcwMmQ2MzJiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJVeWlsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U5ZTM5ZDkxYzA0YzMwY2MxZjUzMGZlZTc5OGVlZDI3OWRkZTYwZjk1YzJlMWQxNTVjMGZkZDM2MWQwOTYyZWQiCiAgICB9CiAgfQp9",
+  "name": "Purple Gift Talisman",
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "id": "PURPLE_GIFT_TALISMAN"
+}

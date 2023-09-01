@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "255,147,0",
+  "name": "Armor of Magma Helmet",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 15,
+    "HEALTH": 50
+  },
+  "npc_sell_price": 38000,
+  "id": "ARMOR_OF_MAGMA_HELMET"
+}

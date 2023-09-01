@@ -1,0 +1,25 @@
+{
+  "material": "PRISMARINE_SHARD",
+  "name": "Topaz Drill KGR-12",
+  "glowing": true,
+  "category": "DRILL",
+  "tier": "EPIC",
+  "stats": {
+    "BREAKING_POWER": 9,
+    "DAMAGE": 75,
+    "MINING_SPEED": 450
+  },
+  "npc_sell_price": 253000,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 5
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMBER"
+    }
+  ],
+  "id": "GEMSTONE_DRILL_3"
+}

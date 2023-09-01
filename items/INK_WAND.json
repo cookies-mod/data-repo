@@ -1,0 +1,14 @@
+{
+  "material": "STICK",
+  "name": "Ink Wand",
+  "glowing": true,
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 130,
+    "STRENGTH": 90,
+    "WEAPON_ABILITY_DAMAGE": 10000
+  },
+  "npc_sell_price": 10000,
+  "id": "INK_WAND"
+}

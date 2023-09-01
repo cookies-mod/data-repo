@@ -1,0 +1,93 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "225,235,52",
+  "name": "Skeleton Grunt Helmet",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "DEFENSE": [
+      23,
+      25,
+      27,
+      30,
+      32,
+      35,
+      38,
+      41,
+      45,
+      49
+    ],
+    "HEALTH": [
+      14,
+      15,
+      17,
+      19,
+      20,
+      22,
+      23,
+      26,
+      28,
+      30
+    ],
+    "CRITICAL_DAMAGE": [
+      15,
+      16,
+      18,
+      19,
+      21,
+      23,
+      24,
+      27,
+      29,
+      32
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 160
+      }
+    ]
+  ],
+  "gear_score": 5,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 1
+    }
+  ],
+  "dungeon_item": true,
+  "id": "SKELETON_GRUNT_HELMET"
+}

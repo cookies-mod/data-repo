@@ -1,0 +1,19 @@
+{
+  "material": "CHAINMAIL_HELMET",
+  "name": "Ember Ash Helmet",
+  "category": "HELMET",
+  "tier": "UNCOMMON",
+  "stats": {
+    "MINING_FORTUNE": 5,
+    "MINING_SPEED": 15
+  },
+  "requirements": [
+    {
+      "type": "COLLECTION",
+      "collection": "HARD_STONE",
+      "tier": 5
+    }
+  ],
+  "museum": true,
+  "id": "FLAMEBREAKER_HELMET"
+}

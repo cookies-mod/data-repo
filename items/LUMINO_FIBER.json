@@ -1,0 +1,10 @@
+{
+  "material": "STRING",
+  "name": "Lumino Fiber",
+  "tier": "EPIC",
+  "glowing": true,
+  "soulbound": "COOP",
+  "description": "%%gray%%%%italic%%Changes color based on the angle you look at it.",
+  "npc_sell_price": 500,
+  "id": "LUMINO_FIBER"
+}

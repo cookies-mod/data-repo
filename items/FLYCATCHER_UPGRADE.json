@@ -1,0 +1,14 @@
+{
+  "material": "WEB",
+  "name": "Flycatcher",
+  "glowing": true,
+  "tier": "EPIC",
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "spider",
+      "level": 6
+    }
+  ],
+  "id": "FLYCATCHER_UPGRADE"
+}

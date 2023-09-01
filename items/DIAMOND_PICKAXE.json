@@ -1,0 +1,13 @@
+{
+  "material": "DIAMOND_PICKAXE",
+  "name": "Diamond Pickaxe",
+  "category": "PICKAXE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "BREAKING_POWER": 4,
+    "DAMAGE": 30,
+    "MINING_SPEED": 230
+  },
+  "npc_sell_price": 12,
+  "id": "DIAMOND_PICKAXE"
+}

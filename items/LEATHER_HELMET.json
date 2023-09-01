@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_HELMET",
+  "name": "Leather Helmet",
+  "category": "HELMET",
+  "stats": {
+    "DEFENSE": 5
+  },
+  "npc_sell_price": 7,
+  "id": "LEATHER_HELMET",
+  "can_be_reforged": true
+}

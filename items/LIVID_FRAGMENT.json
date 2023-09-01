@@ -1,0 +1,8 @@
+{
+  "material": "NETHER_BRICK_ITEM",
+  "name": "Livid Fragment",
+  "glowing": true,
+  "tier": "RARE",
+  "dungeon_item": true,
+  "id": "LIVID_FRAGMENT"
+}

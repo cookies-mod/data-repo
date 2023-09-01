@@ -1,0 +1,14 @@
+{
+  "material": "BLAZE_ROD",
+  "glowing": true,
+  "name": "Tactical Insertion",
+  "tier": "EPIC",
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "blaze",
+      "level": 5
+    }
+  ],
+  "id": "TACTICAL_INSERTION"
+}

@@ -1,0 +1,18 @@
+{
+  "material": "DIAMOND_CHESTPLATE",
+  "name": "Rosetta\u0027s Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 40
+  },
+  "npc_sell_price": 660,
+  "id": "ROSETTA_CHESTPLATE",
+  "can_be_reforged":true,
+  "description": [
+    {"text":""},
+    {"text":"Growth I","color":"blue"},
+    {"text":"Grants ","color":"gray","extra":[{"text":"+15 ","color":"green"},{"text":"\u2764 Health","color":"red"},{"text":".","color":"gray"}]},
+    {"text":""}
+  ]
+}

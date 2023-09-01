@@ -1,0 +1,37 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "247,218,51",
+  "name": "Blaze Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "stats": {
+    "WALK_SPEED": 2,
+    "DEFENSE": 165,
+    "STRENGTH": 30
+  },
+  "npc_sell_price": 921600,
+  "gemstone_slots": [
+    {
+      "slot_type": "JASPER",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 20
+        }
+      ]
+    }
+  ],
+  "id": "BLAZE_CHESTPLATE"
+}

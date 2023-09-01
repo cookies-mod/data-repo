@@ -1,0 +1,10 @@
+{
+  "material": "REDSTONE_ORE",
+  "name": "Hemovibe",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 100,
+  "rift_transferrable": true,
+  "origin": "RIFT",
+  "description": "Dropped by vampires from the multiverse coven.",
+  "id": "HEMOVIBE"
+}

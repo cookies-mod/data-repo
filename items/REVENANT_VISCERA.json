@@ -1,0 +1,8 @@
+{
+  "material": "GRILLED_PORK",
+  "name": "Revenant Viscera",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 128,
+  "id": "REVENANT_VISCERA"
+}

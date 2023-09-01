@@ -1,0 +1,9 @@
+{
+  "material": "BOOK_AND_QUILL",
+  "name": "Wither Shield",
+  "glowing": true,
+  "tier": "EPIC",
+  "npc_sell_price": 1,
+  "dungeon_item": true,
+  "id": "WITHER_SHIELD_SCROLL"
+}

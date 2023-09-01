@@ -1,0 +1,28 @@
+{
+  "material": "ARROW",
+  "name": "Glue Arrow",
+  "glowing": true,
+  "category": "ARROW",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 15
+  },
+  "npc_sell_price": 1,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    },
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "spider",
+      "level": 3
+    },
+    {
+      "type": "TARGET_PRACTICE",
+      "mode": "III"
+    }
+  ],
+  "id": "GLUE_ARROW"
+}

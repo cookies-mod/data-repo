@@ -1,0 +1,21 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJhNzcwNDU5ZmE2ZDY1ZTIyYWE5NTY3OWQ5M2EyODcwYWFmZWE3MGY5ZjFjNmEwZjc4ZWI2NDFlOTI4OTAifX19Cg",
+  "name": "Baby Skin",
+  "category": "COSMETIC",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "SUPERIOR_BABY",
+  "description": [
+    {"text": "Combinable in Anvil", "color": "dark_gray"},
+    {"text": ""},
+    {"text": "Item skins give your gear a", "color": "gray"},
+    {"text": "fresh new look! Apply them just", "color": "gray"},
+    {"text": "like an enchant book using the", "color": "gray"},
+    {"text": ""},
+    {"text": "This skin can be applied to", "color": "gray"},
+    {"text": "Superior Dragon Helmet", "color": "gold", "extra": [{"text": ".", "color": "gray"}]},
+    {"text": ""}
+  ]
+}

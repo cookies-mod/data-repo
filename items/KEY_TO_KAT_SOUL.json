@@ -1,0 +1,11 @@
+{
+  "material": "GOLD_NUGGET",
+  "name": "Key to Infested House Soul",
+  "tier": "RARE",
+  "glowing": true,
+  "motes_sell_price": 5,
+  "origin": "RIFT",
+  "description": "Hold this item in your inventory to use the soul in the infested house.",
+  "unstackable": true,
+  "id": "KEY_TO_KAT_SOUL"
+}

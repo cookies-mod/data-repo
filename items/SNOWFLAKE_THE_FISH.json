@@ -1,0 +1,9 @@
+{
+  "material": "COOKED_FISH",
+  "durability": 1,
+  "name": "Flake the Fish",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "museum": true,
+  "id": "SNOWFLAKE_THE_FISH"
+}

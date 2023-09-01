@@ -1,0 +1,57 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMTEwMjQ2NjQwNCwKICAicHJvZmlsZUlkIiA6ICIxNzhmMTJkYWMzNTQ0ZjRhYjExNzkyZDc1MDkzY2JmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaWxlbnRkZXRydWN0aW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0YmRmNWJhNjI4OWIyOWUyN2M1N2RiMWVjN2Y3NjE1MWMzOTQ5MmQ0MDkyNjhlMDBhOTgzOGU4Yzk2MzE1OSIKICAgIH0KICB9Cn0",
+  "name": "Neon PurpleEnder Dragon",
+  "category": "COSMETIC",
+  "tier": "LEGENDARY",
+  "unstackable": true,
+  "museum": true,
+  "id": "PET_SKIN_DRAGON_NEON_PURPLE",
+  "description": [
+    {
+      "text": "Consumed on use",
+      "color": "dark_gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Pet skins change the look and",
+      "color": "gray"
+    },
+    {
+      "text": "particle trail of your pet but",
+      "color": "gray"
+    },
+    {
+      "text": "only one skin can be active at a",
+      "color": "gray"
+    },
+    {
+      "text": "time!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "This skin can only be applied",
+      "color": "gray"
+    },
+    {
+      "text": "to Rabbit pets.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "This skin is animated!",
+      "color": "green"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

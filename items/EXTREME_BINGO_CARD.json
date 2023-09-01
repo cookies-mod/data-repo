@@ -1,0 +1,9 @@
+{
+  "material": "PAPER",
+  "name": "Extreme Bingo Card",
+  "tier": "SPECIAL",
+  "museum": true,
+  "glowing": true,
+  "soulbound": "COOP",
+  "id": "EXTREME_BINGO_CARD"
+}

@@ -1,0 +1,9 @@
+{
+  "material": "IRON_HOE",
+  "name": "Wand of Recall",
+  "glowing": true,
+  "category": "WAND",
+  "tier": "EPIC",
+  "museum": true,
+  "id": "WAND_OF_RECALL"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "RABBIT",
+  "name": "Enchanted Raw Rabbit",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 640,
+  "id": "ENCHANTED_RABBIT"
+}

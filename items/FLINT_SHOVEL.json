@@ -1,0 +1,15 @@
+{
+  "material": "IRON_SHOVEL",
+  "name": "Flint Shovel",
+  "category": "SPADE",
+  "npc_sell_price": 20,
+  "id": "FLINT_SHOVEL",
+  "description": [
+    {"text":"Grants a ","color":"gray","extra":[{"text":"100% ","color":"green"},{"text":"chance of","color":"gray"}]},
+    {"text":"receiving flint from gravel.","color":"gray"},
+    {"text":"This item can be also used as a","color":"gray"},
+    {"text":"minion upgrade to allow gravel","color":"gray"},
+    {"text":"minions to always receive flint.","color":"gray"},
+    {"text":""}
+  ]
+}

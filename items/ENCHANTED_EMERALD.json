@@ -1,0 +1,8 @@
+{
+  "material": "EMERALD",
+  "name": "Enchanted Emerald",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 960,
+  "id": "ENCHANTED_EMERALD"
+}

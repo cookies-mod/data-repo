@@ -1,0 +1,8 @@
+{
+  "material": "IRON_HOE",
+  "name": "Garden Scythe",
+  "tier": "RARE",
+  "npc_sell_price": 100,
+  "glowing": true,
+  "id": "GARDEN_SCYTHE"
+}

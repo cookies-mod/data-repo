@@ -1,0 +1,13 @@
+{
+  "material": "GOLD_SWORD",
+  "enchantments": {
+    "sharpness": 50
+  },
+  "name": "Sword of the Stars 9000",
+  "category": "SWORD",
+  "tier": "UNOBTAINABLE",
+  "stats": {
+    "DAMAGE": 9999999
+  },
+  "id": "STAR_SWORD_9000"
+}

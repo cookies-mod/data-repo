@@ -1,0 +1,16 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWRmZjkwNDEyNGVmZTQ4NmIzYTU0MjYxZGJiODA3MmIwYTRlMTE2MTVhZDhkNzM5NGQ4MTRlMGU4YzhlZjllYiJ9fX0\u003d",
+  "name": "Shark Bait",
+  "category": "BAIT",
+  "tier": "UNCOMMON",
+  "id": "SHARK_BAIT",
+  "description": [
+    {"text":""},
+    {"text":"Increases your chance to catch","color":"gray"},
+    {"text":"Sharks ","color":"aqua","extra":[{"text":"during the ","color":"gray"},{"text":"Fishing","color":"aqua"}]},
+    {"text":"Festival ","color":"aqua","extra":[{"text":"by ","color":"gray"},{"text":"20%","color":"green"},{"text":".","color":"gray"}]},
+    {"text":""}
+  ]
+}

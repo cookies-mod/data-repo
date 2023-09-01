@@ -1,0 +1,20 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "255,255,255",
+  "name": "Snow Suit Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 25,
+    "HEALTH": 65
+  },
+  "npc_sell_price": 1000,
+  "salvages": [
+    {
+      "type": "ESSENCE",
+      "essence_type": "ICE",
+      "amount": 10
+    }
+  ],
+  "id": "SNOW_SUIT_BOOTS"
+}

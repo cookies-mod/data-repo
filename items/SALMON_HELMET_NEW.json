@@ -1,0 +1,32 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "193,60,15",
+  "name": "Salmon Helmet",
+  "category": "HELMET",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 80,
+    "SEA_CREATURE_CHANCE": 1.5,
+    "HEALTH": 35
+  },
+  "npc_sell_price": 125,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 13
+    }
+  ],
+  "id": "SALMON_HELMET_NEW",
+  "description": [
+    {"text":""},
+    {"text":"Ability: Water Burst ","color":"gold","extra":[{"text":"SNEAK","color":"yellow","bold":true}]},
+    {"text":"When wearing the full set,","color":"gray"},
+    {"text":"grants the wearer with the","color":"gray"},
+    {"text":"ability to ","color":"gray","extra":[{"text":"burst forward","color":"green"}]},
+    {"text":"when sneaking in water.","color":"gray"},
+    {"text":"Mana Cost: ","color":"dark_gray","extra":[{"text":"20","color":"dark_aqua"}]},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

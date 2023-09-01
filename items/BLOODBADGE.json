@@ -1,0 +1,10 @@
+{
+  "material": "INK_SACK",
+  "durability": 1,
+  "name": "Bloodbadge",
+  "tier": "RARE",
+  "origin": "RIFT",
+  "description": "You and killing stuff in the rift, name a more iconic duo.",
+  "motes_sell_price": 2000,
+  "id": "BLOODBADGE"
+}

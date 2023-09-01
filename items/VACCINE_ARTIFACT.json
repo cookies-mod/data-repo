@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzgzMjY5NzQwMCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNDMzMjA2N2Y5ZmExNjk1YzNkNTc3YzNlZjI2NDM1NWJlZTE2MWI1ZTNhMzAxOTA2YTRmNDQzYjAwMmI5MmZhIgogICAgfQogIH0KfQ",
+  "name": "Vaccine Artifact",
+  "category": "ACCESSORY",
+  "tier": "RARE",
+  "npc_sell_price": 500,
+  "id": "VACCINE_ARTIFACT"
+}

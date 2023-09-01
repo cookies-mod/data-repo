@@ -1,0 +1,8 @@
+{
+  "material": "FIREWORK",
+  "name": "Enchanted Firework Rocket",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 41000,
+  "id": "ENCHANTED_FIREWORK_ROCKET"
+}

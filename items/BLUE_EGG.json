@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzQwODA2ODk5NSwKICAicHJvZmlsZUlkIiA6ICJiNzVjZDRmMThkZjg0MmNlYjJhY2MxNTU5MTNiMjA0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLcmlzdGlqb25hczEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlMWNkNjdkOWNjZmU1NzVkNzhiN2RjMTk4MzU4Y2JiNWVjM2YzZTQxZGI4MjQ1OGMwNzVkNWY4MTNiYmYwZjkiCiAgICB9CiAgfQp9",
+  "name": "Blue Egged Skin",
+  "category": "COSMETIC",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "BLUE_EGG",
+  "description": [
+    {"text":"Combinable in Anvil","color":"dark_gray"},
+    {"text":""},
+    {"text":"Item skins give your gear a","color":"gray"},
+    {"text":"fresh new look! Apply them just","color":"gray"},
+    {"text":"like an enchant book using the","color":"gray"},
+    {"text":"anvil.","color":"gray"},
+    {"text":""},
+    {"text":"This skin can be applied to","color":"gray"},
+    {"text":"Backpacks","color":"green","extra":[{"text":".","color":"gray"}]},
+    {"text":""}
+  ]
+}

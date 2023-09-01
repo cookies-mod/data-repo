@@ -1,0 +1,28 @@
+{
+  "material": "ARROW",
+  "name": "Icy Arrow",
+  "glowing": true,
+  "category": "ARROW",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 24
+  },
+  "npc_sell_price": 1,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 21
+    },
+    {
+      "type": "COLLECTION",
+      "collection": "ICE",
+      "tier": 7
+    },
+    {
+      "type": "TARGET_PRACTICE",
+      "mode": "II"
+    }
+  ],
+  "id": "ICY_ARROW"
+}

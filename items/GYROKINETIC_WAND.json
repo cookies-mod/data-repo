@@ -1,0 +1,16 @@
+{
+  "material": "BLAZE_ROD",
+  "name": "Gyrokinetic Wand",
+  "glowing": true,
+  "category": "WAND",
+  "tier": "EPIC",
+  "unstackable": true,
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "enderman",
+      "level": 6
+    }
+  ],
+  "id": "GYROKINETIC_WAND"
+}

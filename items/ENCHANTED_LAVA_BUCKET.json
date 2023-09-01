@@ -1,0 +1,14 @@
+{
+  "material": "LAVA_BUCKET",
+  "name": "Enchanted Lava Bucket",
+  "glowing": true,
+  "tier": "EPIC",
+  "npc_sell_price": 50000,
+  "id": "ENCHANTED_LAVA_BUCKET",
+  "description": [
+    {"text":"Increases the speed of your","color":"gray"},
+    {"text":"minion by ","color":"gray","extra":[{"text":"25%","color":"green"},{"text":". Unlimited","color":"gray"}]},
+    {"text":"Duration!","color":"gray"},
+    {"text":""}
+  ]
+}

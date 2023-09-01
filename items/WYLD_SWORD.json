@@ -1,0 +1,11 @@
+{
+  "material": "WOOD_SWORD",
+  "name": "Wyld Sword",
+  "tier": "UNCOMMON",
+  "category": "SWORD",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_DAMAGE": 2
+  },
+  "id": "WYLD_SWORD"
+}

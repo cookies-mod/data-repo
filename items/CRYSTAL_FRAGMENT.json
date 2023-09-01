@@ -1,0 +1,8 @@
+{
+  "material": "QUARTZ",
+  "name": "Crystal Fragment",
+  "glowing": true,
+  "tier": "EPIC",
+  "npc_sell_price": 500,
+  "id": "CRYSTAL_FRAGMENT"
+}

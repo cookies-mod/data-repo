@@ -1,0 +1,11 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTk1Mzg1NjA0MSwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4cWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFmMzIwMDI1MTQyNTk2Mzk2MDMyY2MwMDg4ZTJhYzM2NDg5ZjI0Y2ZhNWU5ZGRhMTNlMDgxY2Y2OWY3N2Y0ZCIKICAgIH0KICB9Cn0\u003d",
+  "name": "Treasure Talisman",
+  "category": "ACCESSORY",
+  "tier": "RARE",
+  "npc_sell_price": 1000,
+  "dungeon_item": true,
+  "id": "TREASURE_TALISMAN"
+}

@@ -1,0 +1,32 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "0,0,0",
+  "name": "Bat Person Leggings",
+  "category": "LEGGINGS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 25
+  },
+  "id": "BAT_PERSON_LEGGINGS",
+  "description": [
+    {"text":""},
+    {"text":"This armor piece grants ","color":"gray","extra":[{"text":"2x","color":"green"}]},
+    {"text":"item stats during the night or","color":"gray"},
+    {"text":"3x ","color":"green","extra":[{"text":"during the ","color":"gray"},{"text":"Spooky","color":"gold"}]},
+    {"text":"Festival","color":"gold","extra":[{"text":"! Additionally, it","color":"gray"}]},
+    {"text":"gives a ","color":"gray","extra":[{"text":"+5% ","color":"green"},{"text":"chance to get","color":"gray"}]},
+    {"text":"Candy from mobs during the","color":"gray"},
+    {"text":"event.","color":"gray"},
+    {"text":""},
+    {"text":"Full Set Bonus: Bat Powers Activate!","color":"gold"},
+    {"text":"Upgrades your grappling hook and","color":"gray"},
+    {"text":"turns you into a true vigilante!","color":"gray"},
+    {"text":"Grants a ","color":"gray","extra":[{"text":"+5% ","color":"green"},{"text":"chance to find","color":"gray"}]},
+    {"text":"rare Candy.","color":"gray"},
+    {"text":""},
+    {"text":"You are the hero this world","color":"dark_gray","italic":true},
+    {"text":"needs.","color":"dark_gray","italic":true},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

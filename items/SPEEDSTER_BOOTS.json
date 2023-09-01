@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "224,252,247",
+  "name": "Speedster Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "WALK_SPEED": 15,
+    "DEFENSE": 65
+  },
+  "npc_sell_price": 102400,
+  "id": "SPEEDSTER_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Bonus Speed","color":"gold"},
+    {"text":"Increases ","color":"gray","extra":[{"text":"\u2726 Speed ","color":"white"},{"text":"by","color":"gray"}]},
+    {"text":"+20","color":"green","extra":[{"text":".","color":"gray"}]},
+    {"text":""}
+  ]
+}

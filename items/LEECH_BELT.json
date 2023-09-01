@@ -1,0 +1,15 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ4MDI2MzM0MSwKICAicHJvZmlsZUlkIiA6ICJhOGJhMGY1YTFmNjQ0MTgzODZkZGI3OWExZmY5ZWRlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmVlcGVyOTA3NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYmE2MzBhNzcwMzU2OTBlNjU1ZTY0ZTRhZDMwMTNkMzJmZTdhNGNiZTQzYzVmY2FiYTY0M2QxZjI2YjdhMDkyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
+  "name": "Leech Belt",
+  "category": "BELT",
+  "tier": "RARE",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_TIME": 80,
+    "rift_walk_speed": 3,
+    "rift_intelligence": 5
+  },
+  "id": "LEECH_BELT"
+}

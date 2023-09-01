@@ -1,0 +1,219 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NDUwMDg2NTQ4MiwKICAicHJvZmlsZUlkIiA6ICJhYTZhNzUwNWVkYmU0NjNiYjk1NWYyMWY0MjNiYTM1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RhbmR5d2FyaG9sIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdiMjk5MTkxMWY0NTJhYzM0MWE4OTMzYjcxMGUxMzk5MDBiM2VmMGYwMzA3MTQxYTMwMjYwYzYyM2YwMjk3MTQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ",
+  "name": "Rekindled Ember Helmet",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "soulbound": "COOP",
+  "stats": {
+    "DEFENSE": 50,
+    "HEALTH": 175,
+    "INTELLIGENCE": 15,
+    "STRENGTH": 30,
+    "CRITICAL_DAMAGE": 20
+  },
+  "npc_sell_price": 50000,
+  "can_have_attributes": true,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "salvageable_from_recipe": true,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ITEM",
+        "item_id": "HALLOWED_SKULL",
+        "amount": 1
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 1
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "HALLOWED_SKULL",
+        "amount": 2
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 2
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 250
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "HALLOWED_SKULL",
+        "amount": 3
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 3
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 500
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "HALLOWED_SKULL",
+        "amount": 4
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 1000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "HALLOWED_SKULL",
+        "amount": 5
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 5
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 1500
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "HALLOWED_SKULL",
+        "amount": 6
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 6
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 2000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "HALLOWED_SKULL",
+        "amount": 7
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 7
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 3000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "HALLOWED_SKULL",
+        "amount": 8
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 8
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 4000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "HALLOWED_SKULL",
+        "amount": 9
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 9
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 5000
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "HALLOWED_SKULL",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "REKINDLED_EMBER_FRAGMENT",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 6000
+      }
+    ]
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT"
+    }
+  ],
+  "id": "REKINDLED_EMBER_HELMET"
+}

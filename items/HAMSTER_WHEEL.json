@@ -1,0 +1,8 @@
+{
+  "material": "TRAP_DOOR",
+  "name": "Hamster Wheel",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 20000,
+  "id": "HAMSTER_WHEEL"
+}

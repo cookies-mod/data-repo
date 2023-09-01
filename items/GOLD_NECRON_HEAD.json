@@ -1,0 +1,53 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTU1MjgwNDU3MCwKICAicHJvZmlsZUlkIiA6ICJhMmY4MzQ1OTVjODk0YTI3YWRkMzA0OTcxNmNhOTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiUHVuY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY2OWUwYjQxZGE0ZmQ1OGY2MjViZmQxNDBiYjViMjRmODRkNTZlZGU2NjU4YjY4ZjEyNDQ3ODA0MmNkYWZlNiIKICAgIH0KICB9Cn0\u003d",
+  "name": "Golden Necron Head",
+  "category": "HELMET",
+  "tier": "SPECIAL",
+  "stats": {
+    "DEFENSE": 40,
+    "HEALTH": 80,
+    "STRENGTH": 15
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 75
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 125
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 250
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "GOLD",
+        "amount": 500
+      }
+    ]
+  ],
+  "dungeon_item": true,
+  "museum": true,
+  "id": "GOLD_NECRON_HEAD"
+}

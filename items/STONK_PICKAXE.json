@@ -1,0 +1,15 @@
+{
+  "material": "GOLD_PICKAXE",
+  "enchantments": {
+    "efficiency": 6
+  },
+  "name": "Stonk",
+  "category": "PICKAXE",
+  "tier": "EPIC",
+  "stats": {
+    "BREAKING_POWER": 1,
+    "MINING_SPEED": 380
+  },
+  "npc_sell_price": 9999,
+  "id": "STONK_PICKAXE"
+}

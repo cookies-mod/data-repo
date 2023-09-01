@@ -1,0 +1,34 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "179,179,179",
+  "name": "Heat Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 35,
+    "HEALTH": 35,
+    "MINING_FORTUNE": 5,
+    "MINING_SPEED": 10
+  },
+  "requirements": [
+    {
+      "type": "COLLECTION",
+      "collection": "HARD_STONE",
+      "tier": 2
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "RUBY"
+    }
+  ],
+  "id": "HEAT_CHESTPLATE",
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Heat Resistance","color":"gold"},
+    {"text":"Grants ","color":"gray","extra":[{"text":"2x ","color":"green"}]},
+    {"text":"increase in ","color":"gray","extra":[{"text":"Magma Fields","color":"red"},{"text":".","color":"gray"}]},
+    {"text":""}
+  ],
+  "can_be_reforged": true
+}

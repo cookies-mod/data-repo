@@ -1,0 +1,8 @@
+{
+  "material": "EMPTY_MAP",
+  "name": "Travel Scroll to the End",
+  "category": "TRAVEL_SCROLL",
+  "tier": "RARE",
+  "npc_sell_price": 100,
+  "id": "DANGER_3_TRAVEL_SCROLL"
+}

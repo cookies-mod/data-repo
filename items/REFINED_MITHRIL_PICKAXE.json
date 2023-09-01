@@ -1,0 +1,20 @@
+{
+  "material": "IRON_PICKAXE",
+  "name": "Refined Mithril Pickaxe",
+  "glowing": true,
+  "category": "PICKAXE",
+  "tier": "RARE",
+  "stats": {
+    "BREAKING_POWER": 5,
+    "DAMAGE": 50,
+    "MINING_SPEED": 300
+  },
+  "npc_sell_price": 5000,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 3
+    }
+  ],
+  "id": "REFINED_MITHRIL_PICKAXE"
+}

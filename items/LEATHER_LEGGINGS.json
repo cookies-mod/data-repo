@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "name": "Leather Leggings",
+  "category": "LEGGINGS",
+  "stats": {
+    "DEFENSE": 10
+  },
+  "npc_sell_price": 10,
+  "id": "LEATHER_LEGGINGS",
+  "can_be_reforged": true
+}

@@ -1,0 +1,8 @@
+{
+  "material": "BONE",
+  "name": "Enchanted Bone",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 320,
+  "id": "ENCHANTED_BONE"
+}

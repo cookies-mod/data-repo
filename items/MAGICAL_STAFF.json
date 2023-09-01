@@ -1,0 +1,10 @@
+{
+  "material": "BLAZE_ROD",
+  "name": "Magical Staff",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 20
+  },
+  "npc_sell_price": 27,
+  "id": "MAGICAL_STAFF"
+}

@@ -1,0 +1,29 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "139,0,0",
+  "name": "Arachne\u0027s Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "RARE",
+  "npc_sell_price": 2000,
+  "stats": {
+    "defense": 60,
+    "health": 85
+  },
+  "salvages": [
+    {
+      "type": "ESSENCE",
+      "essence_type": "SPIDER",
+      "amount": 5
+    }
+  ],
+  "soulbound": "COOP",
+  "id": "ARACHNE_CHESTPLATE",
+  "description": [
+    {"text":""},
+    {"text":"Tiered Bonus: Arachne's Faithful (0/8)","color":"dark_gray"},
+    {"text":"Grants ","color":"gray","extra":[{"text":"+5\u2764 Health ","color":"red"},{"text":"and ","color":"gray"},{"text":"+5\u2748","color":"green"}]},
+    {"text":"Defense","color":"green","extra":[{"text":".","color":"gray"}]},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

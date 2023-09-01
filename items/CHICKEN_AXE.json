@@ -1,0 +1,14 @@
+{
+  "material": "WOOD_AXE",
+  "name": "Chicken Axe",
+  "category": "AXE",
+  "tier": "UNCOMMON",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 15
+    }
+  ],
+  "id": "CHICKEN_AXE"
+}

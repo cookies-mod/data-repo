@@ -1,0 +1,105 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "213,18,48",
+  "name": "Zombie Commander Helmet",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "DEFENSE": [
+      22,
+      25,
+      28,
+      31,
+      34,
+      38,
+      42,
+      48,
+      52,
+      58
+    ],
+    "HEALTH": [
+      39,
+      43,
+      48,
+      54,
+      60,
+      66,
+      74,
+      82,
+      91,
+      102
+    ],
+    "STRENGTH": [
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17,
+      19,
+      22
+    ],
+    "INTELLIGENCE": [
+      4,
+      5,
+      5,
+      6,
+      7,
+      7,
+      8,
+      8,
+      10,
+      11
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 400
+      }
+    ]
+  ],
+  "gear_score": 40,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 18
+    }
+  ],
+  "dungeon_item": true,
+  "id": "ZOMBIE_COMMANDER_HELMET"
+}

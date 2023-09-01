@@ -1,0 +1,19 @@
+{
+  "id": "TACTICIAN_MURDER_WEAPON",
+  "material": "STONE_SWORD",
+  "name": "Tactician\u0027s Murder Weapon",
+  "tier": "RARE",
+  "category": "SWORD",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_DAMAGE": 4
+  },
+  "item_specific": {
+    "mana_refund": 4
+  },
+  "description": [
+    {"text":""},
+    {"text":"Regens ","color":"gray","extra":[{"text":"4 Mana ","color":"aqua"},{"text":"on hit.","color":"gray"}]},
+    {"text":""}
+  ]
+}

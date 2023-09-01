@@ -1,0 +1,18 @@
+{
+  "material": "DIAMOND_HELMET",
+  "name": "Rosetta\u0027s Helmet",
+  "category": "HELMET",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 20
+  },
+  "npc_sell_price": 525,
+  "id": "ROSETTA_HELMET",
+  "can_be_reforged":true,
+  "description": [
+    {"text":""},
+    {"text":"Growth I","color":"blue"},
+    {"text":"Grants ","color":"gray","extra":[{"text":"+15 ","color":"green"},{"text":"\u2764 Health","color":"red"},{"text":".","color":"gray"}]},
+    {"text":""}
+  ]
+}

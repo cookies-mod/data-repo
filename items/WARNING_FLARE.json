@@ -1,0 +1,16 @@
+{
+  "name": "Warning Flare",
+  "material": "FIREWORK",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "category": "DEPLOYABLE",
+  "unstackable": true,
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "blaze",
+      "level": 3
+    }
+  ],
+  "id": "WARNING_FLARE"
+}

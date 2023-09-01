@@ -1,0 +1,12 @@
+{
+  "material": "BOW",
+  "name": "Magma Bow",
+  "category": "BOW",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 100,
+    "STRENGTH": 100
+  },
+  "npc_sell_price": 61000,
+  "id": "MAGMA_BOW"
+}

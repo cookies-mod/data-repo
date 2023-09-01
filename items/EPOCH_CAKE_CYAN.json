@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0Nzk1NDY2NDEyNywKICAicHJvZmlsZUlkIiA6ICI1MTY4ZjZlMjIyM2E0Y2FjYjdiN2QyZjYyZWMxZGFhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZWZfbm90X2FzaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYjdjZmJiNmFmNzAwZTQ5YmZkYjYwMjM2OTIwYzUyMjA4NGJiODA4YWI2MTI0NzRmYjFmODNlYTQxMGQ1NDg0IgogICAgfQogIH0KfQ",
+  "name": "Century Cake of Hype",
+  "furniture": "EPOCH_CAKE_CYAN",
+  "tier": "UNCOMMON",
+  "museum": true,
+  "id": "EPOCH_CAKE_CYAN"
+}

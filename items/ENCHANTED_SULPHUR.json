@@ -1,0 +1,8 @@
+{
+  "material": "GLOWSTONE_DUST",
+  "glowing": true,
+  "name": "Enchanted Sulphur",
+  "tier": "RARE",
+  "npc_sell_price": 1600,
+  "id": "ENCHANTED_SULPHUR"
+}

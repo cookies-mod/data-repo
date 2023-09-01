@@ -1,0 +1,60 @@
+{
+  "material": "BOW",
+  "name": "Runaan\u0027s Bow",
+  "category": "BOW",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DAMAGE": 160,
+    "STRENGTH": 50
+  },
+  "npc_sell_price": 86000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "SPIDER",
+    "amount": 20
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 5
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 15
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 25
+      }
+    ]
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 8
+    }
+  ],
+  "id": "RUNAANS_BOW"
+}

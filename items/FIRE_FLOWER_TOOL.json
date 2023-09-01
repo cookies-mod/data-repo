@@ -1,0 +1,9 @@
+{
+  "material": "WOODEN_HOE",
+  "name": "Fire Flower Tool",
+  "glowing": true,
+  "tier": "UNOBTAINABLE",
+  "category": "HOE",
+  "npc_sell_price": 50,
+  "id": "FIRE_FLOWER_TOOL"
+}

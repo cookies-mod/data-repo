@@ -1,0 +1,83 @@
+{
+  "material": "DIAMOND_BOOTS",
+  "name": "Perfect Boots - Tier X",
+  "category": "BOOTS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 270
+  },
+  "npc_sell_price": 4096000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "DIAMOND",
+    "amount": 35
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 90
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 140
+      }
+    ]
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 18
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    }
+  ],
+  "id": "PERFECT_BOOTS_10",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "text": "Right-click to view recipes!",
+      "color": "yellow"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

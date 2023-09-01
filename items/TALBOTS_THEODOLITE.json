@@ -1,0 +1,17 @@
+{
+  "material": "repeater",
+  "name": "Talbot\u0027s Theodolite",
+  "tier": "RARE",
+  "npc_sell_price": 10,
+  "unstackable": true,
+  "id": "TALBOTS_THEODOLITE",
+  "description": [
+    {"text":"Ability: Track ","color":"gold","extra":[{"text":"RIGHT CLICK","color":"yellow","bold":true}]},
+    {"text":"Indicates the approximate height","color":"gray"},
+    {"text":"difference and angle between you","color":"gray"},
+    {"text":"and your tracked mob.","color":"gray"},
+    {"text":"Mana Cost: ","color":"dark_gray","extra":[{"text":"100","color":"dark_aqua"}]},
+    {"text":"Cooldown: ","color":"dark_gray","extra":[{"text":"10s","color":"green"}]},
+    {"text":""}
+  ]
+}

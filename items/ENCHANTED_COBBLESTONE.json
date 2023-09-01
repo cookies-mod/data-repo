@@ -1,0 +1,8 @@
+{
+  "material": "COBBLESTONE",
+  "name": "Enchanted Cobblestone",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 160,
+  "id": "ENCHANTED_COBBLESTONE"
+}

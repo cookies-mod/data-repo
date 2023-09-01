@@ -1,0 +1,19 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDQ4MDg0MzQ0MiwKICAicHJvZmlsZUlkIiA6ICJmNjRmZWJkMTU4ZDg0ZTQzYTY5ZGU4OGNhYzZiY2FiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaHJvb21hIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJjM2VkZDkxOWMwY2M2ZDk2NjhmZmQyMTBlNDZkMmMwN2ZlMDg4YzQ0ZDg1ZjQ3ZDI1MWI0Zjg3NDgxMTc0ZjUiCiAgICB9CiAgfQp9",
+  "name": "Titanium Ring",
+  "category": "ACCESSORY",
+  "tier": "RARE",
+  "stats": {
+    "MINING_SPEED": 30
+  },
+  "npc_sell_price": 2000,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 3
+    }
+  ],
+  "id": "TITANIUM_RING"
+}

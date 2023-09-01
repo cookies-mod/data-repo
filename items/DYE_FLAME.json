@@ -1,0 +1,8 @@
+{
+  "material": "INK_SACK",
+  "durability": 1,
+  "name": "Flame Dye",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "DYE_FLAME"
+}

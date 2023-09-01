@@ -1,0 +1,7 @@
+{
+  "material": "COOKED_FISH",
+  "durability": 1,
+  "name": "Cooked Salmon",
+  "npc_sell_price": 10,
+  "id": "COOKED_FISH:1"
+}

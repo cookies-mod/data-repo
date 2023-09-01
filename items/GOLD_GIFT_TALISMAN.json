@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2OTUxNDE0NjQyNywKICAicHJvZmlsZUlkIiA6ICIxMzdmMjg3MjUwOTE0ZmI4YjA0ZTYwYjg4MWUwZWE2YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3JtYWxpc2luZyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYmQ5ODc5MmRkOTJkOTcxOTg5NDM0MWFjOTAxMmE1ODRjNDQyODU1OGZkMmM3MTJmNzhlNWYwZDRkYTg1NDcwIgogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Gold Gift Talisman",
+  "category": "ACCESSORY",
+  "tier": "LEGENDARY",
+  "id": "GOLD_GIFT_TALISMAN"
+}

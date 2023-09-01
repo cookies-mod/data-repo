@@ -1,0 +1,12 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyODYzMDI4NzY5MywKICAicHJvZmlsZUlkIiA6ICJkYmNlZjMyZjI5ZDc0Y2UzOTUzOWMwYjBhMTE1YjZiZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYW1waXJlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VhZDdkY2JlOTM0MDFiM2QzYjRlNTIyMmVmODA5N2FlZjQ0MzFmNDgwNjRkMGEwNTMxZmEwOTUyYzIxMWUwZTYiCiAgICB9CiAgfQp9",
+  "name": "Draconic Artifact",
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "stats": {
+    "health": 3
+  },
+  "id": "DRACONIC_ARTIFACT"
+}

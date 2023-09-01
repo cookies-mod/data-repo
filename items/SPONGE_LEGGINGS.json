@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "255,220,81",
+  "name": "Sponge Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 100
+  },
+  "npc_sell_price": 56000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 17
+    }
+  ],
+  "id": "SPONGE_LEGGINGS"
+}

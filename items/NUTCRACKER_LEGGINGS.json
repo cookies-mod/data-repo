@@ -1,0 +1,53 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "255,249,235",
+  "name": "Nutcracker Leggings",
+  "category": "LEGGINGS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 35,
+    "HEALTH": 85,
+    "SEA_CREATURE_CHANCE": 1.5,
+    "MAGIC_FIND": 2
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 28
+    }
+  ],
+  "npc_sell_price": 1000,
+  "salvages": [
+    {
+      "type": "ESSENCE",
+      "essence_type": "ICE",
+      "amount": 15
+    }
+  ],
+  "id": "NUTCRACKER_LEGGINGS",
+  "description": [
+    {"text": ""},
+    {"text": "Full Set Bonus: Cold Thumb", "color": "gold"},
+    {"text": "Allows the wearer to shoot", "color": "gray"},
+    {"text": "unlimited snowballs when using", "color": "gray"},
+    {"text": "Frosty the Snow Cannon", "color": "blue", "extra": [{"text": ".", "color": "gray"}]},
+    {"text": ""},
+    {"text": "Full Set Bonus: Battalion", "color": "gold"},
+    {"text": "Grants ", "color": "gray", "extra": [{"text": "+1\u272F Magic Find ", "color": "blue"},{"text": "and"}]},
+    {"text": "+50\u2748 Defense ", "color": "green", "extra": [{"text": "to everyone", "color": "gray"}]},
+    {"text": "within ", "color": "gray", "extra": [{"text": "30 ", "color": "green"},{"text": "blocks. Stacks up"}]},
+    {"text": "to ", "color": "gray", "extra": [{"text": "5 ", "color": "red"},{"text": "times."}]},
+    {"text": ""},
+    {"text": "Each piece grants a ", "color": "gray", "extra": [{"text": "7.5%", "color": "green"}]},
+    {"text": "bonus gift chance for every", "color": "gray"},
+    {"text": "present you earn from the ", "color": "gray", "extra": [{"text": "Gift", "color": "red"}]},
+    {"text": "Attack ", "color": "red", "extra": [{"text": "minigame!", "color": "gray"}]},
+    {"text": ""},
+    {"text": "All stats of this armor piece", "color": "gray"},
+    {"text": "are doubled while on ", "color": "gray", "extra": [{"text": "Jerry\u0027s", "color": "red"}]},
+    {"text": "Workshop", "color": "red", "extra": [{"text": "!", "color": "gray"}]},
+    {"text": ""}
+  ],
+  "can_be_reforged":true
+}

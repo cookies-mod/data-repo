@@ -1,0 +1,25 @@
+{
+  "material": "DIAMOND_BOOTS",
+  "name": "Miner Boots",
+  "category": "BOOTS",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 25
+  },
+  "npc_sell_price": 2000,
+  "id": "TANK_MINER_BOOTS",
+  "description": [
+    {"text":""},
+    {"text":"Each piece of this armor","color":"gray"},
+    {"text":"dramatically increases your","color":"gray"},
+    {"text":"defense bonus when inside of a","color":"gray"},
+    {"text":"mine.","color":"gray"},
+    {"text":""},
+    {"text":"Full Set Bonus: Regeneration","color":"gold"},
+    {"text":"Regenerates ","color":"gray","extra":[{"text":"5% ","color":"green"},{"text":"of your max","color":"gray"}]},
+    {"text":"\u2764 Health ","color":"red", "extra": [ {"text":"every second if you","color":"gray"}]},
+    {"text":"have been out of combat for ","color":"gray","extra":[{"text":"8 ","color":"green"},{"text":"seconds.","color":"gray"}]},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

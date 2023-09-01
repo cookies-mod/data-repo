@@ -1,0 +1,20 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "77,204,77",
+  "name": "Leaflet Sandals",
+  "category": "BOOTS",
+  "stats": {
+    "HEALTH": 15
+  },
+  "npc_sell_price": 2,
+  "id": "LEAFLET_BOOTS",
+  "can_be_reforged":true,
+  "description":[
+    {"text":""},
+    {"text":"Full Set Bonus: Energy of the Forest","color":"gold"},
+    {"text":"While in a Forest zone you","color":"gray"},
+    {"text":"regain ","color":"gray","extra":[{"text":"5.0 ","color":"green"},{"text":"\u2764 Health ","color":"red"},{"text":"every","color":"gray"}]},
+    {"text":"second.","color":"gray"},
+    {"text":""}
+  ]
+}

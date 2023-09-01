@@ -1,0 +1,10 @@
+{
+  "material": "RAW_FISH",
+  "durability": 1,
+  "name": "Nope the Fish",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "museum": true,
+  "soulbound": "COOP",
+  "id": "NOPE_THE_FISH"
+}

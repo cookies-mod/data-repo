@@ -1,0 +1,308 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "62,5,175",
+  "name": "Hot Terror Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "LEGENDARY",
+  "soulbound": "COOP",
+  "stats": {
+    "WALK_SPEED": 15,
+    "DEFENSE": 82,
+    "HEALTH": 290,
+    "CRITICAL_DAMAGE": 63,
+    "INTELLIGENCE": 6
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 24
+    }
+  ],
+  "can_have_attributes": true,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 170
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 190
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 215
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 240
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 270
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 300
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 340
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 390
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 440
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 500
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      }
+    ]
+  ],
+  "prestige": {
+    "item_id": "BURNING_TERROR_CHESTPLATE",
+    "costs": [
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 800
+      },
+      {
+        "type": "ITEM",
+        "item_id": "KUUDRA_TEETH",
+        "amount": 20
+      }
+    ]
+  },
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_JASPER_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_SAPPHIRE_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_RUBY_GEM",
+          "amount": 1
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FLAWLESS_AMETHYST_GEM",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "id": "HOT_TERROR_CHESTPLATE",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "text": "Tiered Bonus: Hydra Strike (0/4)",
+      "color": "dark_gray"
+    },
+    {
+      "text": "Successful arrow hits grant ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "1",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "text": "stack of ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "Hydra Strike \u2051",
+          "color": "gold"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Each ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "Hydra Strike \u2051",
+          "color": "gold"
+        },
+        {
+          "text": " stack makes"
+        }
+      ]
+    },
+    {
+      "text": "your arrows fly ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "30%",
+          "color": "red"
+        },
+        {
+          "text": " faster, and"
+        }
+      ]
+    },
+    {
+      "text": "deal ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "+10%",
+          "color": "red"
+        },
+        {
+          "text": " more damage"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "At ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "10",
+          "color": "red"
+        },
+        {
+          "text": " stacks your bow fires "
+        },
+        {
+          "text": "2",
+          "color": "light_purple"
+        }
+      ]
+    },
+    {
+      "text": "extra arrows.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Lose 1 stack after ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "4s",
+          "color": "red"
+        },
+        {
+          "text": " of not"
+        }
+      ]
+    },
+    {
+      "text": "gaining a stack.",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "can_be_reforged": true
+}

@@ -1,0 +1,10 @@
+{
+  "material": "golden_shovel",
+  "name": "Golden Shovel",
+  "category": "SPADE",
+  "stats": {
+    "DAMAGE": 15
+  },
+  "npc_sell_price": 3,
+  "id": "GOLD_SPADE"
+}

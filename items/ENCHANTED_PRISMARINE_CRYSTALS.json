@@ -1,0 +1,9 @@
+{
+  "material": "PRISMARINE_CRYSTALS",
+  "name": "Enchanted Prismarine Crystals",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 400,
+  "id": "ENCHANTED_PRISMARINE_CRYSTALS",
+  "description":[null]
+}

@@ -1,0 +1,8 @@
+{
+  "material": "GOLD_RECORD",
+  "name": "Battle Disc",
+  "tier": "RARE",
+  "npc_sell_price": 1,
+  "museum": true,
+  "id": "BATTLE_DISC"
+}

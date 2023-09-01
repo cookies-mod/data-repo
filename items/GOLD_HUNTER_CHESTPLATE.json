@@ -1,0 +1,133 @@
+{
+  "material": "GOLD_CHESTPLATE",
+  "stats": {
+    "HEALTH": 195,
+    "DEFENSE": 195
+  },
+  "name": "Gold Hunter Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "requirements": [
+    {
+      "type": "TROPHY_FISHING",
+      "reward": "GOLD"
+    }
+  ],
+  "soulbound": "SOLO",
+  "can_have_attributes": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT"
+    },
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 250000
+        }
+      ]
+    }
+  ],
+  "upgrade_costs": [
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_GOLD",
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_GOLD",
+        "amount": 2
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_GOLD",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_GOLD",
+        "amount": 4
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_GOLD",
+        "amount": 5
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_GOLD",
+        "amount": 6
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_GOLD",
+        "amount": 7
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_GOLD",
+        "amount": 8
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_GOLD",
+        "amount": 9
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH_GOLD",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      }
+    ]
+  ],
+  "id": "GOLD_HUNTER_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Peace Treaty","color":"gold"},
+    {"text":"Gain immunity to Sea Creatures","color":"gray"},
+    {"text":"but they are immune to you and","color":"gray"},
+    {"text":"you can no longer catch them.","color":"gray"},
+    {"text":""},
+    {"text":"Full Set Bonus: Odger's Blessing","color":"gold"},
+    {"text":"Increases the chance to catch","color":"gray"},
+    {"text":"Trophy Fish by ","color":"gray","extra":[{"text":"10%","color":"green"},{"text":".","color":"gray"}]},
+    {"text":""}
+  ]
+}

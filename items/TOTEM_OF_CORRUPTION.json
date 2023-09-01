@@ -1,0 +1,19 @@
+{
+  "material": "PURPLE_BANNER",
+  "durability": 15,
+  "name": "Totem of Corruption",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 96000,
+  "id": "TOTEM_OF_CORRUPTION",
+  "description": [
+    {"text":"Item Ability: Deploy","color":"gold"},
+    {"text":"Place a totem down for ","color":"gray","extra":[{"text":"2m","color":"green"}]},
+    {"text":"turning nearby mobs into their","color":"gray"},
+    {"text":"Corrupted ","color":"red","extra":[{"text":"forms.","color":"gray"}]},
+    {"text":"","color":"gray"},
+    {"text":"Note: ","color":"yellow","extra":[{"text":"Only one Corrupted","color":"gray"}]},
+    {"text":"Totem can be active at a time.","color":"gray"},
+    {"text":"Mana Cost: ","color":"dark_gray","extra":[{"text":"200","color":"dark_aqua"}]},
+    {"text":""},
+  ]
+}

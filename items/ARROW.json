@@ -1,0 +1,10 @@
+{
+  "material": "ARROW",
+  "name": "Flint Arrow",
+  "category": "ARROW",
+  "stats": {
+    "DAMAGE": 1
+  },
+  "npc_sell_price": 2,
+  "id": "ARROW"
+}

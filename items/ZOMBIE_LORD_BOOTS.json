@@ -1,0 +1,105 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "155,1,193",
+  "name": "Zombie Lord Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "DEFENSE": [
+      19,
+      21,
+      24,
+      26,
+      29,
+      33,
+      36,
+      40,
+      45,
+      50
+    ],
+    "HEALTH": [
+      45,
+      49,
+      55,
+      61,
+      68,
+      75,
+      84,
+      93,
+      103,
+      115
+    ],
+    "STRENGTH": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      18
+    ],
+    "INTELLIGENCE": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      18
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 400
+      }
+    ]
+  ],
+  "gear_score": 25,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 25
+    }
+  ],
+  "dungeon_item": true,
+  "id": "ZOMBIE_LORD_BOOTS"
+}

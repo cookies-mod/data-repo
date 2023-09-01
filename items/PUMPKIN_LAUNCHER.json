@@ -1,0 +1,12 @@
+{
+  "material": "PUMPKIN",
+  "name": "Pumpkin Launcher",
+  "glowing": true,
+  "tier": "EPIC",
+  "stats": {
+    "WEAPON_ABILITY_DAMAGE": 3000
+  },
+  "ability_damage_scaling": 0.2,
+  "museum": true,
+  "id": "PUMPKIN_LAUNCHER"
+}

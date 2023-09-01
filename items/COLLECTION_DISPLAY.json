@@ -1,0 +1,10 @@
+{
+  "material": "HAY_BLOCK",
+  "name": "Collection Display",
+  "category": "COSMETIC",
+  "tier": "UNCOMMON",
+  "unstackable": true,
+  "description": "%%gray%%Show off your collection progress!",
+  "museum": true,
+  "id": "COLLECTION_DISPLAY"
+}

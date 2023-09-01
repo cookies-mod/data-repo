@@ -1,0 +1,7 @@
+{
+  "material": "EGG",
+  "name": "Bridge Egg",
+  "glowing": true,
+  "npc_sell_price": 10,
+  "id": "BRIDGE_EGG"
+}

@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ3Mzc1OTk4NiwKICAicHJvZmlsZUlkIiA6ICJkNDg1NWJhYWMzYjM0Mjk1YWJmYjBlZjFiYWIyYzBkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21pYXRhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZmMzc5MjEyZjQyMDYwYWUwNTYzYzcwNzM5YTdlYzQyYWQ0OGU3MGY3NDIxMGIyOTBkMjMwN2E0Nzg0NWVjMmMiCiAgICB9CiAgfQp9",
+  "name": "Meteor Shard",
+  "category": "REFORGE_STONE",
+  "tier": "RARE",
+  "npc_sell_price": 41150,
+  "id": "METEOR_SHARD"
+}

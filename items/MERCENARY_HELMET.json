@@ -1,0 +1,19 @@
+{
+  "material": "IRON_HELMET",
+  "name": "Mercenary Helmet",
+  "category": "HELMET",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 40,
+    "HEALTH": 40
+  },
+  "npc_sell_price": 10000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 8
+    }
+  ],
+  "id": "MERCENARY_HELMET"
+}

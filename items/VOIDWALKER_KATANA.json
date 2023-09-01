@@ -1,0 +1,13 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Voidwalker Katana",
+  "category": "SWORD",
+  "sword_type": "KATANA",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 80,
+    "STRENGTH": 40,
+    "CRITICAL_DAMAGE": 10
+  },
+  "id": "VOIDWALKER_KATANA"
+}

@@ -1,0 +1,20 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "name": "Leggings of the Coven",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "origin": "RIFT",
+  "stats": {
+    "rift_time": 80,
+    "rift_health": 1,
+    "rift_mana_regen": 6
+  },
+  "item_specific": {
+    "range_blocks": 64,
+    "max_players": 3,
+    "damage_per_player": 1,
+    "mana_regen_per_player": 2
+  },
+  "unstackable": true,
+  "id": "LEGGINGS_OF_THE_COVEN"
+}

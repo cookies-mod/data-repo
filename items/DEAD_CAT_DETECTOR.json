@@ -1,0 +1,9 @@
+{
+  "material": "RED_ROSE",
+  "durability": 7,
+  "name": "Cat Detector",
+  "tier": "RARE",
+  "origin": "RIFT",
+  "glowing": true,
+  "id": "DEAD_CAT_DETECTOR"
+}

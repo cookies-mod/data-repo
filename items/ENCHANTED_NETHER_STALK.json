@@ -1,0 +1,8 @@
+{
+  "material": "NETHER_STALK",
+  "name": "Enchanted Nether Wart",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 640,
+  "id": "ENCHANTED_NETHER_STALK"
+}

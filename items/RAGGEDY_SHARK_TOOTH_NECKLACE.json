@@ -1,0 +1,11 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5ODI1Mjc5NTMyNCwKICAicHJvZmlsZUlkIiA6ICI5ZDQyNWFiOGFmZjg0MGU1OWM3NzUzZjc5Mjg5YjMyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21wa2luNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc3MzA5ZGRlYmJkYzI3OGVlMjc3MmQ5MmZhNDkwNWRkODUwYzVmMjEzYTc3ZmZhZWQ1YTY3ZWVjYjIzOTg0YSIKICAgIH0KICB9Cn0",
+  "name": "Raggedy Shark Tooth Necklace",
+  "category": "ACCESSORY",
+  "stats": {
+    "STRENGTH": 2
+  },
+  "id": "RAGGEDY_SHARK_TOOTH_NECKLACE"
+}

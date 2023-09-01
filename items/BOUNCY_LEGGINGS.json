@@ -1,0 +1,81 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "173,255,47",
+  "name": "Bouncy Leggings",
+  "category": "LEGGINGS",
+  "tier": "RARE",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "HEALTH": [
+      105,
+      117,
+      131,
+      147,
+      165,
+      185,
+      207,
+      232,
+      260,
+      291
+    ],
+    "CRITICAL_CHANCE": [
+      5,
+      5,
+      6,
+      6,
+      7,
+      7,
+      8,
+      8,
+      9,
+      10
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 160
+      }
+    ]
+  ],
+  "gear_score": 10,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 12
+    }
+  ],
+  "dungeon_item": true,
+  "id": "BOUNCY_LEGGINGS"
+}

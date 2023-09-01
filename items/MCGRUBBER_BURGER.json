@@ -1,0 +1,28 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDMzZGRiOTJjYjZiM2E3OTI4MGI4YmRjZWQ4OTc2YWVhYjEzYTRiZmZlYWVmMmQ0NmQ4MjhiZDkxZGVlMGYzZSJ9fX0\u003d",
+  "name": "McGrubber\u0027s Burger",
+  "tier": "EPIC",
+  "motes_sell_price": 30000,
+  "origin": "RIFT",
+  "item_specific": {
+    "rift_time_per_eat": 12,
+    "motes_percent_per_eat": 5,
+    "motes_on_join_per_eat": 999
+  },
+  "unstackable": true,
+  "id": "MCGRUBBER_BURGER",
+  "description": [
+    {"text":"Consume this tasty burger to","color":"gray"},
+    {"text":"permanently gain a ","color":"gray","extra":[{"text":"Grubber","color":"light_purple"}]},
+    {"text":"Stack","color":"light_purple","extra":[{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"Each ","color":"gray","extra":[{"text":"stack ","color":"light_purple"},{"text":"grants:","color":"gray"}]},
+    {"text":" +12\u0444 Rift Time","color":"green"},
+    {"text":" +5% Motes ","color":"light_purple","extra":[{"text":"from ","color":"gray"},{"text":"Motes Grubber","color":"light_purple"}]},
+    {"text":" +40 Motes ","color":"light_purple","extra":[{"text":"on ","color":"gray"},{"text":"Orb ","color":"dark_purple"},{"text":"pickup","color":"gray"}]},
+    {"text":"Max 5 stacks!","color":"dark_gray"},
+    {"text":""}
+  ]
+}

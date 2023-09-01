@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "122,232,44",
+  "name": "Creeper Pants",
+  "category": "LEGGINGS",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 65,
+    "HEALTH": 200
+  },
+  "npc_sell_price": 71000,
+  "id": "CREEPER_LEGGINGS"
+}

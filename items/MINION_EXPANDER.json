@@ -1,0 +1,8 @@
+{
+  "material": "COMMAND",
+  "name": "Minion Expander",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 4000,
+  "id": "MINION_EXPANDER"
+}

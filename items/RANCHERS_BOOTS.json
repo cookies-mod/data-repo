@@ -1,0 +1,20 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "0,0,0",
+  "name": "Rancher\u0027s Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "WALK_SPEED": 50,
+    "DEFENSE": 70,
+    "HEALTH": 100
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 21
+    }
+  ],
+  "id": "RANCHERS_BOOTS"
+}

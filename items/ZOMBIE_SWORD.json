@@ -1,0 +1,66 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Zombie Sword",
+  "category": "SWORD",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 100,
+    "STRENGTH": 50,
+    "INTELLIGENCE": 50
+  },
+  "npc_sell_price": 300000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "UNDEAD",
+    "amount": 100
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 45
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 75
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 90
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 18
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "SAPPHIRE"
+    }
+  ],
+  "id": "ZOMBIE_SWORD"
+}

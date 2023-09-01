@@ -1,0 +1,22 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "69,1,1",
+  "name": "Crypt Witherlord Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "WALK_SPEED": 5,
+    "DEFENSE": 95
+  },
+  "npc_sell_price": 1,
+  "gear_score": 10,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 18
+    }
+  ],
+  "dungeon_item": true,
+  "id": "CRYPT_WITHERLORD_LEGGINGS"
+}

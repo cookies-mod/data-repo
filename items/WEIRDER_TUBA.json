@@ -1,0 +1,44 @@
+{
+  "material": "HOPPER",
+  "name": "Weirder Tuba",
+  "tier": "EPIC",
+  "unstackable": true,
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "wolf",
+      "level": 5
+    }
+  ],
+  "rift_transferrable": true,
+  "item_specific": {
+    "stats": {
+      "strength": 40,
+      "critical_damage": 10,
+      "attack_speed": 5,
+      "walk_speed": 30
+    },
+    "rift_stats": {
+      "rift_damage": 2,
+      "rift_walk_speed": 30
+    },
+    "duration_seconds": 30,
+    "cooldown_seconds": 20,
+    "range": 16,
+    "max_other_players": 4
+  },
+  "id": "WEIRDER_TUBA",
+  "description": [
+    {"text":"Ability: Howl ","color":"gold","extra":[{"text":"RIGHT CLICK","color":"yellow","bold":true}]},
+    {"text":"You and 4 nearby players gain:","color":"gray"},
+    {"text":"+30\u2726 Speed","color":"white"},
+    {"text":"+40\u2741 Strength","color":"red"},
+    {"text":"+10\u2620 Crit Damage","color":"blue"},
+    {"text":"+5\u2694 Bonus Attack Speed","color":"yellow"},
+    {"text":"for ","color":"gray","extra":[{"text":"30 ","color":"green"},{"text":"seconds.","color":"gray"}]},
+    {"text":"Effect doesn't stack.","color":"dark_gray"},
+    {"text":"Mana Cost: ","color":"dark_gray","extra":[{"text":"137","color":"dark_aqua"}]},
+    {"text":"Cooldown: ","color":"dark_gray","extra":[{"text":"20s","color":"green"}]},
+    {"text":""}
+  ]
+}

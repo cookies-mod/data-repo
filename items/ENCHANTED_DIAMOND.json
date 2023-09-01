@@ -1,0 +1,8 @@
+{
+  "material": "DIAMOND",
+  "name": "Enchanted Diamond",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1280,
+  "id": "ENCHANTED_DIAMOND"
+}

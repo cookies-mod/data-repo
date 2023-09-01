@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "255,147,0",
+  "name": "Armor of Magma Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 25,
+    "HEALTH": 75
+  },
+  "npc_sell_price": 53000,
+  "id": "ARMOR_OF_MAGMA_LEGGINGS"
+}

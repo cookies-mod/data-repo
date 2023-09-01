@@ -1,0 +1,14 @@
+{
+  "id": "LEECH_SWORD",
+  "material": "WOOD_SWORD",
+  "name": "Leech Sword",
+  "tier": "RARE",
+  "category": "SWORD",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_DAMAGE": 3
+  },
+  "item_specific": {
+    "mana_refund": 3
+  }
+}

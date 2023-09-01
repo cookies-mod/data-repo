@@ -1,0 +1,8 @@
+{
+  "material": "NETHER_STAR",
+  "name": "Nether Star",
+  "tier": "LEGENDARY",
+  "npc_sell_price": 1,
+  "museum": true,
+  "id": "NETHER_STAR"
+}

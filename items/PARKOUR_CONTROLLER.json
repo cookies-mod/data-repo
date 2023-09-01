@@ -1,0 +1,12 @@
+{
+  "material": "GOLD_PLATE",
+  "name": "Parkour Start/End",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "SOCIAL",
+      "level": 1
+    }
+  ],
+  "id": "PARKOUR_CONTROLLER"
+}

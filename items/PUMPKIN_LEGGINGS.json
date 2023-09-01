@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "237,170,54",
+  "name": "Pumpkin Leggings",
+  "category": "LEGGINGS",
+  "stats": {
+    "DEFENSE": 10,
+    "HEALTH": 10
+  },
+  "npc_sell_price": 14,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 2
+    }
+  ],
+  "id": "PUMPKIN_LEGGINGS"
+}

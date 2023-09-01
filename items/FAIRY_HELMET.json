@@ -1,0 +1,23 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "255,51,153",
+  "name": "Fairy\u0027s Fedora",
+  "category": "HELMET",
+  "tier": "RARE",
+  "stats": {
+    "WALK_SPEED": 10,
+    "DEFENSE": 1,
+    "HEALTH": 1,
+    "INTELLIGENCE": -1
+  },
+  "npc_sell_price": 420,
+  "id": "FAIRY_HELMET",
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Fairy's Outfit","color":"gold"},
+    {"text":"Gain ","color":"gray","extra":[{"text":"1\u2764 ","color":"red"},{"text":"per Fairy Soul.","color":"gray"}]},
+    {"text":"You found: ","color":"gray","extra":[{"text":"0 Fairy Souls","color":"light_purple"}]},
+    {"text":""}
+  ],
+  "can_be_reforged": true
+}

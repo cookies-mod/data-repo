@@ -1,0 +1,67 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTg2NTE0Njc3MCwKICAicHJvZmlsZUlkIiA6ICI0ZTMwZjUwZTdiYWU0M2YzYWZkMmE3NDUyY2ViZTI5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfdG9tYXRvel8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWU1OTVlMTQzNDg2YmJkZDk4YjJiNTYyMzAwZDRjNjk4ZTZhNTNhNWFhM2ZhMzI4Zjc0Y2I4MzkwOWUwODhjNCIKICAgIH0KICB9Cn0\u003d",
+  "name": "Mender Fedora",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "stats": {
+    "HEALTH": 220,
+    "MENDING": 100
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 150
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 300
+      }
+    ]
+  ],
+  "gear_score": 30,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 16
+    }
+  ],
+  "dungeon_item": true,
+  "id": "MENDER_FEDORA",
+  "can_be_reforged":true,
+  "description": [
+    {"text":""},
+    {"text":"Grants ","color":"gray","extra":[{"text":"+100\u2604 Mending ","color":"green"},{"text":"and ","color":"gray"},{"text":"\u2668","color":"dark_red"}]},
+    {"text":"Vitality ","color":"dark_red","extra":[{"text":"while in Dungeons.","color":"gray"}]},
+    {"text":""},
+    {"text":"Perfect 52500 / 52500","color":"green"}
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "material": "LEATHER_BOOTS",
+  "stats": {
+    "HEALTH": 100,
+    "DEFENSE": 100
+  },
+  "name": "Bronze Hunter Boots",
+  "category": "BOOTS",
+  "tier": "UNCOMMON",
+  "can_have_attributes": true,
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT"
+    }
+  ],
+  "upgrade_costs": [
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH",
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH",
+        "amount": 2
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH",
+        "amount": 4
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH",
+        "amount": 5
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH",
+        "amount": 6
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH",
+        "amount": 7
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH",
+        "amount": 8
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH",
+        "amount": 9
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MAGMA_FISH",
+        "amount": 10
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "TROPHY_FISHING",
+      "reward": "BRONZE"
+    }
+  ],
+  "soulbound": "SOLO",
+  "id": "BRONZE_HUNTER_BOOTS"
+}

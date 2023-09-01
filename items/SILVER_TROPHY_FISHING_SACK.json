@@ -1,0 +1,23 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDkzODYwNTM5NSwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyNWYwMjdhNGEyYmMyZGY1MzE1NGUwYmFmOTE3NDcwMjA3YjgxMzljODBmNDg3ZWQ5ZGFkYTcwMzNjNTkyZDUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Silver Trophy Fishing Sack",
+  "tier": "RARE",
+  "unstackable": true,
+  "requirements": [
+    {
+      "type": "TROPHY_FISHING",
+      "reward": "SILVER"
+    }
+  ],
+  "id": "SILVER_TROPHY_FISHING_SACK",
+  "description": [
+    {"text":"Trophy fish pickups of","color":"gray"},
+    {"text":"SILVER ","color":"gray","bold":true,"extra":[{"text":"quality go directly","bold":false}]},
+    {"text":""},
+    {"text":"Capacity: ","color":"gray","extra":[{"text":"512 per fish","color":"yellow"}]},
+    {"text":"Sacks sum their capacity","color":"dark_gray"},
+    {"text":""}
+  ]
+}

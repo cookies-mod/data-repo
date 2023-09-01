@@ -1,0 +1,8 @@
+{
+  "material": "ENCHANTED_BOOK",
+  "name": "Experience Artifact",
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "npc_sell_price": 115000,
+  "id": "EXPERIENCE_ARTIFACT"
+}

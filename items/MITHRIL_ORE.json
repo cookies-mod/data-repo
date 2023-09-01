@@ -1,0 +1,7 @@
+{
+  "material": "PRISMARINE_CRYSTALS",
+  "name": "Mithril",
+  "npc_sell_price": 8,
+  "description": "%%gray%%%%italic%%\"The Man called it \"true-silver\" while the Dwarves, who loved it above all things, had their own, secret name for it.\"",
+  "id": "MITHRIL_ORE"
+}

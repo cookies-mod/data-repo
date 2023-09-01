@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "204,85,0",
+  "name": "Farmer Boots",
+  "category": "BOOTS",
+  "tier": "UNCOMMON",
+  "stats": {
+    "WALK_SPEED": 10,
+    "DEFENSE": 20,
+    "HEALTH": 40
+  },
+  "npc_sell_price": 163840,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 18
+    }
+  ],
+  "id": "FARMER_BOOTS"
+}

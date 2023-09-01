@@ -1,0 +1,22 @@
+{
+  "material": "BOWL",
+  "name": "Caducous Feeder",
+  "tier": "RARE",
+  "glowing": true,
+  "unstackable": true,
+  "item_specific": {
+    "experience_gained": 1100000,
+    "charges": 2,
+    "consumed_item": "ULTIMATE_CARROT_CANDY"
+  },
+  "requirements": [
+    {
+      "type": "PROFILE_AGE",
+      "minimum_age_unit": "DAYS",
+      "minimum_age": 7
+    }
+  ],
+  "rift_transferrable": true,
+  "origin": "RIFT",
+  "id": "CADUCOUS_FEEDER"
+}

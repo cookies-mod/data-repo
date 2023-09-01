@@ -1,0 +1,9 @@
+{
+  "material": "ICE",
+  "name": "Frozen Water",
+  "tier": "RARE",
+  "origin": "RIFT",
+  "motes_sell_price": 10,
+  "description": "One could say it\u0027s... ice cold.",
+  "id": "FROZEN_WATER"
+}

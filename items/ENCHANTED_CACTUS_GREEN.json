@@ -1,0 +1,9 @@
+{
+  "material": "INK_SACK",
+  "durability": 2,
+  "name": "Enchanted Cactus Green",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 480,
+  "id": "ENCHANTED_CACTUS_GREEN"
+}

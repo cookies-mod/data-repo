@@ -1,0 +1,22 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjExNmI5ZDhkZjM0NmEyNWVkZDA1Zjg0MmU3YTkzNDViZWFmMTZkY2E0MTE4YWJmNWE2OGM3NWJjYWFlMTAifX19",
+  "name": "Portal to Mushroom Island",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Mushroom Island",
+      "description_name": "%%gray%%the %%yellow%%Desert Settlement %%gray%%of %%aqua%%Mushroom Island",
+      "destination_mode": "farming_1",
+      "schematic_file": "sb_portal_farming_2",
+      "location_tag": "desert_settlement",
+      "offset": "NEW",
+      "skill_requirement": {
+        "skill": "FARMING",
+        "level": 2
+      }
+    }
+  },
+  "id": "FARMING_2_PORTAL"
+}

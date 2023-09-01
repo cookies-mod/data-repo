@@ -1,0 +1,8 @@
+{
+  "material": "INK_SACK",
+  "durability": 15,
+  "name": "Enchanted Bone Meal",
+  "glowing": true,
+  "npc_sell_price": 1,
+  "id": "ENCHANTED_BONE_MEAL"
+}

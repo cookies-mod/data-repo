@@ -1,0 +1,8 @@
+{
+  "material": "GOLD_BLOCK",
+  "name": "Enchanted Gold Block",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 102000,
+  "id": "ENCHANTED_GOLD_BLOCK"
+}

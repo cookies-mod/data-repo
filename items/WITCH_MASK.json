@@ -1,0 +1,14 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODNiZWU5ZjliNzVmZjc1MTk3ZTA3NDE0YWMyZGI5MmUyMTZlOTQ1ZDYxODc3MjJiZGI5MjYyODc5YmI2In19fQ\u003d\u003d",
+  "name": "Witch Mask",
+  "category": "HELMET",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 111,
+    "HEALTH": 66,
+    "WEAPON_ABILITY_DAMAGE": 4000
+  },
+  "id": "WITCH_MASK"
+}

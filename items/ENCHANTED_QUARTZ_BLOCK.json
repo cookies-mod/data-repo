@@ -1,0 +1,8 @@
+{
+  "material": "QUARTZ_BLOCK",
+  "name": "Enchanted Quartz Block",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 102400,
+  "id": "ENCHANTED_QUARTZ_BLOCK"
+}

@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_BOOTS",
+  "name": "Leather Boots",
+  "category": "BOOTS",
+  "stats": {
+    "DEFENSE": 5
+  },
+  "npc_sell_price": 6,
+  "id": "LEATHER_BOOTS",
+  "can_be_reforged": true
+}

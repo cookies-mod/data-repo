@@ -1,0 +1,8 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTIzNTU1YjBmZDdkZjU5MTcyZTkyZDg5NmU2N2FkM2Q4ZWQxNDUwNDk4M2RlNjVkZmY4MzVlZDExMDQxNmEwZiJ9fX0",
+  "name": "Berry",
+  "npc_sell_price": 10,
+  "id": "BUILDER_BERRY"
+}

@@ -1,0 +1,93 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "41,240,233",
+  "name": "Wise Dragon Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 160,
+    "HEALTH": 120,
+    "INTELLIGENCE": 75
+  },
+  "npc_sell_price": 100000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "DRAGON",
+    "amount": 70
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 120
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DRAGON",
+        "amount": 180
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 16
+    }
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 18
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "SAPPHIRE",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_SAPPHIRE_GEM",
+          "amount": 20
+        }
+      ]
+    }
+  ],
+  "id": "WISE_DRAGON_CHESTPLATE",
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Wise Blood","color":"gold"},
+    {"text":"Abilities have ","color":"gray","extra":[{"text":"2/3 ","color":"green"},{"text":"of the","color":"gray"}]},
+    {"text":"mana cost.","color":"gray"},
+    {"text":"","color":"gray"},
+  ],
+  "can_be_reforged":true
+}

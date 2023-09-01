@@ -1,0 +1,8 @@
+{
+  "material": "REDSTONE_LAMP_OFF",
+  "name": "Enchanted Redstone Lamp",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 30720,
+  "id": "ENCHANTED_REDSTONE_LAMP"
+}

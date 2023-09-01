@@ -1,0 +1,21 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTUwMTg2OTI1NiwKICAicHJvZmlsZUlkIiA6ICJhZjQwMzQxMTk1YTg0ZDcwODFkNWNmNDE3MDM5ODJmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdHJ4dSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODEwZjdmZWY0YmQ0NDc3NGI0MTA2OWIwN2E3MjQ4OGY2Mjc1ZjhjY2Q4OGUyZmRhOWY5ZTI3NzUzNWE0YzcxIgogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "10th Anniversary Podium",
+  "furniture": "ANNI_PODIUM_MEME_FIRST",
+  "tier": "EPIC",
+  "soulbound": "COOP",
+  "unstackable": true,
+  "id": "ANNI_PODIUM_MEME_FIRST",
+  "description":[
+    {"text":"Best Meme","color":"gold"},
+    {"text":"1st Place","color":"yellow"},
+    {"text":""},
+    {"text":"This item was awarded as part of","color":"gray"},
+    {"text":"the ","color":"gray","extra":[{"text":"Hypixel 10th Anniversary","color":"gold"}]},
+    {"text":"Social Media contest for Best","color":"gray"},
+    {"text":"Meme.","color":"gray"},
+    {"text":""}
+  ]
+}

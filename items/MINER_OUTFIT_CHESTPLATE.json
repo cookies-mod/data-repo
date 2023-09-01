@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "122,121,100",
+  "name": "Miner\u0027s Outfit Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 40
+  },
+  "npc_sell_price": 640,
+  "id": "MINER_OUTFIT_CHESTPLATE",
+  "can_be_reforged":true,
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Haste","color":"gold"},
+    {"text":"Grants the wearer with","color":"gray"},
+    {"text":"permanent Haste II","color":"green","extra":[{"text":" while","color":"gray"}]},
+    {"text":"worn.","color":"gray"},
+    {"text":"","color":"gray"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTcwODI1ZjNjMDJlYjNkM2Y4ZDEzMTIzYjYyNDkxMWM4YTU3ZDk3OTU1ZjNlYTcxNmFjYzIxMjcxNDQ1MDMyMyJ9fX0\u003d",
+  "name": "Voodoo",
+  "category": "HELMET",
+  "tier": "UNOBTAINABLE",
+  "stats": {
+    "DEFENSE": 1000
+  },
+  "npc_sell_price": 1000000,
+  "id": "VOODOO"
+}

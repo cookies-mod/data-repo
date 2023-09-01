@@ -1,0 +1,8 @@
+{
+  "material": "MONSTER_EGG",
+  "durability": 96,
+  "name": "Red Claw Egg",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "RED_CLAW_EGG"
+}

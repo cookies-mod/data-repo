@@ -1,0 +1,81 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "173,255,47",
+  "name": "Bouncy Helmet",
+  "category": "HELMET",
+  "tier": "RARE",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "HEALTH": [
+      65,
+      73,
+      81,
+      91,
+      102,
+      114,
+      128,
+      143,
+      161,
+      180
+    ],
+    "CRITICAL_CHANCE": [
+      5,
+      5,
+      6,
+      6,
+      7,
+      7,
+      8,
+      8,
+      9,
+      10
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 160
+      }
+    ]
+  ],
+  "gear_score": 10,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 12
+    }
+  ],
+  "dungeon_item": true,
+  "id": "BOUNCY_HELMET"
+}

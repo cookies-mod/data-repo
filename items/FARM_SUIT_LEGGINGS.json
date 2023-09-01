@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "255,255,0",
+  "name": "Farm Suit Leggings",
+  "category": "LEGGINGS",
+  "stats": {
+    "DEFENSE": 30,
+    "FARMING_FORTUNE": 5
+  },
+  "npc_sell_price": 32,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 3
+    }
+  ],
+  "id": "FARM_SUIT_LEGGINGS"
+}

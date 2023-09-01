@@ -1,0 +1,76 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "27,27,27",
+  "name": "Reaper Boots",
+  "category": "BOOTS",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 30,
+    "HEALTH": 100,
+    "STRENGTH": 25,
+    "INTELLIGENCE": 250
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "zombie",
+      "level": 7
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "COMBAT",
+      "costs": [
+        {
+          "type": "COINS",
+          "coins": 50000
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_JASPER_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_SAPPHIRE_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_RUBY_GEM",
+          "amount": 5
+        },
+        {
+          "type": "ITEM",
+          "item_id": "FINE_AMETHYST_GEM",
+          "amount": 5
+        }
+      ]
+    }
+  ],
+  "id": "REAPER_BOOTS",
+  "can_be_reforged":true,
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Enrage ","color":"gold","extra":[{"text":"SNEAK","color":"yellow","bold":true}]},
+    {"text":"Enrage for ","color":"gray","extra":[{"text":"6s ","color":"green"},{"text":"gaining ","color":"gray"},{"text":"100\u2726","color":"white"}]},
+    {"text":"Speed","color":"white","extra":[{"text":", ","color":"gray"},{"text":"100\u2741 Damage","color":"red"},{"text":", and ","color":"gray"},{"text":"100\u2741","color":"red"}]},
+    {"text":"Strength","color":"red","extra":[{"text":".","color":"gray"}]},
+    {"text":"Cooldown: ","color":"dark_gray","extra":[{"text":"25s","color":"green"}]},
+    {"text":""},
+    {"text":"Full Set Bonus: Trolling The Reaper","color":"gold"},
+    {"text":"Healing Wands heal ","color":"gray","extra":[{"text":"+50%","color":"green"},{"text":".","color":"gray"}]},
+    {"text":"Gain ","color":"gray","extra":[{"text":"+100\u2748 ","color":"green"},{"text":"against Zombies.","color":"gray"}]},
+    {"text":"Deal ","color":"gray","extra":[{"text":"+100% ","color":"red"},{"text":"damage to zombies","color":"gray"}]},
+    {"text":"but ","color":"gray","extra":[{"text":"1% ","color":"red"},{"text":"to all other mobs.","color":"gray"}]},
+    {"text":""},
+    {"text":"Piece Bonus: Zombie Bulwark","color":"gold"},
+    {"text":"Kill Zombies to accumulate","color":"gray"},
+    {"text":"defense against them.","color":"gray"},
+    {"text":"Piece Bonus: ","color":"gray","extra":[{"text":"+0\u2748","color":"green"}]},
+    {"text":"Next Upgrade: ","color":"gray","extra":[{"text":"+20\u2748 ","color":"green"},{"text":"(","color":"dark_gray"},{"text":"0","color":"green"},{"text":"/","color":"gray"},{"text":"50","color":"red"},{"text":")","color":"dark_gray"}]},
+    {"text":""},
+    {"text":"This armor piece is undead \u0f15!","color":"dark_green"},
+    {"text":""}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTk1MzgyNTcyMywKICAicHJvZmlsZUlkIiA6ICIwNmE4NjAyZDAwODk0YWQxOTcyMGQ3NGE1OGU1MDZjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfMW5kcmFfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZhMWNjNTUyNWEyMTdhMzk5YjViODZjMzJmMGYyMmRkOTEzNzg4NzRiNWY0NGQ1YTM4M2UxOGJjMGYzYmMzMDEiCiAgICB9CiAgfQp9",
+  "name": "Treasure Ring",
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "npc_sell_price": 1000,
+  "dungeon_item": true,
+  "id": "TREASURE_RING"
+}

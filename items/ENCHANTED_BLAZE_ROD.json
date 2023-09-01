@@ -1,0 +1,8 @@
+{
+  "material": "BLAZE_ROD",
+  "name": "Enchanted Blaze Rod",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 230400,
+  "id": "ENCHANTED_BLAZE_ROD"
+}

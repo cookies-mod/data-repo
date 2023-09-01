@@ -1,0 +1,8 @@
+{
+  "material": "DAYLIGHT_DETECTOR",
+  "name": "Solar Panel",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 10000,
+  "id": "SOLAR_PANEL"
+}

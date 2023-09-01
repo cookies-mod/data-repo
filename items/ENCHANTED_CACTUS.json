@@ -1,0 +1,8 @@
+{
+  "material": "CACTUS",
+  "name": "Enchanted Cactus",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 76800,
+  "id": "ENCHANTED_CACTUS"
+}

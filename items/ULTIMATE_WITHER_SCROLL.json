@@ -1,0 +1,12 @@
+{
+  "material": "BOOK_AND_QUILL",
+  "name": "Ultimate Wither Scroll",
+  "glowing": true,
+  "tier": "EPIC",
+  "stats": {
+    "WEAPON_ABILITY_DAMAGE": 10000
+  },
+  "ability_damage_scaling": 0.3,
+  "dungeon_item": true,
+  "id": "ULTIMATE_WITHER_SCROLL"
+}

@@ -1,0 +1,12 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "0,255,0",
+  "name": "Emerald Armor Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 45
+  },
+  "npc_sell_price": 310000,
+  "id": "EMERALD_ARMOR_BOOTS"
+}

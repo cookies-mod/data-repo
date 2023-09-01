@@ -1,0 +1,9 @@
+{
+  "material": "RAW_FISH",
+  "durability": 3,
+  "name": "Enchanted Pufferfish",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 2400,
+  "id": "ENCHANTED_PUFFERFISH"
+}

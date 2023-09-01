@@ -1,0 +1,8 @@
+{
+  "material": "BOOKSHELF",
+  "name": "Enchanted Bookshelf",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 2700,
+  "id": "ENCHANTED_BOOKSHELF"
+}

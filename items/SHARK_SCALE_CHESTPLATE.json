@@ -1,0 +1,28 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "0,44,166",
+  "name": "Shark Scale Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 175,
+    "HEALTH": 175
+  },
+  "npc_sell_price": 64000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 24
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    }
+  ],
+  "id": "SHARK_SCALE_CHESTPLATE"
+}

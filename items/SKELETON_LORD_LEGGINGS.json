@@ -1,0 +1,105 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "38,129,5",
+  "name": "Skeleton Lord Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "DEFENSE": [
+      48,
+      52,
+      57,
+      62,
+      67,
+      73,
+      79,
+      86,
+      93,
+      102
+    ],
+    "HEALTH": [
+      24,
+      26,
+      28,
+      31,
+      34,
+      36,
+      40,
+      43,
+      47,
+      51
+    ],
+    "CRITICAL_DAMAGE": [
+      19,
+      22,
+      24,
+      27,
+      30,
+      33,
+      36,
+      41,
+      45,
+      50
+    ],
+    "CRITICAL_CHANCE": [
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 400
+      }
+    ]
+  ],
+  "gear_score": 25,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 25
+    }
+  ],
+  "dungeon_item": true,
+  "id": "SKELETON_LORD_LEGGINGS"
+}

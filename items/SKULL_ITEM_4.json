@@ -1,0 +1,8 @@
+{
+  "material": "player_head",
+  "durability": 4,
+  "name": "Creeper Skull",
+  "tier": "RARE",
+  "npc_sell_price": 20,
+  "id": "SKULL_ITEM:4"
+}

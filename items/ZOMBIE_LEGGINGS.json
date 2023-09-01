@@ -1,0 +1,69 @@
+{
+  "material": "DIAMOND_LEGGINGS",
+  "name": "Zombie Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 30,
+    "HEALTH": 160
+  },
+  "npc_sell_price": 185000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "UNDEAD",
+    "amount": 150
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 120
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 16
+    }
+  ],
+  "id": "ZOMBIE_LEGGINGS",
+  "can_be_reforged":true,
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Projectile Absorption","color":"gold"},
+    {"text":"Heals the wearer for ","color":"gray","extra":[{"text":"10","color":"green"},{"text":" per","color":"gray"}]},
+    {"text":"second for ","color":"gray","extra":[{"text":"5","color":"green"},{"text":" seconds when","color":"gray"}]},
+    {"text":"hit by a projectile.","color":"gray"},
+    {"text":""}
+  ]
+}

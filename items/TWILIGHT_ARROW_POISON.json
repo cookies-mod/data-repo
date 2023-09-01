@@ -1,0 +1,9 @@
+{
+  "material": "INK_SACK",
+  "durability": 5,
+  "name": "Twilight Arrow Poison",
+  "category": "ARROW_POISON",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 650,
+  "id": "TWILIGHT_ARROW_POISON"
+}

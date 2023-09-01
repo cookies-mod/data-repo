@@ -1,0 +1,11 @@
+{
+  "material": "CHAINMAIL_HELMET",
+  "name": "Chainmail Helmet",
+  "category": "HELMET",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 12
+  },
+  "npc_sell_price": 1,
+  "id": "CHAINMAIL_HELMET"
+}

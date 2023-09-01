@@ -1,0 +1,20 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTYyMTA0NSwKICAicHJvZmlsZUlkIiA6ICI0ZWQ4MjMzNzFhMmU0YmI3YTVlYWJmY2ZmZGE4NDk1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJlYnlyZDg4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMjgyYzZiYjgzNDNlMGYwZDYxZWUwNzQ3ZGFkYTc1MzQ0ZjMzMmU5ZmYwYWNhYTNhZGNkZjA5MzIxZDNkZCIKICAgIH0KICB9Cn0",
+  "name": "\u2618 Flawed Jade Gemstone",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 240,
+  "id": "FLAWED_JADE_GEM",
+  "description": [
+    {"text":"A slightly better version of","color":"gray"},
+    {"text":"Jade","color":"green","extra":[{"text":", but it could still use","color":"gray"}]},
+    {"text":"some work.","color":"gray"},
+    {"text":""},
+    {"text":"Some say that when ","color":"gray","extra":[{"text":"harnessed","color":"yellow"}]},
+    {"text":"properly","color":"yellow","extra":[{"text":", it can give its","color":"gray"}]},
+    {"text":"owner extra ","color":"gray","extra":[{"text":"\u2618 Mining","color":"gold"}]},
+    {"text":"Fortune","color":"gold","extra":[{"text":".","color":"gray"}]},
+    {"text":""},
+  ]
+}

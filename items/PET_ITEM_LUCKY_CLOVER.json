@@ -1,0 +1,8 @@
+{
+  "material": "WATER_LILY",
+  "name": "Lucky Clover",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "tier": "EPIC",
+  "id": "PET_ITEM_LUCKY_CLOVER"
+}

@@ -1,0 +1,9 @@
+{
+  "material": "LOG",
+  "durability": 3,
+  "name": "Enchanted Jungle Wood",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 320,
+  "id": "ENCHANTED_JUNGLE_LOG"
+}

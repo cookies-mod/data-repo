@@ -1,0 +1,30 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NzgzMjcxNDQyNCwKICAicHJvZmlsZUlkIiA6ICIwMDc4NzVkOTI0ZWI0ZGMxODUxZGY5MWFiYTdmZjg3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXphMkIyVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMDUwNWYxZTk3NjVlNDdlN2ZiOTIwOGUyYWQ4ZjE3MTY2OGRlY2YzOTQ2NWVjNDBkM2E1ODlmOGNiZWI5NzIyIgogICAgfQogIH0KfQ",
+  "name": "Arachne\u0027s Helmet",
+  "category": "HELMET",
+  "tier": "RARE",
+  "npc_sell_price": 2000,
+  "stats": {
+    "defense": 40,
+    "health": 55
+  },
+  "salvages": [
+    {
+      "type": "ESSENCE",
+      "essence_type": "SPIDER",
+      "amount": 5
+    }
+  ],
+  "soulbound": "COOP",
+  "id": "ARACHNE_HELMET",
+  "description": [
+    {"text":""},
+    {"text":"Tiered Bonus: Arachne's Faithful (0/8)","color":"dark_gray"},
+    {"text":"Grants ","color":"gray","extra":[{"text":"+5\u2764 Health ","color":"red"},{"text":"and ","color":"gray"},{"text":"+5\u2748","color":"green"}]},
+    {"text":"Defense","color":"green","extra":[{"text":".","color":"gray"}]},
+    {"text":""}
+  ],
+  "can_be_reforged":true
+}

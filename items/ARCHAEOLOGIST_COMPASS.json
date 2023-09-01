@@ -1,0 +1,9 @@
+{
+  "material": "COMPASS",
+  "name": "Archaeologist\u0027s Compass",
+  "tier": "COMMON",
+  "category": "ACCESSORY",
+  "npc_sell_price": 1000,
+  "soulbound": "COOP",
+  "id": "ARCHAEOLOGIST_COMPASS"
+}

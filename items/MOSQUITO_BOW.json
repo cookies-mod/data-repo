@@ -1,0 +1,68 @@
+{
+  "material": "BOW",
+  "name": "Mosquito Bow",
+  "category": "BOW",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DAMAGE": 251,
+    "STRENGTH": 151,
+    "CRITICAL_DAMAGE": 39,
+    "vitality": 20
+  },
+  "dungeon_item_conversion_cost": {
+    "essence_type": "SPIDER",
+    "amount": 30
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 15
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 35
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 45
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 65
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "spider",
+      "level": 7
+    }
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 13
+    }
+  ],
+  "id": "MOSQUITO_BOW"
+}

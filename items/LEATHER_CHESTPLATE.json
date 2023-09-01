@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "name": "Leather Chestplate",
+  "category": "CHESTPLATE",
+  "stats": {
+    "DEFENSE": 15
+  },
+  "npc_sell_price": 12,
+  "id": "LEATHER_CHESTPLATE",
+  "can_be_reforged": true
+}

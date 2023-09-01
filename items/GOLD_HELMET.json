@@ -1,0 +1,11 @@
+{
+  "material": "GOLDEN_HELMET",
+  "name": "Golden Helmet",
+  "category": "HELMET",
+  "stats": {
+    "DEFENSE": 10
+  },
+  "npc_sell_price": 10,
+  "id": "GOLD_HELMET",
+  "can_be_reforged": true
+}

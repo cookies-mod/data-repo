@@ -1,0 +1,20 @@
+{
+  "material": "WOOD_PICKAXE",
+  "name": "Jungle Pickaxe",
+  "glowing": true,
+  "category": "PICKAXE",
+  "tier": "UNCOMMON",
+  "stats": {
+    "BREAKING_POWER": 5,
+    "DAMAGE": 50,
+    "MINING_SPEED": 330
+  },
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 3
+    }
+  ],
+  "museum": true,
+  "id": "JUNGLE_PICKAXE"
+}

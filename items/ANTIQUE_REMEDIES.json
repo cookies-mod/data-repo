@@ -1,0 +1,9 @@
+{
+  "material": "RED_ROSE",
+  "durability": 3,
+  "name": "Antique Remedies",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "tier": "EPIC",
+  "id": "ANTIQUE_REMEDIES"
+}

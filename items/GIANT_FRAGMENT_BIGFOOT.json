@@ -1,0 +1,15 @@
+{
+  "material": "lead",
+  "name": "Bigfoot\u0027s Lasso",
+  "glowing": true,
+  "tier": "EPIC",
+  "dungeon_item": true,
+  "id": "GIANT_FRAGMENT_BIGFOOT",
+  "description": [
+    {"text":"Precursor Relic","color":"dark_gray"},
+    {"text":""},
+    {"text":"Hard to throw, even harder to","color":"gray"},
+    {"text":"catch.","color":"gray"},
+    {"text":""}
+  ]
+}

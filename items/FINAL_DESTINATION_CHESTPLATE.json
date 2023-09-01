@@ -1,0 +1,20 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "10,0,17",
+  "name": "Final Destination Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 100,
+    "HEALTH": 200,
+    "INTELLIGENCE": 100
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "enderman",
+      "level": 4
+    }
+  ],
+  "id": "FINAL_DESTINATION_CHESTPLATE"
+}

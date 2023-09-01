@@ -1,0 +1,7 @@
+{
+  "material": "MONSTER_EGG",
+  "name": "Decoy",
+  "tier": "UNCOMMON",
+  "dungeon_item": true,
+  "id": "DUNGEON_DECOY"
+}

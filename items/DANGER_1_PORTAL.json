@@ -1,0 +1,30 @@
+{
+  "id": "DANGER_1_PORTAL",
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzc1NDMxOGEzMzc2ZjQ3MGU0ODFkZmNkNmM4M2E1OWFhNjkwYWQ0YjRkZDc1NzdmZGFkMWMyZWYwOGQ4YWVlNiJ9fX0\u003d",
+  "name": "Portal to the Spider\u0027s Den",
+  "category": "PORTAL",
+  "item_specific": {
+    "portal": {
+      "holo_name": "Spider\u0027s Den",
+      "description_name": "%%gray%%the %%red%%Spider\u0027s Den",
+      "destination_mode": "combat_1",
+      "schematic_file": "sb_portal_danger1",
+      "skill_requirement": {
+        "skill": "COMBAT",
+        "level": 1
+      }
+    }
+  },
+  "description": [
+    {"text":"Placing the item on your private", "color": "gray"},
+    {"text":"island will create a portal to", "color": "gray"},
+    {"text":"the Spider\u0027s Den for you to", "color": "gray"},
+    {"text":"use whenever you want!", "color": "gray"},
+    {"text":""},
+    {"text":"The portal will spawn facing", "color": "dark_gray"},
+    {"text":"you on the block you click on.", "color": "dark_gray"},
+    {"text":""},
+  ]
+}

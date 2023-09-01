@@ -1,0 +1,21 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Rod of Champions",
+  "category": "FISHING_ROD",
+  "tier": "RARE",
+  "stats": {
+    "damage": 90,
+    "strength": 80,
+    "sea_creature_chance": 4,
+    "fishing_speed": 90
+  },
+  "npc_sell_price": 17800,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 15
+    }
+  ],
+  "id": "CHAMP_ROD"
+}

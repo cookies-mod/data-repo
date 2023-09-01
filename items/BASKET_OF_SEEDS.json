@@ -1,0 +1,18 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E2YmY5MTZlMjhjY2I4MGI0ZWJmYWNmOTg2ODZhZDZhZjdjNGZiMjU3ZTU3YThjYjc4YzcxZDE5ZGNjYjIifX19",
+  "name": "Basket of Seeds",
+  "glowing": true,
+  "tier": "EPIC",
+  "id": "BASKET_OF_SEEDS",
+  "description": [
+    {"text":"Ability: Seed Storage ","color":"gold","extra":[{"text":"LEFT CLICK","color":"yellow","bold":true}]},
+    {"text":"Place seeds in the basket.","color":"gray"},
+    {"text":""},
+    {"text":"Ability: Farmer's Delight ","color":"gold","extra":[{"text":"RIGHT CLICK","color":"yellow","bold":true}]},
+    {"text":"Automatically seed a row of","color":"gray"},
+    {"text":"farmland.","color":"gray"},
+    {"text":""}
+  ]
+}

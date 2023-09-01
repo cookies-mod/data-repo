@@ -1,0 +1,14 @@
+{
+  "material": "cooked_cod",
+  "name": "Chill the Fish",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "museum": true,
+  "id": "CHILL_THE_FISH",
+  "description": [
+    {"text":"This fish was found frozen solid","color":"gray"},
+    {"text":"in the lake of the Main Lobby","color":"gray"},
+    {"text":"during the Holiday months.","color":"gray"},
+    {"text":""}
+  ]
+}

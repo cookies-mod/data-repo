@@ -1,0 +1,11 @@
+{
+  "material": "BOW",
+  "name": "Ender Bow",
+  "category": "BOW",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 60
+  },
+  "npc_sell_price": 1100,
+  "id": "ENDER_BOW"
+}

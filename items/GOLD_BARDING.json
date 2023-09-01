@@ -1,0 +1,8 @@
+{
+  "material": "GOLD_BARDING",
+  "name": "Gold Horse Armor",
+  "tier": "EPIC",
+  "npc_sell_price": 750,
+  "museum": true,
+  "id": "GOLD_BARDING"
+}

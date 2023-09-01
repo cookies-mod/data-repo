@@ -1,0 +1,16 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MjU1OTQ2NDQzNiwKICAicHJvZmlsZUlkIiA6ICJiNTM5NTkyMjMwY2I0MmE0OWY5YTRlYmYxNmRlOTYwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJpYW5hZmFnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZmNWNiNDAxMjM5YTM0MTA2MzJjMWJmMDQwYzliNmIyNDkyZDI4MTliODhhMzYzMmYxZGUzZTBjZWVjMDg4MTIiCiAgICB9CiAgfQp9",
+  "name": "Gillsplash Gloves",
+  "category": "GLOVES",
+  "tier": "LEGENDARY",
+  "soulbound": "COOP",
+  "npc_sell_price": 9000,
+  "stats": {
+    "health": 20,
+    "health_regeneration": 2,
+    "fishing_speed": 12
+  },
+  "id": "GILLSPLASH_GLOVES"
+}

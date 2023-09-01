@@ -1,0 +1,17 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjE5YWQ1MjE1YmE2YzdlNGU0ZDA2NjhmMDJkM2E5YzkzN2FjNTM2YWNjNzVhYzQ5ZTdiZDdiMWM4Y2NmODAifX19",
+  "name": "Wood Affinity Talisman",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 160,
+  "id": "WOOD_TALISMAN",
+  "description": [
+    {"text":"Increases your ","color":"gray","extra":[{"text":"\u2726 Speed ","color":"white"},{"text":"by","color":"gray"}]},
+    {"text":"+10","color":"green","extra":[{"text":" while held in the","color":"gray"}]},
+    {"text":"Forest","color":"aqua","extra":[{"text":", ","color":"gray"},{"text":"Graveyard","color":"red"},{"text":", and","color":"gray"}]},
+    {"text":"Wilderness","color":"dark_green","extra":[{"text":".","color":"gray"}]},
+    {"text":""}
+  ]
+}

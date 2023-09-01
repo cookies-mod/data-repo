@@ -1,0 +1,8 @@
+{
+  "material": "SLIME_BALL",
+  "name": "Enchanted Slimeball",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 800,
+  "id": "ENCHANTED_SLIME_BALL"
+}

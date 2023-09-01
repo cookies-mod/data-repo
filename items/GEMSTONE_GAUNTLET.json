@@ -1,0 +1,37 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODUyMTY2MzY1NCwKICAicHJvZmlsZUlkIiA6ICIxZDUyMzNkMzg4NjI0YmFmYjAwZTMxNTBhN2FhM2E4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDBKIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdiZjAxYzE5OGY2ZTE2OTY1ZTIzMDIzNWNkMjJhNWE5ZjRhNDBlNDA5NDEyMzQ0Nzg5NDhmZjlhNTZlNTE3NzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Gemstone Gauntlet",
+  "category": "GAUNTLET",
+  "tier": "LEGENDARY",
+  "stats": {
+    "BREAKING_POWER": 9,
+    "DAMAGE": 200,
+    "MINING_SPEED": 1600
+  },
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 6
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "JADE"
+    },
+    {
+      "slot_type": "AMBER"
+    },
+    {
+      "slot_type": "TOPAZ"
+    },
+    {
+      "slot_type": "SAPPHIRE"
+    },
+    {
+      "slot_type": "AMETHYST"
+    }
+  ],
+  "id": "GEMSTONE_GAUNTLET"
+}

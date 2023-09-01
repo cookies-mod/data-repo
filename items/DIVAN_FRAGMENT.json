@@ -1,0 +1,16 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDU0NjIxODEyMSwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYzMzg0NGYwM2M5MmQ4MjUwM2M5Y2Q1NjdhNTFmZGE0NzQwNGZhNTNmMjE2ZmFkNDczZjE2YWM4M2E5NzMxNGYiCiAgICB9CiAgfQp9",
+  "name": "Divan Fragment",
+  "tier": "EPIC",
+  "description": "%%gray%%%%italic%%One of the greatest alloys naturally found in the Crystal Hollows, named after the first Dwarf to find them.",
+  "id": "DIVAN_FRAGMENT",
+  "description": [
+    {"text":"One of the greatest alloys","color":"gray","italic":true},
+    {"text":"naturally found in the Crystal","color":"gray","italic":true},
+    {"text":"Hollows, named after the first","color":"gray","italic":true},
+    {"text":"Dwarf to find them.","color":"gray","italic":true},
+    {"text":""},
+  ]
+}

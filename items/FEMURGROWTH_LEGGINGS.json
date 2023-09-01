@@ -1,0 +1,15 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "72,255,0",
+  "name": "Femurgrowth Leggings",
+  "category": "LEGGINGS",
+  "tier": "EPIC",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_TIME": 65,
+    "rift_mana_regen": 5,
+    "rift_walk_speed": -4
+  },
+  "description": "%%dark_gray%%It\u0027s infected slime, it makes you slower.",
+  "id": "FEMURGROWTH_LEGGINGS"
+}

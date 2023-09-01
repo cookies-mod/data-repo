@@ -1,0 +1,18 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NzU0ODY2NjM0OTQsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE0YTdhYWMwODU5M2ExYTBiYzY2NjZmZTBhZWVkZmIxOTVkNDEzZmM5Y2Y4N2M3M2Y0YThjMDRkYTY0MTg4NTcifX19",
+  "name": "Cracked Piggy Bank",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 16000,
+  "id": "CRACKED_PIGGY_BANK",
+  "description":[
+    {"text":"Saves ","color":"gray","extra":[{"text":"75% ","color":"red"},{"text":"of your coins on death.","color":"gray"}]},
+    {"text":"Only when in player inventory or Accessory Bag.","color":"gray"},
+    {"text":"Very fragile!","color":"red"},
+    {"text":""},
+    {"text":"Triggers when losing 20k+ coins.","color":"dark_gray"},
+    {"text":""}
+  ]
+}

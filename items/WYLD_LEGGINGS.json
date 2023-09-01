@@ -1,0 +1,12 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "53,183,59",
+  "name": "Wyld Leggings",
+  "category": "LEGGINGS",
+  "tier": "UNCOMMON",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_TIME": 15
+  },
+  "id": "WYLD_LEGGINGS"
+}

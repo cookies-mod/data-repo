@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzkzODU2NTE4NDVmOGJmZTE4NmMzMGRhODFiYWNkNjk3MWFhNTFiZTNiNTAwMWZjNGVhNWNmMWFmOGYyM2MzMyJ9fX0K",
+  "name": "Eternal Flame Ring",
+  "tier": "UNCOMMON",
+  "museum": true,
+  "id": "ETERNAL_FLAME_RING"
+}

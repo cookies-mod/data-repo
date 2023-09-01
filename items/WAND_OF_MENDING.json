@@ -1,0 +1,15 @@
+{
+  "material": "STICK",
+  "name": "Wand of Mending",
+  "glowing": true,
+  "category": "WAND",
+  "tier": "RARE",
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "zombie",
+      "level": 3
+    }
+  ],
+  "id": "WAND_OF_MENDING"
+}

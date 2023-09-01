@@ -1,0 +1,17 @@
+{
+  "material": "STRING",
+  "name": "§dMelody\u0027s Hair",
+  "glowing": true,
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "stats": {
+    "INTELLIGENCE": 6
+  },
+  "soulbound": "COOP",
+  "requirements": [
+    {
+      "type": "MELODY_HAIR"
+    }
+  ],
+  "id": "MELODY_HAIR"
+}

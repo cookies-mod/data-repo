@@ -1,0 +1,16 @@
+{
+  "material": "map",
+  "name": "Dusty Travel Scroll to the Kuudra Skull",
+  "category": "TRAVEL_SCROLL",
+  "tier": "EPIC",
+  "id": "NETHER_FORTRESS_BOSS_TRAVEL_SCROLL",
+  "description":[
+    {"text": "Consume this item to add its", "color": "gray"},
+    {"text": "destination to your fast travel", "color": "gray"},
+    {"text": "options.", "color": "gray"},
+    {"text": ""},
+    {"text": "Island: ", "color": "gray", "extra": [{"text": "Crimson Isle", "color": "green"}]},
+    {"text": "Teleport: ", "color": "gray", "extra": [{"text": "Forgotten Skull", "color": "yellow"}]},
+    {"text": ""}
+  ]
+}

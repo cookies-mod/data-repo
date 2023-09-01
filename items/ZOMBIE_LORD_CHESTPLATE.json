@@ -1,0 +1,105 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "155,1,193",
+  "name": "Zombie Lord Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "DEFENSE": [
+      39,
+      43,
+      48,
+      53,
+      59,
+      65,
+      73,
+      81,
+      90,
+      100
+    ],
+    "HEALTH": [
+      85,
+      95,
+      105,
+      117,
+      130,
+      144,
+      160,
+      178,
+      198,
+      220
+    ],
+    "STRENGTH": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      18
+    ],
+    "INTELLIGENCE": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      18
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 400
+      }
+    ]
+  ],
+  "gear_score": 25,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 25
+    }
+  ],
+  "dungeon_item": true,
+  "id": "ZOMBIE_LORD_CHESTPLATE"
+}

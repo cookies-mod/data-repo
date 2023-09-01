@@ -1,0 +1,13 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "0,190,0",
+  "name": "Leggings of Growth",
+  "category": "LEGGINGS",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 40,
+    "HEALTH": 80
+  },
+  "npc_sell_price": 70000,
+  "id": "GROWTH_LEGGINGS"
+}

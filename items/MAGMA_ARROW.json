@@ -1,0 +1,19 @@
+{
+  "material": "ARROW",
+  "name": "Magma Arrow",
+  "category": "ARROW",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 40,
+    "CRITICAL_CHANCE": 10
+  },
+  "npc_sell_price": 1,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 25
+    }
+  ],
+  "id": "MAGMA_ARROW"
+}

@@ -1,0 +1,24 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMjM4MDU5NzMyNCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTJjNzcwNDVhNDY5ODJiNDA2MjFiZmM1YjA1ODE1OWU5NjEzNDBkMTA3NmM4MWI5NjUxNzY2NDc0NWViOGNjZiIKICAgIH0KICB9Cn0\u003d",
+  "name": "Sea Creature Chance Enrichment",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "id": "TALISMAN_ENRICHMENT_SEA_CREATURE_CHANCE",
+  "description": [
+    {"text":"Combinable in Anvil","color":"dark_gray"},
+    {"text":""},
+    {"text":"Enriches an accessory with the","color":"gray"},
+    {"text":"power of ","color":"gray","extra":[{"text":"+0.3\u03b1 Sea Creature","color":"dark_aqua"}]},
+    {"text":"Chance ","color":"dark_aqua","extra":[{"text":"when applied to a","color":"gray"}]},
+    {"text":"legendary ","color":"gold","extra":[{"text":"or ","color":"gray"},{"text":"mythic","color":"light_purple"}]},
+    {"text":"accessory.","color":"gray"},
+    {"text":""},
+    {"text":"Only ","color":"gray","extra":[{"text":"ONE ","color":"gray","bold":true},{"text":"enrichment can be","color":"gray"}]},
+    {"text":"applied to a given accessory.","color":"gray"},
+    {"text":""},
+    {"text":"Cost","color":"gray"},
+    {"text":"5,000 Bits","color":"aqua"},
+  ]
+}

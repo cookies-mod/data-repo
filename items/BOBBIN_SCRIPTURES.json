@@ -1,0 +1,11 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQ5ZTk1NWE1MDYwMDBmMWQ4YmZjNjhlYWFmZTA0Y2M3ZGZiNDRmMDYyM2ExYjNkMGJmMjE1YThkNWE4NjFjMiJ9fX0\u003d",
+  "name": "Bobbin\u0027 Scriptures",
+  "tier": "RARE",
+  "npc_sell_price": 35000,
+  "description": "The sacred ways of bobbin\u0027, written by a long-forgotten worshipper of Kuudra.",
+  "unstackable": true,
+  "id": "BOBBIN_SCRIPTURES"
+}

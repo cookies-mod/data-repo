@@ -1,0 +1,19 @@
+{
+  "material": "IRON_BLOCK",
+  "name": "Parkour Times",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "SOCIAL",
+      "level": 1
+    }
+  ],
+  "id": "PARKOUR_TIMES",
+  "description": [
+    {"text":"Places a hologram displaying the","color":"gray"},
+    {"text":"top parkour times of players on","color":"gray"},
+    {"text":"your island. Click to select","color":"gray"},
+    {"text":"which parkour is displayed.","color":"gray"},
+    {"text":""}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "material": "DIAMOND_HELMET",
+  "name": "Helmet of Live Reloading",
+  "stats": {
+    "HEALTH": 200
+  },
+  "id": "HELMET_OF_LIVE_RELOADING"
+}

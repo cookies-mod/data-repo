@@ -1,0 +1,11 @@
+{
+  "material": "BOW",
+  "name": "Decent Bow",
+  "category": "BOW",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DAMAGE": 45
+  },
+  "npc_sell_price": 99,
+  "id": "DECENT_BOW"
+}

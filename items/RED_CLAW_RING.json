@@ -1,0 +1,19 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NzA1NDk5OTYyODEsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU5ZDliMzI3ZmY4MmY2ZTEwOWI4NzQ2YzQ4YmZiN2Y2NDFlMTU1Mjg1NTQ5M2RkNDExOGJlMjRkNWIwMmJjMGEifX19",
+  "name": "Red Claw Ring",
+  "category": "ACCESSORY",
+  "tier": "RARE",
+  "stats": {
+    "CRITICAL_DAMAGE": 3
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "wolf",
+      "level": 5
+    }
+  ],
+  "id": "RED_CLAW_RING"
+}

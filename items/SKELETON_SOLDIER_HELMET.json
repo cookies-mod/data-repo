@@ -1,0 +1,119 @@
+{
+  "material": "LEATHER_HELMET",
+  "color": "255,188,11",
+  "name": "Skeleton Soldier Helmet",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "npc_sell_price": 1,
+  "tiered_stats": {
+    "DEFENSE": [
+      26,
+      28,
+      30,
+      33,
+      36,
+      39,
+      42,
+      45,
+      50,
+      54
+    ],
+    "HEALTH": [
+      16,
+      17,
+      19,
+      21,
+      22,
+      24,
+      26,
+      29,
+      31,
+      34
+    ],
+    "CRITICAL_DAMAGE": [
+      16,
+      17,
+      19,
+      20,
+      22,
+      24,
+      26,
+      28,
+      31,
+      34
+    ],
+    "CRITICAL_CHANCE": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      4,
+      4
+    ]
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 15
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 30
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 120
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "UNDEAD",
+        "amount": 240
+      }
+    ]
+  ],
+  "gear_score": 10,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 9
+    }
+  ],
+  "dungeon_item": true,
+  "id": "SKELETON_SOLDIER_HELMET",
+  "description": [
+    {"text":""},
+    {"text":"Increase the damage you deal","color":"gray"},
+    {"text":"with arrows by ","color":"gray","extra":[{"text":"5%","color":"red"},{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"Full Set Bonus: Skeleton Soldier","color":"gold"},
+    {"text":"Increase the damage you deal","color":"gray"},
+    {"text":"with arrows by an extra ","color":"gray","extra":[{"text":"25%","color":"red"},{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"This armor piece is undead \u0f15!","color":"dark_green"},
+    {"text":""},
+    {"text":"Perfect 52500 / 52500","color":"green"},
+  ],
+  "can_be_reforged":true
+}

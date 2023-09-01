@@ -1,0 +1,21 @@
+{
+  "material": "ARROW",
+  "name": "Reinforced Iron Arrow",
+  "category": "ARROW",
+  "stats": {
+    "DAMAGE": 5
+  },
+  "npc_sell_price": 1,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 4
+    },
+    {
+      "type": "TARGET_PRACTICE",
+      "mode": "I"
+    }
+  ],
+  "id": "REINFORCED_IRON_ARROW"
+}

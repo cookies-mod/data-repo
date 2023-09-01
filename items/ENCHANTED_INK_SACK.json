@@ -1,0 +1,8 @@
+{
+  "material": "INK_SACK",
+  "name": "Enchanted Ink Sac",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 160,
+  "id": "ENCHANTED_INK_SACK"
+}

@@ -1,0 +1,76 @@
+{
+  "material": "STONE_SWORD",
+  "item_durability": -1,
+  "name": "Fel Sword",
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 190,
+    "STRENGTH": 135
+  },
+  "npc_sell_price": 20000,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 15
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 100
+      }
+    ]
+  ],
+  "gear_score": 50,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 20
+    }
+  ],
+  "dungeon_item": true,
+  "id": "FEL_SWORD",
+  "can_be_reforged": true,
+  "description": [
+    {"text":""},
+    {"text":"Every ","color":"gray","extra":[{"text":"100 ","color":"green"},{"text":"Kills with this","color":"gray"}]},
+    {"text":"sword grants +","color":"gray","extra":[{"text":"1 ","color":"red"},{"text":"Weapon","color":"gray"}]},
+    {"text":"Damage, up to ","color":"gray","extra":[{"text":"100 ","color":"red"},{"text":"extra.","color":"gray"}]},
+    {"text":"Current Kills: ","color":"gray","extra":[{"text":"0 ","color":"green"},{"text":"(","color":"dark_gray"},{"text":"+0 Damage","color":"red"},{"text":")","color":"dark_gray"}]},
+    {"text":""},
+    {"text":"Dungeon Healer Bonuses:","color":"green"},
+    {"text":"- ","color":"dark_gray","extra":[{"text":"Increases healing from","color":"gray"}]},
+    {"text":"your ","color":"gray","extra":[{"text":"Healing Circle","color":"green"},{"text":" by","color":"gray"}]},
+    {"text":"10%","color":"green","extra":[{"text":".","color":"gray"}]},
+    {"text":"- ","color":"dark_gray","extra":[{"text":"Reduces the cooldown of","color":"gray"}]},
+    {"text":"your ","color":"gray","extra":[{"text":"Wish Ultimate","color":"green"},{"text":" by ","color":"gray"},{"text":"10","color":"aqua"}]},
+    {"text":"seconds.","color":"gray"},
+    {"text":""}
+  ]
+}

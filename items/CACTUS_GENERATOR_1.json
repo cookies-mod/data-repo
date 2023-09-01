@@ -1,0 +1,72 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NTc5MTgxNDU1MzMsInByb2ZpbGVJZCI6IjZlZDg3NmUzZjg4MTRmYzhhMTNlMDU0MDU1ODFjNDZiIiwicHJvZmlsZU5hbWUiOiJBenVyZUJsdWUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmOTNlYzZlNjdhNmNkMjcyYzlhOTY4NGI2N2RmNjI1ODRjYjA4NGEyNjVlZWUzY2RlMTQxZDIwZTcwZDdkNzIifX19",
+  "name": "Cactus Minion I",
+  "generator": "CACTUS",
+  "generator_tier": 1,
+  "tier": "RARE",
+  "id": "CACTUS_GENERATOR_1",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and harvesting",
+      "color": "gray"
+    },
+    {
+      "text": "cactus. Requires sand nearby so",
+      "color": "gray"
+    },
+    {
+      "text": "cacti can be planted. Minions",
+      "color": "gray"
+    },
+    {
+      "text": "also work when you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "27",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "64",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

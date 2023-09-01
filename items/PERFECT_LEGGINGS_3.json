@@ -1,0 +1,83 @@
+{
+  "material": "DIAMOND_LEGGINGS",
+  "name": "Perfect Leggings - Tier III",
+  "category": "LEGGINGS",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 180
+  },
+  "npc_sell_price": 1536000,
+  "dungeon_item_conversion_cost": {
+    "essence_type": "DIAMOND",
+    "amount": 60
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 65
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 110
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "DIAMOND",
+        "amount": 160
+      }
+    ]
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 9
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    },
+    {
+      "slot_type": "AMETHYST"
+    }
+  ],
+  "id": "PERFECT_LEGGINGS_3",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "text": "Right-click to view recipes!",
+      "color": "yellow"
+    },
+    {
+      "text": ""
+    }
+  ]
+}

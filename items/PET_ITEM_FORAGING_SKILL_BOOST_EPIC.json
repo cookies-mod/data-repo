@@ -1,0 +1,8 @@
+{
+  "material": "IRON_AXE",
+  "name": "Foraging Exp Boost",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "tier": "EPIC",
+  "id": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC"
+}

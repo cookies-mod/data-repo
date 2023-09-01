@@ -1,0 +1,11 @@
+{
+  "material": "BOW",
+  "name": "Souls Rebound",
+  "category": "BOW",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 450
+  },
+  "npc_sell_price": 1,
+  "id": "SOULS_REBOUND"
+}

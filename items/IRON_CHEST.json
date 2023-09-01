@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZGUyYTA4ZTcxZDBiNTMyNmE1OTdkZjAyOGRkN2MxNWZhNGNmMjIxY2FhYzI4MTBlMjg5MWZiODRlZTU3YzlmIn19fQ\u003d\u003d",
+  "name": "Iron Chest+",
+  "furniture": "IRON_CHEST",
+  "tier": "RARE",
+  "id": "IRON_CHEST"
+}

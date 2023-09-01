@@ -1,0 +1,12 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5MjUzMTI1MDg3MCwKICAicHJvZmlsZUlkIiA6ICI4MmEyZDY5OTMwOTM0NjkxOGE3NDc4ZTI2YWEyMGJmMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMY3V0ZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMTg0NzZlM2NmMGQ1ZmM4YWIxNzYxMDY1Y2YwZTM3MmIxMTAwNGVkNGM5NzE1NjM5NmUxN2M4NjliNGFhMzg5IgogICAgfQogIH0KfQ\u003d\u003d",
+  "name": "Potato Talisman",
+  "category": "ACCESSORY",
+  "stats": {
+    "WALK_SPEED": 1
+  },
+  "museum": true,
+  "id": "POTATO_TALISMAN"
+}

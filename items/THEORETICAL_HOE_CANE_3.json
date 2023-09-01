@@ -1,0 +1,14 @@
+{
+  "material": "DIAMOND_HOE",
+  "name": "Turing Sugar Cane Hoe",
+  "category": "HOE",
+  "tier": "RARE",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 25
+    }
+  ],
+  "id": "THEORETICAL_HOE_CANE_3"
+}

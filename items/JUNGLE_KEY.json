@@ -1,0 +1,13 @@
+{
+  "material": "TRIPWIRE_HOOK",
+  "name": "Jungle Key",
+  "glowing": true,
+  "tier": "EPIC",
+  "description": "%%gray%%Used to open the entrance to the Jungle Temple.",
+  "id": "JUNGLE_KEY",
+  "description": [
+    {"text":"Used to open the entrance to","color":"gray"},
+    {"text":"the Jungle Temple.","color":"gray"},
+    {"text":""},
+  ]
+}

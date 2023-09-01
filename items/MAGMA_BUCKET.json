@@ -1,0 +1,8 @@
+{
+  "material": "LAVA_BUCKET",
+  "name": "Magma Bucket",
+  "glowing": true,
+  "tier": "LEGENDARY",
+  "npc_sell_price": 50000,
+  "id": "MAGMA_BUCKET"
+}

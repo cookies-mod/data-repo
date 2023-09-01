@@ -1,0 +1,11 @@
+{
+  "material": "LEATHER_HELMET",
+  "name": "Velvet Top Hat",
+  "tier": "RARE",
+  "category": "HELMET",
+  "stats": {
+    "health": 25,
+    "defense": 10
+  },
+  "id": "VELVET_TOP_HAT"
+}

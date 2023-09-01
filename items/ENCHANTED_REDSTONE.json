@@ -1,0 +1,8 @@
+{
+  "material": "REDSTONE",
+  "name": "Enchanted Redstone",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 160,
+  "id": "ENCHANTED_REDSTONE"
+}

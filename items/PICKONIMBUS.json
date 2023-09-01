@@ -1,0 +1,14 @@
+{
+  "material": "DIAMOND_PICKAXE",
+  "name": "Pickonimbus 2000",
+  "glowing": true,
+  "category": "PICKAXE",
+  "tier": "EPIC",
+  "stats": {
+    "BREAKING_POWER": 7,
+    "DAMAGE": 30,
+    "MINING_SPEED": 1500
+  },
+  "npc_sell_price": 12,
+  "id": "PICKONIMBUS"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "INK_SACK",
+  "durability": 4,
+  "name": "Pure Blue Dye",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "DYE_PURE_BLUE"
+}

@@ -1,0 +1,11 @@
+{
+  "material": "BOW",
+  "name": "Spirit Bow",
+  "category": "BOW",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 1
+  },
+  "dungeon_item": true,
+  "id": "BOSS_SPIRIT_BOW"
+}

@@ -1,0 +1,12 @@
+{
+  "material": "STONE_PICKAXE",
+  "name": "Stone Pickaxe",
+  "category": "PICKAXE",
+  "stats": {
+    "BREAKING_POWER": 2,
+    "DAMAGE": 20,
+    "MINING_SPEED": 110
+  },
+  "npc_sell_price": 2,
+  "id": "STONE_PICKAXE"
+}

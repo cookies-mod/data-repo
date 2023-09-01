@@ -1,0 +1,14 @@
+{
+  "material": "DIAMOND_HOE",
+  "name": "Hoe of Greater Tilling",
+  "category": "HOE",
+  "tier": "RARE",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 5
+    }
+  ],
+  "id": "HOE_OF_GREATER_TILLING"
+}

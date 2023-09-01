@@ -1,0 +1,69 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "0,0,0",
+  "name": "Tarantula Boots",
+  "category": "BOOTS",
+  "tier": "EPIC",
+  "stats": {
+    "WALK_SPEED": 5,
+    "DEFENSE": 100,
+    "HEALTH": 70,
+    "INTELLIGENCE": 50
+  },
+  "dungeon_item_conversion_cost": {
+    "essence_type": "SPIDER",
+    "amount": 20
+  },
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 10
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 15
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 25
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "SPIDER",
+        "amount": 30
+      }
+    ]
+  ],
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "spider",
+      "level": 4
+    }
+  ],
+  "catacombs_requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 16
+    }
+  ],
+  "id": "TARANTULA_BOOTS"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "CARROT_ITEM",
+  "name": "Organic Carrot",
+  "npc_sell_price": 1,
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "id": "ORGANIC_CARROT_ITEM"
+}

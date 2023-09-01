@@ -1,0 +1,13 @@
+{
+  "material": "STONE_HOE",
+  "name": "Turing Sugar Cane Hoe",
+  "category": "HOE",
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 15
+    }
+  ],
+  "id": "THEORETICAL_HOE_CANE_1"
+}

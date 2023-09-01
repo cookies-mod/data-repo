@@ -1,0 +1,8 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YTYyZjEzMWI3NTA4NjZjOGRlMmJmYzdlMjM0OThmYmI1ZmQyMTMwOWFhZTY3NTM0YmRjMmY2OWZjZTE3ZTg2In19fQ\u003d\u003d",
+  "name": "Weapon Rack+",
+  "furniture": "BEST_WEAPON_RACK",
+  "id": "BEST_WEAPON_RACK"
+}

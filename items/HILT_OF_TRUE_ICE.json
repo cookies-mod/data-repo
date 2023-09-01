@@ -1,0 +1,14 @@
+{
+  "material": "ICE",
+  "name": "Hilt of True Ice",
+  "glowing": true,
+  "tier": "LEGENDARY",
+  "salvages": [
+    {
+      "type": "ESSENCE",
+      "essence_type": "ICE",
+      "amount": 50
+    }
+  ],
+  "id": "HILT_OF_TRUE_ICE"
+}

@@ -1,0 +1,8 @@
+{
+  "material": "PUMPKIN",
+  "name": "Enchanted Pumpkin",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1600,
+  "id": "ENCHANTED_PUMPKIN"
+}

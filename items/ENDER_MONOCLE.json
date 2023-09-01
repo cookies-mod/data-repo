@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MDAyODMzMjY3MiwKICAicHJvZmlsZUlkIiA6ICI5ZWEyMTQ0NGFiNjI0MWZkYjg5YjE2NDFhNDg2MGZiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICI3QUJDSE9VTiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iODQ0NDIyNGFmMmNkNGE1ZDM5MDlkYjc3MmM3ZDBjOTViMTIxNmMzYWMwMTlmNGEwZTdjZGJiOGYwN2Y0MThmIgogICAgfQogIH0KfQ",
+  "name": "Ender Monocle",
+  "category": "REFORGE_STONE",
+  "tier": "RARE",
+  "npc_sell_price": 1,
+  "id": "ENDER_MONOCLE"
+}

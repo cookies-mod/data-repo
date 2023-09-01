@@ -1,0 +1,15 @@
+{
+  "material": "DIAMOND_PICKAXE",
+  "name": "Self-Recursive Pickaxe",
+  "tier": "RARE",
+  "motes_sell_price": 25,
+  "category": "SWORD",
+  "origin": "RIFT",
+  "stats": {
+    "rift_damage": 5
+  },
+  "item_specific": {
+    "mana_refund": 4
+  },
+  "id": "SELF_RECURSIVE_PICKAXE"
+}

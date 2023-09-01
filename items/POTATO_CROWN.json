@@ -1,0 +1,11 @@
+{
+  "material": "GOLD_HELMET",
+  "name": "Potato Crown",
+  "category": "HELMET",
+  "tier": "LEGENDARY",
+  "stats": {
+    "WALK_SPEED": 1
+  },
+  "museum": true,
+  "id": "POTATO_CROWN"
+}

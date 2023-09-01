@@ -1,0 +1,17 @@
+{
+  "material": "DIAMOND_SPADE",
+  "name": "Aspect of the Void",
+  "category": "SWORD",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 120,
+    "STRENGTH": 100
+  },
+  "npc_sell_price": 56000,
+  "gemstone_slots": [
+    {
+      "slot_type": "SAPPHIRE"
+    }
+  ],
+  "id": "ASPECT_OF_THE_VOID"
+}

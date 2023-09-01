@@ -1,0 +1,10 @@
+{
+  "material": "STICK",
+  "name": "Test Rift Wand",
+  "category": "WAND",
+  "tier": "RARE",
+  "stats": {
+    "RIFT_DAMAGE": 20
+  },
+  "id": "TEST_WAND_WEAPON"
+}

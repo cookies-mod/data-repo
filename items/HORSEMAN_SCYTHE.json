@@ -1,0 +1,10 @@
+{
+  "material": "DIAMOND_HOE",
+  "name": "Horseman\u0027s Scythe",
+  "category": "SWORD",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DAMAGE": 100
+  },
+  "id": "HORSEMAN_SCYTHE"
+}

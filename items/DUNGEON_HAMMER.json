@@ -1,0 +1,11 @@
+{
+  "material": "IRON_AXE",
+  "name": "Hammer",
+  "category": "AXE",
+  "stats": {
+    "DAMAGE": 75
+  },
+  "npc_sell_price": 1,
+  "dungeon_item": true,
+  "id": "DUNGEON_HAMMER"
+}

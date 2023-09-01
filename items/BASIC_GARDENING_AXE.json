@@ -1,0 +1,18 @@
+{
+  "material": "IRON_AXE",
+  "name": "Basic Gardening Axe",
+  "category": "AXE",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 100,
+  "stats": {
+    "FARMING_FORTUNE": 5
+  },
+  "requirements": [
+    {
+      "type": "GARDEN_LEVEL",
+      "level": 4
+    }
+  ],
+  "id": "BASIC_GARDENING_AXE",
+  "can_be_reforged": true
+}

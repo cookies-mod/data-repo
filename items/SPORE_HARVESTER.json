@@ -1,0 +1,9 @@
+{
+  "material": "IRON_AXE",
+  "name": "Spore Harvester",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "category": "HOE",
+  "npc_sell_price": 50,
+  "id": "SPORE_HARVESTER"
+}

@@ -1,0 +1,20 @@
+{
+  "material": "PRISMARINE_SHARD",
+  "name": "Mithril Drill SX-R226",
+  "glowing": true,
+  "category": "DRILL",
+  "tier": "RARE",
+  "stats": {
+    "BREAKING_POWER": 5,
+    "DAMAGE": 65,
+    "MINING_SPEED": 450
+  },
+  "npc_sell_price": 7000,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 3
+    }
+  ],
+  "id": "MITHRIL_DRILL_1"
+}

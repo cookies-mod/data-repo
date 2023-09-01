@@ -1,0 +1,16 @@
+{
+  "material": "CHEST",
+  "name": "Medium Storage",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1200,
+  "id": "MEDIUM_ENCHANTED_CHEST",
+  "description": [
+    {"text":"Place this chest next to a","color":"gray"},
+    {"text":"minion and the minion will store","color":"gray"},
+    {"text":"items inside once its storage is","color":"gray"},
+    {"text":"full!","color":"gray"},
+    {"text":""},
+    {"text":"Storage space: ","color":"gray","extra":[{"text":"9 ","color":"aqua"},{"text":"items","color":"gray"}]},
+    {"text":""}
+  ]
+}

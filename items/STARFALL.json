@@ -1,0 +1,8 @@
+{
+  "material": "NETHER_STAR",
+  "name": "Starfall",
+  "tier": "RARE",
+  "npc_sell_price": 15,
+  "description": "%%gray%%%%italic%%No one knows how and when the Starfall appeared. All we know is that it was already there when the Dwarves discovered the cavern.",
+  "id": "STARFALL"
+}

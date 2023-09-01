@@ -1,0 +1,19 @@
+{
+  "material": "CHAINMAIL_LEGGINGS",
+  "name": "Mercenary Leggings",
+  "category": "LEGGINGS",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 60,
+    "HEALTH": 60
+  },
+  "npc_sell_price": 15000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 8
+    }
+  ],
+  "id": "MERCENARY_LEGGINGS"
+}

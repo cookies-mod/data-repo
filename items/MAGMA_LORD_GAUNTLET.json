@@ -1,0 +1,24 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MDM3OTExMjUxMywKICAicHJvZmlsZUlkIiA6ICJkOGNkMTNjZGRmNGU0Y2IzODJmYWZiYWIwOGIyNzQ4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJaYWNoeVphY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY4YTJiZmU2ZTU2ZGRlYTEwM2RlOGNlYzAwMGVmYTgzZWJiOWE5NTljNjhkODI0MDI1NDNjMDFkNDEzN2QyNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+  "name": "Magma Lord Gauntlet",
+  "category": "GLOVES",
+  "tier": "EPIC",
+  "npc_sell_price": 93750,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 45
+    }
+  ],
+  "stats": {
+    "STRENGTH": 10,
+    "CRITICAL_DAMAGE": 30,
+    "HEALTH": 35,
+    "FEROCITY": 2,
+    "SEA_CREATURE_CHANCE": 1.5
+  },
+  "id": "MAGMA_LORD_GAUNTLET"
+}

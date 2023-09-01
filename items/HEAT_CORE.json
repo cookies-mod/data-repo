@@ -1,0 +1,16 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTkzNTg3MDNhYjc3MjdkZjMzMjQzMzY5NjllODFkNmY5MmI3YWE3OWVkYjk2NmMwYmU5MWFiMTYxYmFkMWYwMSJ9fX0\u003d",
+  "name": "Heat Core",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "id": "HEAT_CORE",
+  "description": [
+    {"text":"Craft with ","color":"gray","extra":[{"text":"Enchanted Lava","color":"dark_purple"}]},
+    {"text":"Buckets ","color":"dark_purple","extra":[{"text":"to upgrade the minion","color":"gray"}]},
+    {"text":"speed bonus to ","color":"gray","extra":[{"text":"30% ","color":"green"},{"text":"and","color":"gray"}]},
+    {"text":"35%","color":"green","extra":[{"text":".","color":"gray"}]},
+    {"text":""}
+  ]
+}

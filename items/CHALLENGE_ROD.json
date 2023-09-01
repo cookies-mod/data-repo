@@ -1,0 +1,22 @@
+{
+  "material": "FISHING_ROD",
+  "name": "Challenging Rod",
+  "category": "FISHING_ROD",
+  "tier": "RARE",
+  "stats": {
+    "damage": 60,
+    "strength": 60,
+    "sea_creature_chance": 2,
+    "fishing_speed": 75
+  },
+  "npc_sell_price": 5000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 10
+    }
+  ],
+  "id": "CHALLENGE_ROD",
+  "can_be_reforged":true
+}

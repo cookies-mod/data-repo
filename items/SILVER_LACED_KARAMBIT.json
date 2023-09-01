@@ -1,0 +1,27 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Silver-Laced Karambit",
+  "tier": "EPIC",
+  "category": "SWORD",
+  "sword_type": "KARAMBIT",
+  "origin": "RIFT",
+  "stats": {
+    "rift_damage": 5,
+    "rift_walk_speed": 10
+  },
+  "item_specific": {
+    "mana_refund": 5,
+    "bonus_rift_damage_vs_vampire": 3
+  },
+  "id": "SILVER_LACED_KARAMBIT",
+  "description": [
+    {"text":""},
+    {"text":"Gain ","color":"gray","extra":[{"text":"+3\u2741 Rift Damage ","color":"dark_purple"},{"text":"against","color":"gray"}]},
+    {"text":"Vampires","color":"dark_red","extra":[{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"Regens ","color":"gray","extra":[{"text":"5 Mana ","color":"aqua"},{"text":"and ","color":"gray"},{"text":"0.5\u2764","color":"red"}]},
+    {"text":"on hit.","color":"gray"},
+    {"text":""},
+  ],
+  "can_be_reforged":true
+}

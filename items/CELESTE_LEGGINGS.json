@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "255,142,202",
+  "name": "Celeste Leggings",
+  "category": "LEGGINGS",
+  "tier": "UNCOMMON",
+  "stats": {
+    "DEFENSE": 15,
+    "INTELLIGENCE": 40,
+    "HEALTH": 15
+  },
+  "npc_sell_price": 3500,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 4
+    }
+  ],
+  "id": "CELESTE_LEGGINGS"
+}

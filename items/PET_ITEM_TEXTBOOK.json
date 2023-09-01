@@ -1,0 +1,8 @@
+{
+  "material": "BOOK",
+  "name": "Textbook",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "tier": "LEGENDARY",
+  "id": "PET_ITEM_TEXTBOOK"
+}

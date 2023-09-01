@@ -1,0 +1,21 @@
+{
+  "material": "IRON_BOOTS",
+  "name": "Golem Armor Boots",
+  "category": "BOOTS",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 40,
+    "HEALTH": 40
+  },
+  "npc_sell_price": 9600,
+  "id": "GOLEM_ARMOR_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {"text":""},
+    {"text":"Full Set Bonus: Absorption","color":"gold"},
+    {"text":"Grants the wearer ","color":"gray","extra":[{"text":"Absorption","color":"green"}]},
+    {"text":"3","color":"green","extra":[{"text":" for ","color":"gray"},{"text":"20 seconds","color":"green"},{"text":" when they","color":"gray"}]},
+    {"text":"kill an enemy.","color":"gray"},
+    {"text":""}
+  ]
+}

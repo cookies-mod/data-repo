@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "255,0,0",
+  "name": "Mushroom Chestplate",
+  "category": "CHESTPLATE",
+  "stats": {
+    "DEFENSE": 10,
+    "HEALTH": 10
+  },
+  "npc_sell_price": 16,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 7
+    }
+  ],
+  "id": "MUSHROOM_CHESTPLATE"
+}

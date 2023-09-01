@@ -1,0 +1,9 @@
+{
+  "material": "STAINED_GLASS",
+  "durability": 14,
+  "name": "Space Helmet",
+  "category": "HELMET",
+  "tier": "SPECIAL",
+  "museum": true,
+  "id": "DCTR_SPACE_HELM"
+}

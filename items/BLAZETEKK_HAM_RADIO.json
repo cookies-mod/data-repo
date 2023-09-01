@@ -1,0 +1,15 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTcwMDMyNTY4MiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTEzOTgzMDBkMDI1MTJhN2JlYmMwZjlkN2ExMmQ2N2NkZjg4NWM5MTQ0YjM4OTQ2OTQ0ZDllZjQyMDJjMzgzNiIKICAgIH0KICB9Cn0\u003d",
+  "name": "Blazetekk Ham Radio",
+  "tier": "LEGENDARY",
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "blaze",
+      "level": 6
+    }
+  ],
+  "id": "BLAZETEKK_HAM_RADIO"
+}

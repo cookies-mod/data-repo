@@ -1,0 +1,8 @@
+{
+  "material": "GREEN_RECORD",
+  "name": "Spooky Disc",
+  "tier": "RARE",
+  "npc_sell_price": 1,
+  "museum": true,
+  "id": "SPOOKY_DISC"
+}

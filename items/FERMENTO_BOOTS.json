@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "131,176,59",
+  "name": "Fermento Boots",
+  "tier": "LEGENDARY",
+  "category": "BOOTS",
+  "stats": {
+    "FARMING_FORTUNE": 30,
+    "walk_speed": 5,
+    "health": 130,
+    "defense": 40
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 40
+    }
+  ],
+  "id": "FERMENTO_BOOTS"
+}

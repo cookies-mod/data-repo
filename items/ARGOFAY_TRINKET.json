@@ -1,0 +1,13 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc2MWUyMzZkODYxZGI0YzhjNmFjMDc4MzgwN2RkMTlkNDQwYjUwYTIwM2QxYWI3MGZmMTg3YzYxZDRhNTE1OCJ9fX0\u003d",
+  "name": "Argofay Trinket",
+  "category": "ACCESSORY",
+  "tier": "EPIC",
+  "origin": "RIFT",
+  "stats": {
+    "RIFT_INTELLIGENCE": 2
+  },
+  "id": "ARGOFAY_TRINKET"
+}

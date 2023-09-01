@@ -1,0 +1,8 @@
+{
+  "material": "SEEDS",
+  "name": "Enchanted Seeds",
+  "tier": "UNCOMMON",
+  "glowing": true,
+  "npc_sell_price": 480,
+  "id": "ENCHANTED_SEEDS"
+}

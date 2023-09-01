@@ -1,0 +1,8 @@
+{
+  "material": "BAKED_POTATO",
+  "name": "Enchanted Baked Potato",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 76800,
+  "id": "ENCHANTED_BAKED_POTATO"
+}

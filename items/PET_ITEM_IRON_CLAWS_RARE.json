@@ -1,0 +1,8 @@
+{
+  "material": "IRON_INGOT",
+  "name": "Iron Claws",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "tier": "RARE",
+  "id": "PET_ITEM_IRON_CLAWS_RARE"
+}

@@ -1,0 +1,18 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTcwMDg1OTU1MSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGZmN2M0MTBhNGE4YjRiNTE4Yjk0ZDIxNDAyZDI4OTJmY2M4ZmE2OGMzMDI4NDE3ZGQ0ZWFhOGI3ZTM1YzU2OCIKICAgIH0KICB9Cn0\u003d",
+  "name": "Archfiend Dice",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "ARCHFIEND_DICE",
+  "description": [
+    {"text":"Ability: Try Your Luck ","color":"gold","extra":[{"text":" RIGHT CLICK","color":"yellow","bold":true}]},
+    {"text":"Costs ","color":"gray","extra":[{"text":"666k ","color":"gold"},{"text":"coins to roll between 1-6.","color":"gray"}]},
+    {"text":"Gain between ","color":"gray","extra":[{"text":"-120\u2764 ","color":"red"},{"text":"and ","color":"gray"},{"text":"+120\u2764 ","color":"red"},{"text":"for ","color":"gray"},{"text":"24h","color":"green"},{"text":".","color":"gray"}]},
+    {"text":"Overwritten by new rolls!","color":"dark_gray"},
+    {"text":""},
+    {"text":"If you roll a ","color":"gray","extra":[{"text":"6","color":"red"},{"text":", earn ","color":"gray"},{"text":"15M ","color":"gold"},{"text":"coins but lose this dice.","color":"gray"}]},
+    {"text":""}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "material": "GOLD_NUGGET",
+  "name": "Doubloon of the Family",
+  "tier": "RARE",
+  "npc_sell_price": 100000,
+  "rift_transferrable": true,
+  "origin": "RIFT",
+  "unstackable": true,
+  "glowing": true,
+  "id": "FAMILY_DOUBLOON"
+}

@@ -1,0 +1,12 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "0,255,0",
+  "name": "Emerald Armor Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 100
+  },
+  "npc_sell_price": 615000,
+  "id": "EMERALD_ARMOR_CHESTPLATE"
+}

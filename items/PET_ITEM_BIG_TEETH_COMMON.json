@@ -1,0 +1,18 @@
+{
+  "material": "GHAST_TEAR",
+  "name": "Big Teeth",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "id": "PET_ITEM_BIG_TEETH_COMMON",
+  "description": [
+    {"text": "Consumed on use", "color": "dark_gray"},
+    {"text": ""},
+    {"text": "Pet items can boost pets in", "color": "gray"},
+    {"text": "various ways but pets can only", "color": "gray"},
+    {"text": "hold 1 item at a time so choose", "color": "gray"},
+    {"text": "wisely!", "color": "gray"},
+    {"text": ""},
+    {"text": "Gives ", "color": "gray", "extra": [{"text": "+60\u2623 Crit Chance", "color": "blue"}, {"text": "."}]},
+    {"text": ""}
+  ]
+}

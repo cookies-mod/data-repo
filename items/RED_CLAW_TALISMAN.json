@@ -1,0 +1,20 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NzA1NDk5NDY3MTIsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMxN2I1MWUwODZmMjAxNDQ4YTRiNDViMGI5MWU5N2ZhZjRkMTczOTA3MTQ4MGJlNmQ1Y2FiMGEwNTQ1MTIxNjQifX19",
+  "name": "Red Claw Talisman",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "stats": {
+    "CRITICAL_DAMAGE": 1
+  },
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "wolf",
+      "level": 1
+    }
+  ],
+  "id": "RED_CLAW_TALISMAN",
+  "description": [{"text":""}]
+}

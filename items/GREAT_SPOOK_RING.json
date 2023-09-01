@@ -1,0 +1,11 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2Mzk1OTYyNTMwNSwKICAicHJvZmlsZUlkIiA6ICJmMTkyZGU3MDUzMTQ0ODcxOTAwMjQ1MmIzZWE3MzA3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZVhvU2V0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg1NjZiMGI3NWY5YTE3M2U4MTU1MDA3YmRjM2EzNDk5ODc0YjE3MzI3ZDk4NjQ1Y2RlNmQxMWEyMjU1NzUwYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+  "name": "Great Spook Ring",
+  "category": "ACCESSORY",
+  "tier": "UNCOMMON",
+  "npc_sell_price": 0,
+  "museum": true,
+  "id": "GREAT_SPOOK_RING"
+}

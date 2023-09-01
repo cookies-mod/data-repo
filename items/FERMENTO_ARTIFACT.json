@@ -1,0 +1,9 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3ODgyMjE4OTc2MCwKICAicHJvZmlsZUlkIiA6ICJmMTkyZGU3MDUzMTQ0ODcxOTAwMjQ1MmIzZWE3MzA3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZVhvU2V0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UxYWRkNzIzMWM5N2U3N2ExNjliZTc2NGE0MWY5ODFjYzlmNTQyYWE4YzZhMTMzNmQ4YmUyZDgxNzIxMWJiZmQiCiAgICB9CiAgfQp9",
+  "name": "Fermento Artifact",
+  "tier": "RARE",
+  "category": "ACCESSORY",
+  "id": "FERMENTO_ARTIFACT"
+}

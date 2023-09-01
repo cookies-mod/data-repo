@@ -1,0 +1,19 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "0,255,0",
+  "name": "Cactus Leggings",
+  "category": "LEGGINGS",
+  "stats": {
+    "DEFENSE": 20,
+    "HEALTH": 10
+  },
+  "npc_sell_price": 3,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 5
+    }
+  ],
+  "id": "CACTUS_LEGGINGS"
+}

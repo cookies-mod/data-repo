@@ -1,0 +1,8 @@
+{
+  "material": "WATCH",
+  "name": "Enchanted Clock",
+  "glowing": true,
+  "tier": "UNOBTAINABLE",
+  "npc_sell_price": 205000,
+  "id": "ENCHANTED_CLOCK"
+}

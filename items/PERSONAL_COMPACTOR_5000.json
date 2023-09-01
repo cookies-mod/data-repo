@@ -1,0 +1,9 @@
+{
+  "material": "DROPPER",
+  "name": "Personal Compactor 5000",
+  "glowing": true,
+  "category": "ACCESSORY",
+  "tier": "RARE",
+  "unstackable": true,
+  "id": "PERSONAL_COMPACTOR_5000"
+}

@@ -1,0 +1,14 @@
+{
+  "material": "pufferfish",
+  "durability": 3,
+  "name": "Experiment the Fish",
+  "glowing": true,
+  "tier": "SPECIAL",
+  "museum": true,
+  "id": "EXPERIMENT_THE_FISH",
+  "description": [
+    {"text":"Fish me once, shame on you. Fish","color":"gray"},
+    {"text":"me twice, shame on me.","color":"gray"},
+    {"text":""}
+  ]
+}

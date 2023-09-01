@@ -1,0 +1,29 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MDAyODM0NjAyNywKICAicHJvZmlsZUlkIiA6ICI4YjgyM2E1YmU0Njk0YjhiOTE0NmE5MWRhMjk4ZTViNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXBoaXRpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYTE1OWQ5YWMyZmRiMTY0ODU4YjYzNTBlMDNjMTkyNGYxN2U1YWE4NjExYTM0N2Q1NWI2Yjg5ODIwZmFmMDk0IgogICAgfQogIH0KfQ",
+  "name": "Obsidian Tablet",
+  "category": "POWER_STONE",
+  "tier": "RARE",
+  "npc_sell_price": 1,
+  "id": "OBSIDIAN_TABLET",
+  "description": [
+    {"text":"unlock the ","color":"gray","extra":[{"text":"Mythical ","color":"green"},{"text":"power.","color":"gray"}]},
+    {"text":""},
+    {"text":"At ","color":"gray","extra":[{"text":"250 Magical Power","color":"gold"},{"text":":","color":"gray"}]},
+    {"text":"+55\u2764 Health","color":"red"},
+    {"text":"+39\u2748 Defense","color":"green"},
+    {"text":"+9\u2726 Speed","color":"white"},
+    {"text":"+39\u2741 Strength","color":"red"},
+    {"text":"+59\u270e Intelligence","color":"aqua"},
+    {"text":"+16\u2623 Crit Chance","color":"blue"},
+    {"text":"+39\u2620 Crit Damage","color":"blue"},
+    {"text":""},
+    {"text":"Unique Power Bonus:","color":"gray"},
+    {"text":"+150\u2764 Health","color":"red"},
+    {"text":"+40\u2741 Strength","color":"red"},
+    {"text":""},
+    {"text":"Requires ","color":"gray","extra":[{"text":"Combat Skill Level XX","color":"green"},{"text":"!","color":"gray"}]},
+    {"text":""}
+  ]
+}

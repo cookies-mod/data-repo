@@ -1,0 +1,63 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "item_durability": -1,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWJiZTcyMWQ3YWQ4YWI5NjVmMDhjYmVjMGI4MzRmNzc5YjUxOTdmNzlkYTRhZWEzZDEzZDI1M2VjZTlkZWMyIn19fQ\u003d\u003d",
+  "name": "Spirit Mask",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "stats": {
+    "WALK_SPEED": 15,
+    "DEFENSE": 50,
+    "HEALTH": 100,
+    "INTELLIGENCE": 20
+  },
+  "npc_sell_price": 20000,
+  "upgrade_costs": [
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 50
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ESSENCE",
+        "essence_type": "WITHER",
+        "amount": 300
+      }
+    ]
+  ],
+  "gear_score": 20,
+  "requirements": [
+    {
+      "type": "DUNGEON_SKILL",
+      "dungeon_type": "CATACOMBS",
+      "level": 15
+    }
+  ],
+  "dungeon_item": true,
+  "id": "SPIRIT_MASK"
+}

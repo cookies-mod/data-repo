@@ -1,0 +1,8 @@
+{
+  "material": "INK_SACK",
+  "durability": 5,
+  "name": "Plasma Nucleus",
+  "tier": "LEGENDARY",
+  "unstackable": true,
+  "id": "PLASMA_NUCLEUS"
+}

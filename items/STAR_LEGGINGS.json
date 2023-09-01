@@ -1,0 +1,12 @@
+{
+  "material": "GOLD_LEGGINGS",
+  "name": "Leggings of the Stars",
+  "category": "LEGGINGS",
+  "tier": "UNOBTAINABLE",
+  "stats": {
+    "DEFENSE": 4000,
+    "HEALTH": 15000,
+    "INTELLIGENCE": 1500
+  },
+  "id": "STAR_LEGGINGS"
+}

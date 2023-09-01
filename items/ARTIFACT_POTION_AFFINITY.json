@@ -1,0 +1,17 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzcyNDY2NjAzYmFlOTA2M2NlN2Q5NDM1MTEwMzQ2OWJlY2EzYzVmZTJiMWU5NzdlNjQyN2RlZjM3Njk5ZWM5In19fQ\u003d\u003d",
+  "name": "Potion Affinity Artifact",
+  "category": "ACCESSORY",
+  "tier": "RARE",
+  "npc_sell_price": 64000,
+  "id": "ARTIFACT_POTION_AFFINITY",
+  "description": [
+    {"text":"Unique Effect: Potion Affinity","color":"yellow"},
+    {"text":"Increases the duration of any","color":"gray"},
+    {"text":"consumed Potion by ","color":"gray","extra":[{"text":"50%","color":"green"},{"text":" when","color":"gray"}]},
+    {"text":"held in your inventory.","color":"gray"},
+    {"text":""},
+  ]
+}

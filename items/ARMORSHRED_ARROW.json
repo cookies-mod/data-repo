@@ -1,0 +1,35 @@
+{
+  "material": "ARROW",
+  "name": "Armorshred Arrow",
+  "glowing": true,
+  "category": "ARROW",
+  "tier": "RARE",
+  "stats": {
+    "DAMAGE": 5
+  },
+  "npc_sell_price": 1,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "COMBAT",
+      "level": 22
+    },
+    {
+      "type": "COLLECTION",
+      "collection": "SAND",
+      "tier": 7
+    },
+    {
+      "type": "TARGET_PRACTICE",
+      "mode": "III"
+    }
+  ],
+  "id": "ARMORSHRED_ARROW",
+  "description": [
+    {"text":""},
+    {"text":"Passive: Defense Reduction","color":"gold"},
+    {"text":"Hits ignore ","color":"gray","extra":[{"text":"5% ","color":"green"},{"text":"of target's","color":"gray"}]},
+    {"text":"\u2748 Defense","color":"green","extra":[{"text":".","color":"gray"}]},
+    {"text":""}
+  ]
+}

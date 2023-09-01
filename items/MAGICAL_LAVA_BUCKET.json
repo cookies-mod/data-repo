@@ -1,0 +1,8 @@
+{
+  "material": "LAVA_BUCKET",
+  "name": "Magical Lava Bucket",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 30,
+  "id": "MAGICAL_LAVA_BUCKET"
+}

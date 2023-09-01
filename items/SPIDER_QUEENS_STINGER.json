@@ -1,0 +1,11 @@
+{
+  "material": "BOW",
+  "name": "Spider Queen\u0027s Stinger",
+  "category": "BOW",
+  "tier": "EPIC",
+  "stats": {
+    "DAMAGE": 360
+  },
+  "npc_sell_price": 5000,
+  "id": "SPIDER_QUEENS_STINGER"
+}

@@ -1,0 +1,12 @@
+{
+  "material": "GOLD_PICKAXE",
+  "name": "Golden Pickaxe",
+  "category": "PICKAXE",
+  "stats": {
+    "BREAKING_POWER": 1,
+    "DAMAGE": 15,
+    "MINING_SPEED": 250
+  },
+  "npc_sell_price": 6,
+  "id": "GOLD_PICKAXE"
+}

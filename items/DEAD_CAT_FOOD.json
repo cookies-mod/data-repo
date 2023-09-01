@@ -1,0 +1,9 @@
+{
+  "material": "COOKED_FISH",
+  "name": "Dead Cat Food",
+  "tier": "RARE",
+  "category": "PET_ITEM",
+  "rift_transferrable": true,
+  "origin": "RIFT",
+  "id": "DEAD_CAT_FOOD"
+}

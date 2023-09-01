@@ -1,0 +1,172 @@
+{
+  "material": "LEATHER_LEGGINGS",
+  "color": "206,44,44",
+  "name": "Moogma Leggings",
+  "category": "LEGGINGS",
+  "tier": "RARE",
+  "stats": {
+    "HEALTH": 190,
+    "DEFENSE": 160,
+    "CRITICAL_DAMAGE": 15,
+    "SEA_CREATURE_CHANCE": 3
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 28
+    }
+  ],
+  "npc_sell_price": 10000,
+  "can_have_attributes": true,
+  "salvages": [
+    {
+      "type": "ESSENCE",
+      "essence_type": "CRIMSON",
+      "amount": 20
+    }
+  ],
+  "upgrade_costs": [
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MOOGMA_PELT",
+        "amount": 10
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 20
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MOOGMA_PELT",
+        "amount": 20
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 40
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MOOGMA_PELT",
+        "amount": 30
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 60
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MOOGMA_PELT",
+        "amount": 40
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 80
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MOOGMA_PELT",
+        "amount": 50
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 100
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MOOGMA_PELT",
+        "amount": 60
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 150
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MOOGMA_PELT",
+        "amount": 70
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 200
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MOOGMA_PELT",
+        "amount": 80
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 3
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 250
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MOOGMA_PELT",
+        "amount": 90
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 4
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 300
+      }
+    ],
+    [
+      {
+        "type": "ITEM",
+        "item_id": "MOOGMA_PELT",
+        "amount": 100
+      },
+      {
+        "type": "ITEM",
+        "item_id": "HEAVY_PEARL",
+        "amount": 5
+      },
+      {
+        "type": "ESSENCE",
+        "essence_type": "CRIMSON",
+        "amount": 350
+      }
+    ]
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMETHYST"
+    }
+  ],
+  "id": "MOOGMA_LEGGINGS"
+}

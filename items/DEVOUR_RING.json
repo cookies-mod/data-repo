@@ -1,0 +1,16 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjE1NjgzNDkwODM1MTksInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhhN2QxYTUyZThjOGRkYWFmMGM0MjhlMWZlNDkwMWVmMzNlZmYyNTFmMjg5ZGUyNzE2Mzk1Y2FkMjBiZjMwOWIifX19",
+  "name": "Devour Ring",
+  "category": "ACCESSORY",
+  "tier": "RARE",
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "zombie",
+      "level": 5
+    }
+  ],
+  "id": "DEVOUR_RING"
+}

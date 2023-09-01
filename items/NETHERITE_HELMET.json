@@ -1,0 +1,18 @@
+{
+  "material": "CHAINMAIL_HELMET",
+  "name": "Netherite Helmet",
+  "category": "HELMET",
+  "tier": "EPIC",
+  "stats": {
+    "DEFENSE": 40,
+    "HEALTH": 40,
+    "MINING_FORTUNE": 10,
+    "MINING_SPEED": 25
+  },
+  "soulbound": "COOP",
+  "salvage": {
+    "item_id": "FIRE_SOUL",
+    "amount": 12
+  },
+  "id": "NETHERITE_HELMET"
+}

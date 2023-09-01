@@ -1,0 +1,14 @@
+{
+  "material": "IRON_SWORD",
+  "name": "Golem Sword",
+  "category": "SWORD",
+  "tier": "RARE",
+  "stats": {
+    "DEFENSE": 25,
+    "DAMAGE": 80,
+    "STRENGTH": 125,
+    "WEAPON_ABILITY_DAMAGE": 250
+  },
+  "npc_sell_price": 77000,
+  "id": "GOLEM_SWORD"
+}

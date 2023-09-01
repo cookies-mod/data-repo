@@ -1,0 +1,21 @@
+{
+  "material": "LEATHER_BOOTS",
+  "color": "137,158,32",
+  "name": "Melon Boots",
+  "tier": "UNCOMMON",
+  "category": "BOOTS",
+  "stats": {
+    "FARMING_FORTUNE": 15,
+    "walk_speed": 2,
+    "health": 100,
+    "defense": 25
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 25
+    }
+  ],
+  "id": "MELON_BOOTS"
+}

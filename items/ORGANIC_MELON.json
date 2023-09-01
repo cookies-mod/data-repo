@@ -1,0 +1,8 @@
+{
+  "material": "MELON",
+  "name": "Organic Melon",
+  "npc_sell_price": 0.5,
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "id": "ORGANIC_MELON"
+}

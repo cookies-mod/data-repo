@@ -1,0 +1,10 @@
+{
+  "material": "FEATHER",
+  "name": "Editor\u0027s Pencil",
+  "glowing": true,
+  "tier": "VERY_SPECIAL",
+  "unstackable": true,
+  "soulbound": "COOP",
+  "museum": true,
+  "id": "EDITOR_PENCIL"
+}

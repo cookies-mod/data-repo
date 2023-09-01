@@ -1,0 +1,8 @@
+{
+  "material": "YELLOW_FLOWER",
+  "name": "Exp Share",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "tier": "EPIC",
+  "id": "PET_ITEM_EXP_SHARE"
+}

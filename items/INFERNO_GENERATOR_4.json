@@ -1,0 +1,105 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTY0NTg1MDU4MywKICAicHJvZmlsZUlkIiA6ICI4ODBiZWMwYTE0MmM0YzRlYTJlZjliMTFiMTBkNWNiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmZ2FiIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzYWJlYzE0YWNiYzQ5Mzg5NTJmYjU5ODZjYjE0NTgzNDg0Y2NiN2RlNjJkMWI5YzJiNDExOTZhOTg3NmMzY2UiCiAgICB9CiAgfQp9",
+  "name": "Inferno Minion IV",
+  "generator": "INFERNO",
+  "generator_tier": 4,
+  "tier": "RARE",
+  "id": "INFERNO_GENERATOR_4",
+  "description": [
+    {
+      "text": "Place this minion and it will",
+      "color": "gray"
+    },
+    {
+      "text": "start generating and slaying",
+      "color": "gray"
+    },
+    {
+      "text": "Infernals! Minions also work",
+      "color": "gray"
+    },
+    {
+      "text": "when you are offline!",
+      "color": "gray"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Ability: Rising Celsius",
+      "color": "gold"
+    },
+    {
+      "text": "Each Inferno minion increases",
+      "color": "gray"
+    },
+    {
+      "text": "the speed of ALL Inferno minions",
+      "color": "gray"
+    },
+    {
+      "text": "by ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "18%",
+          "color": "green"
+        },
+        {
+          "text": ", up to ",
+          "color": "gray"
+        },
+        {
+          "text": "180%",
+          "color": "green"
+        },
+        {
+          "text": ".",
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Time Between Actions: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "999",
+          "color": "green"
+        },
+        {
+          "text": "s",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "text": "Max Storage: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "384",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "text": "Resources Generated: ",
+      "color": "gray",
+      "extra": [
+        {
+          "text": "0",
+          "color": "aqua"
+        }
+      ]
+    },
+    {
+      "text": ""
+    }
+  ]
+}

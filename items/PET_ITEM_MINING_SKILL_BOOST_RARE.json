@@ -1,0 +1,8 @@
+{
+  "material": "IRON_PICKAXE",
+  "name": "Mining Exp Boost",
+  "glowing": true,
+  "category": "PET_ITEM",
+  "tier": "RARE",
+  "id": "PET_ITEM_MINING_SKILL_BOOST_RARE"
+}

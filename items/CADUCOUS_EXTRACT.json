@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjJjNmI1N2IyZDBlNzc4YjEzOWViY2Q1MTg4MTZlNGJkMGFlYWVjZGFhMDk0NGJiM2ZlZjZmZjdlMWYzZDJmMSJ9fX0\u003d",
+  "name": "Caducous Extract",
+  "tier": "UNCOMMON",
+  "origin": "RIFT",
+  "description": "Bundling what bees find attractive together in an industrial production process is definitely what nature planned.",
+  "id": "CADUCOUS_EXTRACT"
+}

@@ -1,0 +1,9 @@
+{
+  "material": "TRAP_DOOR",
+  "name": "Berberis Fuel Injector",
+  "tier": "RARE",
+  "rift_transferrable": true,
+  "glowing": true,
+  "origin": "RIFT",
+  "id": "BERBERIS_FUEL_INJECTOR"
+}

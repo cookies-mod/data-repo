@@ -1,0 +1,8 @@
+{
+  "material": "SUGAR_CANE",
+  "name": "Enchanted Sugar Cane",
+  "glowing": true,
+  "tier": "RARE",
+  "npc_sell_price": 102400,
+  "id": "ENCHANTED_SUGAR_CANE"
+}

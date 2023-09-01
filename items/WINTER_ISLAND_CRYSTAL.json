@@ -1,0 +1,19 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTI2NWY5NmY1NGI3ODg4NWM0NmU3ZDJmODZiMWMxZGJmZTY0M2M2MDYwZmM3ZmNjOTgzNGMzZTNmZDU5NTEzNSJ9fX0\u003d",
+  "name": "Winter Crystal",
+  "crystal": "WINTER_ISLAND",
+  "tier": "RARE",
+  "id": "WINTER_ISLAND_CRYSTAL",
+  "description": [
+    {"text":"Can be placed on your private","color":"gray"},
+    {"text":"island. Increases the speed of","color":"gray"},
+    {"text":"nearby snow minions by ","color":"gray","extra":[{"text":"5%","color":"green"},{"text":",","color":"gray"}]},
+    {"text":"and once every SkyBlock year a","color":"gray"},
+    {"text":"present spawns on the island.","color":"gray"},
+    {"text":""},
+    {"text":"Effective Radius: ","color":"gray","extra":[{"text":"16","color":"aqua"}]},
+    {"text":""}
+  ]
+}

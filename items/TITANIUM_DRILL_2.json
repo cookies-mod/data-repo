@@ -1,0 +1,26 @@
+{
+  "material": "PRISMARINE_SHARD",
+  "name": "Titanium Drill DR-X455",
+  "glowing": true,
+  "category": "DRILL",
+  "tier": "EPIC",
+  "stats": {
+    "BREAKING_POWER": 8,
+    "DAMAGE": 75,
+    "MINING_FORTUNE": 40,
+    "MINING_SPEED": 900
+  },
+  "npc_sell_price": 103200,
+  "requirements": [
+    {
+      "type": "HEART_OF_THE_MOUNTAIN",
+      "tier": 5
+    }
+  ],
+  "gemstone_slots": [
+    {
+      "slot_type": "AMBER"
+    }
+  ],
+  "id": "TITANIUM_DRILL_2"
+}

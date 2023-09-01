@@ -1,0 +1,19 @@
+{
+  "material": "GOLD_CHESTPLATE",
+  "name": "Diver\u0027s Shirt",
+  "category": "CHESTPLATE",
+  "tier": "LEGENDARY",
+  "stats": {
+    "DEFENSE": 200,
+    "HEALTH": 100
+  },
+  "npc_sell_price": 20000,
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FISHING",
+      "level": 20
+    }
+  ],
+  "id": "DIVER_CHESTPLATE"
+}

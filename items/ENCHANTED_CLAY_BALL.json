@@ -1,0 +1,8 @@
+{
+  "material": "CLAY_BALL",
+  "name": "Enchanted Clay",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 480,
+  "id": "ENCHANTED_CLAY_BALL"
+}

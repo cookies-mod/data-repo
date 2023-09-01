@@ -1,0 +1,15 @@
+{
+  "material": "STICK",
+  "name": "Wand of Restoration",
+  "glowing": true,
+  "category": "WAND",
+  "tier": "EPIC",
+  "requirements": [
+    {
+      "type": "SLAYER",
+      "slayer_boss_type": "zombie",
+      "level": 6
+    }
+  ],
+  "id": "WAND_OF_RESTORATION"
+}

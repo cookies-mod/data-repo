@@ -1,0 +1,8 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82Zjc2MzFhYjdlYjQ5NDFhZDFjMDM4OWQ0ZDA1MWYwOTE4Mjg4YTUyYWRmMGRmNzBhMjc5MTgzYTIyYjEyNTc3In19fQ\u003d\u003d",
+  "name": "Zombie Grave",
+  "furniture": "ZOMBIE_GRAVE",
+  "id": "ZOMBIE_GRAVE"
+}

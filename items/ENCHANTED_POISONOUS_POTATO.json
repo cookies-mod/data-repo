@@ -1,0 +1,8 @@
+{
+  "material": "POISONOUS_POTATO",
+  "name": "Enchanted Poisonous Potato",
+  "glowing": true,
+  "tier": "UNCOMMON",
+  "npc_sell_price": 1600,
+  "id": "ENCHANTED_POISONOUS_POTATO"
+}

@@ -1,0 +1,24 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "203,210,219",
+  "name": "Rabbit Chestplate",
+  "category": "CHESTPLATE",
+  "stats": {
+    "FARMING_FORTUNE": 15
+  },
+  "requirements": [
+    {
+      "type": "SKILL",
+      "skill": "FARMING",
+      "level": 15
+    }
+  ],
+  "id": "RABBIT_CHESTPLATE",
+  "description": [
+    {"text":"Full Set Bonus: Bonus Farming Fortune","color":"gold"},
+    {"text":"Increses ", "color": "gray", "extra": [{"text": "\u2618 Farming Fortune", "color":"gold"}]},
+    {"text":"by ", "color": "gray", "extra": [{"text": "+10", "color":"green"},{"text": "."}]},
+    {"text":""}
+  ],
+  "can_be_reforged": true
+}

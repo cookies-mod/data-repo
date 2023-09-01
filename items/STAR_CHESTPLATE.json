@@ -1,0 +1,12 @@
+{
+  "material": "GOLD_CHESTPLATE",
+  "name": "Chestplate of the Stars",
+  "category": "CHESTPLATE",
+  "tier": "UNOBTAINABLE",
+  "stats": {
+    "DEFENSE": 5000,
+    "HEALTH": 20000,
+    "INTELLIGENCE": 2000
+  },
+  "id": "STAR_CHESTPLATE"
+}

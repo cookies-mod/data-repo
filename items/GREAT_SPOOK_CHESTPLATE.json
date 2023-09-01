@@ -1,0 +1,10 @@
+{
+  "material": "LEATHER_CHESTPLATE",
+  "color": "153,51,153",
+  "name": "Great Spook Chestplate",
+  "category": "CHESTPLATE",
+  "tier": "EPIC",
+  "museum": true,
+  "npc_sell_price": 0,
+  "id": "GREAT_SPOOK_CHESTPLATE"
+}

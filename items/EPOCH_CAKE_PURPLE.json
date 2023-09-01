@@ -1,0 +1,10 @@
+{
+  "material": "player_head",
+  "durability": 3,
+  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNDQ2MzE4Mzk3NiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjVkOTI0M2M2MWUyYzNlMWUwZjk5MzE4NDNjYWRiZDBkZmY0YTY0NjIyNWVmNTRjNTU3OTc5Y2YzOWJiMjA1NyIKICAgIH0KICB9Cn0\u003d",
+  "name": "Streamer\u0027s Century Cake",
+  "furniture": "EPOCH_CAKE_PURPLE",
+  "tier": "EPIC",
+  "museum": true,
+  "id": "EPOCH_CAKE_PURPLE"
+}

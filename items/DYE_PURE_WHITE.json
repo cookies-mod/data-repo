@@ -1,0 +1,8 @@
+{
+  "material": "INK_SACK",
+  "durability": 15,
+  "name": "Pure White Dye",
+  "tier": "EPIC",
+  "unstackable": true,
+  "id": "DYE_PURE_WHITE"
+}
