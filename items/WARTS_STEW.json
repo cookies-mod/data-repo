@@ -1,7 +1,15 @@
 {
   "material": "RABBIT_STEW",
-  "name": "§cMushroom \u0026 Warts Stew",
-  "description": "%%gray%%%%italic%%Made with love, and an array of slightly more questionable ingredients.",
+  "name": "\u00a7cMushroom \u0026 Warts Stew",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Quest item"
+    },
+    {
+      "text": ""
+    }
+  ],
   "tier": "RARE",
   "soulbound": "COOP",
   "id": "WARTS_STEW"

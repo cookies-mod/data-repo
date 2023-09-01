@@ -5,5 +5,44 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 320,
-  "id": "ENCHANTED_CHARCOAL"
+  "id": "ENCHANTED_CHARCOAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Increases the speed of"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "your minion by "
+        },
+        {
+          "color": "green",
+          "text": "20%"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for 36 hours"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

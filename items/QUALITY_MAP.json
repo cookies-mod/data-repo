@@ -1,9 +1,30 @@
 {
-  "material": "EMPTY_MAP",
+  "material": "MAP",
   "name": "Quality Map",
   "glowing": true,
   "tier": "SPECIAL",
   "npc_sell_price": 1337,
   "museum": true,
-  "id": "QUALITY_MAP"
+  "id": "QUALITY_MAP",
+  "description": [
+    {
+      "color": "gray",
+      "text": "It took motivation, skills, effort"
+    },
+    {
+      "color": "gray",
+      "text": "and a lot of love and caring to"
+    },
+    {
+      "color": "gray",
+      "text": "create this map. By far the best"
+    },
+    {
+      "color": "gray",
+      "text": "quality on the market!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

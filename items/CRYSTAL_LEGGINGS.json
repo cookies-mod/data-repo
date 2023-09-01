@@ -9,5 +9,71 @@
     "INTELLIGENCE": 100
   },
   "npc_sell_price": 3500,
-  "id": "CRYSTAL_LEGGINGS"
+  "id": "CRYSTAL_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Refraction"
+    },
+    {
+      "color": "gray",
+      "text": "The stats of this armor change"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "from "
+        },
+        {
+          "color": "green",
+          "text": "0"
+        },
+        {
+          "color": "gray",
+          "text": " to "
+        },
+        {
+          "color": "green",
+          "text": "200%"
+        },
+        {
+          "color": "gray",
+          "text": " depending"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "on the current light level."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Current Light Level"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "15"
+        },
+        {
+          "color": "dark_gray",
+          "text": " (200.0%)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

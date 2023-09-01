@@ -5,7 +5,38 @@
   "name": "Bezos",
   "tier": "RARE",
   "npc_sell_price": 200,
-  "description": "%%gray%%%%italic%%The surface is strangely cool and smooth. Often used as a ball in many sports due to its bouncy nature.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "The surface is strangely"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "cool and smooth. Often used as a"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "ball in many sports due to its"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "bouncy nature."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "soulbound": "COOP",
   "id": "BEZOS"
 }

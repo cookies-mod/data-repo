@@ -1,8 +1,21 @@
 {
-  "material": "EXP_BOTTLE",
+  "material": "EXPERIENCE_BOTTLE",
   "name": "Titanic Experience Bottle",
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 5000,
-  "id": "TITANIC_EXP_BOTTLE"
+  "id": "TITANIC_EXP_BOTTLE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Smash it open to receive"
+    },
+    {
+      "color": "gray",
+      "text": "experience!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

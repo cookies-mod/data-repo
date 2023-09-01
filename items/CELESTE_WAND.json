@@ -14,5 +14,71 @@
       "level": 4
     }
   ],
-  "id": "CELESTE_WAND"
+  "id": "CELESTE_WAND",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Lightning Strike "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Strikes lightning up to "
+        },
+        {
+          "color": "white",
+          "text": "10"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "white",
+          "text": "blocks "
+        },
+        {
+          "color": "gray",
+          "text": "away, dealing "
+        },
+        {
+          "color": "red",
+          "text": "237.6"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "damage to the nearest monster."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "70"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

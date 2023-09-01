@@ -5,5 +5,26 @@
   "name": "Game Annihilator",
   "tier": "VERY_SPECIAL",
   "museum": true,
-  "id": "GAME_ANNIHILATOR"
+  "id": "GAME_ANNIHILATOR",
+  "description": [
+    {
+      "color": "gray",
+      "text": "This item was given to a player"
+    },
+    {
+      "color": "gray",
+      "text": "who reported enough game"
+    },
+    {
+      "color": "gray",
+      "text": "breaking bugs to make the"
+    },
+    {
+      "color": "gray",
+      "text": "SkyBlock developers cry."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

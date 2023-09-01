@@ -5,5 +5,27 @@
   "name": "Intimidation Artifact",
   "category": "ACCESSORY",
   "tier": "RARE",
-  "id": "INTIMIDATION_ARTIFACT"
+  "id": "INTIMIDATION_ARTIFACT",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Monsters at or below Level "
+        },
+        {
+          "color": "green",
+          "text": "25"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "will no longer target you."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -5,5 +5,71 @@
   "name": "Viking\u0027s Tear",
   "tier": "RARE",
   "unstackable": true,
-  "id": "VIKING_TEAR"
+  "id": "VIKING_TEAR",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Basic Brew"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Use this item in place of"
+    },
+    {
+      "color": "gray",
+      "text": "an Awkward Potion for"
+    },
+    {
+      "color": "gray",
+      "text": "certain potions."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Experience potions:"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+20% "
+        },
+        {
+          "color": "gray",
+          "text": "experience orbs."
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_aqua",
+          "text": "+10\u262f Combat Wisdom"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "+10\u2764 "
+        },
+        {
+          "color": "gray",
+          "text": "per second."
+        }
+      ],
+      "text": " "
+    },
+    {
+      "text": ""
+    }
+  ]
 }

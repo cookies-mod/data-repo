@@ -1,5 +1,5 @@
 {
-  "material": "WOOD_AXE",
+  "material": "WOODen_AXE",
   "name": "Mushroom Cow Axe",
   "category": "AXE",
   "tier": "UNCOMMON",
@@ -10,5 +10,52 @@
       "level": 15
     }
   ],
-  "id": "MUSHROOM_COW_AXE"
+  "id": "MUSHROOM_COW_AXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Mooshroom Specialist"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Killing a "
+        },
+        {
+          "color": "light_purple",
+          "text": "Mooshroom "
+        },
+        {
+          "color": "gray",
+          "text": "increases"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "its drops by "
+        },
+        {
+          "color": "green",
+          "text": "2x"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

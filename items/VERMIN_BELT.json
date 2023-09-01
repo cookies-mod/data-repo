@@ -11,5 +11,43 @@
     "rift_walk_speed": 4,
     "rift_intelligence": 10
   },
-  "id": "VERMIN_BELT"
+  "id": "VERMIN_BELT",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Monster melee attacks reduce "
+        },
+        {
+          "color": "green",
+          "text": "1"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "less "
+        },
+        {
+          "color": "green",
+          "text": "\u0444 Rift Time"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

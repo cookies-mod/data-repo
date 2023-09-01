@@ -1,9 +1,96 @@
 {
-  "material": "INK_SACK",
+  "material": "bone_meal",
   "durability": 15,
   "glowing": true,
   "name": "Full-Jaw Fanging Kit",
   "tier": "RARE",
   "category": "REFORGE_STONE",
-  "id": "FULL_JAW_FANGING_KIT"
+  "id": "FULL_JAW_FANGING_KIT",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Fanged "
+        },
+        {
+          "color": "gray",
+          "text": "reforge"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "when combined with an IRON"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "sword"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Fangs! Very menacing."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XIII"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

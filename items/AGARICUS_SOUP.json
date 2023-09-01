@@ -7,5 +7,55 @@
     "speed_duration_seconds": 60,
     "cooldown_seconds": 60
   },
-  "id": "AGARICUS_SOUP"
+  "id": "AGARICUS_SOUP",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Consume to gain "
+        },
+        {
+          "color": "white",
+          "text": "Speed I "
+        },
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "green",
+          "text": "60s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "60s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to consume!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

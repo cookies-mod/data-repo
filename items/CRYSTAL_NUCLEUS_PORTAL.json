@@ -18,5 +18,59 @@
       }
     }
   },
-  "id": "CRYSTAL_NUCLEUS_PORTAL"
+  "id": "CRYSTAL_NUCLEUS_PORTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Placing this item on your"
+    },
+    {
+      "color": "gray",
+      "text": "private island will create a"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "portal to "
+        },
+        {
+          "color": "aqua",
+          "text": "the Crytsal"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Nucleus"
+        },
+        {
+          "color": "gray",
+          "text": " for you to use"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "whenever you want!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "The portal will spawn facing"
+    },
+    {
+      "color": "dark_gray",
+      "text": "you on the block you click on."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

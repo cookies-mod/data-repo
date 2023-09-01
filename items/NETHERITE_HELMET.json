@@ -1,5 +1,6 @@
 {
-  "material": "CHAINMAIL_HELMET",
+  "material": "NETHERITE_HELMET",
+  "tier": "UNOBTAINABLE",
   "name": "Netherite Helmet",
   "category": "HELMET",
   "tier": "EPIC",
@@ -14,5 +15,6 @@
     "item_id": "FIRE_SOUL",
     "amount": 12
   },
-  "id": "NETHERITE_HELMET"
+  "id": "NETHERITE_HELMET",
+  "can_be_reforged": true
 }

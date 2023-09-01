@@ -18,5 +18,35 @@
     "DEFENSE": 10
   },
   "soulbound": "COOP",
-  "id": "ENDER_GAUNTLET"
+  "id": "ENDER_GAUNTLET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "All stats on this piece of"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "equipment are multiplied by "
+        },
+        {
+          "color": "dark_purple",
+          "text": "2x"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "while on the End Island!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

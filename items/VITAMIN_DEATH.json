@@ -6,5 +6,142 @@
   "category": "REFORGE_STONE",
   "tier": "LEGENDARY",
   "npc_sell_price": 1,
-  "id": "VITAMIN_DEATH"
+  "id": "VITAMIN_DEATH",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Power Stone"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Combine "
+        },
+        {
+          "color": "green",
+          "text": "9x "
+        },
+        {
+          "color": "gray",
+          "text": "of this stone at the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Thaumaturgist "
+        },
+        {
+          "color": "gray",
+          "text": "to permanently"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "unlock the "
+        },
+        {
+          "color": "green",
+          "text": "Healthy "
+        },
+        {
+          "color": "gray",
+          "text": "power."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "At "
+        },
+        {
+          "obfuscated": true,
+          "color": "gold",
+          "text": "1,000"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "gold",
+          "text": "Magical Power"
+        },
+        {
+          "color": "gray",
+          "text": ":"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "1,086\u2764"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "red",
+          "text": "Health"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Unique Power Bonus:"
+    },
+    {
+      "color": "red",
+      "text": "+200\u2764 Health"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Combat Skill Level XXX"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

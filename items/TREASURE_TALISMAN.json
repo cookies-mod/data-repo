@@ -7,5 +7,38 @@
   "tier": "RARE",
   "npc_sell_price": 1000,
   "dungeon_item": true,
-  "id": "TREASURE_TALISMAN"
+  "id": "TREASURE_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+1% "
+        },
+        {
+          "color": "gray",
+          "text": "extra loot to end"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "of dungeon chests."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

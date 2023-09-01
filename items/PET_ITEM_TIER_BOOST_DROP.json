@@ -1,7 +1,27 @@
 {
-  "material": "INK_SACK",
+  "material": "RED_DYE",
   "durability": 1,
   "name": "Tier Boost Core",
   "tier": "LEGENDARY",
-  "id": "PET_ITEM_TIER_BOOST_DROP"
+  "id": "PET_ITEM_TIER_BOOST_DROP",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Used to craft the Tier Boost"
+    },
+    {
+      "color": "gray",
+      "text": "pet item."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

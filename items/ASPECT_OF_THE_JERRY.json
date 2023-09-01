@@ -1,10 +1,50 @@
 {
-  "material": "WOOD_SWORD",
+  "material": "WOODen_SWORD",
   "name": "Aspect of the Jerry",
   "category": "SWORD",
   "stats": {
     "DAMAGE": 1
   },
   "museum": true,
-  "id": "ASPECT_OF_THE_JERRY"
+  "id": "ASPECT_OF_THE_JERRY",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Parley "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Channel your inner Jerry."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "5s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

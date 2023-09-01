@@ -4,5 +4,73 @@
   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTQ2NjY1MiwKICAicHJvZmlsZUlkIiA6ICI2MWVhMDkyM2FhNDQ0OTEwYmNlZjViZmQ2ZDNjMGQ1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVEYXJ0aEZhdGhlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMzYyMzUyMWM4MTExYWQyOWU5ZGNmN2FjYzU2MDg1YTlhYjA3ZGE3MzJkMTUxODk3NmFlZTYxZDBiM2UzYmQ2IgogICAgfQogIH0KfQ",
   "name": "Flawless Amethyst Gemstone",
   "tier": "EPIC",
-  "id": "FLAWLESS_AMETHYST_GEM"
+  "id": "FLAWLESS_AMETHYST_GEM",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A near perfect version of"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Amethyst"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Some say that when "
+        },
+        {
+          "color": "yellow",
+          "text": "harnessed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "properly"
+        },
+        {
+          "color": "gray",
+          "text": ", it can give its"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "owner extra "
+        },
+        {
+          "color": "green",
+          "text": "\u2748 Defense"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -2,5 +2,11 @@
   "material": "MUTTON",
   "name": "Mutton",
   "npc_sell_price": 5,
-  "id": "MUTTON"
+  "id": "MUTTON",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

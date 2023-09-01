@@ -2,5 +2,11 @@
   "material": "GHAST_TEAR",
   "name": "Ghast Tear",
   "npc_sell_price": 16,
-  "id": "GHAST_TEAR"
+  "id": "GHAST_TEAR",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

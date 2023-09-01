@@ -91,5 +91,72 @@
       ]
     }
   },
-  "id": "RIFT_NECKLACE_OUTSIDE"
+  "id": "RIFT_NECKLACE_OUTSIDE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "A very powerful piece of"
+    },
+    {
+      "color": "gray",
+      "text": "equipment originating from the"
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "text": "Rift Dimension"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Becomes more powerful as you"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "fill the "
+        },
+        {
+          "color": "light_purple",
+          "text": "Rift Gallery"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Secured: "
+        },
+        {
+          "color": "red",
+          "text": "3/8 Timecharms"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -18,5 +18,16 @@
       }
     }
   },
-  "id": "WASTELAND_PORTAL"
+  "id": "WASTELAND_PORTAL",
+  "description": [
+    {"text":"Placing this item on your","color":"gray"},
+    {"text":"private island will create a","color":"gray"},
+    {"text":"portal to ","color":"gray","extra":[{"text":"the Kuudra Passage","color":"aqua"}]},
+    {"text":"for you to use whenever you","color":"gray"},
+    {"text":"want!","color":"gray"},
+    {"text":""},
+    {"text":"The portal will spawn facing","color":"dark_gray"},
+    {"text":"you on the block you click on.","color":"dark_gray"},
+    {"text":""}
+  ]
 }

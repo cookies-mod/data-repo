@@ -10,5 +10,10 @@
     "HEALTH": 10,
     "PET_LUCK": 1
   },
-  "id": "JACOBUS_REGISTER"
+  "id": "JACOBUS_REGISTER",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

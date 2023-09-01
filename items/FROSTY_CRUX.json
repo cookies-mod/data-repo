@@ -5,7 +5,22 @@
   "name": "Frosty Crux",
   "tier": "UNCOMMON",
   "origin": "RIFT",
-  "description": "The illest of the chillest.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "The illest of the chillest."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "motes_sell_price": 100,
   "id": "FROSTY_CRUX"
 }

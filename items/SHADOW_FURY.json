@@ -73,5 +73,138 @@
       ]
     }
   ],
-  "id": "SHADOW_FURY"
+  "id": "SHADOW_FURY",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+300 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+300)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Strength: "
+        },
+        {
+          "color": "red",
+          "text": "+130 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+130)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Crit Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+30% "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+30%)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Speed: "
+        },
+        {
+          "color": "green",
+          "text": "+30 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+30)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Shadow Fury "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Rapidly teleports you to up to"
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "enemies within "
+        },
+        {
+          "color": "yellow",
+          "text": "10"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "blocks, rooting each of them"
+    },
+    {
+      "color": "gray",
+      "text": "and allowing you to hit them."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "15s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

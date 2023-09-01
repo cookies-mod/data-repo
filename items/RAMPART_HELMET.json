@@ -249,5 +249,82 @@
       }
     ]
   ],
-  "id": "RAMPART_HELMET"
+  "id": "RAMPART_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "red",
+          "text": "+50\u2764 Health"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "red",
+          "text": "+20\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Strength"
+        },
+        {
+          "color": "gray",
+          "text": ", and "
+        },
+        {
+          "color": "blue",
+          "text": "+15\u2620 Crit"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Damage "
+        },
+        {
+          "color": "gray",
+          "text": "while on the "
+        },
+        {
+          "color": "red",
+          "text": "Crimson"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Isle"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

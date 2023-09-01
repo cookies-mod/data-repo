@@ -155,5 +155,31 @@
       }
     ]
   ],
-  "id": "DOJO_BLUE_BELT"
+  "id": "DOJO_BLUE_BELT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Reduces damage taken by "
+        },
+        {
+          "color": "red",
+          "text": "4%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

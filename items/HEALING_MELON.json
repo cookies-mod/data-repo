@@ -1,5 +1,5 @@
 {
-  "material": "SPECKLED_MELON",
+  "material": "glistering_melon_slice",
   "name": "Healing Melon",
   "tier": "UNCOMMON",
   "motes_sell_price": 5,
@@ -9,5 +9,54 @@
     "heal": 7,
     "mana_cost": 50
   },
-  "id": "HEALING_MELON"
+  "id": "HEALING_MELON",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Succulence "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Take a bite and heal "
+        },
+        {
+          "color": "red",
+          "text": "7\u2764"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "50"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

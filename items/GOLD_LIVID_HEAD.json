@@ -49,5 +49,97 @@
   ],
   "dungeon_item": true,
   "museum": true,
-  "id": "GOLD_LIVID_HEAD"
+  "id": "GOLD_LIVID_HEAD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Obtained from killing "
+        },
+        {
+          "color": "red",
+          "text": "Livid"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in "
+        },
+        {
+          "color": "red",
+          "text": "The Catacombs "
+        },
+        {
+          "color": "gray",
+          "text": "lots of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "times. Grants "
+        },
+        {
+          "color": "green",
+          "text": "2x "
+        },
+        {
+          "color": "gray",
+          "text": "stats on"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "The Catacombs Floor V"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Strongly believes he will"
+    },
+    {
+      "color": "dark_gray",
+      "text": "become the Lord one day. Subject"
+    },
+    {
+      "color": "dark_gray",
+      "text": "of mockeries, even from his"
+    },
+    {
+      "color": "dark_gray",
+      "text": "disciples."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 700000 / 700000"
+    }
+  ]
 }

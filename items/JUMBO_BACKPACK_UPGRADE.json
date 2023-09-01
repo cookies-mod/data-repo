@@ -5,5 +5,60 @@
   "name": "Jumbo Backpack Upgrade",
   "glowing": true,
   "tier": "SPECIAL",
-  "id": "JUMBO_BACKPACK_UPGRADE"
+  "id": "JUMBO_BACKPACK_UPGRADE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Craft with a "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Greater Backpack"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to upgrade it to "
+        },
+        {
+          "color": "green",
+          "text": "45 "
+        },
+        {
+          "color": "gray",
+          "text": "slots."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "4,000 Bits"
+    }
+  ]
 }

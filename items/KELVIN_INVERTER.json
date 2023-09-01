@@ -5,5 +5,25 @@
   "name": "Kelvin Inverter",
   "tier": "RARE",
   "npc_sell_price": 100000,
-  "id": "KELVIN_INVERTER"
+  "id": "KELVIN_INVERTER",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Drops rarely from the Inferno"
+    },
+    {
+      "color": "gray",
+      "text": "Demonlord."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

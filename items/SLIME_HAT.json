@@ -9,5 +9,22 @@
   },
   "npc_sell_price": 20,
   "museum": true,
-  "id": "SLIME_HAT"
+  "id": "SLIME_HAT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Grants immunity to knockback"
+    },
+    {
+      "color": "gray",
+      "text": "from mobs."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

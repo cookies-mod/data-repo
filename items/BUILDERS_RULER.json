@@ -4,5 +4,102 @@
   "glowing": true,
   "tier": "LEGENDARY",
   "unstackable": true,
-  "id": "BUILDERS_RULER"
+  "id": "BUILDERS_RULER",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Area Planner "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Right-Click the top of a block"
+    },
+    {
+      "color": "gray",
+      "text": "to place a line of blocks."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Organised Builder "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "SNEAK RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Sneak Right-Click a block to"
+    },
+    {
+      "color": "gray",
+      "text": "collect all blocks in a line."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Built-in Storage "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "LEFT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Opens the ruler storage. Blocks"
+    },
+    {
+      "color": "gray",
+      "text": "will be placed from your"
+    },
+    {
+      "color": "gray",
+      "text": "inventory or the ruler storage."
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "red",
+      "text": "20 Copper"
+    }
+  ]
 }

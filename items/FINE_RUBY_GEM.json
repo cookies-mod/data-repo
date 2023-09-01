@@ -5,5 +5,77 @@
   "name": "Fine Ruby Gemstone",
   "tier": "RARE",
   "npc_sell_price": 19200,
-  "id": "FINE_RUBY_GEM"
+  "id": "FINE_RUBY_GEM",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "A type of "
+        },
+        {
+          "color": "red",
+          "text": "Ruby "
+        },
+        {
+          "color": "gray",
+          "text": "that has"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "clearly been treated with care."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Some say that when "
+        },
+        {
+          "color": "yellow",
+          "text": "harnessed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "properly"
+        },
+        {
+          "color": "gray",
+          "text": ", it can give its"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "owner extra "
+        },
+        {
+          "color": "red",
+          "text": "\u2764 Health"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -12,5 +12,11 @@
     "health_regeneration": 1,
     "fishing_speed": 8
   },
-  "id": "FINWAVE_GLOVES"
+  "id": "FINWAVE_GLOVES",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

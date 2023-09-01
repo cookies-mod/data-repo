@@ -6,5 +6,153 @@
   "category": "REFORGE_STONE",
   "tier": "EPIC",
   "npc_sell_price": 1,
-  "id": "PRECIOUS_PEARL"
+  "id": "PRECIOUS_PEARL",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Power Stone"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Combine "
+        },
+        {
+          "color": "green",
+          "text": "9x "
+        },
+        {
+          "color": "gray",
+          "text": "of this stone at the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Thaumaturgist "
+        },
+        {
+          "color": "gray",
+          "text": "to permanently"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "unlock the "
+        },
+        {
+          "color": "green",
+          "text": "Pleasant "
+        },
+        {
+          "color": "gray",
+          "text": "power."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "At "
+        },
+        {
+          "obfuscated": true,
+          "color": "gold",
+          "text": "1,000"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "gold",
+          "text": "Magical Power"
+        },
+        {
+          "color": "gray",
+          "text": ":"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "434\u2764"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "red",
+          "text": "Health"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "465\u2748"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "green",
+          "text": "Defense"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Combat Skill Level XXV"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

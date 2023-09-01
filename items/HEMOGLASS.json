@@ -8,5 +8,27 @@
   "npc_sell_price": 16000,
   "rift_transferrable": true,
   "origin": "RIFT",
-  "id": "HEMOGLASS"
+  "id": "HEMOGLASS",
+  "description": [
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

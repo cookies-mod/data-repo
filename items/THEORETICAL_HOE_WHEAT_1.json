@@ -9,5 +9,81 @@
       "level": 15
     }
   ],
-  "id": "THEORETICAL_HOE_WHEAT_1"
+  "id": "THEORETICAL_HOE_WHEAT_1",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Harvest "
+        },
+        {
+          "color": "green",
+          "text": "+10% wheat "
+        },
+        {
+          "color": "gray",
+          "text": "and gain"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_aqua",
+          "text": "+1\u262f Farming Wisdom "
+        },
+        {
+          "color": "gray",
+          "text": "while"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "harvesting wheat"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Counter: "
+        },
+        {
+          "color": "yellow",
+          "text": "0 Wheat"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Reach 100k Counter for +1 Rarity!"
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

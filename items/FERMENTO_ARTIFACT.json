@@ -5,5 +5,40 @@
   "name": "Fermento Artifact",
   "tier": "RARE",
   "category": "ACCESSORY",
-  "id": "FERMENTO_ARTIFACT"
+  "id": "FERMENTO_ARTIFACT",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "gold",
+          "text": "+30\u2618 Farming Fortune"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "when breaking "
+        },
+        {
+          "color": "green",
+          "text": "any crops"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

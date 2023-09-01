@@ -5,5 +5,106 @@
   "name": "Health Enrichment",
   "glowing": true,
   "tier": "SPECIAL",
-  "id": "TALISMAN_ENRICHMENT_HEALTH"
+  "id": "TALISMAN_ENRICHMENT_HEALTH",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Enriches an accessory with the"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "power of "
+        },
+        {
+          "color": "red",
+          "text": "+3\u2764 Health "
+        },
+        {
+          "color": "gray",
+          "text": "when"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "applied to a "
+        },
+        {
+          "color": "gold",
+          "text": "legendary "
+        },
+        {
+          "color": "gray",
+          "text": "or"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "text": "mythic "
+        },
+        {
+          "color": "gray",
+          "text": "accessory."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Only "
+        },
+        {
+          "bold": true,
+          "color": "gray",
+          "text": "ONE "
+        },
+        {
+          "color": "gray",
+          "text": "enrichment can be"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "applied to a given accessory."
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "5,000 Bits"
+    }
+  ]
 }

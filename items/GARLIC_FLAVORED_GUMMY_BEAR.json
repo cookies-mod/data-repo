@@ -7,5 +7,44 @@
   "motes_sell_price": 4000,
   "category": "ACCESSORY",
   "origin": "RIFT",
-  "id": "GARLIC_FLAVORED_GUMMY_BEAR"
+  "id": "GARLIC_FLAVORED_GUMMY_BEAR",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+3 Combat Exp "
+        },
+        {
+          "color": "gray",
+          "text": "from mob"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "kills in the "
+        },
+        {
+          "color": "light_purple",
+          "text": "Rift"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

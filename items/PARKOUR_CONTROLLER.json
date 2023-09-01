@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_PLATE",
+  "material": "light_weighted_pressure_plate",
   "name": "Parkour Start/End",
   "requirements": [
     {
@@ -8,5 +8,18 @@
       "level": 1
     }
   ],
-  "id": "PARKOUR_CONTROLLER"
+  "id": "PARKOUR_CONTROLLER",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Create the start/end of parkour"
+    },
+    {
+      "color": "gray",
+      "text": "courses on your private island!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_SWORD",
+  "material": "GOLDEN_SWORD",
   "name": "Hyper Cleaver",
   "category": "SWORD",
   "tier": "EPIC",
@@ -55,5 +55,119 @@
     }
   ],
   "dungeon_item": true,
-  "id": "HYPER_CLEAVER"
+  "id": "HYPER_CLEAVER",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gear Score: "
+        },
+        {
+          "color": "light_purple",
+          "text": "285 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(1130)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+175 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+733.25)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Strength: "
+        },
+        {
+          "color": "red",
+          "text": "+50 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+209.5)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Crit Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+50% "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+209.5%)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Cleave"
+    },
+    {
+      "color": "gray",
+      "text": "When hitting an entity, monsters"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in a "
+        },
+        {
+          "color": "green",
+          "text": "4"
+        },
+        {
+          "color": "gray",
+          "text": " block range will be"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "hit for a portion of that damage"
+    },
+    {
+      "color": "gray",
+      "text": "too."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

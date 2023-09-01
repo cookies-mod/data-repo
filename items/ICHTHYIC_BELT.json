@@ -11,5 +11,11 @@
     "health": 12,
     "fishing_speed": 4
   },
-  "id": "ICHTHYIC_BELT"
+  "id": "ICHTHYIC_BELT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

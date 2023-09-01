@@ -1,5 +1,5 @@
 {
-  "material": "JUNGLE_DOOR_ITEM",
+  "material": "JUNGLE_DOOR",
   "name": "Jungle Door",
   "npc_sell_price": 1,
   "id": "JUNGLE_DOOR_ITEM"

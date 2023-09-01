@@ -4,6 +4,21 @@
   "tier": "RARE",
   "origin": "RIFT",
   "motes_sell_price": 10,
-  "description": "One could say it\u0027s... ice cold.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "One could say it\u0027s... ice cold."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "FROZEN_WATER"
 }

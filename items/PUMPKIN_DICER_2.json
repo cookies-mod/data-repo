@@ -1,8 +1,92 @@
 {
-  "material": "GOLD_AXE",
+  "material": "GOLDEN_AXE",
   "name": "Pumpkin Dicer 2.0",
-  "description": "%%italic%%Someone once said, 2 is always better than 1!",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+7.5\u262f Farming Wisdom"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "while harvesting pumpkins"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Roll em\u0027"
+    },
+    {
+      "color": "gray",
+      "text": "Every pumpkin you break, you"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "make a wish to "
+        },
+        {
+          "color": "light_purple",
+          "text": "RNGesus"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "which may grant you with a"
+    },
+    {
+      "color": "gray",
+      "text": "few or TONS of extra"
+    },
+    {
+      "color": "gray",
+      "text": "pumpkins!"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Someone once said, 2 is always"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "better than 1!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "category": "AXE",
   "tier": "EPIC",
-  "id": "PUMPKIN_DICER_2"
+  "id": "PUMPKIN_DICER_2",
+  "can_be_reforged": true
 }

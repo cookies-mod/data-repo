@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_LEGGINGS",
+  "material": "GOLDEN_LEGGINGS",
   "name": "Diver\u0027s Trunks",
   "category": "LEGGINGS",
   "tier": "LEGENDARY",
@@ -15,5 +15,52 @@
       "level": 20
     }
   ],
-  "id": "DIVER_LEGGINGS"
+  "id": "DIVER_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: One with the Fish"
+    },
+    {
+      "color": "gray",
+      "text": "While touching water you move"
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "incredibly fast"
+        },
+        {
+          "color": "gray",
+          "text": " and can"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "breathe "
+        },
+        {
+          "color": "blue",
+          "text": "permanently (sneak to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "blue",
+      "text": "slow down)."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -4,5 +4,180 @@
   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODI0ODMxMzQ5OSwKICAicHJvZmlsZUlkIiA6ICJjOTAzOGQzZjRiMTg0M2JiYjUwNTU5ZGE3MWFjMTk2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUQk5SY29vbGNhdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYzhiMTVlODVlZDIyNWMyMWMzMjM2N2RhN2JlMjQ0Nzc5ZTM2YWZlN2Y3NTYzYTZhNTcwYTcxN2NiNWJlMWIxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
   "name": "Prehistoric Egg",
   "unstackable": true,
-  "id": "PREHISTORIC_EGG"
+  "id": "PREHISTORIC_EGG",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "After "
+        },
+        {
+          "color": "aqua",
+          "text": "walking "
+        },
+        {
+          "color": "gray",
+          "text": "a certain amount of blocks,"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "has a "
+        },
+        {
+          "color": "green",
+          "text": "chance "
+        },
+        {
+          "color": "gray",
+          "text": "to spawn an "
+        },
+        {
+          "color": "white",
+          "text": "Armadillo"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "4000"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "green",
+          "text": "50% "
+        },
+        {
+          "color": "gray",
+          "text": "for a "
+        },
+        {
+          "color": "white",
+          "text": "Common Armadillo!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "10000"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "green",
+          "text": "50% "
+        },
+        {
+          "color": "gray",
+          "text": "for an "
+        },
+        {
+          "color": "green",
+          "text": "Uncommon Armadillo!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "20000"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "green",
+          "text": "50% "
+        },
+        {
+          "color": "gray",
+          "text": "for a "
+        },
+        {
+          "color": "blue",
+          "text": "Rare Armadillo!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "40000"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "green",
+          "text": "50% "
+        },
+        {
+          "color": "gray",
+          "text": "for an "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Epic Armadillo!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "100000"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "green",
+          "text": "100% "
+        },
+        {
+          "color": "gray",
+          "text": "for a "
+        },
+        {
+          "color": "gold",
+          "text": "Legendary Armadillo!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

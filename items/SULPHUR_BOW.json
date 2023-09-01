@@ -209,5 +209,65 @@
       "slot_type": "COMBAT"
     }
   ],
-  "id": "SULPHUR_BOW"
+  "id": "SULPHUR_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Consumes 1 "
+        },
+        {
+          "color": "gold",
+          "text": "Sulphur"
+        },
+        {
+          "color": "gray",
+          "text": " from the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "Inventory "
+        },
+        {
+          "color": "gray",
+          "text": "or "
+        },
+        {
+          "color": "green",
+          "text": "Quiver "
+        },
+        {
+          "color": "gray",
+          "text": "to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "double"
+        },
+        {
+          "color": "gray",
+          "text": " the damage per shot."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

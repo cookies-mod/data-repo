@@ -6,5 +6,79 @@
   "category": "ACCESSORY",
   "tier": "EPIC",
   "soulbound": "COOP",
-  "id": "WEDDING_RING_8"
+  "id": "WEDDING_RING_8",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Grants a 1 in 1,000 chance"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to deal "
+        },
+        {
+          "color": "red",
+          "text": "+100% "
+        },
+        {
+          "color": "gray",
+          "text": "damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "True love is tough to find,"
+    },
+    {
+      "color": "dark_gray",
+      "text": "but finding it hits you hard!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Requires quest progress!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_purple",
+      "extra": [
+        {
+          "bold": true,
+          "text": "1x Flower Minion"
+        }
+      ],
+      "text": "Requires "
+    },
+    {
+      "extra": [
+        {
+          "bold": true,
+          "color": "dark_gray",
+          "text": "(Any Level) "
+        },
+        {
+          "color": "dark_purple",
+          "text": "to upgrade!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

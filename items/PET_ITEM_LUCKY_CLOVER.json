@@ -1,8 +1,67 @@
 {
-  "material": "WATER_LILY",
+  "material": "LILY_PAD",
   "name": "Lucky Clover",
   "glowing": true,
   "category": "PET_ITEM",
   "tier": "EPIC",
-  "id": "PET_ITEM_LUCKY_CLOVER"
+  "id": "PET_ITEM_LUCKY_CLOVER",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Consumed on use"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Pet items can boost pets in"
+    },
+    {
+      "color": "gray",
+      "text": "various ways but pets can only"
+    },
+    {
+      "color": "gray",
+      "text": "hold 1 item at a time so choose"
+    },
+    {
+      "color": "gray",
+      "text": "wisely!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "aqua",
+          "text": "+7\u272f Magic Find"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click on your summoned"
+    },
+    {
+      "color": "yellow",
+      "text": "pet to give it this item!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

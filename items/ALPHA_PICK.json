@@ -1,5 +1,5 @@
 {
-  "material": "WOOD_PICKAXE",
+  "material": "WOODEN_PICKAXE",
   "name": "Pioneer Pickaxe",
   "glowing": true,
   "category": "PICKAXE",
@@ -8,7 +8,30 @@
     "BREAKING_POWER": 1,
     "MINING_SPEED": 1
   },
-  "description": "%%gray%%%%italic%%The very first pickaxe model! Invented by the famous Thomas Pickson.",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "The very first pickaxe"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "model! Invented by the famous"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Thomas Pickson."
+    },
+    {
+      "text": ""
+    }
+  ],
   "museum": true,
-  "id": "ALPHA_PICK"
+  "id": "ALPHA_PICK",
+  "can_be_reforged": true
 }

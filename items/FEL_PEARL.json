@@ -3,5 +3,14 @@
   "name": "Fel Pearl",
   "tier": "RARE",
   "dungeon_item": true,
-  "id": "FEL_PEARL"
+  "id": "FEL_PEARL",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -9,5 +9,62 @@
     "INTELLIGENCE": 50
   },
   "npc_sell_price": 80,
-  "id": "MAGMA_FISH_HAT"
+  "id": "MAGMA_FISH_HAT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Splash "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "SNEAK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Crouch to splash some magma"
+    },
+    {
+      "color": "gray",
+      "text": "around."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "20"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "1s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

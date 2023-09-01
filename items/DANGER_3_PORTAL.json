@@ -19,5 +19,50 @@
       }
     }
   },
-  "id": "DANGER_3_PORTAL"
+  "id": "DANGER_3_PORTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Placing this item on your"
+    },
+    {
+      "color": "gray",
+      "text": "private island will create a"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "portal to "
+        },
+        {
+          "color": "light_purple",
+          "text": "The End"
+        },
+        {
+          "color": "gray",
+          "text": " for you"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "to use whenever you want!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "The portal will spawn facing"
+    },
+    {
+      "color": "dark_gray",
+      "text": "you on the block you click on."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -3,5 +3,102 @@
   "name": "Iron Claws",
   "glowing": true,
   "category": "PET_ITEM",
-  "id": "PET_ITEM_IRON_CLAWS_COMMON"
+  "id": "PET_ITEM_IRON_CLAWS_COMMON",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Consumed on use"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Pet items can boost pets in"
+    },
+    {
+      "color": "gray",
+      "text": "various ways but pets can only"
+    },
+    {
+      "color": "gray",
+      "text": "hold 1 item at a time so choose"
+    },
+    {
+      "color": "gray",
+      "text": "wisely!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Increases the pet\u0027s "
+        },
+        {
+          "color": "blue",
+          "text": "\u2620 Crit"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Damage "
+        },
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "40% "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "blue",
+          "text": "\u2623 Crit"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Chance "
+        },
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "40%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click on your summoned"
+    },
+    {
+      "color": "yellow",
+      "text": "pet to give it this item!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

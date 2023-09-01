@@ -6,5 +6,67 @@
   "category": "BAIT",
   "tier": "RARE",
   "npc_sell_price": 80,
-  "id": "WHALE_BAIT"
+  "id": "WHALE_BAIT",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Fishing Bait"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Consumes on Cast"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "aqua",
+          "text": "+30\u2602 Fishing Speed"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "increases your chance to get"
+    },
+    {
+      "color": "gray",
+      "text": "double drops from fishing by"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "10%"
+        },
+        {
+          "color": "gray",
+          "text": ", and increases your"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "chance to catch rare Sea"
+    },
+    {
+      "color": "gray",
+      "text": "Creatures."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -54,5 +54,52 @@
     }
   ],
   "dungeon_item": true,
-  "id": "MENDER_CROWN"
+  "id": "MENDER_CROWN",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+100\u2604 Mending "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "dark_red",
+          "text": "\u2668"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_red",
+          "text": "Vitality "
+        },
+        {
+          "color": "gray",
+          "text": "while in Dungeons."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

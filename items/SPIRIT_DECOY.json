@@ -6,5 +6,108 @@
   "category": "REFORGE_STONE",
   "tier": "RARE",
   "npc_sell_price": 1,
-  "id": "SPIRIT_DECOY"
+  "id": "SPIRIT_DECOY",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Spiritual"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "reforge when combined with a"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "bow"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "As light as a feather, and"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "you can almost see through it."
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Some people say looking at it"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "for too long can change your"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "personality."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XXIV"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

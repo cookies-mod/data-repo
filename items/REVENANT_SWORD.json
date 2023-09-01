@@ -63,5 +63,44 @@
       "level": 15
     }
   ],
-  "id": "REVENANT_SWORD"
+  "id": "REVENANT_SWORD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deals "
+        },
+        {
+          "color": "green",
+          "text": "+150% "
+        },
+        {
+          "color": "gray",
+          "text": "damage to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Zombies"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

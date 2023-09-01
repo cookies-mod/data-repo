@@ -75,5 +75,112 @@
       ]
     }
   ],
-  "id": "LIVID_DAGGER"
+  "id": "LIVID_DAGGER",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Crit Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+50% "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bonus Attack Speed: "
+        },
+        {
+          "color": "red",
+          "text": "+50%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Throw "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Throw your dagger at your"
+    },
+    {
+      "color": "gray",
+      "text": "enemies!"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "150"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "5s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Your Critical Hits deal "
+        },
+        {
+          "color": "blue",
+          "text": "100%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "more damage if you are behind"
+    },
+    {
+      "color": "gray",
+      "text": "your target."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

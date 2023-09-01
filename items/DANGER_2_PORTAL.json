@@ -16,5 +16,63 @@
       }
     }
   },
-  "id": "DANGER_2_PORTAL"
+  "id": "DANGER_2_PORTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Placing this item on your"
+    },
+    {
+      "color": "gray",
+      "text": "private island will create a"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "portal to "
+        },
+        {
+          "color": "gray",
+          "text": "the "
+        },
+        {
+          "color": "red",
+          "text": "Crimson"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Isle"
+        },
+        {
+          "color": "gray",
+          "text": " for you to use whenever"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "you want!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "The portal will spawn facing"
+    },
+    {
+      "color": "dark_gray",
+      "text": "you on the block you click on."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

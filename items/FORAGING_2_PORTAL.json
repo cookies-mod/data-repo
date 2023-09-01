@@ -18,5 +18,50 @@
       }
     }
   },
-  "id": "FORAGING_2_PORTAL"
+  "id": "FORAGING_2_PORTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Placing this item on your"
+    },
+    {
+      "color": "gray",
+      "text": "private island will create a"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "portal to "
+        },
+        {
+          "color": "green",
+          "text": "Spruce Woods"
+        },
+        {
+          "color": "gray",
+          "text": " for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "you to use whenever you want!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "The portal will spawn facing"
+    },
+    {
+      "color": "dark_gray",
+      "text": "you on the block you click on."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -3,5 +3,29 @@
   "name": "Ancient Claw",
   "tier": "RARE",
   "npc_sell_price": 200,
-  "id": "ANCIENT_CLAW"
+  "id": "ANCIENT_CLAW",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Drops rarely off of monsters"
+    },
+    {
+      "color": "gray",
+      "text": "from Diana\u0027s Mythological"
+    },
+    {
+      "color": "gray",
+      "text": "Ritual."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -3,5 +3,18 @@
   "name": "Bridge Egg",
   "glowing": true,
   "npc_sell_price": 10,
-  "id": "BRIDGE_EGG"
+  "id": "BRIDGE_EGG",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Creates a path of stone blocks"
+    },
+    {
+      "color": "gray",
+      "text": "as it travels through the air!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

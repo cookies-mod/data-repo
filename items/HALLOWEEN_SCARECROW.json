@@ -5,5 +5,42 @@
   "name": "Halloween Scarecrow",
   "furniture": "HALLOWEEN_SCARECROW",
   "tier": "RARE",
-  "id": "HALLOWEEN_SCARECROW"
+  "id": "HALLOWEEN_SCARECROW",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Halloween Cosmetic"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "This exclusive "
+        },
+        {
+          "color": "gold",
+          "text": "Halloween"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "cosmetic can be placed on your"
+    },
+    {
+      "color": "gray",
+      "text": "island or traded."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -5,5 +5,61 @@
   "name": "Red Thornleaf Tea",
   "unstackable": true,
   "tier": "RARE",
-  "id": "RED_THORNLEAF_TEA"
+  "id": "RED_THORNLEAF_TEA",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Basic Brew"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Use this item in place of"
+    },
+    {
+      "color": "gray",
+      "text": "an Awkward Potion for"
+    },
+    {
+      "color": "gray",
+      "text": "certain potions."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Added to Resistance potions."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Upon being hit, reflect "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "of the damage back to the"
+    },
+    {
+      "color": "gray",
+      "text": "attacker."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

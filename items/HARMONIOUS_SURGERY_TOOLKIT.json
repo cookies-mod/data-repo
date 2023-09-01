@@ -10,5 +10,42 @@
     "rift_walk_speed": 2,
     "rift_time": 10
   },
-  "id": "HARMONIOUS_SURGERY_TOOLKIT"
+  "id": "HARMONIOUS_SURGERY_TOOLKIT",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "If you touch a larva which"
+    },
+    {
+      "color": "gray",
+      "text": "another player touched, you both"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "gain "
+        },
+        {
+          "color": "white",
+          "text": "+1 Larva Silk "
+        },
+        {
+          "color": "gray",
+          "text": "once it"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "is harvested."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

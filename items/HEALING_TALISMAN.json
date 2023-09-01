@@ -8,5 +8,34 @@
   "stats": {
     "vitality": 5
   },
-  "id": "HEALING_TALISMAN"
+  "id": "HEALING_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "dark_red",
+          "text": "+5\u2668 Vitality"
+        },
+        {
+          "color": "gray",
+          "text": ", which"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "increases incoming healing."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

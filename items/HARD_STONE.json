@@ -2,6 +2,18 @@
   "material": "STONE",
   "name": "Hard Stone",
   "npc_sell_price": 1,
-  "description": "%%gray%%A condensed form of rock only found at extreme depths.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A condensed form of rock only"
+    },
+    {
+      "color": "gray",
+      "text": "found at extreme depths."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "HARD_STONE"
 }

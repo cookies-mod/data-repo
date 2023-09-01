@@ -6,5 +6,57 @@
   "npc_sell_price": 50,
   "tier": "UNCOMMON",
   "unstackable": true,
-  "id": "HOT_CHOCOLATE"
+  "id": "HOT_CHOCOLATE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "It\u0027s warm "
+        },
+        {
+          "color": "yellow",
+          "text": "chocolatey"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "goodness imbues you with the"
+    },
+    {
+      "color": "gray",
+      "text": "ability to overcome the heat"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "death of the "
+        },
+        {
+          "color": "gold",
+          "text": "Blazing"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Volcano"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

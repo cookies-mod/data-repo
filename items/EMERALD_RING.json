@@ -6,5 +6,27 @@
   "category": "ACCESSORY",
   "tier": "UNCOMMON",
   "npc_sell_price": 7600,
-  "id": "EMERALD_RING"
+  "id": "EMERALD_RING",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Get "
+        },
+        {
+          "color": "gold",
+          "text": "+1 coin "
+        },
+        {
+          "color": "gray",
+          "text": "every minute!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

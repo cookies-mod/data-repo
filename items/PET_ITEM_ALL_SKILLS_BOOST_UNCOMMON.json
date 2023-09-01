@@ -1,8 +1,23 @@
 {
   "material": "DIAMOND",
-  "name": "All Skills Exp Boost",
+  "name": "All Skills Exp Boost - Uncommon",
   "glowing": true,
   "category": "PET_ITEM",
-  "tier": "UNCOMMON",
-  "id": "PET_ITEM_ALL_SKILLS_BOOST_UNCOMMON"
+  "tier": "UNOBTAINABLE",
+  "id": "PET_ITEM_ALL_SKILLS_BOOST_UNCOMMON",
+  "description": [
+    {"text": "Consumed on use", "color": "dark_gray"},
+    {"text": ""},
+    {"text": "Pet items can boost pets in", "color": "gray"},
+    {"text": "various ways but pets can only", "color": "gray"},
+    {"text": "hold 1 item at a time so choose", "color": "gray"},
+    {"text": "wisely!", "color": "gray"},
+    {"text": ""},
+    {"text": "Gives ", "color": "gray", "extra": [{"text": "+", "color": "green"},{"text": "00", "color": "green","obfuscated":true},{"text": "%", "color": "green"},{"text": " pet exp for all"}]},
+    {"text": "skills.", "color": "gray"},
+    {"text": ""},
+    {"text": "WARNING!", "color": "red", "bold": true},
+    {"text": "This item is not obtainable, it does ONLY exist in the API.", "color": "red"},
+    {"text": ""}
+  ]
 }

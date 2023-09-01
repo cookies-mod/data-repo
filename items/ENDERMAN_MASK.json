@@ -13,5 +13,11 @@
   },
   "soulbound": "COOP",
   "npc_sell_price": 10,
-  "id": "ENDERMAN_MASK"
+  "id": "ENDERMAN_MASK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

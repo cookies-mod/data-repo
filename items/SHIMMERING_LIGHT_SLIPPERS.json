@@ -316,5 +316,52 @@
       "slot_type": "COMBAT"
     }
   ],
-  "id": "SHIMMERING_LIGHT_SLIPPERS"
+  "id": "SHIMMERING_LIGHT_SLIPPERS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Tiered Bonus: Shimmer (0/4)"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Increases all "
+        },
+        {
+          "color": "green",
+          "text": "Experience Orbs"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "gained from monsters and ores"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "200%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

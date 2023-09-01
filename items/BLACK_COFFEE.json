@@ -6,5 +6,53 @@
   "npc_sell_price": 50,
   "tier": "UNCOMMON",
   "unstackable": true,
-  "id": "BLACK_COFFEE"
+  "id": "BLACK_COFFEE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Basic Brew"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Use this item in place of"
+    },
+    {
+      "color": "gray",
+      "text": "an Awkward Potion for"
+    },
+    {
+      "color": "gray",
+      "text": "certain potions."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Adds "
+        },
+        {
+          "color": "white",
+          "text": "+12\u2726 Speed "
+        },
+        {
+          "color": "gray",
+          "text": "to potions"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "with that stat."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

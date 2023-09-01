@@ -10,5 +10,95 @@
     "WEAPON_ABILITY_DAMAGE": 250
   },
   "npc_sell_price": 77000,
-  "id": "GOLEM_SWORD"
+  "id": "GOLEM_SWORD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Defense: "
+        },
+        {
+          "color": "green",
+          "text": "+25"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Iron Punch "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Punch the ground, damaging"
+    },
+    {
+      "color": "gray",
+      "text": "enemies in a hexagon around you"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "green",
+          "text": "310"
+        },
+        {
+          "color": "gray",
+          "text": " base Magic Damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "70"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "3s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

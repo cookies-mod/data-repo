@@ -3,5 +3,47 @@
   "name": "Scavenged Diamond Axe",
   "glowing": true,
   "tier": "SPECIAL",
-  "id": "DWARVEN_DIAMOND_AXE"
+  "id": "DWARVEN_DIAMOND_AXE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Quest Item"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bring to the "
+        },
+        {
+          "color": "gold",
+          "text": "Keeper of Diamond"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in the "
+        },
+        {
+          "color": "dark_green",
+          "text": "Mines of Divan"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

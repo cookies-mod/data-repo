@@ -12,5 +12,112 @@
   "npc_sell_price": 90000,
   "rift_transferrable": true,
   "origin": "RIFT",
-  "id": "ENCHANTED_BOOK_BUNDLE_THE_ONE"
+  "id": "ENCHANTED_BOOK_BUNDLE_THE_ONE",
+  "description": [
+    {
+      "bold": true,
+      "color": "light_purple",
+      "text": "The One IV"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "red",
+          "text": "+0.5\u2764 Health "
+        },
+        {
+          "color": "gray",
+          "text": "and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "+0.1\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "per maxed out"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "collection. "
+        },
+        {
+          "color": "dark_gray",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "73"
+            }
+          ],
+          "text": "(You have "
+        },
+        {
+          "color": "dark_gray",
+          "text": ")."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Right-click to open this bundle"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "containing "
+        },
+        {
+          "color": "white",
+          "text": "1 "
+        },
+        {
+          "color": "gray",
+          "text": "enchanted book."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

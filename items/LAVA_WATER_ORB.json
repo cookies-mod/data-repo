@@ -5,6 +5,29 @@
   "name": "Lava Water Orb",
   "tier": "LEGENDARY",
   "npc_sell_price": 5000,
-  "description": "Extremely hot to the touch.\n\n%%dark_gray%%Shouldn\u0027t this be steam..?",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Extremely hot to the touch."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Shouldn\u0027t this be steam..?"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "LAVA_WATER_ORB"
 }

@@ -1,6 +1,52 @@
 {
-  "material": "DIAMOND_SPADE",
+  "material": "DIAMOND_Shovel",
   "name": "Snow Shovel",
   "tier": "RARE",
-  "id": "SNOW_SHOVEL"
+  "id": "SNOW_SHOVEL",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Snow Placer "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Right-Click a block to place a"
+    },
+    {
+      "color": "gray",
+      "text": "3x3 snow layer."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Cost: "
+        },
+        {
+          "color": "gold",
+          "text": "10 Coins"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

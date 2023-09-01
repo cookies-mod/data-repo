@@ -8,6 +8,16 @@
   "item_specific": {
     "city_project": "inflation_fixer"
   },
-  "description": "\n%%dark_gray%%It\u0027s about sending a message...",
+  "description": [
+    {"text":"Commemorates a unique event from","color":"gray"},
+    {"text":"SkyBlocks's history.","color":"gray"},
+    {"text":""},
+    {"text":"Weird! The details of this","color":"red"},
+    {"text":"memento are unidentified!","color":"red"},
+    {"text":""},
+    {"text":"It's about sending a","color":"dark_gray"},
+    {"text":"message...","color":"gray"},
+    {"text":""}
+  ],
   "id": "BURNING_COINS"
 }

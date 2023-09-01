@@ -15,5 +15,11 @@
       "level": 4
     }
   ],
-  "id": "SQUIRE_HELMET"
+  "id": "SQUIRE_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

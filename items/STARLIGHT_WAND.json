@@ -14,5 +14,97 @@
       "level": 8
     }
   ],
-  "id": "STARLIGHT_WAND"
+  "id": "STARLIGHT_WAND",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Starfall "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Shower stars in a "
+        },
+        {
+          "color": "white",
+          "text": "3 blocks"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "area for "
+        },
+        {
+          "color": "green",
+          "text": "5s"
+        },
+        {
+          "color": "gray",
+          "text": ", dealing"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "297.1 "
+        },
+        {
+          "color": "gray",
+          "text": "damage per second to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "mobs within."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "120"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "2s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

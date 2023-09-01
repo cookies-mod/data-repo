@@ -15,5 +15,80 @@
       "rift_mana_regen": 5
     }
   },
-  "id": "HOCUS_POCUS_CIPHER"
+  "id": "HOCUS_POCUS_CIPHER",
+  "description": [
+    {
+      "color": "gray",
+      "text": "While in the rift:"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+65\u0444 Rift Time"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "+5\u270e Intelligence"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "+5\u26a1 Mana Regen"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "extra": [
+            {
+              "bold": true,
+              "text": "CANNOT"
+            }
+          ],
+          "text": "This item "
+        },
+        {
+          "color": "dark_gray",
+          "text": " be reforged!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

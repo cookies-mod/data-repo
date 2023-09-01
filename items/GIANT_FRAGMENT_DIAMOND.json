@@ -1,7 +1,34 @@
 {
-  "material": "DIAMOND_BARDING",
+  "material": "DIAMOND_HORSE_ARMOR",
   "name": "Diamante\u0027s Handle",
   "tier": "EPIC",
   "dungeon_item": true,
-  "id": "GIANT_FRAGMENT_DIAMOND"
+  "id": "GIANT_FRAGMENT_DIAMOND",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Precursor Relic"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "The hilt of the largest sword"
+    },
+    {
+      "color": "gray",
+      "text": "known to humankind."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

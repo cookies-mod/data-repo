@@ -16,5 +16,44 @@
       "tier": 3
     }
   ],
-  "id": "TITANIUM_PICKAXE"
+  "id": "TITANIUM_PICKAXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+10 "
+        },
+        {
+          "color": "gold",
+          "text": "\u2646 Mining Fortune"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "when mining Titanium Ore"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

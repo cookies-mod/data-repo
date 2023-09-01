@@ -12,5 +12,11 @@
     "health_regeneration": 1,
     "fishing_speed": 8
   },
-  "id": "FINWAVE_BELT"
+  "id": "FINWAVE_BELT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

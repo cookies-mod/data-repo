@@ -24,5 +24,59 @@
       "mode": "II"
     }
   ],
-  "id": "ICY_ARROW"
+  "id": "ICY_ARROW",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Passive: Muscle Freeze"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies "
+        },
+        {
+          "color": "aqua",
+          "text": "Slowness 1 "
+        },
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "green",
+          "text": "3s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "to targets."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Practice II"
+        },
+        {
+          "color": "red",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Stats added when shot!"
+    }
+  ]
 }

@@ -12,5 +12,83 @@
       "level": 8
     }
   ],
-  "id": "WOLF_FUR_MIXIN"
+  "id": "WOLF_FUR_MIXIN",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Mixins provide a buff"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "that can be added to "
+        },
+        {
+          "color": "red",
+          "text": "God"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Potions "
+        },
+        {
+          "color": "gray",
+          "text": "in a brewing"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "stand and lasts for the"
+    },
+    {
+      "color": "gray",
+      "text": "full duration."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "aqua",
+          "text": "7\u272f Magic Find "
+        },
+        {
+          "color": "gray",
+          "text": "when"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "slaying monsters in one"
+    },
+    {
+      "color": "gray",
+      "text": "hit!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

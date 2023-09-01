@@ -4,7 +4,28 @@
   "tier": "EPIC",
   "glowing": true,
   "soulbound": "COOP",
-  "description": "%%gray%%%%italic%%Looks like Sulphur, smells like Sulphur... Suspicious.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Looks like Sulphur, smells"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "like Sulphur... Suspicious."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 500,
   "id": "SPELL_POWDER"
 }

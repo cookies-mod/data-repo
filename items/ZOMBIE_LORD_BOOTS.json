@@ -101,5 +101,63 @@
     }
   ],
   "dungeon_item": true,
-  "id": "ZOMBIE_LORD_BOOTS"
+  "id": "ZOMBIE_LORD_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Dungeon Lord"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gains "
+        },
+        {
+          "color": "red",
+          "text": "+10\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+10\u2748 Defense "
+        },
+        {
+          "color": "gray",
+          "text": "every minute"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "spent in the Dungeon."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_green",
+      "text": "This armor piece is undead \u0f15!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

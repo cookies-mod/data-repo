@@ -8,5 +8,11 @@
   },
   "npc_sell_price": 2,
   "motes_sell_price": 105,
-  "id": "FISHING_ROD"
+  "id": "FISHING_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

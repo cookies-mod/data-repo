@@ -8,5 +8,22 @@
   },
   "npc_sell_price": 25,
   "museum": true,
-  "id": "SWEET_AXE"
+  "id": "SWEET_AXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "20% chance of dropping an Apple"
+    },
+    {
+      "color": "gray",
+      "text": "when chopping logs."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

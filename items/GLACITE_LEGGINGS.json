@@ -30,5 +30,59 @@
       ]
     }
   ],
-  "id": "GLACITE_LEGGINGS"
+  "id": "GLACITE_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Expert Miner"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "gold",
+          "text": "+2\u2e15 Mining Speed "
+        },
+        {
+          "color": "gray",
+          "text": "for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "each of your mining levels."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "The Defense "
+        },
+        {
+          "color": "gray",
+          "text": "of this item is"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "doubled while on a mining island"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

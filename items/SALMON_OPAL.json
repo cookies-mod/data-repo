@@ -6,5 +6,88 @@
   "category": "REFORGE_STONE",
   "tier": "RARE",
   "npc_sell_price": 2000,
-  "id": "SALMON_OPAL"
+  "id": "SALMON_OPAL",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Headstrong"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "reforge when combined with a"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "bow"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "https://en.wikipedia.org/wiki/Opal."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XV"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

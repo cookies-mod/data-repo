@@ -5,6 +5,25 @@
   "name": "Proto-Chicken",
   "tier": "EPIC",
   "origin": "RIFT",
-  "description": "The animal which came right before the first chicken.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "The animal which came right"
+    },
+    {
+      "color": "gray",
+      "text": "before the first chicken."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "PROTOCHICKEN"
 }

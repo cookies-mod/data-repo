@@ -3,5 +3,42 @@
   "name": "Silex",
   "glowing": true,
   "tier": "EPIC",
-  "id": "SIL_EX"
+  "id": "SIL_EX",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "When applied to a pickaxe or a"
+    },
+    {
+      "color": "gray",
+      "text": "drill, increases its Efficiency"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "level by "
+        },
+        {
+          "color": "green",
+          "text": "1"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

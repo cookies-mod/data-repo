@@ -212,5 +212,68 @@
       }
     ]
   ],
-  "id": "BLADE_OF_THE_VOLCANO"
+  "id": "BLADE_OF_THE_VOLCANO",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "A powerful blade forged in the"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "depths of the "
+        },
+        {
+          "color": "gold",
+          "text": "Blazing"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Volcano"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "red",
+          "text": "+100\u2741 Strength"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "against enemies who are in"
+    },
+    {
+      "color": "gray",
+      "text": "lava."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

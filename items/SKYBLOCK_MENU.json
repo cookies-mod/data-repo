@@ -1,5 +1,26 @@
 {
   "material": "NETHER_STAR",
   "name": "SkyBlock Menu",
-  "id": "SKYBLOCK_MENU"
+  "id": "SKYBLOCK_MENU",
+  "description": [
+    {
+      "color": "gray",
+      "text": "View all of your SkyBlock"
+    },
+    {
+      "color": "gray",
+      "text": "progress, including your Skills,"
+    },
+    {
+      "color": "gray",
+      "text": "Collections, Recipes, and more!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Click to open!"
+    }
+  ]
 }

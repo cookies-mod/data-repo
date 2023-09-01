@@ -6,5 +6,54 @@
   "tier": "SPECIAL",
   "npc_sell_price": 1,
   "museum": true,
-  "id": "FRENCH_BREAD"
+  "id": "FRENCH_BREAD",
+  "description": [
+    {
+      "color": "gray",
+      "text": "It is known that scientists and"
+    },
+    {
+      "color": "gray",
+      "text": "other experts always find ways"
+    },
+    {
+      "color": "gray",
+      "text": "to disagree on every subject"
+    },
+    {
+      "color": "gray",
+      "text": "known to humankind. However,"
+    },
+    {
+      "color": "gray",
+      "text": "they can all agree on one thing"
+    },
+    {
+      "color": "gray",
+      "text": "- that this is the greatest meal"
+    },
+    {
+      "color": "gray",
+      "text": "ever created in history."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Awarded to those who"
+    },
+    {
+      "color": "gray",
+      "text": "participated in Dungeons on the"
+    },
+    {
+      "color": "gray",
+      "text": "Alpha Hypixel Network."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -20,5 +20,144 @@
   ],
   "unstackable": true,
   "can_have_attributes": true,
-  "id": "THUNDERBOLT_NECKLACE"
+  "id": "THUNDERBOLT_NECKLACE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Tiered Bonus: Static Charge (0/5)"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gains "
+        },
+        {
+          "color": "red",
+          "text": "1"
+        },
+        {
+          "color": "gray",
+          "text": " static charge every"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "30"
+        },
+        {
+          "color": "gray",
+          "text": " seconds."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Hitting a target will cause a"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "discharge, adding "
+        },
+        {
+          "color": "green",
+          "text": "15%"
+        },
+        {
+          "color": "gray",
+          "text": " damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "to that hit for each charge"
+    },
+    {
+      "color": "gray",
+      "text": "collected."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Maximum Charge Capacity: "
+        },
+        {
+          "color": "red",
+          "text": "2"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Damage taken by "
+        },
+        {
+          "color": "red",
+          "text": "Lava Sea"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Creatures "
+        },
+        {
+          "color": "gray",
+          "text": "is reduced by "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "and damage dealt is increased"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "red",
+          "text": "1.1x"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

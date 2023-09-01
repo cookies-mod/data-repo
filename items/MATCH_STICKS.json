@@ -1,8 +1,75 @@
 {
-  "material": "REDSTONE_TORCH_ON",
+  "material": "REDSTONE_TORCH",
   "name": "Match-Sticks",
   "tier": "RARE",
-  "description": "%%gray%%%%italic%%The head of Matchos is a combination of Sulphur and a crystalline substance. With even the slightest frictions they will light up.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Consume to light yourself on"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "fire for "
+        },
+        {
+          "color": "green",
+          "text": "10 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds granting"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "you "
+        },
+        {
+          "color": "red",
+          "text": "+10\u2741 Strength"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "The head of Matchos is a"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "combination of Sulphur and a"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "crystalline substance. With even"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "the slightest frictions they"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "will light up."
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 10,
   "id": "MATCH_STICKS"
 }

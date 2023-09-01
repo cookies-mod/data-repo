@@ -206,5 +206,91 @@
       }
     ]
   ],
-  "id": "FIRE_VEIL_WAND"
+  "id": "FIRE_VEIL_WAND",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Fire Veil "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Creates a veil of fire around"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "you for "
+        },
+        {
+          "color": "green",
+          "text": "5s"
+        },
+        {
+          "color": "gray",
+          "text": ", dealing"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "234,684 "
+        },
+        {
+          "color": "gray",
+          "text": "damage per second to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "mobs within."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "300"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "1s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

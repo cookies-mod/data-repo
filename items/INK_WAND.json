@@ -10,5 +10,79 @@
     "WEAPON_ABILITY_DAMAGE": 10000
   },
   "npc_sell_price": 10000,
-  "id": "INK_WAND"
+  "id": "INK_WAND",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Ink Bomb "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Shoot an ink bomb in front of"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "you dealing "
+        },
+        {
+          "color": "green",
+          "text": "10,000 "
+        },
+        {
+          "color": "gray",
+          "text": "damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "and giving blindness!"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "60"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "30s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

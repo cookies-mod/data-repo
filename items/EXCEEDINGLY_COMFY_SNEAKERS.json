@@ -9,6 +9,17 @@
     "RIFT_TIME": 45,
     "rift_walk_speed": 5
   },
-  "description": "Stay classy.",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Stay classy."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "EXCEEDINGLY_COMFY_SNEAKERS"
 }

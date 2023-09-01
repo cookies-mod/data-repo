@@ -5,5 +5,42 @@
   "name": "Holiday Train",
   "furniture": "HOLIDAY_TRAIN",
   "tier": "EPIC",
-  "id": "HOLIDAY_TRAIN"
+  "id": "HOLIDAY_TRAIN",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Holiday Cosmetic"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "This exclusive "
+        },
+        {
+          "color": "red",
+          "text": "Holiday"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "cosmetic can be placed on your"
+    },
+    {
+      "color": "gray",
+      "text": "island or traded."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

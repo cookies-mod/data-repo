@@ -18,5 +18,68 @@
       "level": 8
     }
   ],
-  "id": "EMBER_HELMET"
+  "id": "EMBER_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Nether Lord"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Will create "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Obsidian "
+        },
+        {
+          "color": "gray",
+          "text": "below"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "you when walking on Lava. Also"
+    },
+    {
+      "color": "gray",
+      "text": "increases the chance of Nether"
+    },
+    {
+      "color": "gray",
+      "text": "monsters dropping an item by"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "20%"
+        },
+        {
+          "color": "gray",
+          "text": ". Wearing this full set"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "will also prevent you from"
+    },
+    {
+      "color": "gray",
+      "text": "taking Lava and Fire Damage."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

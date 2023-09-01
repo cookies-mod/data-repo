@@ -1,8 +1,76 @@
 {
   "material": "PRISMARINE_SHARD",
-  "name": "Sharpened Claws",
+  "name": "Sharpened Claws - Legendary",
   "glowing": true,
   "category": "PET_ITEM",
-  "tier": "LEGENDARY",
-  "id": "PET_ITEM_SHARPENED_CLAWS_LEGENDARY"
+  "tier": "UNOBTAINABLE",
+  "id": "PET_ITEM_SHARPENED_CLAWS_LEGENDARY",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Consumed on use"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Pet items can boost pets in"
+    },
+    {
+      "color": "gray",
+      "text": "various ways but pets can only"
+    },
+    {
+      "color": "gray",
+      "text": "hold 1 item at a time so choose"
+    },
+    {
+      "color": "gray",
+      "text": "wisely!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "blue",
+          "text": "+"
+        },
+        {
+          "color": "blue",
+          "text": "15",
+          "obfuscated":true
+        },
+        {
+          "color": "blue",
+          "text": "\u2620 Crit Damage"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click on your summoned"
+    },
+    {
+      "color": "yellow",
+      "text": "pet to give it this item!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

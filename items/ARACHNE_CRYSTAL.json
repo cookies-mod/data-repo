@@ -5,5 +5,74 @@
   "name": "Arachne Crystal",
   "npc_sell_price": 1000,
   "tier": "RARE",
-  "id": "ARACHNE_CRYSTAL"
+  "id": "ARACHNE_CRYSTAL",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Place this at the "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Altar "
+        },
+        {
+          "color": "gray",
+          "text": "in"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_red",
+          "text": "Arachne\u0027s Sanctuary "
+        },
+        {
+          "color": "gray",
+          "text": "to call"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "forth the true strength of"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_red",
+          "text": "Arachne"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "italic": true,
+          "color": "gray",
+          "text": "\"What have we done?\" "
+        },
+        {
+          "color": "gray",
+          "text": "- Unknown Spider"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

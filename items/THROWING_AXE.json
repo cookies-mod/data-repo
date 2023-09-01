@@ -2,7 +2,7 @@
   "material": "GOLD_AXE",
   "name": "Throwing Axe",
   "category": "AXE",
-  "tier": "RARE",
+  "tier": "UNOBTAINABLE",
   "stats": {
     "DAMAGE": 120,
     "STRENGTH": 50

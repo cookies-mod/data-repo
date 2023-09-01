@@ -2,5 +2,52 @@
   "material": "IRON_HOE",
   "name": "Metal Detector",
   "tier": "SPECIAL",
-  "id": "DWARVEN_METAL_DETECTOR"
+  "id": "DWARVEN_METAL_DETECTOR",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Used to find lost Dwarven"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "treasures in the "
+        },
+        {
+          "color": "dark_green",
+          "text": "Mines of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_green",
+          "text": "Divan"
+        },
+        {
+          "color": "gray",
+          "text": ". The Metal Detector"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "beeps louder and faster the"
+    },
+    {
+      "color": "gray",
+      "text": "closer you are to a buried"
+    },
+    {
+      "color": "gray",
+      "text": "treasure."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

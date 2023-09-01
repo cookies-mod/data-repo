@@ -101,5 +101,105 @@
       ]
     }
   ],
-  "id": "HYPERION"
+  "id": "HYPERION",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deals +"
+        },
+        {
+          "color": "red",
+          "text": "50% "
+        },
+        {
+          "color": "gray",
+          "text": "damage to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Withers. Grants "
+        },
+        {
+          "color": "red",
+          "text": "+1 "
+        },
+        {
+          "color": "red",
+          "text": "\u2741 Damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "green",
+          "text": "+2 "
+        },
+        {
+          "color": "aqua",
+          "text": "\u270e Intelligence"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "per "
+        },
+        {
+          "color": "red",
+          "text": "Catacombs "
+        },
+        {
+          "color": "gray",
+          "text": "level."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Your Catacombs Level: "
+        },
+        {
+          "color": "red",
+          "text": "0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to use your class ability!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,10 +1,18 @@
 {
-  "material": "WOOL",
+  "material": "white_wool",
   "durability": 12,
   "name": "Tree-like Wool",
   "tier": "COMMON",
   "origin": "RIFT",
-  "description": "Good for bridging.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Good for bridging."
+    },
+    {
+      "text": ""
+    }
+  ],
   "motes_sell_price": 10,
   "id": "BEDWARS_WOOL"
 }

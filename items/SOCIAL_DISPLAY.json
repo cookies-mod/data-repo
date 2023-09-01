@@ -9,5 +9,22 @@
       "level": 2
     }
   ],
-  "id": "SOCIAL_DISPLAY"
+  "id": "SOCIAL_DISPLAY",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Places a hologram displaying the"
+    },
+    {
+      "color": "gray",
+      "text": "top players on your island by"
+    },
+    {
+      "color": "gray",
+      "text": "points."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

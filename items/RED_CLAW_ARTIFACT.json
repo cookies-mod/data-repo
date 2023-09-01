@@ -15,5 +15,23 @@
       "level": 5
     }
   ],
-  "id": "RED_CLAW_ARTIFACT"
+  "id": "RED_CLAW_ARTIFACT",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Crit Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+5% "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

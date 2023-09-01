@@ -4,7 +4,28 @@
   "tier": "EPIC",
   "glowing": true,
   "soulbound": "COOP",
-  "description": "%%gray%%%%italic%%Changes color based on the angle you look at it.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Changes color based on the"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "angle you look at it."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 500,
   "id": "LUMINO_FIBER"
 }

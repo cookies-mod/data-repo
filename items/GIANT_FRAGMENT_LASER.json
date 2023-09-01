@@ -1,7 +1,34 @@
 {
-  "material": "EYE_OF_ENDER",
+  "material": "ENDER_EYE",
   "name": "L.A.S.R.\u0027s Eye",
   "tier": "EPIC",
   "dungeon_item": true,
-  "id": "GIANT_FRAGMENT_LASER"
+  "id": "GIANT_FRAGMENT_LASER",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Precursor Relic"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "The eye is mightier than the"
+    },
+    {
+      "color": "gray",
+      "text": "sword."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

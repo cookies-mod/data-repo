@@ -1,11 +1,17 @@
 {
-  "material": "WOOD_PICKAXE",
+  "material": "WOODEN_PICKAXE",
   "name": "Game Fixer",
   "glowing": true,
   "category": "PICKAXE",
   "tier": "VERY_SPECIAL",
   "npc_sell_price": 777,
-  "description": "%%gray%%Given to individuals who broke the game too many times. Thanks for your great help!",
   "museum": true,
-  "id": "GAME_FIXER"
+  "id": "GAME_FIXER",
+  "description": [
+    {"text":"Given to individuals who broke","color":"gray"},
+    {"text":"the game too many times. Thanks","color":"gray"},
+    {"text":"for your great help!","color":"gray"},
+    {"text":""}
+  ],
+  "can_be_reforged": true
 }

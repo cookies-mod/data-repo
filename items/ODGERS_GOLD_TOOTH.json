@@ -15,6 +15,23 @@
       "reward": "GOLD"
     }
   ],
-  "description": "%%gray%%%%italic%%A perfectly fine tooth, besides its weight...",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "A perfectly fine tooth,"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "besides its weight..."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "ODGERS_GOLD_TOOTH"
 }

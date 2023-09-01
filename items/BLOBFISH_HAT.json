@@ -11,5 +11,11 @@
   },
   "npc_sell_price": 25,
   "museum": true,
-  "id": "BLOBFISH_HAT"
+  "id": "BLOBFISH_HAT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

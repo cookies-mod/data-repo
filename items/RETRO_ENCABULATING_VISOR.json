@@ -9,5 +9,37 @@
   "stats": {
     "RIFT_INTELLIGENCE": -50
   },
-  "id": "RETRO_ENCABULATING_VISOR"
+  "id": "RETRO_ENCABULATING_VISOR",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Lets you see presumably"
+    },
+    {
+      "color": "gray",
+      "text": "invisible cables when worn."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Kloon built this in a cave!"
+    },
+    {
+      "color": "dark_gray",
+      "text": "With a bunch of scraps!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "bold": true,
+      "color": "light_purple",
+      "text": "MYTHIC HELMET"
+    }
+  ]
 }

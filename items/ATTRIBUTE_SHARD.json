@@ -1,5 +1,63 @@
 {
   "material": "PRISMARINE_SHARD",
   "name": "Attribute Shard",
-  "id": "ATTRIBUTE_SHARD"
+  "id": "ATTRIBUTE_SHARD",
+  "description": [
+    {
+      "color": "aqua",
+      "text": "Trophy Hunter I"
+    },
+    {
+      "color": "gray",
+      "text": "Increases the chance to catch"
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Trophy Fish "
+        },
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "2%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Combine with items in the"
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Attribute Fusion "
+        },
+        {
+          "color": "gray",
+          "text": "menu to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "apply attributes."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

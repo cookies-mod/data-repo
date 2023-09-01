@@ -4,5 +4,11 @@
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 800,
-  "id": "ENCHANTED_RABBIT_FOOT"
+  "id": "ENCHANTED_RABBIT_FOOT",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

@@ -3,5 +3,25 @@
   "name": "Enchanted Shark Fin",
   "glowing": true,
   "tier": "EPIC",
-  "id": "ENCHANTED_SHARK_FIN"
+  "id": "ENCHANTED_SHARK_FIN",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A razor-sharp shark fin designed"
+    },
+    {
+      "color": "gray",
+      "text": "to craft powerful items."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

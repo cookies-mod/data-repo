@@ -4,5 +4,11 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 1440,
-  "id": "ENCHANTED_BLAZE_POWDER"
+  "id": "ENCHANTED_BLAZE_POWDER",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

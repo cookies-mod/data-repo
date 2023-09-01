@@ -11,5 +11,45 @@
   "item_specific": {
     "mana_refund": 4
   },
-  "id": "SELF_RECURSIVE_PICKAXE"
+  "id": "SELF_RECURSIVE_PICKAXE",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Allows you to break living metal"
+    },
+    {
+      "color": "gray",
+      "text": "ore and, potentially, living"
+    },
+    {
+      "color": "gray",
+      "text": "metal faces."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Regens "
+        },
+        {
+          "color": "aqua",
+          "text": "4 Mana "
+        },
+        {
+          "color": "gray",
+          "text": "on hit."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

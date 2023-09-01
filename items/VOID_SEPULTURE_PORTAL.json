@@ -18,5 +18,54 @@
       }
     }
   },
-  "id": "VOID_SEPULTURE_PORTAL"
+  "id": "VOID_SEPULTURE_PORTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Placing this item on your"
+    },
+    {
+      "color": "gray",
+      "text": "private island will create a"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "portal to "
+        },
+        {
+          "color": "aqua",
+          "text": "the Void Sepulture"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "for you to use whenever you"
+    },
+    {
+      "color": "gray",
+      "text": "want!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "The portal will spawn facing"
+    },
+    {
+      "color": "dark_gray",
+      "text": "you on the block you click on."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

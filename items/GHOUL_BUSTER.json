@@ -9,5 +9,61 @@
     "CRITICAL_DAMAGE": 25
   },
   "museum": true,
-  "id": "GHOUL_BUSTER"
+  "id": "GHOUL_BUSTER",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Spooktacular"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "green",
+          "text": "100% "
+        },
+        {
+          "color": "gray",
+          "text": "more damage to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Spooky "
+        },
+        {
+          "color": "gray",
+          "text": "enemies during the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Spooky Festival"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

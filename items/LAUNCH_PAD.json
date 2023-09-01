@@ -3,5 +3,18 @@
   "name": "Launch Pad",
   "tier": "UNCOMMON",
   "npc_sell_price": 3200,
-  "id": "LAUNCH_PAD"
+  "id": "LAUNCH_PAD",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Launches you in the direction"
+    },
+    {
+      "color": "gray",
+      "text": "you are facing!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

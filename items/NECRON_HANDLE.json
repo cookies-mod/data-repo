@@ -4,5 +4,14 @@
   "glowing": true,
   "tier": "EPIC",
   "dungeon_item": true,
-  "id": "NECRON_HANDLE"
+  "id": "NECRON_HANDLE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,9 +1,21 @@
 {
-  "material": "CARROT_ITEM",
+  "material": "CARROT",
   "name": "Nearly-Whole Carrot",
   "tier": "UNCOMMON",
   "origin": "RIFT",
   "glowing": true,
-  "description": "The whole is better than the sum of its parts...",
+  "description": [
+    {
+      "color": "gray",
+      "text": "The whole is better than the sum"
+    },
+    {
+      "color": "gray",
+      "text": "of its parts..."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "NEARLY_WHOLE_CARROT"
 }

@@ -9,5 +9,55 @@
     "CRITICAL_DAMAGE": 50,
     "INTELLIGENCE": 100
   },
-  "id": "ELEGANT_TUXEDO_BOOTS"
+  "id": "ELEGANT_TUXEDO_BOOTS",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Dashing"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Max health set to "
+        },
+        {
+          "color": "red",
+          "text": "250\u2764"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "red",
+          "text": "+150% "
+        },
+        {
+          "color": "gray",
+          "text": "damage!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Very stylish."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

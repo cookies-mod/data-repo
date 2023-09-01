@@ -4,7 +4,38 @@
   "category": "COSMETIC",
   "tier": "COMMON",
   "unstackable": true,
-  "description": "%%gray%%Show off your total %%gold%%Bingo Points%%gray%%!",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Show off your total "
+        },
+        {
+          "color": "gold",
+          "text": "Bingo"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Points"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ],
   "museum": true,
-  "id": "BINGO_DISPLAY"
+  "id": "BINGO_DISPLAY",
+  "soulbound": "COOP"
 }

@@ -5,5 +5,21 @@
   "name": "Personal Harp",
   "furniture": "HARP",
   "tier": "EPIC",
-  "id": "HARP"
+  "id": "HARP",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Your very own!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

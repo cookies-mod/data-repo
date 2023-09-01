@@ -5,5 +5,14 @@
   "name": "Cropie",
   "tier": "RARE",
   "npc_sell_price": 25000,
-  "id": "CROPIE"
+  "id": "CROPIE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

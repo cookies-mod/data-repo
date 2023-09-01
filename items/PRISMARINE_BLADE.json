@@ -8,5 +8,35 @@
     "STRENGTH": 25
   },
   "npc_sell_price": 160,
-  "id": "PRISMARINE_BLADE"
+  "id": "PRISMARINE_BLADE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deals "
+        },
+        {
+          "color": "green",
+          "text": "+200% "
+        },
+        {
+          "color": "gray",
+          "text": "damage while in"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "water."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -4,5 +4,55 @@
   "tier": "EPIC",
   "unstackable": true,
   "museum": true,
-  "id": "FARMING_FOR_DUMMIES"
+  "id": "FARMING_FOR_DUMMIES",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "gold",
+          "text": "+1\u2618 Farming Fortune"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "when applied to a hoe or an"
+    },
+    {
+      "color": "gray",
+      "text": "axe. Can be applied to an item"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "up to "
+        },
+        {
+          "color": "green",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "times."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

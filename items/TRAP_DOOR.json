@@ -1,5 +1,5 @@
 {
-  "material": "TRAP_DOOR",
+  "material": "oak_TRAPDOOR",
   "name": "Wooden Trapdoor",
   "npc_sell_price": 1.5,
   "id": "TRAP_DOOR"

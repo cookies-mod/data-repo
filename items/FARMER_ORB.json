@@ -6,5 +6,39 @@
   "category": "ACCESSORY",
   "tier": "UNCOMMON",
   "npc_sell_price": 1900,
-  "id": "FARMER_ORB"
+  "id": "FARMER_ORB",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Increases the regrowth rate of"
+    },
+    {
+      "color": "gray",
+      "text": "nearby crops on the public"
+    },
+    {
+      "color": "gray",
+      "text": "islands, regrowing an extra crop"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "every "
+        },
+        {
+          "color": "green",
+          "text": "3 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

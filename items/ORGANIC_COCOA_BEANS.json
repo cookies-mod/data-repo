@@ -4,6 +4,6 @@
   "name": "Organic Cocoa Beans",
   "npc_sell_price": 3,
   "glowing": true,
-  "tier": "UNCOMMON",
+  "tier": "UNOBTAINABLE",
   "id": "ORGANIC_COCOA_BEANS"
 }

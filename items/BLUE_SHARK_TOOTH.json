@@ -3,5 +3,25 @@
   "name": "Blue Shark Tooth",
   "glowing": true,
   "tier": "RARE",
-  "id": "BLUE_SHARK_TOOTH"
+  "id": "BLUE_SHARK_TOOTH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Dropped by a Shark during"
+    },
+    {
+      "color": "gray",
+      "text": "Fishing Festival."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

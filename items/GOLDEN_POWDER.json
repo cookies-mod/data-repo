@@ -3,5 +3,14 @@
   "name": "Golden Powder",
   "glowing": true,
   "tier": "EPIC",
-  "id": "GOLDEN_POWDER"
+  "id": "GOLDEN_POWDER",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

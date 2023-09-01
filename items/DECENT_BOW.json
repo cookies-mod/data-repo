@@ -7,5 +7,11 @@
     "DAMAGE": 45
   },
   "npc_sell_price": 99,
-  "id": "DECENT_BOW"
+  "id": "DECENT_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

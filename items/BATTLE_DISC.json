@@ -1,8 +1,37 @@
 {
-  "material": "GOLD_RECORD",
+  "material": "music_disc_13",
   "name": "Battle Disc",
   "tier": "RARE",
   "npc_sell_price": 1,
   "museum": true,
-  "id": "BATTLE_DISC"
+  "id": "BATTLE_DISC",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Place this inside a jukebox to"
+    },
+    {
+      "color": "gray",
+      "text": "play a battle song!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Blast in Banter Battle"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "By ShinkoNet"
+        }
+      ],
+      "text": "  "
+    },
+    {
+      "text": ""
+    }
+  ]
 }

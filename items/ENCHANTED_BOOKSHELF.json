@@ -4,5 +4,65 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 2700,
-  "id": "ENCHANTED_BOOKSHELF"
+  "id": "ENCHANTED_BOOKSHELF",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Place near an "
+        },
+        {
+          "color": "blue",
+          "text": "Enchantment"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Table "
+        },
+        {
+          "color": "gray",
+          "text": "to provide Bookshelf"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Power. The higher the Bookshelf"
+    },
+    {
+      "color": "gray",
+      "text": "Power, the more enchantments are"
+    },
+    {
+      "color": "gray",
+      "text": "available."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bookshelf Power: "
+        },
+        {
+          "color": "blue",
+          "text": "15"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

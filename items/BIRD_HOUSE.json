@@ -5,5 +5,42 @@
   "name": "Bird House",
   "furniture": "BIRD_HOUSE",
   "tier": "EPIC",
-  "id": "BIRD_HOUSE"
+  "id": "BIRD_HOUSE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Easter Cosmetic"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "This exclusive "
+        },
+        {
+          "color": "light_purple",
+          "text": "Easter"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "cosmetic can be placed on your"
+    },
+    {
+      "color": "gray",
+      "text": "island or traded."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

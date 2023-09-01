@@ -1,5 +1,5 @@
 {
-  "material": "WOOD_SWORD",
+  "material": "WOODEN_SWORD",
   "name": "Great Spook Sword",
   "category": "SWORD",
   "tier": "LEGENDARY",
@@ -7,5 +7,89 @@
     "DAMAGE": 0
   },
   "museum": true,
-  "id": "GREAT_SPOOK_SWORD"
+  "id": "GREAT_SPOOK_SWORD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gains "
+        },
+        {
+          "color": "red",
+          "text": "+1\u2741 Damage "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "red",
+          "text": "+1\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Strength "
+        },
+        {
+          "color": "gray",
+          "text": "for every "
+        },
+        {
+          "color": "green",
+          "text": "Fear"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "you have."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Obtained during the "
+        },
+        {
+          "color": "yellow",
+          "text": "2022"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Alchemist "
+        },
+        {
+          "color": "gray",
+          "text": "experiments!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Edition #???"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

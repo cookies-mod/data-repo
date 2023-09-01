@@ -168,5 +168,40 @@
       "slot_type": "JADE"
     }
   ],
-  "id": "SLUG_BOOTS"
+  "id": "SLUG_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Bouncy "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "SNEAK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "When falling from a great"
+    },
+    {
+      "color": "gray",
+      "text": "height, you\u0027ll bounce straight"
+    },
+    {
+      "color": "gray",
+      "text": "up!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -5,5 +5,58 @@
   "name": "Detective Scanner",
   "tier": "RARE",
   "origin": "RIFT",
-  "id": "DETECTIVE_SCANNER"
+  "id": "DETECTIVE_SCANNER",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Detect! "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Investigate a clue or"
+    },
+    {
+      "color": "gray",
+      "text": "abnormality."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "10"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "4s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

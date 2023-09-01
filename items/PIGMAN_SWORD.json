@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_SWORD",
+  "material": "GOLDEN_SWORD",
   "name": "Pigman Sword",
   "glowing": true,
   "category": "SWORD",
@@ -63,5 +63,95 @@
       "level": 18
     }
   ],
-  "id": "PIGMAN_SWORD"
+  "id": "PIGMAN_SWORD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Burning Souls "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "green",
+          "text": "+300\u2748 Defense "
+        },
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "green",
+          "text": "5s"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "and cast vortex of flames"
+    },
+    {
+      "color": "gray",
+      "text": "towards enemies, dealing up to"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "30,000"
+        },
+        {
+          "color": "gray",
+          "text": " over "
+        },
+        {
+          "color": "green",
+          "text": "5"
+        },
+        {
+          "color": "gray",
+          "text": " seconds."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "400"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

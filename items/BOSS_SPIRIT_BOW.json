@@ -7,5 +7,36 @@
     "DAMAGE": 1
   },
   "dungeon_item": true,
-  "id": "BOSS_SPIRIT_BOW"
+  "id": "BOSS_SPIRIT_BOW",
+  "description": [
+    {
+      "color": "gray",
+      "text": "An extremely fragile but"
+    },
+    {
+      "color": "gray",
+      "text": "powerful bow, capable of"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "damaging "
+        },
+        {
+          "color": "red",
+          "text": "Thorn"
+        },
+        {
+          "color": "gray",
+          "text": ", despite"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "him being a spirit!"
+    }
+  ]
 }

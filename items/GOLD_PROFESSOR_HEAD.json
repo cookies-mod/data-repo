@@ -49,5 +49,106 @@
   ],
   "dungeon_item": true,
   "museum": true,
-  "id": "GOLD_PROFESSOR_HEAD"
+  "id": "GOLD_PROFESSOR_HEAD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Obtained from killing "
+        },
+        {
+          "color": "red",
+          "text": "The"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Professor "
+        },
+        {
+          "color": "gray",
+          "text": "in "
+        },
+        {
+          "color": "red",
+          "text": "The Catacombs"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "lots of times. Grants "
+        },
+        {
+          "color": "green",
+          "text": "2x"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "stats on "
+        },
+        {
+          "color": "red",
+          "text": "The Catacombs Floor"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "III"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Despite his great technique,"
+    },
+    {
+      "color": "dark_gray",
+      "text": "he failed the Masters exam three"
+    },
+    {
+      "color": "dark_gray",
+      "text": "times. Works from 8 to 5. Cares"
+    },
+    {
+      "color": "dark_gray",
+      "text": "about his students."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 700000 / 700000"
+    }
+  ]
 }

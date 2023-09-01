@@ -3,5 +3,14 @@
   "name": "Null Blade",
   "glowing": true,
   "tier": "LEGENDARY",
-  "id": "NULL_BLADE"
+  "id": "NULL_BLADE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

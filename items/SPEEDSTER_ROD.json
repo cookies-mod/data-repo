@@ -17,5 +17,22 @@
     }
   ],
   "museum": true,
-  "id": "SPEEDSTER_ROD"
+  "id": "SPEEDSTER_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Hitting a monster gives a burst"
+    },
+    {
+      "color": "gray",
+      "text": "of speed!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

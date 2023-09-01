@@ -1,6 +1,6 @@
 {
   "id": "LEECH_SWORD",
-  "material": "WOOD_SWORD",
+  "material": "WOODen_SWORD",
   "name": "Leech Sword",
   "tier": "RARE",
   "category": "SWORD",
@@ -10,5 +10,31 @@
   },
   "item_specific": {
     "mana_refund": 3
-  }
+  },
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Regens "
+        },
+        {
+          "color": "aqua",
+          "text": "3 Mana "
+        },
+        {
+          "color": "gray",
+          "text": "on hit."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

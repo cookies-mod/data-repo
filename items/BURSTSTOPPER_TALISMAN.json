@@ -16,5 +16,59 @@
       "level": 3
     }
   ],
-  "id": "BURSTSTOPPER_TALISMAN"
+  "id": "BURSTSTOPPER_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "If an incoming hit would deal at"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "least "
+        },
+        {
+          "color": "red",
+          "text": "50% "
+        },
+        {
+          "color": "gray",
+          "text": "of your "
+        },
+        {
+          "color": "red",
+          "text": "\u2764"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "multiply its damage by "
+        },
+        {
+          "color": "green",
+          "text": "0.95"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

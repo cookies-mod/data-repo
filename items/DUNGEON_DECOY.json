@@ -1,7 +1,35 @@
 {
-  "material": "MONSTER_EGG",
+  "material": "ghast_spawn_Egg",
   "name": "Decoy",
   "tier": "UNCOMMON",
   "dungeon_item": true,
-  "id": "DUNGEON_DECOY"
+  "id": "DUNGEON_DECOY",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Runs around and draws"
+    },
+    {
+      "color": "gray",
+      "text": "attention from nearby mobs,"
+    },
+    {
+      "color": "gray",
+      "text": "very handy for creating a"
+    },
+    {
+      "color": "gray",
+      "text": "distraction!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "red",
+      "text": "Dungeons only!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

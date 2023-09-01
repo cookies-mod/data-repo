@@ -11,5 +11,25 @@
       "level": 8
     }
   ],
-  "id": "SHARD_OF_THE_SHREDDED"
+  "id": "SHARD_OF_THE_SHREDDED",
+  "description": [
+    {
+      "color": "gray",
+      "text": "The core of a powerful weapon,"
+    },
+    {
+      "color": "gray",
+      "text": "dropped by the Atoned Horror."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

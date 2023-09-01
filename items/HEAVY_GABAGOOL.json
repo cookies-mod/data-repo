@@ -5,5 +5,29 @@
   "name": "Heavy Gabagool",
   "tier": "EPIC",
   "npc_sell_price": 1,
-  "id": "HEAVY_GABAGOOL"
+  "id": "HEAVY_GABAGOOL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Feed Wisp pets, tier up into"
+    },
+    {
+      "color": "gray",
+      "text": "Hypergolic Gabagool or craft"
+    },
+    {
+      "color": "gray",
+      "text": "Inferno minion fuel."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

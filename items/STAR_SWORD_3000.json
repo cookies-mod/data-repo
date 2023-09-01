@@ -21,5 +21,6 @@
     {"text":"blade.\"","color":"light_purple"},
     {"text":""}
   ],
-  "can_be_reforged":true
+  "can_be_reforged":true,
+  "soulbound": "SOLO"
 }

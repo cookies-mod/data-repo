@@ -1,8 +1,86 @@
 {
   "material": "DIAMOND_AXE",
   "name": "Melon Dicer 3.0",
-  "description": "%%italic%%Almost identical to the Melon Dicer 2.0, but it has 3.0 in the name!",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+10\u262f Farming Wisdom"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "while harvesting melons"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Roll em\u0027"
+    },
+    {
+      "color": "gray",
+      "text": "Every melon you break, you"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "make a wish to "
+        },
+        {
+          "color": "light_purple",
+          "text": "RNGesus"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "which may grant you with a"
+    },
+    {
+      "color": "gray",
+      "text": "few or TONS of extra melons!"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Almost identical to the Melon"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Dicer 2.0, but it has 3.0 in the"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "name!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "category": "AXE",
   "tier": "LEGENDARY",
-  "id": "MELON_DICER_3"
+  "id": "MELON_DICER_3",
+  "can_be_reforged": true
 }

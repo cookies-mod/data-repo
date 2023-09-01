@@ -1,6 +1,35 @@
 {
-  "material": "MONSTER_EGG",
+  "material": "skeleton_spawn_egg",
   "name": "Training Dummy",
   "tier": "UNCOMMON",
-  "id": "TRAINING_DUMMY"
+  "id": "TRAINING_DUMMY",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Places a Training Dummy that can"
+    },
+    {
+      "color": "gray",
+      "text": "be used to test out weapons and"
+    },
+    {
+      "color": "gray",
+      "text": "other damage sources. A Training"
+    },
+    {
+      "color": "gray",
+      "text": "Dummy can take the form of"
+    },
+    {
+      "color": "gray",
+      "text": "almost any mob. Right-click to"
+    },
+    {
+      "color": "gray",
+      "text": "access its settings."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

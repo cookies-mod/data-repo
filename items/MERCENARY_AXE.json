@@ -17,5 +17,10 @@
     }
   ],
   "id": "MERCENARY_AXE",
-  "can_be_reforged":true
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

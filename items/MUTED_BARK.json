@@ -5,7 +5,15 @@
   "name": "Muted Bark",
   "tier": "UNCOMMON",
   "origin": "RIFT",
-  "description": "No longer barking.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "No longer barking."
+    },
+    {
+      "text": ""
+    }
+  ],
   "motes_sell_price": 50,
   "id": "MUTED_BARK"
 }

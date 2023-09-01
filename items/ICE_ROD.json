@@ -23,5 +23,35 @@
       "amount": 5
     }
   ],
-  "id": "ICE_ROD"
+  "id": "ICE_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants a "
+        },
+        {
+          "color": "green",
+          "text": "25% "
+        },
+        {
+          "color": "gray",
+          "text": "chance of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "catching ice blocks."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

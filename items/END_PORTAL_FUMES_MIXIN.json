@@ -12,5 +12,96 @@
       "level": 8
     }
   ],
-  "id": "END_PORTAL_FUMES_MIXIN"
+  "id": "END_PORTAL_FUMES_MIXIN",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Mixins provide a buff that can"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "be added to "
+        },
+        {
+          "color": "red",
+          "text": "God Potions "
+        },
+        {
+          "color": "gray",
+          "text": "in a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "brewing stand and lasts for the"
+    },
+    {
+      "color": "gray",
+      "text": "full duration."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_aqua",
+          "text": "\u2e0e Soulflow "
+        },
+        {
+          "color": "gray",
+          "text": "conversions"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "provide "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+30% "
+        },
+        {
+          "color": "gray",
+          "text": "more "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "\u02ac"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_aqua",
+          "text": "Overflow "
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

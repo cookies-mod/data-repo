@@ -8,5 +8,10 @@
   "stats": {
     "RIFT_TIME": 15
   },
-  "id": "WYLD_LEGGINGS"
+  "id": "WYLD_LEGGINGS",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

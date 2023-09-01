@@ -1,10 +1,50 @@
 {
-  "material": "INK_SACK",
+  "material": "orange_dye",
   "durability": 14,
   "name": "Mixed Mite Gel",
   "tier": "LEGENDARY",
   "glowing": true,
   "npc_sell_price": 15000,
-  "description": "%%dark_gray%%%%italic%%Powerful substance combined from the plasma membrane of many Endermites.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Use at Kat to upgrade an"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Endermite pet to "
+        },
+        {
+          "color": "light_purple",
+          "text": "mythic"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "rarity."
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Powerful substance combined"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "from the plasma membrane of many"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Endermites."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "MIXED_MITE_GEL"
 }

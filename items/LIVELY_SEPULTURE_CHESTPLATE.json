@@ -11,5 +11,10 @@
     "rift_mana_regen": 25
   },
   "glowing": true,
-  "id": "LIVELY_SEPULTURE_CHESTPLATE"
+  "id": "LIVELY_SEPULTURE_CHESTPLATE",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

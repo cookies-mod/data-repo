@@ -88,5 +88,51 @@
     }
   ],
   "dungeon_item": true,
-  "id": "CONJURING_SWORD"
+  "id": "CONJURING_SWORD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Reduces the cooldown of Guided"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Sheep by "
+        },
+        {
+          "color": "gold",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds, and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "prevents Guided Sheep from"
+    },
+    {
+      "color": "gray",
+      "text": "spawning randomly while holding"
+    },
+    {
+      "color": "gray",
+      "text": "this item."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 35000 / 35000"
+    }
+  ]
 }

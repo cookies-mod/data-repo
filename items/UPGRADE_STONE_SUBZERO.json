@@ -5,5 +5,62 @@
   "name": "Wisp Upgrade Stone",
   "tier": "LEGENDARY",
   "unstackable": true,
-  "id": "UPGRADE_STONE_SUBZERO"
+  "id": "UPGRADE_STONE_SUBZERO",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Consumed on use"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Upgrades a "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Glacial Wisp "
+        },
+        {
+          "color": "gray",
+          "text": "pet"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to a "
+        },
+        {
+          "color": "gold",
+          "text": "Subzero Wisp "
+        },
+        {
+          "color": "gray",
+          "text": "pet."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click on your wisp to"
+    },
+    {
+      "color": "yellow",
+      "text": "upgrade it!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -5,5 +5,40 @@
   "name": "Glacial Talisman",
   "category": "ACCESSORY",
   "tier": "COMMON",
-  "id": "GLACIAL_TALISMAN"
+  "id": "GLACIAL_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+5\u262f Mining Wisdom "
+        },
+        {
+          "color": "gray",
+          "text": "on"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Jerry\u0027s Workshop"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

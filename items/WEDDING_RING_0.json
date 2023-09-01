@@ -1,8 +1,56 @@
 {
   "material": "GOLD_NUGGET",
-  "name": "§eShiny Yellow Rock",
+  "name": "\u00a7eShiny Yellow Rock",
   "glowing": true,
   "category": "ACCESSORY",
   "soulbound": "COOP",
-  "id": "WEDDING_RING_0"
+  "id": "WEDDING_RING_0",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Grants a 1 in"
+    },
+    {
+      "color": "gray",
+      "text": "1,000,000,000,000 chance to"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "deal "
+        },
+        {
+          "color": "red",
+          "text": "+100% "
+        },
+        {
+          "color": "gray",
+          "text": "damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "True love is tough to find,"
+    },
+    {
+      "color": "dark_gray",
+      "text": "but finding it hits you hard!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Requires quest progress!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

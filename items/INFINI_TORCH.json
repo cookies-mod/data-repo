@@ -1,7 +1,36 @@
 {
   "material": "TORCH",
-  "name": "InfiniTorch™",
+  "name": "InfiniTorch\u2122",
   "glowing": true,
   "tier": "EPIC",
-  "id": "INFINI_TORCH"
+  "id": "INFINI_TORCH",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Places a torch for "
+        },
+        {
+          "color": "gold",
+          "text": "2 coins"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-Click a block to use!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

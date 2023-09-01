@@ -3,7 +3,7 @@
   "item_durability": -1,
   "name": "Ghost Axe",
   "category": "AXE",
-  "tier": "UNCOMMON",
+  "tier": "UNOBTAINABLE",
   "npc_sell_price": 1,
   "dungeon_item": true,
   "id": "GHOST_THROWING_AXE"

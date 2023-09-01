@@ -1,5 +1,5 @@
 {
-  "material": "IRON_PLATE",
+  "material": "heavy_weighted_pressure_plate",
   "name": "Parkour Checkpoint",
   "requirements": [
     {
@@ -8,5 +8,18 @@
       "level": 1
     }
   ],
-  "id": "PARKOUR_POINT"
+  "id": "PARKOUR_POINT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Create checkpoints for parkour"
+    },
+    {
+      "color": "gray",
+      "text": "courses on your private island!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

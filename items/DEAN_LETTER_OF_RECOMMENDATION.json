@@ -4,5 +4,44 @@
   "tier": "RARE",
   "npc_sell_price": 0,
   "soulbound": "SOLO",
-  "id": "DEAN_LETTER_OF_RECOMMENDATION"
+  "id": "DEAN_LETTER_OF_RECOMMENDATION",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A letter of recommendation from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Dean advocating for "
+        },
+        {
+          "color": "aqua",
+          "text": "Eisengolem"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to join the "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Mage "
+        },
+        {
+          "color": "gray",
+          "text": "faction!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

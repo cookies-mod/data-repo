@@ -7,5 +7,31 @@
   "tier": "LEGENDARY",
   "unstackable": true,
   "soulbound": "COOP",
-  "id": "KUUDRA_FOLLOWER_RELIC"
+  "id": "KUUDRA_FOLLOWER_RELIC",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Reduces damage taken from Kuudra"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Followers by "
+        },
+        {
+          "color": "green",
+          "text": "65%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

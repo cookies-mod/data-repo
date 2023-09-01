@@ -6,5 +6,39 @@
   "tier": "EPIC",
   "npc_sell_price": 69000,
   "unstackable": true,
-  "id": "CORRUPT_SOIL"
+  "id": "CORRUPT_SOIL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "This item can be used as a"
+    },
+    {
+      "color": "gray",
+      "text": "minion upgrade. Place it in any"
+    },
+    {
+      "color": "gray",
+      "text": "minion and it will turn nearby"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "mobs to "
+        },
+        {
+          "color": "dark_purple",
+          "text": "corrupted "
+        },
+        {
+          "color": "gray",
+          "text": "mobs."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

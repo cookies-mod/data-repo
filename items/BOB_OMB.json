@@ -5,5 +5,44 @@
   "name": "Bob-omb",
   "glowing": true,
   "tier": "RARE",
-  "id": "BOB_OMB"
+  "id": "BOB_OMB",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Makes a huge explosion in the"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_aqua",
+          "text": "Crystal Hollows"
+        },
+        {
+          "color": "gray",
+          "text": ", breaking"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "nearby blocks and dropping "
+        },
+        {
+          "color": "green",
+          "text": "50%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "of the items."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

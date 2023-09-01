@@ -50,5 +50,65 @@
     ]
   ],
   "museum": true,
-  "id": "SKELETON_HAT"
+  "id": "SKELETON_HAT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Your arrows have a "
+        },
+        {
+          "color": "green",
+          "text": "20%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "chance to explode on impact"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "dealing "
+        },
+        {
+          "color": "green",
+          "text": "50 "
+        },
+        {
+          "color": "gray",
+          "text": "base Magic Damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to enemies within "
+        },
+        {
+          "color": "green",
+          "text": "8 "
+        },
+        {
+          "color": "gray",
+          "text": "blocks."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

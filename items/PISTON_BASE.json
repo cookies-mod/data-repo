@@ -1,5 +1,5 @@
 {
-  "material": "PISTON_BASE",
+  "material": "PISTON",
   "name": "Piston",
   "npc_sell_price": 8,
   "id": "PISTON_BASE"

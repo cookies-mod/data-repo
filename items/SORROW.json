@@ -4,6 +4,32 @@
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 13,
-  "description": "%%gray%%%%italic%%To become a ghost, one must go through unimaginable distress.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "To become a ghost, one must"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "go through unimaginable"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "distress."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "SORROW"
 }

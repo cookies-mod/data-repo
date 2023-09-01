@@ -220,5 +220,52 @@
       }
     ]
   ],
-  "id": "FLAMING_FIST"
+  "id": "FLAMING_FIST",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "When equipped, melee attacks"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "fire three "
+        },
+        {
+          "color": "gold",
+          "text": "flaming fists "
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "dealing "
+        },
+        {
+          "color": "red",
+          "text": "10,000 "
+        },
+        {
+          "color": "gray",
+          "text": "fire damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -101,5 +101,75 @@
     }
   ],
   "dungeon_item": true,
-  "id": "SKELETON_MASTER_CHESTPLATE"
+  "id": "SKELETON_MASTER_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increase the damage you deal"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "with arrows by "
+        },
+        {
+          "color": "red",
+          "text": "5%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Your bows don\u0027t consume arrows."
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Skeleton Master"
+    },
+    {
+      "color": "gray",
+      "text": "Increase the damage you deal"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "with arrows by "
+        },
+        {
+          "color": "red",
+          "text": "25%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_green",
+      "text": "This armor piece is undead \u0f15!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

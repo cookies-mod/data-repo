@@ -6,5 +6,55 @@
   "category": "ACCESSORY",
   "tier": "EPIC",
   "npc_sell_price": 1,
-  "id": "FIERY_KUUDRA_CORE"
+  "id": "FIERY_KUUDRA_CORE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain a "
+        },
+        {
+          "color": "green",
+          "text": "2% "
+        },
+        {
+          "color": "gray",
+          "text": "chance for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Attributes to spawn 1 level"
+    },
+    {
+      "color": "gray",
+      "text": "higher."
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "A fragment of the core of"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Kuudra."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

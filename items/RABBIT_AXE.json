@@ -1,5 +1,5 @@
 {
-  "material": "WOOD_AXE",
+  "material": "WOODen_AXE",
   "name": "Rabbit Axe",
   "category": "AXE",
   "tier": "UNCOMMON",
@@ -10,5 +10,52 @@
       "level": 15
     }
   ],
-  "id": "RABBIT_AXE"
+  "id": "RABBIT_AXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Rabbit Specialist"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Killing a "
+        },
+        {
+          "color": "light_purple",
+          "text": "Rabbit "
+        },
+        {
+          "color": "gray",
+          "text": "increases"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "its drops by "
+        },
+        {
+          "color": "green",
+          "text": "2x"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

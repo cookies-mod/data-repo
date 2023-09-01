@@ -3,5 +3,25 @@
   "material": "PAPER",
   "glowing": true,
   "tier": "LEGENDARY",
-  "id": "WILSON_ENGINEERING_PLANS"
+  "id": "WILSON_ENGINEERING_PLANS",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Drops very rarely from the"
+    },
+    {
+      "color": "gray",
+      "text": "Inferno Demonlord."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

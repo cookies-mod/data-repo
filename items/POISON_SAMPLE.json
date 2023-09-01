@@ -5,5 +5,42 @@
   "name": "Poison Sample",
   "npc_sell_price": 500,
   "tier": "UNCOMMON",
-  "id": "POISON_SAMPLE"
+  "id": "POISON_SAMPLE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Dropped from "
+        },
+        {
+          "color": "green",
+          "text": "Rain Slimes"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "but only the especially toxic"
+    },
+    {
+      "color": "gray",
+      "text": "ones!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

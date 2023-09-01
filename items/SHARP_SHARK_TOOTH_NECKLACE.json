@@ -8,5 +8,38 @@
   "stats": {
     "STRENGTH": 8
   },
-  "id": "SHARP_SHARK_TOOTH_NECKLACE"
+  "id": "SHARP_SHARK_TOOTH_NECKLACE",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+20% "
+        },
+        {
+          "color": "gray",
+          "text": "chance to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "get Shark Teeth during"
+    },
+    {
+      "color": "aqua",
+      "text": "Fishing Festivals."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

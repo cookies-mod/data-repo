@@ -1,5 +1,5 @@
 {
-  "material": "RED_ROSE",
+  "material": "allium",
   "durability": 2,
   "item_durability": -1,
   "name": "Spirit Sceptre",
@@ -73,5 +73,66 @@
       ]
     }
   ],
-  "id": "BAT_WAND"
+  "id": "BAT_WAND",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Guided Bat "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Shoots a guided spirit bat,"
+    },
+    {
+      "color": "gray",
+      "text": "following your aim and exploding"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "red",
+          "text": "2,220 "
+        },
+        {
+          "color": "gray",
+          "text": "damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "200"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

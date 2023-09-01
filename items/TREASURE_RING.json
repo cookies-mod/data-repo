@@ -7,5 +7,38 @@
   "tier": "EPIC",
   "npc_sell_price": 1000,
   "dungeon_item": true,
-  "id": "TREASURE_RING"
+  "id": "TREASURE_RING",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+2% "
+        },
+        {
+          "color": "gray",
+          "text": "extra loot to end"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "of dungeon chests."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

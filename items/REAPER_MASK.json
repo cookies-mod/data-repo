@@ -84,5 +84,126 @@
       ]
     }
   ],
-  "id": "REAPER_MASK"
+  "id": "REAPER_MASK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Evil Incarnate"
+    },
+    {
+      "color": "gray",
+      "text": "While wearing:"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_green",
+          "text": "\u2022 "
+        },
+        {
+          "color": "gray",
+          "text": "Doubles your "
+        },
+        {
+          "color": "green",
+          "text": "\u2604 Mending"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_green",
+          "text": "\u2022 "
+        },
+        {
+          "color": "gray",
+          "text": "Doubles your "
+        },
+        {
+          "color": "dark_red",
+          "text": "\u2668 Vitality"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_green",
+          "text": "\u2022 "
+        },
+        {
+          "color": "gray",
+          "text": "Zombie Armor triggers on all hits."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_green",
+          "text": "\u2022 "
+        },
+        {
+          "color": "gray",
+          "text": "Store "
+        },
+        {
+          "color": "aqua",
+          "text": "2 "
+        },
+        {
+          "color": "gray",
+          "text": "extra necromancer souls."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_green",
+          "text": "\u2022 "
+        },
+        {
+          "color": "gray",
+          "text": "Summon "
+        },
+        {
+          "color": "aqua",
+          "text": "2 "
+        },
+        {
+          "color": "gray",
+          "text": "more necromancy mobs."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_green",
+      "text": "This armor piece is undead \u0f15!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -6,5 +6,74 @@
   "category": "DEPLOYABLE",
   "tier": "UNOBTAINABLE",
   "npc_sell_price": 0,
-  "id": "MINIATURE_NUKE"
+  "id": "MINIATURE_NUKE",
+  "soulbound": "SOLO",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A miniature nuke capable of"
+    },
+    {
+      "color": "gray",
+      "text": "massive destruction."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Detonate "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Detonate the Nuke, dealing"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "80.0%"
+        },
+        {
+          "color": "gray",
+          "text": " max health true damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to all enemies in a "
+        },
+        {
+          "color": "green",
+          "text": "20"
+        },
+        {
+          "color": "gray",
+          "text": " block"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "radius."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

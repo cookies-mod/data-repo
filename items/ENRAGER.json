@@ -158,5 +158,114 @@
       "slot_type": "SAPPHIRE"
     }
   ],
-  "id": "ENRAGER"
+  "id": "ENRAGER",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Enrage "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Taunt enemies in a "
+        },
+        {
+          "color": "green",
+          "text": "10 block"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "radius and reduce their damage"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "against you by "
+        },
+        {
+          "color": "red",
+          "text": "10% "
+        },
+        {
+          "color": "gray",
+          "text": "for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "10s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "500"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Health Cost: "
+        },
+        {
+          "color": "red",
+          "text": "250.3"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "20s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

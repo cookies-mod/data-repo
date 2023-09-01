@@ -4,5 +4,14 @@
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjRlYzNmY2Q1NTcyNjlhMWEwYjliZmE4YTAyZGFlMWEzOWZhMGVlOGZmNDBlMGNiOGE5NjQ3OWJlMDRiNjYwOSJ9fX0",
   "name": "Berry Bush",
   "npc_sell_price": 10,
-  "id": "BUILDER_BERRY_BUSH"
+  "id": "BUILDER_BERRY_BUSH",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Decoration item"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

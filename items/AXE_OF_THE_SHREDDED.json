@@ -108,5 +108,167 @@
       ]
     }
   ],
-  "id": "AXE_OF_THE_SHREDDED"
+  "id": "AXE_OF_THE_SHREDDED",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Heal "
+        },
+        {
+          "color": "red",
+          "text": "50\u2764 "
+        },
+        {
+          "color": "gray",
+          "text": "per hit."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "green",
+          "text": "+250% "
+        },
+        {
+          "color": "gray",
+          "text": "damage to Zombies"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Receive "
+        },
+        {
+          "color": "green",
+          "text": "25% "
+        },
+        {
+          "color": "gray",
+          "text": "less damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "from Zombies"
+        },
+        {
+          "color": "gray",
+          "text": " when held."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Throw "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Throw your axe damaging all"
+    },
+    {
+      "color": "gray",
+      "text": "enemies in its path dealing"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "10%"
+        },
+        {
+          "color": "gray",
+          "text": " melee damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Consecutive throws stack "
+        },
+        {
+          "color": "red",
+          "text": "2x"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "damage but cost "
+        },
+        {
+          "color": "blue",
+          "text": "2x "
+        },
+        {
+          "color": "gray",
+          "text": "mana up"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "to 16x"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "20"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

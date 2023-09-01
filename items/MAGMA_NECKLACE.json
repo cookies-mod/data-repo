@@ -154,5 +154,43 @@
       }
     ]
   ],
-  "id": "MAGMA_NECKLACE"
+  "id": "MAGMA_NECKLACE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Cube Fanatic"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "green",
+          "text": "10% "
+        },
+        {
+          "color": "gray",
+          "text": "more "
+        },
+        {
+          "color": "red",
+          "text": "Magma Cream"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "when killing Magma Cubes."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -56,5 +56,116 @@
     }
   ],
   "dungeon_item": true,
-  "id": "WITHER_CLOAK"
+  "id": "WITHER_CLOAK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Creeper Veil "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Spawns a protective veil that"
+    },
+    {
+      "color": "gray",
+      "text": "grants you immunity from damage"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "green",
+          "text": "10s"
+        },
+        {
+          "color": "gray",
+          "text": ". Consumes "
+        },
+        {
+          "color": "aqua",
+          "text": "20% max"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "mana"
+        },
+        {
+          "color": "gray",
+          "text": " each time you block a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "hit. You cannot attack while the"
+    },
+    {
+      "color": "gray",
+      "text": "barrier is up."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "10s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK "
+        },
+        {
+          "color": "gray",
+          "text": "while active"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "to deactivate. Cooldown is"
+    },
+    {
+      "color": "gray",
+      "text": "halved on deactivation."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

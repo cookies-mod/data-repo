@@ -12,5 +12,44 @@
       "level": 5
     }
   ],
-  "id": "DEVOUR_RING"
+  "id": "DEVOUR_RING",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Heal "
+        },
+        {
+          "color": "red",
+          "text": "5\u2764 "
+        },
+        {
+          "color": "gray",
+          "text": "when killing a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "monster."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "0.5s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

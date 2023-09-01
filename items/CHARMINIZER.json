@@ -14,5 +14,22 @@
     }
   ],
   "unstackable": true,
-  "id": "CHARMINIZER"
+  "id": "CHARMINIZER",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Can be used on Exe, Wai or Zee"
+    },
+    {
+      "color": "gray",
+      "text": "Atoms to charm them into only"
+    },
+    {
+      "color": "gray",
+      "text": "following you."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

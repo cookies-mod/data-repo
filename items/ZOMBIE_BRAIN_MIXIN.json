@@ -12,5 +12,75 @@
       "level": 8
     }
   ],
-  "id": "ZOMBIE_BRAIN_MIXIN"
+  "id": "ZOMBIE_BRAIN_MIXIN",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Mixins provide a buff"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "that can be added to "
+        },
+        {
+          "color": "red",
+          "text": "God"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Potions "
+        },
+        {
+          "color": "gray",
+          "text": "in a brewing"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "stand and lasts for the"
+    },
+    {
+      "color": "gray",
+      "text": "full duration."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "red",
+          "text": "10\u2afd Ferocity"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

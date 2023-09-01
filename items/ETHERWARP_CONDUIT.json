@@ -12,5 +12,71 @@
       "level": 7
     }
   ],
-  "id": "ETHERWARP_CONDUIT"
+  "id": "ETHERWARP_CONDUIT",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Ether Transmission "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Teleport to your targetted block"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "up to "
+        },
+        {
+          "color": "green",
+          "text": "57 blocks "
+        },
+        {
+          "color": "gray",
+          "text": "away."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Soulflow Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "1"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "180"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

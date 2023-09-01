@@ -1,9 +1,24 @@
 {
-  "material": "DOUBLE_PLANT",
+  "material": "large_fern",
   "durability": 3,
   "name": "Enchanted Lush Berberis",
   "tier": "RARE",
-  "description": "A wonderful enchanted plant!",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A wonderful enchanted plant!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "glowing": true,
   "npc_sell_price": 480,
   "id": "ENCHANTED_LUSH_BERBERIS"

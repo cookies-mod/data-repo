@@ -3,5 +3,25 @@
   "name": "Pumpkin Guts",
   "glowing": true,
   "tier": "UNCOMMON",
-  "id": "PUMPKIN_GUTS"
+  "id": "PUMPKIN_GUTS",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Why does Halloween have to be so"
+    },
+    {
+      "color": "gray",
+      "text": "gross?"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

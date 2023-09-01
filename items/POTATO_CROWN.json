@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_HELMET",
+  "material": "GOLDEN_HELMET",
   "name": "Potato Crown",
   "category": "HELMET",
   "tier": "LEGENDARY",
@@ -7,5 +7,49 @@
     "WALK_SPEED": 1
   },
   "museum": true,
-  "id": "POTATO_CROWN"
+  "id": "POTATO_CROWN",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Potato King"
+    },
+    {
+      "color": "gray",
+      "text": "Bestowed by Hypixel to the"
+    },
+    {
+      "color": "gray",
+      "text": "winner of the Great Potato War."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "light_purple",
+      "text": "All men can see the tactics"
+    },
+    {
+      "color": "light_purple",
+      "text": "whereby I conquer, but what none"
+    },
+    {
+      "color": "light_purple",
+      "text": "can see is the strategy out "
+    },
+    {
+      "color": "light_purple",
+      "text": "which victory is evolved."
+    },
+    {
+      "color": "dark_gray",
+      "text": "- Sun Tzu, The Art of War"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

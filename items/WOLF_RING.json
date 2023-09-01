@@ -6,5 +6,31 @@
   "category": "ACCESSORY",
   "tier": "RARE",
   "npc_sell_price": 100,
-  "id": "WOLF_RING"
+  "id": "WOLF_RING",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Reduces the damage taken from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Wolves by "
+        },
+        {
+          "color": "green",
+          "text": "10%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

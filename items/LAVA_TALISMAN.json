@@ -6,5 +6,68 @@
   "category": "ACCESSORY",
   "tier": "UNCOMMON",
   "npc_sell_price": 5800,
-  "id": "LAVA_TALISMAN"
+  "id": "LAVA_TALISMAN",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Provides immunity against damage"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "from "
+        },
+        {
+          "color": "red",
+          "text": "Lava"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "While in the "
+        },
+        {
+          "color": "red",
+          "text": "Crimson Isle"
+        },
+        {
+          "color": "gray",
+          "text": ", grants"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "a "
+        },
+        {
+          "color": "green",
+          "text": "20% "
+        },
+        {
+          "color": "gray",
+          "text": "damage reduction instead."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

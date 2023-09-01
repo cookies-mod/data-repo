@@ -1,7 +1,53 @@
 {
-  "material": "INK_SACK",
+  "material": "ink_sac",
   "name": "Pure Black Dye",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "DYE_PURE_BLACK"
+  "id": "DYE_PURE_BLACK",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Changes the color of a leather"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "armor piece to "
+        },
+        {
+          "color": "#000000",
+          "text": "#000000"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "250,000 Bits"
+    }
+  ]
 }

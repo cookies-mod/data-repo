@@ -5,5 +5,22 @@
   "name": "Eternal Flame Ring",
   "tier": "UNCOMMON",
   "museum": true,
-  "id": "ETERNAL_FLAME_RING"
+  "id": "ETERNAL_FLAME_RING",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A ring that calls you towards"
+    },
+    {
+      "color": "gray",
+      "text": "the eternal flame of the pits of"
+    },
+    {
+      "color": "gray",
+      "text": "lava."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

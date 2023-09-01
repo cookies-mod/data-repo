@@ -5,5 +5,35 @@
   "name": "Fishing Crystal",
   "crystal": "FISHING",
   "tier": "RARE",
-  "id": "FISHING_CRYSTAL"
+  "id": "FISHING_CRYSTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Grants a chance of fishing"
+    },
+    {
+      "color": "gray",
+      "text": "Prismarine Shards and Prismarine"
+    },
+    {
+      "color": "gray",
+      "text": "Crystals in nearby water"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Effective Radius: "
+        },
+        {
+          "color": "aqua",
+          "text": "15"
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

@@ -7,5 +7,53 @@
   "tier": "EPIC",
   "unstackable": true,
   "museum": true,
-  "id": "DITTO_SKULL"
+  "id": "DITTO_SKULL",
+  "soulbound": "COOP",
+  "description": [
+    {
+      "color": "gold",
+      "text": "Ability: Copycat"
+    },
+    {
+      "color": "gray",
+      "text": "Copies the skull of an"
+    },
+    {
+      "color": "gray",
+      "text": "unsuspecting player."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "10s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Requires "
+        },
+        {
+          "color": "blue",
+          "text": "\u24b7 Bingo Rank II"
+        },
+        {
+          "color": "red",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

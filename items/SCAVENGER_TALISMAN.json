@@ -5,5 +5,14 @@
   "name": "Scavenger Talisman",
   "category": "ACCESSORY",
   "npc_sell_price": 200,
-  "id": "SCAVENGER_TALISMAN"
+  "id": "SCAVENGER_TALISMAN",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Monsters drop coins when killed."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

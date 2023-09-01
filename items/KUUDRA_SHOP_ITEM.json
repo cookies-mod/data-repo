@@ -5,5 +5,32 @@
   "name": "Open Shop",
   "tier": "SPECIAL",
   "npc_sell_price": 0,
-  "id": "KUUDRA_SHOP_ITEM"
+  "id": "KUUDRA_SHOP_ITEM",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Open Shop "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Open the Perk Menu so you can"
+    },
+    {
+      "color": "gray",
+      "text": "make upgrades!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

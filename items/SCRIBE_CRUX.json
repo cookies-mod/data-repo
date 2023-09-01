@@ -5,7 +5,30 @@
   "name": "Scribe Crux",
   "tier": "UNCOMMON",
   "origin": "RIFT",
-  "description": "What dinosaur is a scribe\u0027s best friend?\nThesaurus.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "What dinosaur is a scribe\u0027s best"
+    },
+    {
+      "color": "gray",
+      "text": "friend?"
+    },
+    {
+      "color": "gray",
+      "text": "Thesaurus."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "motes_sell_price": 120,
   "id": "SCRIBE_CRUX"
 }

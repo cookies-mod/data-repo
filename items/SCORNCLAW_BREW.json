@@ -5,5 +5,29 @@
   "name": "Scornclaw Brew",
   "npc_sell_price": 50,
   "tier": "COMMON",
-  "id": "SCORNCLAW_BREW"
+  "id": "SCORNCLAW_BREW",
+  "description": [
+    {
+      "color": "gray",
+      "text": "The perfect balance between"
+    },
+    {
+      "color": "gray",
+      "text": "sweetness and bitterness, with a"
+    },
+    {
+      "color": "gray",
+      "text": "strange bite to it."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to consume"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

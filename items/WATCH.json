@@ -1,5 +1,5 @@
 {
-  "material": "WATCH",
+  "material": "clock",
   "name": "Clock",
   "npc_sell_price": 8,
   "id": "WATCH"

@@ -5,7 +5,22 @@
   "category": "BOOTS",
   "tier": "RARE",
   "npc_sell_price": 77777,
-  "description": "%%gray%%%%italic%%Boots made of pure ghost essence.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Boots made of pure ghost"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "essence."
+    },
+    {
+      "text": ""
+    }
+  ],
   "museum": true,
-  "id": "GHOST_BOOTS"
+  "id": "GHOST_BOOTS",
+  "can_be_reforged": true
 }

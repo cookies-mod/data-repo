@@ -5,5 +5,36 @@
   "category": "ACCESSORY",
   "tier": "RARE",
   "unstackable": true,
-  "id": "PERSONAL_COMPACTOR_5000"
+  "id": "PERSONAL_COMPACTOR_5000",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Automatically turns certain"
+    },
+    {
+      "color": "gray",
+      "text": "materials in your inventory into"
+    },
+    {
+      "color": "gray",
+      "text": "their enchanted form."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to configure!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Does not grant carpentry XP!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

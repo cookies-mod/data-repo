@@ -5,5 +5,14 @@
   "npc_sell_price": 10000,
   "museum": true,
   "soulbound": "COOP",
-  "id": "CORRUPTED_NETHER_STAR"
+  "id": "CORRUPTED_NETHER_STAR",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

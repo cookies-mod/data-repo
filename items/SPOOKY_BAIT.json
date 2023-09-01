@@ -5,5 +5,55 @@
   "name": "Spooky Bait",
   "category": "BAIT",
   "npc_sell_price": 10,
-  "id": "SPOOKY_BAIT"
+  "id": "SPOOKY_BAIT",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Fishing Bait"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Consumes on Cast"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "aqua",
+          "text": "+25\u2602 Fishing Speed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "and a "
+        },
+        {
+          "color": "green",
+          "text": "15% "
+        },
+        {
+          "color": "gray",
+          "text": "chance to catch"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Spooky Sea Creatures."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

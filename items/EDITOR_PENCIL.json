@@ -6,5 +6,64 @@
   "unstackable": true,
   "soulbound": "COOP",
   "museum": true,
-  "id": "EDITOR_PENCIL"
+  "id": "EDITOR_PENCIL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A truly remarkable pencil,"
+    },
+    {
+      "color": "gray",
+      "text": "Refined, sharpened, and"
+    },
+    {
+      "color": "gray",
+      "text": "plished over time."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Given to those who went above and beyond."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Awarded To: Unknown"
+    },
+    {
+      "color": "gray",
+      "text": "From: Unknown"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Date: "
+        },
+        {
+          "color": "yellow",
+          "text": "1st January 1970"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-Click to visit a random Wiki page!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "* Co-op Soulbound *"
+    }
+  ]
 }

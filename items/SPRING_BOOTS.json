@@ -8,5 +8,100 @@
   },
   "unstackable": true,
   "museum": true,
-  "id": "SPRING_BOOTS"
+  "id": "SPRING_BOOTS",
+  "soulbound": "COOP",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "color": "blue",
+      "text": "Feather Falling XX"
+    },
+    {
+      "color": "gray",
+      "text": "Increases how high you can fall"
+    },
+    {
+      "color": "gray",
+      "text": "before taking fall damage by"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "20"
+        },
+        {
+          "color": "gray",
+          "text": " and reduces fall damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "100%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: To the moon! "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "SNEAK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Charge your jump by sneaking."
+    },
+    {
+      "color": "gray",
+      "text": "The longer you sneak, the higher"
+    },
+    {
+      "color": "gray",
+      "text": "you will jump!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "\u24b7 Bingo Rank I"
+        },
+        {
+          "color": "red",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

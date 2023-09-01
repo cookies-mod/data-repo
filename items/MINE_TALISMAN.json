@@ -5,5 +5,162 @@
   "name": "Mine Affinity Talisman",
   "category": "ACCESSORY",
   "npc_sell_price": 200,
-  "id": "MINE_TALISMAN"
+  "id": "MINE_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Increases your "
+        },
+        {
+          "color": "white",
+          "text": "\u2726 Speed "
+        },
+        {
+          "color": "gray",
+          "text": "by"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+10"
+        },
+        {
+          "color": "gray",
+          "text": " while held in the "
+        },
+        {
+          "color": "aqua",
+          "text": "Coal"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Mine"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "gold",
+          "text": "Gold Mine"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "aqua",
+          "text": "Deep"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Caverns"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "aqua",
+          "text": "Gunpowder Mines"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Lapis Quarry"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "aqua",
+          "text": "Pigmen\u0027s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Den"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "aqua",
+          "text": "Slimehill"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "aqua",
+          "text": "Diamond"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Reserve"
+        },
+        {
+          "color": "gray",
+          "text": ", and "
+        },
+        {
+          "color": "aqua",
+          "text": "Obsidian"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Sanctuary"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

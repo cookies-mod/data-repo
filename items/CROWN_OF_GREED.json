@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_HELMET",
+  "material": "GOLDEN_HELMET",
   "name": "Crown of Greed",
   "glowing": true,
   "category": "HELMET",
@@ -10,5 +10,69 @@
     "HEALTH": 130
   },
   "npc_sell_price": 1000000,
-  "id": "CROWN_OF_GREED"
+  "id": "CROWN_OF_GREED",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Hits have "
+        },
+        {
+          "color": "red",
+          "text": "+25% "
+        },
+        {
+          "color": "gray",
+          "text": "base damage,"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "but cost "
+        },
+        {
+          "color": "gold",
+          "text": "100x "
+        },
+        {
+          "color": "gray",
+          "text": "the weapon\u0027s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "damage in "
+        },
+        {
+          "color": "gold",
+          "text": "coins "
+        },
+        {
+          "color": "gray",
+          "text": "from your"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "purse."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

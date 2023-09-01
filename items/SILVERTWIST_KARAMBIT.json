@@ -15,5 +15,71 @@
     "bonus_rift_damage_vs_vampire": 5,
     "heal_on_hit": 0.5
   },
-  "id": "SILVERTWIST_KARAMBIT"
+  "id": "SILVERTWIST_KARAMBIT",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "dark_purple",
+          "text": "+5\u2741 Rift Damage "
+        },
+        {
+          "color": "gray",
+          "text": "against"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_red",
+          "text": "Vampires"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Regens "
+        },
+        {
+          "color": "aqua",
+          "text": "6 Mana "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "red",
+          "text": "0.5\u2764"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "on hit."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

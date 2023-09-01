@@ -7,5 +7,70 @@
   "origin": "RIFT",
   "unstackable": true,
   "glowing": true,
-  "id": "FAMILY_DOUBLOON"
+  "id": "FAMILY_DOUBLOON",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Worth "
+        },
+        {
+          "color": "gold",
+          "text": "100,000 coins "
+        },
+        {
+          "color": "gray",
+          "text": "in the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "outside world."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "A precious trinket from a"
+    },
+    {
+      "color": "dark_gray",
+      "text": "powerful member of The Family"
+    },
+    {
+      "color": "dark_gray",
+      "text": "who doesn\u0027t really need it"
+    },
+    {
+      "color": "dark_gray",
+      "text": "anymore...."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

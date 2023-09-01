@@ -6,5 +6,131 @@
   "category": "REFORGE_STONE",
   "tier": "RARE",
   "npc_sell_price": 1,
-  "id": "MIDAS_JEWEL"
+  "id": "MIDAS_JEWEL",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Gilded "
+        },
+        {
+          "color": "gray",
+          "text": "reforge"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "when combined with "
+        },
+        {
+          "color": "gold",
+          "text": "Midas\u0027"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Sword"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Midas\u0027 most prized"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "possession - a gift from his"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "older brother, whose boundless"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "generosity got the better of"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "him. While he always admired his"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "brother, Midas swore his kingdom"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "would not end the same way."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XXV"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

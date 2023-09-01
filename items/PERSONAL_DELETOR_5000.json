@@ -5,5 +5,29 @@
   "category": "ACCESSORY",
   "tier": "RARE",
   "unstackable": true,
-  "id": "PERSONAL_DELETOR_5000"
+  "id": "PERSONAL_DELETOR_5000",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Automatically delete certain"
+    },
+    {
+      "color": "gray",
+      "text": "materials in your inventory on"
+    },
+    {
+      "color": "gray",
+      "text": "pickup."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to configure!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

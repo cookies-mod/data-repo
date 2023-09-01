@@ -16,5 +16,11 @@
       "tier": 2
     }
   ],
-  "id": "BANDAGED_MITHRIL_PICKAXE"
+  "id": "BANDAGED_MITHRIL_PICKAXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

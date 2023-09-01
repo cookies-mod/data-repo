@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_SPADE",
+  "material": "GOLDEN_SHOVEL",
   "name": "Midas Staff",
   "category": "SWORD",
   "tier": "LEGENDARY",
@@ -58,5 +58,196 @@
       "level": 25
     }
   ],
-  "id": "MIDAS_STAFF"
+  "id": "MIDAS_STAFF",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Molten Wave "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cast a wave of molten gold in"
+    },
+    {
+      "color": "gray",
+      "text": "the direction you are facing!"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deals up to "
+        },
+        {
+          "color": "red",
+          "text": "86,752 "
+        },
+        {
+          "color": "gray",
+          "text": "damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "500"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "1s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Greed"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "The "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "ability damage bonus "
+        },
+        {
+          "color": "gray",
+          "text": "of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "this item is dependent on the"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "price paid for it at the "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Dark"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Auction"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "The maximum bonus of this item"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "is "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "16000 "
+        },
+        {
+          "color": "gray",
+          "text": "if the bid was"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "100,000,000 Coins "
+        },
+        {
+          "color": "gray",
+          "text": "or higher!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Price paid: "
+        },
+        {
+          "color": "gold",
+          "text": "0 Coins"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Base Ability Damage Bonus: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

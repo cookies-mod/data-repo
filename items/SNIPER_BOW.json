@@ -75,5 +75,26 @@
     }
   ],
   "dungeon_item": true,
-  "id": "SNIPER_BOW"
+  "id": "SNIPER_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Allows you to shoot arrows much"
+    },
+    {
+      "color": "gray",
+      "text": "further!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 35000 / 35000"
+    }
+  ]
 }

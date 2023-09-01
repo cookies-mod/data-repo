@@ -5,5 +5,14 @@
   "name": "Blaze Rod Distillate",
   "tier": "RARE",
   "npc_sell_price": 5000,
-  "id": "BLAZE_ROD_DISTILLATE"
+  "id": "BLAZE_ROD_DISTILLATE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -3,5 +3,67 @@
   "name": "%%yellow%%Wizard\u0027s Breadcrumbs",
   "tier": "RARE",
   "origin": "RIFT",
-  "id": "WIZARD_BREADCRUMBS"
+  "id": "WIZARD_BREADCRUMBS",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Future Footsteps "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Use while looking at "
+        },
+        {
+          "color": "yellow",
+          "text": "yellow"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "particles "
+        },
+        {
+          "color": "gray",
+          "text": "in the world to mark"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "a path to take in the "
+        },
+        {
+          "color": "light_purple",
+          "text": "Rift"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

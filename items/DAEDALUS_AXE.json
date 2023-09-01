@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_AXE",
+  "material": "GOLDEN_AXE",
   "name": "Daedalus Axe",
   "category": "SWORD",
   "sword_type": "AXE",
@@ -64,5 +64,95 @@
       ]
     }
   ],
-  "id": "DAEDALUS_AXE"
+  "id": "DAEDALUS_AXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gains "
+        },
+        {
+          "color": "red",
+          "text": "+4 Damage "
+        },
+        {
+          "color": "gray",
+          "text": "per Taming"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "level."
+    },
+    {
+      "color": "gray",
+      "text": "Copies the stats from your"
+    },
+    {
+      "color": "gray",
+      "text": "active pet."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Earn "
+        },
+        {
+          "color": "gold",
+          "text": "+35 coins "
+        },
+        {
+          "color": "gray",
+          "text": "from"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "monster kills"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deals "
+        },
+        {
+          "color": "green",
+          "text": "+200% "
+        },
+        {
+          "color": "gray",
+          "text": "damage against"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "mythological creatures and Minos"
+    },
+    {
+      "color": "gray",
+      "text": "followers"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

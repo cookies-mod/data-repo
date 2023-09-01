@@ -15,5 +15,41 @@
     }
   ],
   "museum": true,
-  "id": "AATROX_BADPHONE"
+  "id": "AATROX_BADPHONE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Wasssaaaaa? "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Instantly calls "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Maddox"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -37,5 +37,179 @@
       ]
     }
   ],
-  "id": "BURSTMAW_DAGGER"
+  "id": "BURSTMAW_DAGGER",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Attunement "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Swap between "
+        },
+        {
+          "color": "white",
+          "text": "Spirit "
+        },
+        {
+          "color": "gray",
+          "text": "and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Crystal "
+        },
+        {
+          "color": "gray",
+          "text": "mode in order to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "attack through Hellion Shields."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Attuned: "
+        },
+        {
+          "color": "aqua",
+          "text": "Crystal"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "red",
+          "text": "2.5x "
+        },
+        {
+          "color": "gray",
+          "text": "damage to Blazes"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "red",
+          "text": "1.5x "
+        },
+        {
+          "color": "gray",
+          "text": "damage to Skeletons"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Wraith Drain"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "On hit, heal "
+        },
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "red",
+          "text": "200 "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "4%\u2764 "
+        },
+        {
+          "color": "gray",
+          "text": "after "
+        },
+        {
+          "color": "green",
+          "text": "6s "
+        },
+        {
+          "color": "gray",
+          "text": "if the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Hellion Shield has switched"
+    },
+    {
+      "color": "gray",
+      "text": "attunement."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

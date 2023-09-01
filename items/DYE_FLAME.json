@@ -1,8 +1,41 @@
 {
-  "material": "INK_SACK",
+  "material": "red_Dye",
   "durability": 1,
   "name": "Flame Dye",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "DYE_FLAME"
+  "id": "DYE_FLAME",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Changes the color of a leather"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "armor piece to "
+        },
+        {
+          "color": "#E25822",
+          "text": "#E25822"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

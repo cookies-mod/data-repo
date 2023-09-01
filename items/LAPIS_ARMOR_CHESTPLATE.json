@@ -15,5 +15,67 @@
       "level": 5
     }
   ],
-  "id": "LAPIS_ARMOR_CHESTPLATE"
+  "id": "LAPIS_ARMOR_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Each piece of this armour grants"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "50% "
+        },
+        {
+          "color": "gray",
+          "text": "bonus experience when"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "mining ores."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Health"
+    },
+    {
+      "color": "gray",
+      "text": "Increases the wearers maximum"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "\u2764 Health "
+        },
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "60"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

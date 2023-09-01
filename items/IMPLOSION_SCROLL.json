@@ -1,5 +1,5 @@
 {
-  "material": "BOOK_AND_QUILL",
+  "material": "WRITABLE_BOOK",
   "name": "Implosion",
   "glowing": true,
   "tier": "EPIC",
@@ -9,5 +9,111 @@
   "ability_damage_scaling": 0.3,
   "npc_sell_price": 1,
   "dungeon_item": true,
-  "id": "IMPLOSION_SCROLL"
+  "id": "IMPLOSION_SCROLL",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "gold",
+          "text": "Implosion Ability"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "when combined with a"
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Necron\u0027s Blade (Unrefined)"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Implosion "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deals "
+        },
+        {
+          "color": "red",
+          "text": "10,000 "
+        },
+        {
+          "color": "gray",
+          "text": "damage to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "nearby enemies."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "300"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "10s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

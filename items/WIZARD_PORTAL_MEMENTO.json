@@ -8,5 +8,84 @@
   "item_specific": {
     "city_project": "repair_wizard_portal"
   },
-  "id": "WIZARD_PORTAL_MEMENTO"
+  "id": "WIZARD_PORTAL_MEMENTO",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Commemorates your participation"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in the "
+        },
+        {
+          "color": "aqua",
+          "text": "Repair Wizard Portal"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "city project."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Earned by: "
+        },
+        {
+          "color": "aqua",
+          "text": "[MVP"
+        },
+        {
+          "color": "light_purple",
+          "text": "+"
+        },
+        {
+          "color": "aqua",
+          "text": "] lrg89"
+        },
+        {
+          "color": "white",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "extra": [
+        {
+          "obfuscated": true,
+          "text": "1"
+        }
+      ],
+      "text": "Edition "
+    },
+    {
+      "color": "dark_gray",
+      "text": "May 28th 2023"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Memento acquirer name becomes"
+    },
+    {
+      "color": "dark_gray",
+      "text": "hidden if traded."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

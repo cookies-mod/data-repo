@@ -1,12 +1,14 @@
 {
-  "material": "GOLD_CHESTPLATE",
+  "material": "GOLDEN_CHESTPLATE",
   "name": "Chestplate of the Stars",
   "category": "CHESTPLATE",
-  "tier": "UNOBTAINABLE",
+  "tier": "ADMIN",
   "stats": {
     "DEFENSE": 5000,
     "HEALTH": 20000,
     "INTELLIGENCE": 2000
   },
-  "id": "STAR_CHESTPLATE"
+  "id": "STAR_CHESTPLATE",
+  "can_be_reforged": true,
+  "soulbound": "SOLO"
 }

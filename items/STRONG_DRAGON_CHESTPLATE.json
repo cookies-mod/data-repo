@@ -81,5 +81,102 @@
       ]
     }
   ],
-  "id": "STRONG_DRAGON_CHESTPLATE"
+  "id": "STRONG_DRAGON_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Strong Blood"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Improves "
+        },
+        {
+          "color": "blue",
+          "text": "Aspect of the End"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "\u22d7 "
+        },
+        {
+          "color": "red",
+          "text": "+75 Damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Instant Transmission:"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "\u22d7 "
+        },
+        {
+          "color": "green",
+          "text": "+2 "
+        },
+        {
+          "color": "gray",
+          "text": "teleport range"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "\u22d7 "
+        },
+        {
+          "color": "green",
+          "text": "+3 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "\u22d7 "
+        },
+        {
+          "color": "red",
+          "text": "+5\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "on cast"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

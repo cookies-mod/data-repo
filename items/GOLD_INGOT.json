@@ -2,5 +2,11 @@
   "material": "GOLD_INGOT",
   "name": "Gold Ingot",
   "npc_sell_price": 4,
-  "id": "GOLD_INGOT"
+  "id": "GOLD_INGOT",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

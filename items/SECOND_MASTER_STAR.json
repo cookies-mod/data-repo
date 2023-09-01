@@ -5,5 +5,89 @@
   "name": "Second Master Star",
   "tier": "EPIC",
   "dungeon_item": true,
-  "id": "SECOND_MASTER_STAR"
+  "id": "SECOND_MASTER_STAR",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Upgrade a Dungeon Item\u0027s"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Master Stars "
+        },
+        {
+          "color": "gray",
+          "text": "from"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "\u278a"
+        },
+        {
+          "color": "dark_gray",
+          "text": "\u279c"
+        },
+        {
+          "color": "red",
+          "text": "\u278b"
+        },
+        {
+          "color": "gray",
+          "text": ", increasing all"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "stats by an additional "
+        },
+        {
+          "color": "green",
+          "text": "+5%"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in "
+        },
+        {
+          "color": "red",
+          "text": "Master Mode"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

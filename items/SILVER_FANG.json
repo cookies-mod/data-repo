@@ -13,5 +13,11 @@
   "item_specific": {
     "bonus_rift_damage_vs_vampire": 3
   },
-  "id": "SILVER_FANG"
+  "id": "SILVER_FANG",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

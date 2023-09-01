@@ -11,5 +11,92 @@
     "WEAPON_ABILITY_DAMAGE": 3000
   },
   "ability_damage_scaling": 0.2,
-  "id": "VAMPIRE_WITCH_MASK"
+  "id": "VAMPIRE_WITCH_MASK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Bat Swarm"
+    },
+    {
+      "color": "gray",
+      "text": "Summons two bats that will"
+    },
+    {
+      "color": "gray",
+      "text": "follow you and attack nearby"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "enemies, dealing "
+        },
+        {
+          "color": "red",
+          "text": "9,090"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "damage upon exploding. Your"
+    },
+    {
+      "color": "gray",
+      "text": "bats will not spawn on your"
+    },
+    {
+      "color": "gray",
+      "text": "island."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Rejuvenate"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "While wearing, drains "
+        },
+        {
+          "color": "green",
+          "text": "5"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "health per second from all"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "monsters within "
+        },
+        {
+          "color": "yellow",
+          "text": "8 "
+        },
+        {
+          "color": "gray",
+          "text": "blocks."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

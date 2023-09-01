@@ -3,5 +3,75 @@
   "name": "Mushroom Biome Stick",
   "glowing": true,
   "npc_sell_price": 400,
-  "id": "MUSHROOM_BIOME_STICK"
+  "id": "MUSHROOM_BIOME_STICK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Allows you to change the biome"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "at the "
+        },
+        {
+          "color": "green",
+          "text": "targeted block "
+        },
+        {
+          "color": "gray",
+          "text": "on"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "your private island to"
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Mushroom Island"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Right-click to use or Left-click"
+    },
+    {
+      "color": "gray",
+      "text": "to change the radius it effects."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Selected Radius: "
+        },
+        {
+          "color": "aqua",
+          "text": "3"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

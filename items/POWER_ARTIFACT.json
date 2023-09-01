@@ -28,5 +28,42 @@
       "slot_type": "RUBY"
     }
   ],
-  "id": "POWER_ARTIFACT"
+  "id": "POWER_ARTIFACT",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Allows you to harness the power"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "of "
+        },
+        {
+          "color": "green",
+          "text": "7"
+        },
+        {
+          "color": "gray",
+          "text": " Gemstones, although"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "only half of the normal power"
+    },
+    {
+      "color": "gray",
+      "text": "can be harnessed!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

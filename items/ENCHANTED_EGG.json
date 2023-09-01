@@ -4,5 +4,42 @@
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 432,
-  "id": "ENCHANTED_EGG"
+  "id": "ENCHANTED_EGG",
+  "description": [
+    {
+      "color": "gray",
+      "text": "This item can be used as a"
+    },
+    {
+      "color": "gray",
+      "text": "minion upgrade for chicken"
+    },
+    {
+      "color": "gray",
+      "text": "minions. Guarantees that each"
+    },
+    {
+      "color": "gray",
+      "text": "chicken will drop an egg after"
+    },
+    {
+      "color": "gray",
+      "text": "they spawn."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can also be used to craft"
+    },
+    {
+      "color": "gray",
+      "text": "low-rarity pets."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -8,5 +8,122 @@
     "DAMAGE": 80,
     "STRENGTH": 50
   },
-  "id": "RAIDER_AXE"
+  "id": "RAIDER_AXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Earn "
+        },
+        {
+          "color": "gold",
+          "text": "+20 coins "
+        },
+        {
+          "color": "gray",
+          "text": "from monster kills"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "+1 Damage "
+        },
+        {
+          "color": "gray",
+          "text": "per "
+        },
+        {
+          "color": "red",
+          "text": "500 "
+        },
+        {
+          "color": "gray",
+          "text": "kills"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Max +35"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Kills: "
+        },
+        {
+          "obfuscated": true,
+          "color": "red",
+          "text": "00000"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "+1\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "per "
+        },
+        {
+          "color": "yellow",
+          "text": "500 "
+        },
+        {
+          "color": "gray",
+          "text": "wood"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Sums wood collections, max +100"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Wood collections: "
+        },
+        {
+          "obfuscated": true,
+          "color": "yellow",
+          "text": "000000"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Kills count for mobs lvl 10+"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

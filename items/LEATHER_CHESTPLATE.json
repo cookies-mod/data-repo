@@ -7,5 +7,10 @@
   },
   "npc_sell_price": 12,
   "id": "LEATHER_CHESTPLATE",
-  "can_be_reforged": true
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

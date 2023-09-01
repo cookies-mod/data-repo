@@ -5,5 +5,30 @@
   "name": "Purchase Revive",
   "glowing": true,
   "tier": "SPECIAL",
-  "id": "AUTO_REVIVE_PERK_ITEM"
+  "id": "AUTO_REVIVE_PERK_ITEM",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Right-click this item to buy an Auto Revive."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cost: "
+        },
+        {
+          "color": "gray",
+          "text": "50 Tokens"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

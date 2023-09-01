@@ -5,5 +5,93 @@
   "name": "Scorched Power Crystal",
   "tier": "LEGENDARY",
   "npc_sell_price": 350000,
-  "id": "SCORCHED_POWER_CRYSTAL"
+  "id": "SCORCHED_POWER_CRYSTAL",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Powers "
+        },
+        {
+          "color": "aqua",
+          "text": "Beacons "
+        },
+        {
+          "color": "gray",
+          "text": "for up to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_aqua",
+          "text": "48 hours "
+        },
+        {
+          "color": "gray",
+          "text": "at a time!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Adds "
+        },
+        {
+          "color": "gold",
+          "text": "+1% "
+        },
+        {
+          "color": "gray",
+          "text": "minion speed buff and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+20% "
+        },
+        {
+          "color": "gray",
+          "text": "profile stats to beacons"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "fueled by this power crystal!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Has a single "
+        },
+        {
+          "color": "gray",
+          "text": "use and can be stacked."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

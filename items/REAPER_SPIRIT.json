@@ -6,5 +6,55 @@
   "category": "COSMETIC",
   "tier": "MYTHIC",
   "unstackable": true,
-  "id": "REAPER_SPIRIT"
+  "id": "REAPER_SPIRIT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Item skins give your gear a"
+    },
+    {
+      "color": "gray",
+      "text": "fresh new look! Apply them just"
+    },
+    {
+      "color": "gray",
+      "text": "like an enchant book using the"
+    },
+    {
+      "color": "gray",
+      "text": "anvil."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This skin can be applied to"
+    },
+    {
+      "color": "dark_purple",
+      "text": "Reaper Mask"
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "dark_purple",
+      "text": "This skin adapts to the"
+    },
+    {
+      "color": "dark_purple",
+      "text": "day-night cycle!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "bold": true,
+      "color": "light_purple",
+      "text": "MYTHIC COSMETIC"
+    }
+  ]
 }

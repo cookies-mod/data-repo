@@ -3,6 +3,25 @@
   "name": "Metaphoric Egg",
   "tier": "RARE",
   "origin": "RIFT",
-  "description": "A ticking time bomb to new life. Acquired using Berberis Blowgun.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A ticking time bomb to new life."
+    },
+    {
+      "color": "gray",
+      "text": "Acquired using Berberis Blowgun."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "METAPHORIC_EGG"
 }

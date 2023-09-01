@@ -1,9 +1,35 @@
 {
-  "material": "WOOD_HOE",
+  "material": "WOODen_HOE",
   "name": "Sam\u0027s Scythe",
   "tier": "COMMON",
   "npc_sell_price": 1,
   "glowing": true,
   "soulbound": "COOP",
-  "id": "SAM_SCYTHE"
+  "id": "SAM_SCYTHE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Cleans a "
+        },
+        {
+          "color": "blue",
+          "text": "3x3 "
+        },
+        {
+          "color": "gray",
+          "text": "area of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "grass, leaves and flowers."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

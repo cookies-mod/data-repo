@@ -6,5 +6,45 @@
   "tier": "LEGENDARY",
   "museum": true,
   "soulbound": "COOP",
-  "id": "ROYAL_PIGEON"
+  "id": "ROYAL_PIGEON",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Seek the King "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Reach out to the King and open"
+    },
+    {
+      "color": "gray",
+      "text": "the Commissions menu."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "5s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

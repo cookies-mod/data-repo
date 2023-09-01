@@ -5,5 +5,33 @@
   "name": "Spirit Wing",
   "tier": "EPIC",
   "dungeon_item": true,
-  "id": "SPIRIT_WING"
+  "id": "SPIRIT_WING",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Spirits of bats often take"
+    },
+    {
+      "color": "gray",
+      "text": "refuge in their own wings. They"
+    },
+    {
+      "color": "gray",
+      "text": "sometimes grow in power and gain"
+    },
+    {
+      "color": "gray",
+      "text": "tremendous magical properties."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

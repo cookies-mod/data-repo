@@ -9,5 +9,52 @@
   },
   "npc_sell_price": 8,
   "museum": true,
-  "id": "CHICKEN_HEAD"
+  "id": "CHICKEN_HEAD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Lay eggs when you sneak! Has a"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "cooldown of "
+        },
+        {
+          "color": "green",
+          "text": "20 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds. Also"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "reduces fall damage by "
+        },
+        {
+          "color": "green",
+          "text": "5.0%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

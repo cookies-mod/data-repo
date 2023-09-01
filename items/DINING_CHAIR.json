@@ -4,5 +4,29 @@
   "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNzM1ZjIzMDFkMDgxMGJkY2ViM2Y4ZGQyNTZlZjBjMGMwMmVlZGM2ZTA0N2JhM2U1OWVkZWIwMzdjOGZkZjJmIn19fQ\u003d\u003d",
   "name": "Dining Chair",
   "furniture": "DINING_CHAIR",
-  "id": "DINING_CHAIR"
+  "id": "DINING_CHAIR",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Seats One Player"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This simple dining chair can be"
+    },
+    {
+      "color": "gray",
+      "text": "sat on by a single player"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

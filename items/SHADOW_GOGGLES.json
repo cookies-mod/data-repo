@@ -55,5 +55,15 @@
     }
   ],
   "dungeon_item": true,
-  "id": "SHADOW_GOGGLES"
+  "id": "SHADOW_GOGGLES",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

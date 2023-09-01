@@ -7,5 +7,48 @@
     "DAMAGE": 30
   },
   "npc_sell_price": 1,
-  "id": "WITHER_BOW"
+  "id": "WITHER_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deals "
+        },
+        {
+          "color": "green",
+          "text": "+100% "
+        },
+        {
+          "color": "gray",
+          "text": "damage to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Withers and Wither"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Skeletons"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

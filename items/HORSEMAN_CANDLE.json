@@ -4,5 +4,37 @@
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTUyMWNmNDVlYmUzMjFlNDg2MGQ3NmZkN2I2YWJkMzc5OTkzYzZmMmM5ZDRhMTljMzdiZGNiN2IxMWI2YiJ9fX0\u003d",
   "name": "Horseman\u0027s Candle",
   "tier": "EPIC",
-  "id": "HORSEMAN_CANDLE"
+  "id": "HORSEMAN_CANDLE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Used to summon the Headless"
+    },
+    {
+      "color": "gray",
+      "text": "Horseman. This item can only be"
+    },
+    {
+      "color": "gray",
+      "text": "used at night!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can be spawned in:"
+    },
+    {
+      "color": "red",
+      "text": "Graveyard"
+    },
+    {
+      "color": "dark_green",
+      "text": "Wilderness"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

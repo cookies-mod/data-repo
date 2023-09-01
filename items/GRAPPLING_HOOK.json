@@ -3,5 +3,22 @@
   "name": "Grappling Hook",
   "tier": "UNCOMMON",
   "npc_sell_price": 1200,
-  "id": "GRAPPLING_HOOK"
+  "id": "GRAPPLING_HOOK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Travel around in style using"
+    },
+    {
+      "color": "gray",
+      "text": "this Grappling Hook."
+    },
+    {
+      "color": "dark_gray",
+      "text": "2 Second Cooldown"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

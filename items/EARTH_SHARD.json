@@ -76,5 +76,91 @@
     }
   ],
   "dungeon_item": true,
-  "id": "EARTH_SHARD"
+  "id": "EARTH_SHARD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Defense: "
+        },
+        {
+          "color": "green",
+          "text": "+73 "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This shard automatically adapts"
+    },
+    {
+      "color": "gray",
+      "text": "to its user inside Dungeons,"
+    },
+    {
+      "color": "gray",
+      "text": "allowing you to perform your"
+    },
+    {
+      "color": "gray",
+      "text": "class ability. Reduces the"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "cooldown of "
+        },
+        {
+          "color": "blue",
+          "text": "Seismic Wave "
+        },
+        {
+          "color": "gray",
+          "text": "by"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "10s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to use your class"
+    },
+    {
+      "color": "yellow",
+      "text": "ability!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

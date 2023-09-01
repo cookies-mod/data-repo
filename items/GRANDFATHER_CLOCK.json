@@ -5,5 +5,33 @@
   "name": "Grandfather Clock",
   "furniture": "GRANDFATHER_CLOCK",
   "tier": "EPIC",
-  "id": "GRANDFATHER_CLOCK"
+  "id": "GRANDFATHER_CLOCK",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Displays Time"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This ultimate furniture"
+    },
+    {
+      "color": "gray",
+      "text": "achievement accurately tells the"
+    },
+    {
+      "color": "gray",
+      "text": "time in your SkyBlock island"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

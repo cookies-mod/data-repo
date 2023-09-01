@@ -7,5 +7,52 @@
   "unstackable": true,
   "npc_sell_price": 1000,
   "dungeon_item": true,
-  "id": "INFINITE_SPIRIT_LEAP"
+  "id": "INFINITE_SPIRIT_LEAP",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Spirit Leap "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Allows you to teleport to any"
+    },
+    {
+      "color": "gray",
+      "text": "teammate!"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "2s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "red",
+      "text": "Dungeons only!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

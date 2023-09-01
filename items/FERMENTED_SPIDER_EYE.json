@@ -2,5 +2,11 @@
   "material": "FERMENTED_SPIDER_EYE",
   "name": "Fermented Spider Eye",
   "npc_sell_price": 10,
-  "id": "FERMENTED_SPIDER_EYE"
+  "id": "FERMENTED_SPIDER_EYE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

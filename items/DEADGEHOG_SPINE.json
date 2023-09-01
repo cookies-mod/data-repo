@@ -2,7 +2,42 @@
   "material": "ARROW",
   "name": "Deadgehog Spine",
   "tier": "UNCOMMON",
-  "description": "Contrary to popular belief, Deadgehogs aren\u0027t rodents.\n\nThey are in fact mangled wraith remnants of warriors who couldn\u0027t find true love.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Contrary to popular belief,"
+    },
+    {
+      "color": "gray",
+      "text": "Deadgehogs aren\u0027t rodents."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "They are in fact mangled wraith"
+    },
+    {
+      "color": "gray",
+      "text": "remnants of warriors who"
+    },
+    {
+      "color": "gray",
+      "text": "couldn\u0027t find true love."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "origin": "RIFT",
   "motes_sell_price": 111,
   "id": "DEADGEHOG_SPINE"

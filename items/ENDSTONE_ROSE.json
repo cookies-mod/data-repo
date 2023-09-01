@@ -1,9 +1,30 @@
 {
-  "material": "RED_ROSE",
+  "material": "poppy",
   "name": "Endstone Rose",
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 3000,
   "museum": true,
-  "id": "ENDSTONE_ROSE"
+  "id": "ENDSTONE_ROSE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "\"The Zealots have shown me so"
+    },
+    {
+      "color": "gray",
+      "text": "much love, I hope this simple"
+    },
+    {
+      "color": "gray",
+      "text": "rose shows how much I care for"
+    },
+    {
+      "color": "gray",
+      "text": "them.\" - Endstone Protector"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

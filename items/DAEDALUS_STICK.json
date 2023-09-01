@@ -4,5 +4,25 @@
   "glowing": true,
   "tier": "LEGENDARY",
   "npc_sell_price": 250000,
-  "id": "DAEDALUS_STICK"
+  "id": "DAEDALUS_STICK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Drops rare off of Minotaurs from"
+    },
+    {
+      "color": "gray",
+      "text": "Diana\u0027s Mythological Ritual."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

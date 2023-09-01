@@ -5,5 +5,28 @@
   "name": "TNT Charge",
   "glowing": true,
   "tier": "EPIC",
-  "id": "TNT_CHARGE"
+  "id": "TNT_CHARGE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A powerful charge, capable of"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "damaging "
+        },
+        {
+          "color": "red",
+          "text": "Kuudra\u0027s"
+        },
+        {
+          "color": "gray",
+          "text": " tentacles!"
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

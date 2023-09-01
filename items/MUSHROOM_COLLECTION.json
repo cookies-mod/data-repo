@@ -1,6 +1,7 @@
 {
   "material": "RED_MUSHROOM",
   "name": "Mushroom",
+  "tier": "UNOBTAINABLE",
   "npc_sell_price": 5,
   "id": "MUSHROOM_COLLECTION"
 }

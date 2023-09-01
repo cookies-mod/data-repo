@@ -6,5 +6,55 @@
   "category": "REFORGE_STONE",
   "tier": "UNCOMMON",
   "npc_sell_price": 1,
-  "id": "SALT_CUBE"
+  "id": "SALT_CUBE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Salty "
+        },
+        {
+          "color": "gray",
+          "text": "reforge"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "when combined with a fishing"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "rod"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

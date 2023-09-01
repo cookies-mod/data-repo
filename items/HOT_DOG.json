@@ -6,7 +6,15 @@
   "tier": "COMMON",
   "origin": "RIFT",
   "unstackable": true,
-  "description": "Deposit on Joey\u0027s plate.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Deposit on Joey\u0027s plate."
+    },
+    {
+      "text": ""
+    }
+  ],
   "soulbound": "SOLO",
   "id": "HOT_DOG"
 }

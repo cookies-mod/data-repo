@@ -1,6 +1,19 @@
 {
-  "material": "MONSTER_EGG",
+  "material": "villager_spawn_egg",
   "durability": 101,
   "name": "Move Sam",
-  "id": "SAM_ASSISTANT"
+  "id": "SAM_ASSISTANT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Place this where you would like"
+    },
+    {
+      "color": "gray",
+      "text": "Sam to move to!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

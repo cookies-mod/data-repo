@@ -9,5 +9,34 @@
   "stats": {
     "vitality": 10
   },
-  "id": "HEALING_RING"
+  "id": "HEALING_RING",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "dark_red",
+          "text": "+10\u2668 Vitality"
+        },
+        {
+          "color": "gray",
+          "text": ", which"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "increases incoming healing."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

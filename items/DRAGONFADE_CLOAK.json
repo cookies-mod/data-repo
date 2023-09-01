@@ -18,5 +18,76 @@
     "DEFENSE": 5,
     "strength": 5
   },
-  "id": "DRAGONFADE_CLOAK"
+  "id": "DRAGONFADE_CLOAK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "All stats on this piece of"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "equipment are multiplied by "
+        },
+        {
+          "color": "dark_purple",
+          "text": "3x"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "while on "
+        },
+        {
+          "color": "light_purple",
+          "text": "The End"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Multiplies damage dealt to"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Dragons "
+        },
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "red",
+          "text": "1.01x"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

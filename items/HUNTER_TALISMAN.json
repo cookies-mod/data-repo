@@ -15,5 +15,10 @@
   "stats": {
     "combat_wisdom": 2
   },
-  "id": "HUNTER_TALISMAN"
+  "id": "HUNTER_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

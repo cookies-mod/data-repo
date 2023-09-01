@@ -1,8 +1,14 @@
 {
-  "material": "INK_SACK",
+  "material": "INK_SAC",
   "name": "Enchanted Ink Sac",
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 160,
-  "id": "ENCHANTED_INK_SACK"
+  "id": "ENCHANTED_INK_SACK",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

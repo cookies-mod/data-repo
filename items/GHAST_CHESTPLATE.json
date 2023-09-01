@@ -2,7 +2,7 @@
   "material": "CHAINMAIL_CHESTPLATE",
   "name": "Ghast Chestplate",
   "category": "CHESTPLATE",
-  "tier": "RARE",
+  "tier": "UNOBTAINABLE",
   "stats": {
     "HEALTH": 200
   },

@@ -1,9 +1,18 @@
 {
-  "material": "COOKED_FISH",
+  "material": "COOKED_SALMON",
   "durability": 1,
   "name": "Flake the Fish",
   "glowing": true,
   "tier": "SPECIAL",
   "museum": true,
-  "id": "SNOWFLAKE_THE_FISH"
+  "id": "SNOWFLAKE_THE_FISH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "I\u0027m a special snowflake"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

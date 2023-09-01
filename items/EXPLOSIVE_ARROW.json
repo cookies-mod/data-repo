@@ -24,5 +24,112 @@
       "mode": "III"
     }
   ],
-  "id": "EXPLOSIVE_ARROW"
+  "id": "EXPLOSIVE_ARROW",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Passive: Explosive"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "This arrow explodes after "
+        },
+        {
+          "color": "green",
+          "text": "2s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "or on impact."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "The explosion deals the arrow\u0027s"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "damage split to mobs within "
+        },
+        {
+          "color": "yellow",
+          "text": "2.5"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "blocks."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "You will lose "
+        },
+        {
+          "color": "red",
+          "text": "10% "
+        },
+        {
+          "color": "gray",
+          "text": "of your"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "\u2764 Health "
+        },
+        {
+          "color": "gray",
+          "text": "if you are in the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "explosion."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Practice III"
+        },
+        {
+          "color": "red",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Stats added when shot!"
+    }
+  ]
 }

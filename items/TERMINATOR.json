@@ -65,5 +65,144 @@
       "level": 27
     }
   ],
-  "id": "TERMINATOR"
+  "id": "TERMINATOR",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Shortbow: Instantly shoots!"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Shoots "
+        },
+        {
+          "color": "aqua",
+          "text": "3 "
+        },
+        {
+          "color": "gray",
+          "text": "arrows at once."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can damage endermen."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Divides your "
+        },
+        {
+          "color": "blue",
+          "text": "\u2623 Crit Chance "
+        },
+        {
+          "color": "red",
+          "text": "by 4!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Salvation "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Can be casted after landing "
+        },
+        {
+          "color": "gold",
+          "text": "3 "
+        },
+        {
+          "color": "gray",
+          "text": "hits."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Shoot a beam, penetrating up"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to "
+        },
+        {
+          "color": "yellow",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "enemies."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "The beam always crits."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Soulflow Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "1\u2e0e"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "2s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

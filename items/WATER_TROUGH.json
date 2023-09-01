@@ -4,5 +4,29 @@
   "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MTQ2NTMwMGQ1ZDZmNzljNTJjYTkzYzA4ZDU0Yjg1YWE4MzBkNDM3M2EyNDY2ODFhYmU2ZDc2NjkyYjVkMGQ0In19fQ\u003d\u003d",
   "name": "Water Trough",
   "furniture": "WATER_TROUGH",
-  "id": "WATER_TROUGH"
+  "id": "WATER_TROUGH",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Infinite Water!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "An infinite source of water for"
+    },
+    {
+      "color": "gray",
+      "text": "buckets and bottles."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

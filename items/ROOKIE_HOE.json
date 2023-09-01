@@ -11,5 +11,32 @@
       "level": 1
     }
   ],
-  "id": "ROOKIE_HOE"
+  "id": "ROOKIE_HOE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "color": "gray",
+      "text": "Crops broken with this hoe have"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "a "
+        },
+        {
+          "color": "green",
+          "text": "50%"
+        },
+        {
+          "color": "gray",
+          "text": " chance to drop a seed."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -9,5 +9,58 @@
   },
   "museum": true,
   "tier": "SPECIAL",
-  "id": "PARTY_HAT_SLOTH"
+  "id": "PARTY_HAT_SLOTH",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Party Time!"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "aqua",
+          "text": "+1\u270e Intelligence "
+        },
+        {
+          "color": "gray",
+          "text": "while"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "on your head for each SkyBlock"
+    },
+    {
+      "color": "gray",
+      "text": "year you\u0027ve been playing."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Obtained: "
+        },
+        {
+          "color": "yellow",
+          "text": "2023"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

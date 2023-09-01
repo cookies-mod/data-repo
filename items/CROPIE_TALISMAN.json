@@ -5,5 +5,61 @@
   "name": "Cropie Talisman",
   "tier": "COMMON",
   "category": "ACCESSORY",
-  "id": "CROPIE_TALISMAN"
+  "id": "CROPIE_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "gold",
+          "text": "+10\u2618 Farming Fortune"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "when breaking "
+        },
+        {
+          "color": "green",
+          "text": "Wheat"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Carrots"
+        },
+        {
+          "color": "gray",
+          "text": ", and "
+        },
+        {
+          "color": "green",
+          "text": "Potatoes"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

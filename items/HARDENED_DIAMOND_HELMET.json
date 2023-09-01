@@ -49,5 +49,10 @@
     ]
   ],
   "id": "HARDENED_DIAMOND_HELMET",
-  "can_be_reforged":true
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

@@ -5,5 +5,57 @@
   "name": "Toy",
   "tier": "COMMON",
   "soulbound": "SOLO",
-  "id": "TOY"
+  "id": "TOY",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Return to "
+        },
+        {
+          "color": "light_purple",
+          "text": "Suus "
+        },
+        {
+          "color": "gray",
+          "text": "in"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_green",
+          "text": "Dragontail "
+        },
+        {
+          "color": "gray",
+          "text": "on the "
+        },
+        {
+          "color": "red",
+          "text": "Crimson"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Isle"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

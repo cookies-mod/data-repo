@@ -3,5 +3,68 @@
   "name": "Deep Ocean Biome Stick",
   "glowing": true,
   "npc_sell_price": 150,
-  "id": "DEEP_OCEAN_BIOME_STICK"
+  "id": "DEEP_OCEAN_BIOME_STICK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Allows you to change the biome"
+    },
+    {
+      "color": "gray",
+      "text": "at the targeted block on your"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "private island to "
+        },
+        {
+          "color": "aqua",
+          "text": "Deep"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Ocean"
+        },
+        {
+          "color": "gray",
+          "text": ". Right-click to use, or"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Left-click to change the radius"
+    },
+    {
+      "color": "gray",
+      "text": "it effects."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Selected Radius: "
+        },
+        {
+          "color": "aqua",
+          "text": "5"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

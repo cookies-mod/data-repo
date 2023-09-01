@@ -3,5 +3,25 @@
   "name": "Dark Queen\u0027s Soul",
   "npc_sell_price": 5000,
   "tier": "EPIC",
-  "id": "DARK_QUEENS_SOUL_DROP"
+  "id": "DARK_QUEENS_SOUL_DROP",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A portion of Arachne\u0027s Soul"
+    },
+    {
+      "color": "gray",
+      "text": "that can be used to craft items."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

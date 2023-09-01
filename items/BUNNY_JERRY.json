@@ -5,5 +5,42 @@
   "name": "Bunny Jerry",
   "furniture": "BUNNY_JERRY",
   "tier": "RARE",
-  "id": "BUNNY_JERRY"
+  "id": "BUNNY_JERRY",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Easter Cosmetic"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "This exclusive "
+        },
+        {
+          "color": "light_purple",
+          "text": "Easter"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "cosmetic can be placed on your"
+    },
+    {
+      "color": "gray",
+      "text": "island or traded."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

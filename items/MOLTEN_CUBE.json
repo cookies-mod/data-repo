@@ -6,5 +6,103 @@
   "category": "REFORGE_STONE",
   "tier": "RARE",
   "npc_sell_price": 1,
-  "id": "MOLTEN_CUBE"
+  "id": "MOLTEN_CUBE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Cubic "
+        },
+        {
+          "color": "gray",
+          "text": "reforge"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "when combined with armor"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "The center of Magma Cubes is"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "the hottest part...also the"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "hardest. Giant ones can even"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "create stones like this one."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XX"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

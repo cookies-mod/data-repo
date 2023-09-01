@@ -1,9 +1,64 @@
 {
-  "material": "INK_SACK",
+  "material": "purple_dye",
   "durability": 5,
   "name": "Twilight Arrow Poison",
   "category": "ARROW_POISON",
   "tier": "UNCOMMON",
   "npc_sell_price": 650,
-  "id": "TWILIGHT_ARROW_POISON"
+  "id": "TWILIGHT_ARROW_POISON",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Consumed on arrow shot"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Arrows apply a "
+        },
+        {
+          "color": "dark_purple",
+          "text": "\u16e4 "
+        },
+        {
+          "color": "dark_purple",
+          "text": "poison"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "that increases all incoming"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "damage by "
+        },
+        {
+          "color": "red",
+          "text": "1.1x "
+        },
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "green",
+          "text": "20s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

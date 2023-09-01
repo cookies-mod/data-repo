@@ -4,5 +4,35 @@
   "category": "ACCESSORY",
   "tier": "EPIC",
   "npc_sell_price": 115000,
-  "id": "EXPERIENCE_ARTIFACT"
+  "id": "EXPERIENCE_ARTIFACT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Increase the experience orbs you"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "gain by "
+        },
+        {
+          "color": "green",
+          "text": "25% "
+        },
+        {
+          "color": "gray",
+          "text": "while this item"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "is in your inventory."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

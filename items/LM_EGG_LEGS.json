@@ -1,9 +1,40 @@
 {
-  "material": "MONSTER_EGG",
+  "material": "zombie_spawn_egg",
   "durability": 54,
   "name": "Living Metal Pantspawn",
   "tier": "RARE",
   "origin": "RIFT",
   "motes_sell_price": 100,
-  "id": "LM_EGG_LEGS"
+  "id": "LM_EGG_LEGS",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Spawn "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Spawns a living metal autoarmor"
+    },
+    {
+      "color": "gray",
+      "text": "which can be assimilated into"
+    },
+    {
+      "color": "gray",
+      "text": "your own armor."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -5,5 +5,33 @@
   "name": "Spider Catalyst",
   "tier": "RARE",
   "npc_sell_price": 2000,
-  "id": "SPIDER_CATALYST"
+  "id": "SPIDER_CATALYST",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Drops rarely from Tarantula"
+    },
+    {
+      "color": "gray",
+      "text": "Broodfather when you are at"
+    },
+    {
+      "color": "gray",
+      "text": "least Spider Slayer LVL 2."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_purple",
+      "text": "Catalysts upgrade other items!"
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view upgrades!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

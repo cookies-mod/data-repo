@@ -3,6 +3,18 @@
   "name": "Wilted Berberis",
   "tier": "COMMON",
   "origin": "RIFT",
-  "description": "The plant equivalent of an alien zombie.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "The plant equivalent of an alien"
+    },
+    {
+      "color": "gray",
+      "text": "zombie."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "WILTED_BERBERIS"
 }

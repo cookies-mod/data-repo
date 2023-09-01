@@ -49,5 +49,52 @@
       ]
     }
   ],
-  "id": "FLAME_BREAKER_HELMET"
+  "id": "FLAME_BREAKER_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Heat Resistance"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "5x "
+        },
+        {
+          "color": "gray",
+          "text": "reduced heat"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "increase in "
+        },
+        {
+          "color": "red",
+          "text": "Magma Fields"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

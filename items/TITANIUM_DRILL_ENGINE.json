@@ -5,5 +5,74 @@
   "name": "Titanium-Plated Drill Engine",
   "tier": "RARE",
   "npc_sell_price": 103000,
-  "id": "TITANIUM_DRILL_ENGINE"
+  "id": "TITANIUM_DRILL_ENGINE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Drill Part"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Part Type: "
+        },
+        {
+          "color": "gold",
+          "text": "Drill Engine"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "gold",
+          "text": "+100\u2e15 Mining Speed"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can be applied to Drills by"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "talking to a "
+        },
+        {
+          "color": "dark_green",
+          "text": "Drill Mechanic"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

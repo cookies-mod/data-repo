@@ -1,10 +1,29 @@
 {
-  "material": "STAINED_GLASS",
+  "material": "blue_stained_glass",
   "durability": 11,
   "name": "Living Metal",
   "tier": "RARE",
   "origin": "RIFT",
   "motes_sell_price": 5,
-  "description": "It snakes around your blocky hand as your hold it.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "It snakes around your blocky"
+    },
+    {
+      "color": "gray",
+      "text": "hand as your hold it."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "LIVING_METAL"
 }

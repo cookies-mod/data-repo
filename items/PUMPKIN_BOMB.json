@@ -9,5 +9,61 @@
   },
   "ability_damage_scaling": 0.2,
   "npc_sell_price": 530,
-  "id": "PUMPKIN_BOMB"
+  "id": "PUMPKIN_BOMB",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Throwable explosive. Deals "
+        },
+        {
+          "color": "green",
+          "text": "2"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "damage to "
+        },
+        {
+          "color": "gold",
+          "text": "Spooky "
+        },
+        {
+          "color": "gray",
+          "text": "enemies"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "red",
+          "text": "3,000 "
+        },
+        {
+          "color": "gray",
+          "text": "damage against"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "non-scary enemies!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

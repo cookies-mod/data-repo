@@ -49,5 +49,97 @@
   ],
   "dungeon_item": true,
   "museum": true,
-  "id": "GOLD_BONZO_HEAD"
+  "id": "GOLD_BONZO_HEAD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Obtained from killing "
+        },
+        {
+          "color": "red",
+          "text": "Bonzo"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in "
+        },
+        {
+          "color": "red",
+          "text": "The Catacombs "
+        },
+        {
+          "color": "gray",
+          "text": "lots of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "times. Grants "
+        },
+        {
+          "color": "green",
+          "text": "2x "
+        },
+        {
+          "color": "gray",
+          "text": "stats on"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "The Catacombs Floor I"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Involved in the dark arts due"
+    },
+    {
+      "color": "dark_gray",
+      "text": "to his parents\u0027 insistence."
+    },
+    {
+      "color": "dark_gray",
+      "text": "Originally worked as a Circus"
+    },
+    {
+      "color": "dark_gray",
+      "text": "clown."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 700000 / 700000"
+    }
+  ]
 }

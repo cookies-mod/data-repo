@@ -5,5 +5,33 @@
   "name": "Undead Catalyst",
   "tier": "RARE",
   "npc_sell_price": 2000,
-  "id": "UNDEAD_CATALYST"
+  "id": "UNDEAD_CATALYST",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Drops rarely from Revenant"
+    },
+    {
+      "color": "gray",
+      "text": "Horror when you are at least"
+    },
+    {
+      "color": "gray",
+      "text": "Zombie Slayer LVL 3."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_purple",
+      "text": "Catalysts upgrade other items!"
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view upgrades!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

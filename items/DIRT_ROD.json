@@ -7,5 +7,103 @@
   "stats": {
     "fishing_speed": 15
   },
-  "id": "DIRT_ROD"
+  "id": "DIRT_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This rod allows you to fish on"
+    },
+    {
+      "color": "gray",
+      "text": "dirt."
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "At least you won\u0027t get wet!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Purchased by: "
+        },
+        {
+          "color": "aqua",
+          "text": "[MVP"
+        },
+        {
+          "color": "dark_green",
+          "text": "+"
+        },
+        {
+          "color": "aqua",
+          "text": "] Moulberry"
+        },
+        {
+          "color": "white",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Purchased for: "
+        },
+        {
+          "obfuscated": true,
+          "color": "gold",
+          "text": "666,666,666 "
+        },
+        {
+          "color": "gold",
+          "text": " coins"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "extra": [
+        {
+          "obfuscated": true,
+          "text": "1"
+        }
+      ],
+      "text": "Auction #"
+    },
+    {
+      "color": "dark_gray",
+      "extra": [
+        {
+          "obfuscated": true,
+          "text": "1"
+        }
+      ],
+      "text": "Bid #"
+    },
+    {
+      "color": "dark_gray",
+      "text": "July 2022"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

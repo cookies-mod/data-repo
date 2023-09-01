@@ -18,5 +18,16 @@
       }
     }
   },
-  "id": "SMOLDERING_TOMB_PORTAL"
+  "id": "SMOLDERING_TOMB_PORTAL",
+  "description": [
+    {"text":"Placing this item on your","color":"gray"},
+    {"text":"private island will create a","color":"gray"},
+    {"text":"portal to ","color":"gray","extra":[{"text":"the Smoldering","color":"aqua"}]},
+    {"text":"Tomb","color":"aqua","extra":[{"text":" for you to use whenever","color":"gray"}]},
+    {"text":"you want!","color":"gray"},
+    {"text":""},
+    {"text":"The portal will spawn facing","color":"dark_gray"},
+    {"text":"you on the block you click on.","color":"dark_gray"},
+    {"text":""}
+  ]
 }

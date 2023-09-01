@@ -6,5 +6,192 @@
   "category": "REFORGE_STONE",
   "tier": "UNCOMMON",
   "npc_sell_price": 1,
-  "id": "LUXURIOUS_SPOOL"
+  "id": "LUXURIOUS_SPOOL",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Power Stone"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Combine "
+        },
+        {
+          "color": "green",
+          "text": "9x "
+        },
+        {
+          "color": "gray",
+          "text": "of this stone at the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Thaumaturgist "
+        },
+        {
+          "color": "gray",
+          "text": "to permanently"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "unlock the "
+        },
+        {
+          "color": "green",
+          "text": "Silky "
+        },
+        {
+          "color": "gray",
+          "text": "power."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Older Spiders often make"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "better quality string. It is"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "said that female ones are even"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "more sturdy, but it was never"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "proven."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "At "
+        },
+        {
+          "obfuscated": true,
+          "color": "gold",
+          "text": "1,000"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "gold",
+          "text": "Magical Power"
+        },
+        {
+          "color": "gray",
+          "text": ":"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "white",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "23\u2726"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "white",
+          "text": "Speed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "775\u2620"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "blue",
+          "text": "Crit Damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Unique Power Bonus:"
+    },
+    {
+      "color": "yellow",
+      "text": "+5\u2694 Bonus Attack Speed"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Combat Skill Level XV"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

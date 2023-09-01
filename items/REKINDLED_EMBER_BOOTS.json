@@ -213,5 +213,89 @@
       "slot_type": "COMBAT"
     }
   ],
-  "id": "REKINDLED_EMBER_BOOTS"
+  "id": "REKINDLED_EMBER_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Tiered Bonus: Rekindle (0/4)"
+    },
+    {
+      "color": "gray",
+      "text": "Increase all of your outgoing"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "burning damage by "
+        },
+        {
+          "color": "red",
+          "text": "200%"
+        },
+        {
+          "color": "gray",
+          "text": ". For"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "each second you are on fire"
+    },
+    {
+      "color": "gray",
+      "text": "additionally increase all"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "burning damage by "
+        },
+        {
+          "color": "red",
+          "text": "1.2% "
+        },
+        {
+          "color": "gray",
+          "text": "up to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "50%"
+        },
+        {
+          "color": "gray",
+          "text": ". When wearing 2 or more"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "armor pieces of this set, melee"
+    },
+    {
+      "color": "gray",
+      "text": "attacks from ignited mobs will"
+    },
+    {
+      "color": "gray",
+      "text": "set you on fire!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

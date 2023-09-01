@@ -4,5 +4,38 @@
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 50000,
-  "id": "SUPER_COMPACTOR_3000"
+  "id": "SUPER_COMPACTOR_3000",
+  "description": [
+    {
+      "color": "gray",
+      "text": "This item can be used as a"
+    },
+    {
+      "color": "gray",
+      "text": "minion upgrade. This will"
+    },
+    {
+      "color": "gray",
+      "text": "automatically turn materials"
+    },
+    {
+      "color": "gray",
+      "text": "that a minion produces into"
+    },
+    {
+      "color": "gray",
+      "text": "their enchanted form when there"
+    },
+    {
+      "color": "gray",
+      "text": "are enough resources in the"
+    },
+    {
+      "color": "gray",
+      "text": "minion\u0027s storage."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

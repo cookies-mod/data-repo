@@ -1,9 +1,22 @@
 {
-  "material": "RAW_FISH",
+  "material": "salmon",
   "durability": 1,
   "name": "Gabagool the Fish",
   "glowing": true,
   "tier": "SPECIAL",
   "museum": true,
-  "id": "GABAGOOL_THE_FISH"
+  "id": "GABAGOOL_THE_FISH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "If the salad is on top, I send"
+    },
+    {
+      "color": "gray",
+      "text": "it back."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

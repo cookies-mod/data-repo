@@ -6,5 +6,34 @@
   "category": "ACCESSORY",
   "tier": "RARE",
   "npc_sell_price": 23000,
-  "id": "BAIT_RING"
+  "id": "BAIT_RING",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "5.0%"
+        },
+        {
+          "color": "gray",
+          "text": " chance not to consume"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "bait."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

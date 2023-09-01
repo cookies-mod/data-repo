@@ -88,5 +88,39 @@
     }
   ],
   "dungeon_item": true,
-  "id": "ZOMBIE_SOLDIER_CUTLASS"
+  "id": "ZOMBIE_SOLDIER_CUTLASS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Love Tap"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Heals you for "
+        },
+        {
+          "color": "red",
+          "text": "+10\u2764 Health"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "when you hit an entity!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 35000 / 35000"
+    }
+  ]
 }

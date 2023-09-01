@@ -6,5 +6,52 @@
   "unstackable": true,
   "category": "ACCESSORY",
   "tier": "LEGENDARY",
-  "id": "SHENS_REGALIA"
+  "id": "SHENS_REGALIA",
+  "description": [
+    {
+      "color": "gray",
+      "text": "According to the rumors,"
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Shen "
+        },
+        {
+          "color": "gray",
+          "text": "himself is crafting"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "special items. Have this in your"
+    },
+    {
+      "color": "gray",
+      "text": "inventory to gain access to a"
+    },
+    {
+      "color": "gray",
+      "text": "unique room hidden below the"
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Auction House"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

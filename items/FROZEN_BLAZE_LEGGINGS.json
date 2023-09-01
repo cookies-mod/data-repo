@@ -110,5 +110,160 @@
       ]
     }
   ],
-  "id": "FROZEN_BLAZE_LEGGINGS"
+  "id": "FROZEN_BLAZE_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Frozen Blazing Aura"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Damages mobs in a "
+        },
+        {
+          "color": "green",
+          "text": "5"
+        },
+        {
+          "color": "gray",
+          "text": " block"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "range for "
+        },
+        {
+          "color": "green",
+          "text": "300 "
+        },
+        {
+          "color": "gray",
+          "text": "base damage +"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "3%"
+        },
+        {
+          "color": "gray",
+          "text": " of their max "
+        },
+        {
+          "color": "red",
+          "text": "\u2764 Health"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "every second and applies"
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Slowness I "
+        },
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "yellow",
+          "text": "4"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "seconds."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Max "
+        },
+        {
+          "color": "red",
+          "text": "500 "
+        },
+        {
+          "color": "gray",
+          "text": "damage/s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Blaze Rod Collection: "
+        },
+        {
+          "obfuscated": true,
+          "color": "gold",
+          "text": "000"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "+100 per 5,000 rods"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Permanent "
+        },
+        {
+          "color": "red",
+          "text": "Fire "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "red",
+          "text": "Lava "
+        },
+        {
+          "color": "gray",
+          "text": "immunity."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

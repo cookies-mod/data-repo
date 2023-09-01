@@ -4,5 +4,14 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 1,
-  "id": "REVENANT_FLESH"
+  "id": "REVENANT_FLESH",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

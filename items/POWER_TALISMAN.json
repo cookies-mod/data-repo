@@ -12,5 +12,42 @@
       "slot_type": "AMBER"
     }
   ],
-  "id": "POWER_TALISMAN"
+  "id": "POWER_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Allows you to harness the power"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "of "
+        },
+        {
+          "color": "green",
+          "text": "2"
+        },
+        {
+          "color": "gray",
+          "text": " Gemstones, although"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "only half of the normal power"
+    },
+    {
+      "color": "gray",
+      "text": "can be harnessed!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

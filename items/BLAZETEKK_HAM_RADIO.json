@@ -11,5 +11,129 @@
       "level": 6
     }
   ],
-  "id": "BLAZETEKK_HAM_RADIO"
+  "id": "BLAZETEKK_HAM_RADIO",
+  "description": [
+    {
+      "color": "gold",
+      "text": "Ability: Telecommunications"
+    },
+    {
+      "color": "gray",
+      "text": "If exactly two players within"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "55 "
+        },
+        {
+          "color": "gray",
+          "text": "blocks are on the same"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "channel, both gain:"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+60\u2748 Defense"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "white",
+          "text": "+40\u2742 True Defense"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_aqua",
+          "text": "+1\u262f Combat Wisdom"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_red",
+          "text": "+2\u2668 Vitality"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "color": "dark_gray",
+      "text": "Keep item in inventory to get effect."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Tuning 4 Dummies "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Switches to the next radio"
+    },
+    {
+      "color": "gray",
+      "text": "channel."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Your channel: "
+        },
+        {
+          "color": "aqua",
+          "text": "103.5 FM"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Nearby: "
+        },
+        {
+          "color": "red",
+          "text": "0 enjoyers"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

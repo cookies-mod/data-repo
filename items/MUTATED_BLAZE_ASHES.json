@@ -5,7 +5,38 @@
   "name": "Mutated Blaze Ashes",
   "tier": "RARE",
   "npc_sell_price": 200,
-  "description": "%%gray%%%%italic%%Blazes are ephemeral creatures, constantly consuming themselves. Their ashes are said to bring good fortune.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Blazes are ephemeral"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "creatures, constantly consuming"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "themselves. Their ashes are said"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "to bring good fortune."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "soulbound": "COOP",
   "id": "MUTATED_BLAZE_ASHES"
 }

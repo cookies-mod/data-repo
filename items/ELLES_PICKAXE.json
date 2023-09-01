@@ -10,5 +10,11 @@
     "MINING_SPEED": 250
   },
   "npc_sell_price": 0,
-  "id": "ELLES_PICKAXE"
+  "id": "ELLES_PICKAXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

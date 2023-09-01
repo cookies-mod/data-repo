@@ -1,13 +1,30 @@
 {
-  "material": "GOLD_SWORD",
+  "material": "GOLDEN_SWORD",
   "enchantments": {
     "sharpness": 50
   },
-  "name": "Sword of the Universe",
+  "name": {"text":"S","color":"dark_red","extra":[{"text":"w","color":"red"},{"text":"o","color":"gold"},{"text":"r","color":"yellow"},{"text":"d ","color":"green"},{"text":"of ","color":"aqua"},{"text":"t","color":"blue"},{"text":"h","color":"light_purple"},{"text":"e ","color":"blue"},{"text":"Uni","color":"aqua"},{"text":"v","color":"green"},{"text":"e","color":"yellow"},{"text":"r","color":"red"},{"text":"s","color":"dark_red"},{"text":"e","color":"red"}]},
   "category": "SWORD",
-  "tier": "UNOBTAINABLE",
+  "tier": "ADMIN",
   "stats": {
     "DAMAGE": 99999999
   },
-  "id": "NOVA_SWORD"
+  "can_be_reforged": true,
+  "soulbound": "SOLO",
+  "id": "NOVA_SWORD",
+  "description": [
+    {"text":"Damage: ","color":"gray","extra":[{"text":"+\u221e","color":"light_purple"}]},
+    {"text":"Skill: ","color":"gray","extra":[{"text":"-\u221e","color":"light_purple"}]},
+    {"text":"Clout: ","color":"gray","extra":[{"text":"+100","color":"light_purple"}]},
+    {"text":""},
+    {"text":"Sharpness L","color":"blue"},
+    {"text":"Increases melee damage dealt by","color":"gray"},
+    {"text":"65%","color":"green","extra":[{"text":".","color":"gray"}]},
+    {"text":""},
+    {"text":"Oi you! Yes you. What are you","color":"yellow"},
+    {"text":"looking at? Yes this sword has \u221e","color":"yellow"},
+    {"text":"damage. Kinda overkill? I'm lazy","color":"yellow"},
+    {"text":"ok. ","color":"yellow","extra":[{"text":"(\u256f\u00b0\u25a1\u00b0\uff09\u256f","color":"red"},{"text":"\ufe35","color":"white"},{"text":" \u253b\u2501\u253b","color":"gray"}]},
+    {"text":""}
+  ]
 }

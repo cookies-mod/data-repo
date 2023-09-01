@@ -6,5 +6,98 @@
   "category": "REFORGE_STONE",
   "tier": "RARE",
   "npc_sell_price": 1,
-  "id": "NECROMANCER_BROOCH"
+  "id": "NECROMANCER_BROOCH",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Necrotic "
+        },
+        {
+          "color": "gray",
+          "text": "reforge"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "when combined with armor"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Rewarded to every"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Necromancer who passes the final"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "exam."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XIX"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

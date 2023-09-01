@@ -1,8 +1,17 @@
 {
-  "material": "WOOD_BUTTON",
+  "material": "oak_BUTTON",
   "name": "Null Atom",
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 33333,
-  "id": "NULL_ATOM"
+  "id": "NULL_ATOM",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

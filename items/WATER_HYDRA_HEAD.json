@@ -11,5 +11,11 @@
     "HEALTH": 100
   },
   "npc_sell_price": 500,
-  "id": "WATER_HYDRA_HEAD"
+  "id": "WATER_HYDRA_HEAD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

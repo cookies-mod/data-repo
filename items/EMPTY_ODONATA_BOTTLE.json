@@ -3,5 +3,39 @@
   "name": "Empty Odonata Bottle",
   "tier": "UNCOMMON",
   "origin": "RIFT",
-  "id": "EMPTY_ODONATA_BOTTLE"
+  "id": "EMPTY_ODONATA_BOTTLE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Hold this and look at an"
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Odonata "
+        },
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "green",
+          "text": "3s "
+        },
+        {
+          "color": "gray",
+          "text": "while"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "very close to bottle it."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

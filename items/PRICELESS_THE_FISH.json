@@ -5,5 +5,64 @@
   "name": "Priceless the Fish",
   "tier": "SPECIAL",
   "museum": true,
-  "id": "PRICELESS_THE_FISH"
+  "id": "PRICELESS_THE_FISH",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "The living proof that fish"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "understand very little about"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "economics."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Claimed by: "
+        },
+        {
+          "color": "aqua",
+          "text": "[MVP"
+        },
+        {
+          "color": "dark_green",
+          "text": "+"
+        },
+        {
+          "color": "aqua",
+          "text": "] ThatGravyBoat"
+        },
+        {
+          "color": "white",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Edition #1"
+    },
+    {
+      "color": "dark_gray",
+      "text": "July 2022"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

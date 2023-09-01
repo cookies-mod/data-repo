@@ -1,5 +1,5 @@
 {
-  "material": "WOOD_SWORD",
+  "material": "WOODen_SWORD",
   "name": "Wyld Sword",
   "tier": "UNCOMMON",
   "category": "SWORD",
@@ -7,5 +7,21 @@
   "stats": {
     "RIFT_DAMAGE": 2
   },
-  "id": "WYLD_SWORD"
+  "id": "WYLD_SWORD",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Could become anything."
+    },
+    {
+      "color": "dark_gray",
+      "text": "It\u0027s a wyldcard!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

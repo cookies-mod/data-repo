@@ -5,6 +5,82 @@
   "name": "Goblin Omelette",
   "tier": "RARE",
   "npc_sell_price": 20840,
-  "description": "%%gray%%%%italic%%May cause diseases",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Drill Part"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Part Type: "
+        },
+        {
+          "color": "gold",
+          "text": "Upgrade Module"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Regenerates 1 fuel every"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "20s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can be applied to Drills by"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "talking to a "
+        },
+        {
+          "color": "dark_green",
+          "text": "Drill Mechanic"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "May cause diseases"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "GOBLIN_OMELETTE"
 }

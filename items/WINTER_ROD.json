@@ -17,5 +17,31 @@
     }
   ],
   "museum": true,
-  "id": "WINTER_ROD"
+  "id": "WINTER_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+5\u03b1 Sea Creature Chance"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": " while on the Winter Island."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_HOE",
+  "material": "GOLDen_HOE",
   "name": "Cactus Knife",
   "category": "HOE",
   "tier": "EPIC",
@@ -10,5 +10,28 @@
       "level": 10
     }
   ],
-  "id": "CACTUS_KNIFE"
+  "id": "CACTUS_KNIFE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Slices through "
+        },
+        {
+          "color": "green",
+          "text": "cactus"
+        },
+        {
+          "color": "gray",
+          "text": " instantly!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -6,5 +6,31 @@
   "category": "ACCESSORY",
   "tier": "EPIC",
   "npc_sell_price": 1000,
-  "id": "WITHER_ARTIFACT"
+  "id": "WITHER_ARTIFACT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Reduces the damage taken from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Withers by "
+        },
+        {
+          "color": "green",
+          "text": "20%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

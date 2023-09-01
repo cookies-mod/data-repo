@@ -3,5 +3,33 @@
   "name": "Soul String",
   "npc_sell_price": 5000,
   "tier": "RARE",
-  "id": "SOUL_STRING"
+  "id": "SOUL_STRING",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Rare string that can be used"
+    },
+    {
+      "color": "gray",
+      "text": "to craft weapons that are"
+    },
+    {
+      "color": "gray",
+      "text": "infused with the power of"
+    },
+    {
+      "color": "gray",
+      "text": "Arachne."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

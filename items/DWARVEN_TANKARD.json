@@ -6,5 +6,29 @@
   "tier": "EPIC",
   "npc_sell_price": 10,
   "soulbound": "COOP",
-  "id": "DWARVEN_TANKARD"
+  "id": "DWARVEN_TANKARD",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Decoration item"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "The most stylish Dwarven"
+    },
+    {
+      "color": "gray",
+      "text": "drinking implement built to hold"
+    },
+    {
+      "color": "gray",
+      "text": "as much ale as possible."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

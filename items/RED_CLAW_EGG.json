@@ -1,8 +1,25 @@
 {
-  "material": "MONSTER_EGG",
+  "material": "MOOSHROOM_SPAWN_EGG",
   "durability": 96,
   "name": "Red Claw Egg",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "RED_CLAW_EGG"
+  "id": "RED_CLAW_EGG",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Drops very rarely from Sven"
+    },
+    {
+      "color": "gray",
+      "text": "Packmaster. No one knows what\u0027s"
+    },
+    {
+      "color": "gray",
+      "text": "in the egg."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

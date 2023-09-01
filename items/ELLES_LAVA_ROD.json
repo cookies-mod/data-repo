@@ -8,5 +8,8 @@
     "strength": 50,
     "fishing_speed": 8
   },
-  "id": "ELLES_LAVA_ROD"
+  "id": "ELLES_LAVA_ROD",
+  "description": [
+    {"text":"Special kuudra rod","text":"gray"}
+  ]
 }

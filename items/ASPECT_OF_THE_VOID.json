@@ -1,5 +1,5 @@
 {
-  "material": "DIAMOND_SPADE",
+  "material": "DIAMOND_Shovel",
   "name": "Aspect of the Void",
   "category": "SWORD",
   "tier": "EPIC",
@@ -13,5 +13,96 @@
       "slot_type": "SAPPHIRE"
     }
   ],
-  "id": "ASPECT_OF_THE_VOID"
+  "id": "ASPECT_OF_THE_VOID",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Instant Transmission "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Teleport "
+        },
+        {
+          "color": "green",
+          "text": "8 blocks"
+        },
+        {
+          "color": "gray",
+          "text": " ahead of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "you and gain "
+        },
+        {
+          "color": "green",
+          "text": "+50 "
+        },
+        {
+          "color": "white",
+          "text": "\u2726 Speed"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "green",
+          "text": "3 seconds"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "45"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

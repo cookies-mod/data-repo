@@ -208,5 +208,22 @@
       }
     ]
   ],
-  "id": "LAVA_SHELL_NECKLACE"
+  "id": "LAVA_SHELL_NECKLACE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Disables natural regeneration"
+    },
+    {
+      "color": "gray",
+      "text": "and all healing."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

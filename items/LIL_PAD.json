@@ -1,8 +1,24 @@
 {
-  "material": "WATER_LILY",
+  "material": "lily_pad",
   "name": "Lil\u0027 Pad",
   "tier": "UNCOMMON",
-  "description": "Can be placed on water, especially if you\u0027re scared of said water.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Can be placed on water,"
+    },
+    {
+      "color": "gray",
+      "text": "especially if you\u0027re scared of"
+    },
+    {
+      "color": "gray",
+      "text": "said water."
+    },
+    {
+      "text": ""
+    }
+  ],
   "origin": "RIFT",
   "motes_sell_price": 5,
   "id": "LIL_PAD"

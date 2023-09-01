@@ -11,11 +11,5 @@
     "rift_health": 2,
     "rift_mana_regen": 25
   },
-  "id": "TEST_VAMPIRE_CHESTPLATE",
-  "description": [
-    {"text": ""},
-    {"text": "WARNING!", "color": "red", "bold": true},
-    {"text": "This item is not obtainable, it does ONLY exist in the API.", "color": "red"},
-    {"text": ""}
-  ]
+  "id": "TEST_VAMPIRE_CHESTPLATE"
 }

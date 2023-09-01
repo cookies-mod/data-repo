@@ -6,5 +6,11 @@
   "tier": "UNCOMMON",
   "npc_sell_price": 1,
   "dungeon_item": true,
-  "id": "ARCHER_DUNGEON_ABILITY_1"
+  "id": "ARCHER_DUNGEON_ABILITY_1",
+  "description": [
+    {"text": ""},
+    {"text": "WARNING!", "color": "red", "bold": true},
+    {"text": "This item is not obtainable, it is only given to ghosts in dungeons.", "color": "red"},
+    {"text": ""}
+  ]
 }

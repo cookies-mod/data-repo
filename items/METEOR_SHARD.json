@@ -6,5 +6,108 @@
   "category": "REFORGE_STONE",
   "tier": "RARE",
   "npc_sell_price": 41150,
-  "id": "METEOR_SHARD"
+  "id": "METEOR_SHARD",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Fortified"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "reforge when combined with"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "equipment"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "A very strange find once"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "found inside the carcass of a"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Ghast. It seems like they enjoy"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "a snack that is out of this"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "world from time to time."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XXIV"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

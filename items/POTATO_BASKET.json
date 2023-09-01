@@ -5,5 +5,56 @@
   "name": "Basket of Hope from the Great Potato War",
   "tier": "EPIC",
   "museum": true,
-  "id": "POTATO_BASKET"
+  "id": "POTATO_BASKET",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Leaderboard Position: "
+        },
+        {
+          "color": "yellow",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "169"
+            }
+          ],
+          "text": "#"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "extra": [
+        {
+          "obfuscated": true,
+          "text": "IRONM00N"
+        }
+      ],
+      "text": "Awarded to: "
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "light_purple",
+      "text": "The greatest victory is that"
+    },
+    {
+      "italic": true,
+      "color": "light_purple",
+      "text": "which requires no battle."
+    },
+    {
+      "color": "dark_gray",
+      "text": "- Sun Tzu, The Art of War"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

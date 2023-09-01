@@ -5,5 +5,79 @@
   "name": "New Year Cake Bag",
   "category": "ACCESSORY",
   "tier": "UNCOMMON",
-  "id": "NEW_YEAR_CAKE_BAG"
+  "id": "NEW_YEAR_CAKE_BAG",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Holds "
+        },
+        {
+          "color": "light_purple",
+          "text": "New Year Cake"
+        },
+        {
+          "color": "gray",
+          "text": ". Each"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "unique New Year Cake within this"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "bag grants "
+        },
+        {
+          "color": "green",
+          "text": "+1 "
+        },
+        {
+          "color": "red",
+          "text": "\u2764 Health"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Current Bonus: "
+        },
+        {
+          "color": "red",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "69"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "color": "red",
+          "text": "\u2764 Health"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

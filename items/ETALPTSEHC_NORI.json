@@ -8,5 +8,10 @@
     "RIFT_TIME": 30
   },
   "glowing": true,
-  "id": "ETALPTSEHC_NORI"
+  "id": "ETALPTSEHC_NORI",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

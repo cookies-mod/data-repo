@@ -2,7 +2,7 @@
   "material": "BOOK_AND_QUILL",
   "name": "Ultimate Wither Scroll",
   "glowing": true,
-  "tier": "EPIC",
+  "tier": "UNOBTAINABLE",
   "stats": {
     "WEAPON_ABILITY_DAMAGE": 10000
   },

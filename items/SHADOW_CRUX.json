@@ -5,7 +5,30 @@
   "name": "Shadow Crux",
   "tier": "UNCOMMON",
   "origin": "RIFT",
-  "description": "Trust no one.\nNot even your own shadow.\nIt\u0027s always acting shady.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Trust no one."
+    },
+    {
+      "color": "gray",
+      "text": "Not even your own shadow."
+    },
+    {
+      "color": "gray",
+      "text": "It\u0027s always acting shady."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "motes_sell_price": 100,
   "id": "SHADOW_CRUX"
 }

@@ -5,7 +5,35 @@
   "name": "Blaze Ashes",
   "npc_sell_price": 50,
   "tier": "UNCOMMON",
-  "description": "%%gray%%%%italic%%Blazes are ephemeral creatures, constantly consuming themselves. Their ashes are said to bring good fortune.",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Blazes are ephemeral"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "creatures, constantly consuming"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "themselves. Their ashes are said"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "to bring good fortune."
+    },
+    {
+      "text": ""
+    }
+  ],
   "soulbound": "COOP",
   "id": "BLAZE_ASHES"
 }

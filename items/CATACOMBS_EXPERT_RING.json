@@ -6,5 +6,44 @@
   "category": "ACCESSORY",
   "tier": "EPIC",
   "dungeon_item": true,
-  "id": "CATACOMBS_EXPERT_RING"
+  "id": "CATACOMBS_EXPERT_RING",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Increases "
+        },
+        {
+          "color": "red",
+          "text": "Catacombs "
+        },
+        {
+          "color": "gray",
+          "text": "dungeon"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "experience by "
+        },
+        {
+          "color": "green",
+          "text": "+10%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -17,5 +17,31 @@
     "HEALTH": 15,
     "MINING_FORTUNE": 10
   },
-  "id": "ANCIENT_CLOAK"
+  "id": "ANCIENT_CLOAK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Health-consuming abilities deal"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "10% "
+        },
+        {
+          "color": "gray",
+          "text": "more damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

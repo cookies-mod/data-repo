@@ -4,5 +4,110 @@
   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMzg5ODY4OTY3NiwKICAicHJvZmlsZUlkIiA6ICJhMmY4MzQ1OTVjODk0YTI3YWRkMzA0OTcxNmNhOTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiUHVuY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjg0MWE0OWIxOTlhNTljNDMxYmYzZmMzNzgzZjZiNjU0NWNlNzhjMzgwNDI2MTdmNjZlYmQ4N2NkZDU0OGU4YyIKICAgIH0KICB9Cn0\u003d",
   "name": "Bat Person Talisman",
   "category": "ACCESSORY",
-  "id": "BAT_PERSON_TALISMAN"
+  "id": "BAT_PERSON_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "green",
+          "text": "+2 "
+        },
+        {
+          "color": "green",
+          "text": "\u2748 Defense"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "red",
+          "text": "\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Strength"
+        },
+        {
+          "color": "gray",
+          "text": ", and "
+        },
+        {
+          "color": "aqua",
+          "text": "\u270e Intelligence"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "for each bat you have"
+    },
+    {
+      "color": "gray",
+      "text": "summoned."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Works with "
+        },
+        {
+          "color": "gold",
+          "text": "Spirit Sceptre"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Witch Mask"
+        },
+        {
+          "color": "gray",
+          "text": ", and the "
+        },
+        {
+          "color": "green",
+          "text": "Bat"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Pet"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -3,7 +3,8 @@
   "name": "Polymorph Wand",
   "glowing": true,
   "category": "SWORD",
-  "tier": "RARE",
+  "tier": "UNOBTAINABLE",
   "npc_sell_price": 64000,
-  "id": "POLYMORPH_WAND"
+  "id": "POLYMORPH_WAND",
+  "can_be_reforged": true
 }

@@ -4,5 +4,52 @@
   "glowing": true,
   "tier": "EPIC",
   "unstackable": true,
-  "id": "BLOCK_ZAPPER"
+  "id": "BLOCK_ZAPPER",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Grand... Zapper? "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Right-Click a block to zap all"
+    },
+    {
+      "color": "gray",
+      "text": "connected blocks of the same"
+    },
+    {
+      "color": "gray",
+      "text": "type."
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "5,000 Bits"
+    }
+  ]
 }

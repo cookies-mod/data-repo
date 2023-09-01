@@ -154,5 +154,130 @@
       }
     ]
   ],
-  "id": "VANQUISHED_MAGMA_NECKLACE"
+  "id": "VANQUISHED_MAGMA_NECKLACE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Cube Fanatic"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "green",
+          "text": "20% "
+        },
+        {
+          "color": "gray",
+          "text": "more "
+        },
+        {
+          "color": "red",
+          "text": "Magma Cream"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "when killing Magma Cubes."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Piece Bonus: Magma Cube Absorber"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Kill "
+        },
+        {
+          "color": "green",
+          "text": "Magma Cubes "
+        },
+        {
+          "color": "gray",
+          "text": "to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "accumulate "
+        },
+        {
+          "color": "red",
+          "text": "Health"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Piece Bonus: "
+        },
+        {
+          "color": "red",
+          "text": "+0\u2764"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Next Upgrade: "
+        },
+        {
+          "color": "red",
+          "text": "+1\u2764 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "("
+        },
+        {
+          "color": "green",
+          "text": "0"
+        },
+        {
+          "color": "gray",
+          "text": "/"
+        },
+        {
+          "color": "red",
+          "text": "1,000"
+        },
+        {
+          "color": "dark_gray",
+          "text": ")"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

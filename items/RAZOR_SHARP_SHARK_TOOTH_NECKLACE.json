@@ -8,5 +8,38 @@
   "stats": {
     "STRENGTH": 10
   },
-  "id": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE"
+  "id": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+25% "
+        },
+        {
+          "color": "gray",
+          "text": "chance to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "get Shark Teeth during"
+    },
+    {
+      "color": "aqua",
+      "text": "Fishing Festivals."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

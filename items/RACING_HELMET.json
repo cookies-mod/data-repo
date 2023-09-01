@@ -5,5 +5,119 @@
   "name": "Racing Helmet",
   "tier": "LEGENDARY",
   "category": "HELMET",
-  "id": "RACING_HELMET"
+  "id": "RACING_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "When horses are not fast"
+    },
+    {
+      "color": "gray",
+      "text": "enough, use a Racing Helmet"
+    },
+    {
+      "color": "gray",
+      "text": "instead."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increases your speed cap to"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "500"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Purchased by: "
+        },
+        {
+          "color": "aqua",
+          "text": "[MVP"
+        },
+        {
+          "color": "green",
+          "text": "+"
+        },
+        {
+          "color": "aqua",
+          "text": "] Throwpo"
+        },
+        {
+          "color": "white",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Purchased for: "
+        },
+        {
+          "obfuscated": true,
+          "color": "gold",
+          "text": "666,666,666 "
+        },
+        {
+          "color": "gold",
+          "text": " coins"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "extra": [
+        {
+          "obfuscated": true,
+          "text": "1"
+        }
+      ],
+      "text": "Auction #"
+    },
+    {
+      "color": "dark_gray",
+      "extra": [
+        {
+          "obfuscated": true,
+          "text": "1"
+        }
+      ],
+      "text": "Bid #"
+    },
+    {
+      "color": "dark_gray",
+      "text": "July 2022"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

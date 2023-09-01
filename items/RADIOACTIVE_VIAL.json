@@ -5,5 +5,36 @@
   "name": "Radioactive Vial",
   "tier": "MYTHIC",
   "npc_sell_price": 100000,
-  "id": "RADIOACTIVE_VIAL"
+  "id": "RADIOACTIVE_VIAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Use at Kat to upgrade a Flying"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Fish pet to "
+        },
+        {
+          "color": "light_purple",
+          "text": "mythic "
+        },
+        {
+          "color": "gray",
+          "text": "rarity."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "bold": true,
+      "color": "light_purple",
+      "text": "MYTHIC"
+    }
+  ]
 }

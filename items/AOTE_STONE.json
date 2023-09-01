@@ -6,5 +6,102 @@
   "category": "REFORGE_STONE",
   "tier": "RARE",
   "npc_sell_price": 1,
-  "id": "AOTE_STONE"
+  "id": "AOTE_STONE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Warped "
+        },
+        {
+          "color": "gray",
+          "text": "reforge"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "when combined with a melee"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "weapon"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "If you look deep inside, you"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "risk finding yourself somewhere"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "else."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XXVI"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

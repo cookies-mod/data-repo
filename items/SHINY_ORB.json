@@ -5,5 +5,29 @@
   "name": "Shiny Orb",
   "tier": "LEGENDARY",
   "museum": true,
-  "id": "SHINY_ORB"
+  "id": "SHINY_ORB",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Right-click shiny pigs with this"
+    },
+    {
+      "color": "gray",
+      "text": "item."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Bring the pig back to the orb to"
+    },
+    {
+      "color": "gray",
+      "text": "gain loot."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

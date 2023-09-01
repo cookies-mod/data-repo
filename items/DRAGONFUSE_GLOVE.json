@@ -18,5 +18,58 @@
     "DEFENSE": 5,
     "critical_damage": 5
   },
-  "id": "DRAGONFUSE_GLOVE"
+  "id": "DRAGONFUSE_GLOVE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "While equipped, upgrades the"
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Aspect of the Dragon "
+        },
+        {
+          "color": "gray",
+          "text": "with:"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "+35\u2741 Damage"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "+50\u2741 Strength"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "text": "Very reduced ability knockback"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_BARDING",
+  "material": "GOLDEN_HORSE_ARMOR",
   "item_durability": -1,
   "name": "Jerry-chine Gun",
   "category": "SWORD",
@@ -47,5 +47,90 @@
       }
     ]
   ],
-  "id": "JERRY_STAFF"
+  "id": "JERRY_STAFF",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Rapid-fire "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Shoots a Jerry bullet, dealing"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "555.5 "
+        },
+        {
+          "color": "gray",
+          "text": "damage on impact and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "knocking you back."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Each shot has "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+30 "
+        },
+        {
+          "color": "gray",
+          "text": "mana cost."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "than the previous one, resetting"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "after "
+        },
+        {
+          "color": "green",
+          "text": "4s "
+        },
+        {
+          "color": "gray",
+          "text": "without shooting."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

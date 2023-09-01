@@ -4,5 +4,22 @@
   "tier": "RARE",
   "npc_sell_price": 1,
   "dungeon_item": true,
-  "id": "DUNGEON_CHEST_KEY"
+  "id": "DUNGEON_CHEST_KEY",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Allows you to open an additional"
+    },
+    {
+      "color": "gray",
+      "text": "treasure chest at the end of a"
+    },
+    {
+      "color": "gray",
+      "text": "dungeon!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

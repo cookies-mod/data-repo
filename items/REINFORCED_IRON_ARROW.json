@@ -17,5 +17,14 @@
       "mode": "I"
     }
   ],
-  "id": "REINFORCED_IRON_ARROW"
+  "id": "REINFORCED_IRON_ARROW",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Stats added when shot!"
+    }
+  ]
 }

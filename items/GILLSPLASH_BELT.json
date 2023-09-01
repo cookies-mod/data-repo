@@ -12,5 +12,11 @@
     "health_regeneration": 2,
     "fishing_speed": 12
   },
-  "id": "GILLSPLASH_BELT"
+  "id": "GILLSPLASH_BELT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

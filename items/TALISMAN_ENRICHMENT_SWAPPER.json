@@ -1,7 +1,62 @@
 {
-  "material": "REDSTONE_COMPARATOR",
+  "material": "COMPARATOR",
   "name": "Accessory Enrichment Swapper",
   "glowing": true,
   "tier": "SPECIAL",
-  "id": "TALISMAN_ENRICHMENT_SWAPPER"
+  "id": "TALISMAN_ENRICHMENT_SWAPPER",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Consumed on use"
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Swaps all "
+        },
+        {
+          "color": "blue",
+          "text": "enriched"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "accessories in your accessory"
+    },
+    {
+      "color": "gray",
+      "text": "bag to another enrichment."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to open menu!"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "200 Bits"
+    }
+  ]
 }

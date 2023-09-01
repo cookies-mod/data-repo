@@ -9,5 +9,104 @@
     "fishing_speed": 20
   },
   "museum": true,
-  "id": "GIANT_FISHING_ROD"
+  "id": "GIANT_FISHING_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "When fishing a sea creature,"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "you have a "
+        },
+        {
+          "color": "green",
+          "text": "50% "
+        },
+        {
+          "color": "gray",
+          "text": "chance to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "fish it twice."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Purchased by: "
+        },
+        {
+          "color": "red",
+          "text": "[YOUTUBE] Nullzee"
+        },
+        {
+          "color": "white",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Purchased for: "
+        },
+        {
+          "obfuscated": true,
+          "color": "gold",
+          "text": "666,666,666 "
+        },
+        {
+          "color": "gold",
+          "text": " coins"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "extra": [
+        {
+          "obfuscated": true,
+          "text": "1"
+        }
+      ],
+      "text": "Auction #"
+    },
+    {
+      "color": "dark_gray",
+      "extra": [
+        {
+          "obfuscated": true,
+          "text": "1"
+        }
+      ],
+      "text": "Bid #"
+    },
+    {
+      "color": "dark_gray",
+      "text": "July 2022"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

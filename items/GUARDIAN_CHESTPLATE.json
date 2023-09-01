@@ -9,5 +9,56 @@
     "HEALTH": 20
   },
   "npc_sell_price": 1200,
-  "id": "GUARDIAN_CHESTPLATE"
+  "id": "GUARDIAN_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Block Damage"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "If you are at full "
+        },
+        {
+          "color": "red",
+          "text": "\u2764 Health"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "the first damage you take will"
+    },
+    {
+      "color": "gray",
+      "text": "be nullified."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "60s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

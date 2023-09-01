@@ -101,5 +101,109 @@
     }
   ],
   "dungeon_item": true,
-  "id": "ZOMBIE_COMMANDER_CHESTPLATE"
+  "id": "ZOMBIE_COMMANDER_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Training"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Every "
+        },
+        {
+          "color": "blue",
+          "text": "50 Zombies killed"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "gives the wearer "
+        },
+        {
+          "color": "green",
+          "text": "+5 "
+        },
+        {
+          "color": "red",
+          "text": "\u2764"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Health"
+        },
+        {
+          "color": "gray",
+          "text": " while wearing the set."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Max 500."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Zombies Killed: "
+        },
+        {
+          "color": "green",
+          "text": "0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bonus HP: "
+        },
+        {
+          "color": "green",
+          "text": "0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_green",
+      "text": "This armor piece is undead \u0f15!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

@@ -19,5 +19,48 @@
       "level": 5
     }
   ],
-  "id": "DESTRUCTION_CLOAK"
+  "id": "DESTRUCTION_CLOAK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Heal "
+        },
+        {
+          "color": "red",
+          "text": "0.5%\u2764 "
+        },
+        {
+          "color": "gray",
+          "text": "every 2 seconds."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "green",
+          "text": "+1% "
+        },
+        {
+          "color": "gray",
+          "text": "Foraging exp."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

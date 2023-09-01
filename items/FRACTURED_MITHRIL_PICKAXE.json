@@ -10,5 +10,11 @@
     "MINING_SPEED": 200
   },
   "npc_sell_price": 500,
-  "id": "FRACTURED_MITHRIL_PICKAXE"
+  "id": "FRACTURED_MITHRIL_PICKAXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

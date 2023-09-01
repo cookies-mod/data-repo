@@ -11,5 +11,44 @@
     "rift_walk_speed": 3,
     "rift_intelligence": 5
   },
-  "id": "LEECH_BELT"
+  "id": "LEECH_BELT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Monster melee attacks reduce "
+        },
+        {
+          "color": "green",
+          "text": "1"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "less "
+        },
+        {
+          "color": "green",
+          "text": "\u0444 Rift Time"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

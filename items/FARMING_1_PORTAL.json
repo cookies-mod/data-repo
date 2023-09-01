@@ -16,5 +16,50 @@
       }
     }
   },
-  "id": "FARMING_1_PORTAL"
+  "id": "FARMING_1_PORTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Placing this item on your"
+    },
+    {
+      "color": "gray",
+      "text": "private island will create a"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "portal to "
+        },
+        {
+          "color": "aqua",
+          "text": "The Barn"
+        },
+        {
+          "color": "gray",
+          "text": " for you"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "to use whenever you want!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "The portal will spawn facing"
+    },
+    {
+      "color": "dark_gray",
+      "text": "you on the block you click on."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

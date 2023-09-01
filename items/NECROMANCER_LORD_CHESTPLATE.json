@@ -88,5 +88,67 @@
       ]
     }
   ],
-  "id": "NECROMANCER_LORD_CHESTPLATE"
+  "id": "NECROMANCER_LORD_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Soul Whisper"
+    },
+    {
+      "color": "gray",
+      "text": "Increase the damage of your"
+    },
+    {
+      "color": "gray",
+      "text": "necromancer summoned mobs by"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "20%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Allows the wearer to store"
+    },
+    {
+      "color": "gray",
+      "text": "and summon an additional"
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "1 "
+        },
+        {
+          "color": "gray",
+          "text": "souls in their"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "necromancer weapon."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

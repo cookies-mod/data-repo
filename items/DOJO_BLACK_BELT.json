@@ -243,5 +243,31 @@
       }
     ]
   ],
-  "id": "DOJO_BLACK_BELT"
+  "id": "DOJO_BLACK_BELT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Reduces damage taken by "
+        },
+        {
+          "color": "red",
+          "text": "6%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

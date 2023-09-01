@@ -5,7 +5,28 @@
   "name": "Horn of Taurus",
   "tier": "EPIC",
   "soulbound": "COOP",
-  "description": "%%gray%%%%italic%%Popular among Piglins, often used as a war charm.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Popular among Piglins, often"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "used as a war charm."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 500,
   "id": "HORN_OF_TAURUS"
 }

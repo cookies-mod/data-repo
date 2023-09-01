@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_HOE",
+  "material": "GOLDen_HOE",
   "name": "Fungi Cutter",
   "category": "HOE",
   "tier": "RARE",
@@ -10,5 +10,73 @@
       "level": 10
     }
   ],
-  "id": "FUNGI_CUTTER"
+  "id": "FUNGI_CUTTER",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Fun Guy Bonus "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Toggles On/Off on use"
+    },
+    {
+      "color": "gray",
+      "text": "Switches between red and brown"
+    },
+    {
+      "color": "gray",
+      "text": "mushroom cutting modes."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "Mode: "
+        },
+        {
+          "color": "red",
+          "text": "Brown Mushrooms"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "gold",
+          "text": "+30\u2618 Farming Fortune"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "for Brown Mushrooms"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

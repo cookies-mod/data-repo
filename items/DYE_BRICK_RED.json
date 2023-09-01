@@ -1,8 +1,41 @@
 {
-  "material": "INK_SACK",
+  "material": "red_dye",
   "durability": 1,
   "name": "Brick Red Dye",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "DYE_BRICK_RED"
+  "id": "DYE_BRICK_RED",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Changes the color of a leather"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "armor piece to "
+        },
+        {
+          "color": "#CB4154",
+          "text": "#CB4154"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

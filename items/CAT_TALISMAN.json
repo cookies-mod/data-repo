@@ -10,5 +10,10 @@
   },
   "soulbound": "COOP",
   "npc_sell_price": 1000,
-  "id": "CAT_TALISMAN"
+  "id": "CAT_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

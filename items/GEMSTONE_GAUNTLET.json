@@ -33,5 +33,150 @@
       "slot_type": "AMETHYST"
     }
   ],
-  "id": "GEMSTONE_GAUNTLET"
+  "id": "GEMSTONE_GAUNTLET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Mining Speed: "
+        },
+        {
+          "color": "green",
+          "text": "+1,600"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Harness the true power of the"
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "text": "Gemstones"
+        },
+        {
+          "color": "gray",
+          "text": "! Each gemstone placed in"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "here will boost its associated"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "stat"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "Can be used as both a "
+        },
+        {
+          "color": "red",
+          "text": "sword "
+        },
+        {
+          "color": "yellow",
+          "text": "and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "a "
+        },
+        {
+          "color": "blue",
+          "text": "pickaxe"
+        },
+        {
+          "color": "yellow",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Your Gemstones:"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Jade: ?? (none equipped)"
+        }
+      ],
+      "text": "  "
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Amber: ?? (none equipped)"
+        }
+      ],
+      "text": "  "
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "Topaz: ?? (none equipped)"
+        }
+      ],
+      "text": "  "
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Sapphire: ?? (none equipped)"
+        }
+      ],
+      "text": "  "
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Amethyst: ?? (none equipped)"
+        }
+      ],
+      "text": "  "
+    },
+    {
+      "text": ""
+    }
+  ]
 }

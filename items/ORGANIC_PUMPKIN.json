@@ -3,6 +3,6 @@
   "name": "Organic Pumpkin",
   "npc_sell_price": 4,
   "glowing": true,
-  "tier": "UNCOMMON",
+  "tier": "UNOBTAINABLE",
   "id": "ORGANIC_PUMPKIN"
 }

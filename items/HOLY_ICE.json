@@ -9,5 +9,88 @@
     "duration_ticks": 30,
     "damage_multiplier": 0.2
   },
-  "id": "HOLY_ICE"
+  "id": "HOLY_ICE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Splash Yo Face "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "For the next "
+        },
+        {
+          "color": "green",
+          "text": "1.5s"
+        },
+        {
+          "color": "gray",
+          "text": ", reduce"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "\u2764 "
+        },
+        {
+          "color": "gray",
+          "text": "damage taken by "
+        },
+        {
+          "color": "green",
+          "text": "80%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "20"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "4s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,9 +1,22 @@
 {
-  "material": "GOLD_HOE",
+  "material": "GOLDEN_HOE",
   "name": "Wand of Farming",
   "category": "WAND",
   "tier": "RARE",
   "origin": "RIFT",
   "glowing": true,
-  "id": "FARMING_WAND"
+  "id": "FARMING_WAND",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Allows you to farm the peculiar"
+    },
+    {
+      "color": "gray",
+      "text": "crops from the rift while held."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

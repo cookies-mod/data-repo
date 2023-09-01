@@ -6,5 +6,231 @@
   "tier": "EPIC",
   "npc_sell_price": 256000,
   "unstackable": true,
-  "id": "LARGE_LAVA_FISHING_SACK"
+  "id": "LARGE_LAVA_FISHING_SACK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Item pickups go directly into"
+    },
+    {
+      "color": "gray",
+      "text": "your sacks."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Items: "
+        },
+        {
+          "color": "green",
+          "text": "Magmafish"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Magma Cream"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Lava"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Shell"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Silver Magmafish"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Orb of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Energy"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Coal"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Cup of Blood"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Horn of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Taurus"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Flaming Heart"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Netherrack"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Thunder Shards"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Blaze Powder"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Gold"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Magmafish"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Moogma Pelt"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Pyroclastic"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Scale"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Lump of Magma"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Capacity: "
+        },
+        {
+          "color": "yellow",
+          "text": "20,160 per item"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Sacks sum their capacity."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right Click to open sack!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

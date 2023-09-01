@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_AXE",
+  "material": "GOLDen_AXE",
   "name": "Ragnarock Axe",
   "category": "SWORD",
   "sword_type": "AXE",
@@ -210,5 +210,100 @@
       "slot_type": "COMBAT"
     }
   ],
-  "id": "RAGNAROCK_AXE"
+  "id": "RAGNAROCK_AXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Ragnarock "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Begin a channel."
+    },
+    {
+      "color": "gray",
+      "text": "After not taking damage for"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "3s"
+        },
+        {
+          "color": "gray",
+          "text": ", gain "
+        },
+        {
+          "color": "green",
+          "text": "2x "
+        },
+        {
+          "color": "gray",
+          "text": "this"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "weapon\u0027s strength for "
+        },
+        {
+          "color": "green",
+          "text": "3s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "396"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "20s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

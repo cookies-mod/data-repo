@@ -5,5 +5,84 @@
   "name": "Shiny Relic",
   "tier": "SPECIAL",
   "museum": true,
-  "id": "SHINY_RELIC"
+  "id": "SHINY_RELIC",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A perfect replica of the Shiny"
+    },
+    {
+      "color": "gray",
+      "text": "Relic deposited on the Blood God"
+    },
+    {
+      "color": "gray",
+      "text": "Shrine following the Dante"
+    },
+    {
+      "color": "gray",
+      "text": "fight."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "aqua",
+      "text": "Exceedingly rare item!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Found by: "
+        },
+        {
+          "obfuscated": true,
+          "color": "gray",
+          "text": "IIIIIII"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Date: "
+        },
+        {
+          "obfuscated": true,
+          "color": "yellow",
+          "text": "1111"
+        },
+        {
+          "color": "yellow",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "11"
+            }
+          ],
+          "text": "-"
+        },
+        {
+          "color": "yellow",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "ee"
+            }
+          ],
+          "text": "-"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

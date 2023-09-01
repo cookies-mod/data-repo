@@ -6,5 +6,31 @@
   "category": "ACCESSORY",
   "tier": "RARE",
   "museum": true,
-  "id": "BINGO_ARTIFACT"
+  "id": "BINGO_ARTIFACT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "B.I.N.G.O."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Requires "
+        },
+        {
+          "color": "dark_purple",
+          "text": "\u24b7 Bingo Rank III"
+        },
+        {
+          "color": "red",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

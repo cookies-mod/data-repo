@@ -2,7 +2,41 @@
   "material": "BROWN_MUSHROOM",
   "name": "Mushroom Spore",
   "glowing": true,
-  "description": "%%gray%%%%italic%%The life cycle of a mushroom starts with the spore, which germs and becomes Mycelium, which develops fruit bodies into a mature mushroom, and that mushroom will release spores.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "The life cycle of a mushroom"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "starts with the spore, which"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "germs and becomes Mycelium,"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "which develops fruit bodies into"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "a mature mushroom, and that"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "mushroom will release spores."
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 20,
   "id": "MUSHROOM_SPORE"
 }

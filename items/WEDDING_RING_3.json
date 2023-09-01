@@ -5,5 +5,79 @@
   "name": "Rubbish Ring of Love",
   "category": "ACCESSORY",
   "tier": "UNCOMMON",
-  "id": "WEDDING_RING_3"
+  "id": "WEDDING_RING_3",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Grants a 1 in 1,000,000,000 chance"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to deal "
+        },
+        {
+          "color": "red",
+          "text": "+100% "
+        },
+        {
+          "color": "gray",
+          "text": "damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "True love is tough to find,"
+    },
+    {
+      "color": "dark_gray",
+      "text": "but finding it hits you hard!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Requires quest progress!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "extra": [
+        {
+          "bold": true,
+          "text": "1x Enchanted Red"
+        }
+      ],
+      "text": "Requires "
+    },
+    {
+      "extra": [
+        {
+          "bold": true,
+          "color": "green",
+          "text": "Mushroom Block "
+        },
+        {
+          "color": "green",
+          "text": "to upgrade!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

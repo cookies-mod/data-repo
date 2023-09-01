@@ -5,5 +5,88 @@
   "museum": true,
   "glowing": true,
   "soulbound": "COOP",
-  "id": "EXTREME_BINGO_CARD"
+  "id": "EXTREME_BINGO_CARD",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Obtained during the "
+        },
+        {
+          "color": "gold",
+          "text": "1st"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Extreme Bingo Event "
+        },
+        {
+          "color": "gray",
+          "text": "during"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "December 2022 "
+        },
+        {
+          "color": "gray",
+          "text": "for completing"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "the entire Bingo Card!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Player: "
+        },
+        {
+          "obfuscated": true,
+          "color": "red",
+          "text": "Eisengolem"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Playtime: "
+        },
+        {
+          "obfuscated": true,
+          "color": "green",
+          "text": "69"
+        },
+        {
+          "color": "green",
+          "text": "h"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

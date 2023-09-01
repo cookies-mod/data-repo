@@ -5,5 +5,120 @@
   "name": "Autopet Rules 2-Pack",
   "tier": "SPECIAL",
   "unstackable": true,
-  "id": "AUTOPET_RULES_2"
+  "id": "AUTOPET_RULES_2",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Adds "
+        },
+        {
+          "color": "aqua",
+          "text": "+2 "
+        },
+        {
+          "color": "gray",
+          "text": "rules to your"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Autopet"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "The "
+        },
+        {
+          "color": "red",
+          "text": "Autopet "
+        },
+        {
+          "color": "gray",
+          "text": "allows you"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to "
+        },
+        {
+          "color": "green",
+          "text": "automatically "
+        },
+        {
+          "color": "gray",
+          "text": "equip"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "pets depending on rules you"
+    },
+    {
+      "color": "gray",
+      "text": "choose."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Hold and right-click to consume!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Find the Autopet in your"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Pets menu after unlocking at"
+    },
+    {
+      "color": "dark_gray",
+      "text": "least 1 rule."
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "21,000 Bits"
+    }
+  ]
 }

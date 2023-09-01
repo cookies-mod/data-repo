@@ -1,8 +1,17 @@
 {
-  "material": "RAW_FISH",
+  "material": "cod",
   "durability": 1,
   "name": "Grizzly Bait",
   "tier": "RARE",
   "unstackable": true,
-  "id": "GRIZZLY_BAIT"
+  "id": "GRIZZLY_BAIT",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

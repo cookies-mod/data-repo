@@ -3,7 +3,7 @@
   "durability": 4,
   "name": "Mithril Tech",
   "glowing": true,
-  "tier": "UNCOMMON",
+  "tier": "UNOBTAINABLE",
   "npc_sell_price": 1,
   "id": "MITHRIL_TECH"
 }

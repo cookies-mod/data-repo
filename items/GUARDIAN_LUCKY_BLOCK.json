@@ -9,5 +9,59 @@
   "rift_transferrable": true,
   "lose_motes_value_on_transfer": true,
   "origin": "RIFT",
-  "id": "GUARDIAN_LUCKY_BLOCK"
+  "id": "GUARDIAN_LUCKY_BLOCK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Use at Kat to upgrade a Guardian"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "pet to "
+        },
+        {
+          "color": "light_purple",
+          "text": "mythic "
+        },
+        {
+          "color": "gray",
+          "text": "rarity."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Exportable "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Loses motes value when"
+    },
+    {
+      "color": "dark_gray",
+      "text": "crossing dimensions."
+    }
+  ]
 }

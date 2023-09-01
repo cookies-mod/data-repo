@@ -6,5 +6,81 @@
   "glowing": true,
   "category": "PET_ITEM",
   "tier": "RARE",
-  "id": "PET_ITEM_BUBBLEGUM"
+  "id": "PET_ITEM_BUBBLEGUM",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Consumed on use"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Pet items can boost pets in"
+    },
+    {
+      "color": "gray",
+      "text": "various ways but pets can only"
+    },
+    {
+      "color": "gray",
+      "text": "hold 1 item at a time so choose"
+    },
+    {
+      "color": "gray",
+      "text": "wisely!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Your pet fuses its power with"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "placed "
+        },
+        {
+          "color": "green",
+          "text": "Orbs "
+        },
+        {
+          "color": "gray",
+          "text": "to give them"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "2x "
+        },
+        {
+          "color": "gray",
+          "text": "duration."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click on your summoned"
+    },
+    {
+      "color": "yellow",
+      "text": "pet to give it this item!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

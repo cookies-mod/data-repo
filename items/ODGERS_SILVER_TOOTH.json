@@ -15,6 +15,23 @@
       "reward": "SILVER"
     }
   ],
-  "description": "%%gray%%%%italic%%A perfectly fine tooth, besides a broken chunk...",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "A perfectly fine tooth,"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "besides a broken chunk..."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "ODGERS_SILVER_TOOTH"
 }

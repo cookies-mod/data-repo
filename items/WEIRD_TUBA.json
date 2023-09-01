@@ -25,5 +25,103 @@
     "range": 10,
     "max_other_players": 4
   },
-  "id": "WEIRD_TUBA"
+  "id": "WEIRD_TUBA",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Howl "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "You and 4 nearby players gain:"
+    },
+    {
+      "color": "white",
+      "text": "+30\u2726 Speed"
+    },
+    {
+      "color": "red",
+      "text": "+30\u2741 Strength"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "green",
+          "text": "20 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Effect doesn\u0027t stack."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "150"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "20s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

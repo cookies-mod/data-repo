@@ -3,5 +3,31 @@
   "name": "Vampire Fang",
   "glowing": true,
   "tier": "LEGENDARY",
-  "id": "PET_ITEM_VAMPIRE_FANG"
+  "id": "PET_ITEM_VAMPIRE_FANG",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Use at Kat to upgrade a Bat pet"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to "
+        },
+        {
+          "color": "light_purple",
+          "text": "mythic "
+        },
+        {
+          "color": "gray",
+          "text": "rarity."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

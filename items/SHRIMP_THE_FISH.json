@@ -1,8 +1,17 @@
 {
-  "material": "RAW_FISH",
+  "material": "cod",
   "name": "Shrimp the Fish",
   "glowing": true,
   "tier": "SPECIAL",
   "museum": true,
-  "id": "SHRIMP_THE_FISH"
+  "id": "SHRIMP_THE_FISH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "I achieved nothing."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

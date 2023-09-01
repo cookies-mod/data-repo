@@ -9,6 +9,21 @@
     "fishing_speed": 1,
     "fishing_wisdom": 1
   },
-  "description": "Listen, it\u0027s for real chums of Moby, ok?",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Listen, it\u0027s for real chums of"
+    },
+    {
+      "color": "gray",
+      "text": "Moby, ok?"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "CHUMMING_TALISMAN"
 }

@@ -5,5 +5,42 @@
   "name": "Hot Chocolate and Cookies",
   "furniture": "HOT_CHOCOLATE_AND_COOKIES",
   "tier": "EPIC",
-  "id": "HOT_CHOCOLATE_AND_COOKIES"
+  "id": "HOT_CHOCOLATE_AND_COOKIES",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Holiday Cosmetic"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "This exclusive "
+        },
+        {
+          "color": "red",
+          "text": "Holiday"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "cosmetic can be placed on your"
+    },
+    {
+      "color": "gray",
+      "text": "island or traded."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

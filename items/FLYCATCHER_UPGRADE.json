@@ -1,5 +1,5 @@
 {
-  "material": "WEB",
+  "material": "COBWEB",
   "name": "Flycatcher",
   "glowing": true,
   "tier": "EPIC",
@@ -10,5 +10,43 @@
       "level": 6
     }
   ],
-  "id": "FLYCATCHER_UPGRADE"
+  "id": "FLYCATCHER_UPGRADE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "This item can be used as a"
+    },
+    {
+      "color": "gray",
+      "text": "minion upgrade. Prevents your"
+    },
+    {
+      "color": "gray",
+      "text": "minions from getting distracted"
+    },
+    {
+      "color": "gray",
+      "text": "by flies. Increases the speed of"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "your minion by "
+        },
+        {
+          "color": "green",
+          "text": "20%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

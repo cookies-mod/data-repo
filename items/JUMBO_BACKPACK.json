@@ -4,5 +4,35 @@
   "skin": "eyJ0aW1lc3RhbXAiOjE1NjgyMjIyMTY1MzUsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIxZDgzN2NhMjIyY2JjMGJjMTI0MjZmNWRhMDE4YzNhOTMxYjQwNjAwODgwMDk2MGE5ZGYxMTJhNTk2ZTdkNjIifX19",
   "name": "Jumbo Backpack",
   "tier": "LEGENDARY",
-  "id": "JUMBO_BACKPACK"
+  "id": "JUMBO_BACKPACK",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "A bag with "
+        },
+        {
+          "color": "green",
+          "text": "45"
+        },
+        {
+          "color": "gray",
+          "text": " slots which"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "can be placed in your Storage"
+    },
+    {
+      "color": "gray",
+      "text": "Menu to store additional items."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

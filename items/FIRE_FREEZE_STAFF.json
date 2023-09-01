@@ -1,5 +1,5 @@
 {
-  "material": "YELLOW_FLOWER",
+  "material": "dandelion",
   "item_durability": -1,
   "name": "Fire Freeze Staff",
   "category": "SWORD",
@@ -210,5 +210,100 @@
       "slot_type": "SAPPHIRE"
     }
   ],
-  "id": "FIRE_FREEZE_STAFF"
+  "id": "FIRE_FREEZE_STAFF",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Fire Freeze "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Creates a circle with a radius"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "of "
+        },
+        {
+          "color": "green",
+          "text": "5 blocks"
+        },
+        {
+          "color": "gray",
+          "text": ". After "
+        },
+        {
+          "color": "green",
+          "text": "5s"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "all mobs inside are frozen for"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "10s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "500"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "10s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

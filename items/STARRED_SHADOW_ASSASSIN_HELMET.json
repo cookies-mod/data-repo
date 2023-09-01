@@ -76,5 +76,131 @@
       ]
     }
   ],
-  "id": "STARRED_SHADOW_ASSASSIN_HELMET"
+  "id": "STARRED_SHADOW_ASSASSIN_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Crit Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+25% "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Health: "
+        },
+        {
+          "color": "green",
+          "text": "+170 HP "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Defense: "
+        },
+        {
+          "color": "green",
+          "text": "+70 "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Speed: "
+        },
+        {
+          "color": "green",
+          "text": "+8 "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Shadow Assassin"
+    },
+    {
+      "color": "gray",
+      "text": "Collect the shadows of the"
+    },
+    {
+      "color": "gray",
+      "text": "enemies you kill increasing your"
+    },
+    {
+      "color": "gray",
+      "text": "damage for the rest of the"
+    },
+    {
+      "color": "gray",
+      "text": "dungeon while wearing this set."
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "+1\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "every kill"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "On teleport: Grants invisibility"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "white",
+          "text": "+20\u2726 Speed "
+        },
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "aqua",
+          "text": "10"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "seconds."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

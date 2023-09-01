@@ -101,5 +101,181 @@
     }
   ],
   "dungeon_item": true,
-  "id": "SKELETOR_CHESTPLATE"
+  "id": "SKELETOR_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Crit Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+20% "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Health: "
+        },
+        {
+          "color": "green",
+          "text": "+25"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Defense: "
+        },
+        {
+          "color": "green",
+          "text": "+40 "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Skeletor"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "red",
+          "text": "+1\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "+1\u2620 Crit Damage "
+        },
+        {
+          "color": "gray",
+          "text": "for every"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "10 "
+        },
+        {
+          "color": "gray",
+          "text": "Skeletor kills"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Skeletor Kills: "
+        },
+        {
+          "color": "green",
+          "text": "0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bonus Strength: "
+        },
+        {
+          "color": "green",
+          "text": "0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bonus Critical Damage: "
+        },
+        {
+          "color": "green",
+          "text": "0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Each piece grants a "
+        },
+        {
+          "color": "green",
+          "text": "1 "
+        },
+        {
+          "color": "gray",
+          "text": "second"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "cooldown reduction on bone"
+    },
+    {
+      "color": "gray",
+      "text": "plating!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_green",
+      "text": "This armor piece is undead \u0f15!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

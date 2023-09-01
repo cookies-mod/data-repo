@@ -48,5 +48,51 @@
       }
     ]
   ],
-  "id": "SKELETON_HELMET"
+  "id": "SKELETON_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Bone Shield"
+    },
+    {
+      "color": "gray",
+      "text": "A Bone Shield will surround you,"
+    },
+    {
+      "color": "gray",
+      "text": "nullifying damage you take but"
+    },
+    {
+      "color": "gray",
+      "text": "consuming a bone in the process."
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bones regenerate every "
+        },
+        {
+          "color": "green",
+          "text": "30"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "seconds."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

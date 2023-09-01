@@ -4,5 +4,57 @@
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 2,
-  "id": "SUPERBOOM_TNT"
+  "id": "SUPERBOOM_TNT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Breaks weak walls. Can be used"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to blow up Crypts in "
+        },
+        {
+          "color": "red",
+          "text": "The"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Catacombs "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "Crystal"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_aqua",
+          "text": "Hollows"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

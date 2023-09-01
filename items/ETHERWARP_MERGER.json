@@ -6,5 +6,29 @@
   "tier": "EPIC",
   "npc_sell_price": 100000,
   "unstackable": true,
-  "id": "ETHERWARP_MERGER"
+  "id": "ETHERWARP_MERGER",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Crafted by the Etherchemist"
+    },
+    {
+      "color": "dark_gray",
+      "text": "and dropped by the Voidgloom"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Seraph."
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

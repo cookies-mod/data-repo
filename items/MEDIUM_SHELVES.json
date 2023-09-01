@@ -4,5 +4,37 @@
   "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZWNmZDc0YWUyYWMzZmQ2ZjliOTU0MDk3YWQ2MDZlZmFiNjZmNGMwNzk5YzI3MjRkYjRhNjQ5ZDM4YmYxZDM4In19fQ\u003d\u003d",
   "name": "Medium Shelves",
   "furniture": "MEDIUM_SHELVES",
-  "id": "MEDIUM_SHELVES"
+  "id": "MEDIUM_SHELVES",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Storage"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Furniture can be placed on your"
+    },
+    {
+      "color": "gray",
+      "text": "world. Some furniture are"
+    },
+    {
+      "color": "gray",
+      "text": "interactable while some are"
+    },
+    {
+      "color": "gray",
+      "text": "purely cosmetic."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

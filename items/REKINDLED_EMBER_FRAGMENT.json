@@ -5,5 +5,14 @@
   "name": "Rekindled Ember Fragment",
   "tier": "EPIC",
   "soulbound": "COOP",
-  "id": "REKINDLED_EMBER_FRAGMENT"
+  "id": "REKINDLED_EMBER_FRAGMENT",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

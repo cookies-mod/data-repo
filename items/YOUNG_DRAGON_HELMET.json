@@ -97,5 +97,56 @@
       ]
     }
   ],
-  "id": "YOUNG_DRAGON_HELMET"
+  "id": "YOUNG_DRAGON_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Young Blood"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "green",
+          "text": "+70"
+        },
+        {
+          "color": "gray",
+          "text": " Walk Speed while"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "you are above "
+        },
+        {
+          "color": "green",
+          "text": "50%"
+        },
+        {
+          "color": "gray",
+          "text": " HP."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "+100 Walk Speed Cap"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

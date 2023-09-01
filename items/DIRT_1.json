@@ -1,5 +1,5 @@
 {
-  "material": "DIRT",
+  "material": "coarse_dirt",
   "durability": 1,
   "name": "Coarse Dirt",
   "npc_sell_price": 1,

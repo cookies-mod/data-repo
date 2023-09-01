@@ -8,5 +8,10 @@
   "stats": {
     "health": 1
   },
-  "id": "LUSH_TALISMAN"
+  "id": "LUSH_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

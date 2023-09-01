@@ -1,7 +1,20 @@
 {
-  "material": "STAINED_GLASS",
+  "material": "black_stained_glass",
   "durability": 7,
   "name": "Hard Glass",
   "npc_sell_price": 20,
-  "id": "HARD_GLASS"
+  "id": "HARD_GLASS",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Special hardened glass which"
+    },
+    {
+      "color": "gray",
+      "text": "doesn\u0027t break to explosions."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

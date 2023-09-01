@@ -5,5 +5,64 @@
   "name": "Minos Relic",
   "category": "PET_ITEM",
   "tier": "EPIC",
-  "id": "MINOS_RELIC"
+  "id": "MINOS_RELIC",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Consumed on use"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Pet items can boost pets in"
+    },
+    {
+      "color": "gray",
+      "text": "various ways but pets can only"
+    },
+    {
+      "color": "gray",
+      "text": "hold 1 item at a time so choose"
+    },
+    {
+      "color": "gray",
+      "text": "wisely!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increases all pet stats by"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "33.3%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click on your summoned"
+    },
+    {
+      "color": "yellow",
+      "text": "pet to give it this item!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

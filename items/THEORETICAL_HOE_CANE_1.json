@@ -9,5 +9,72 @@
       "level": 15
     }
   ],
-  "id": "THEORETICAL_HOE_CANE_1"
+  "id": "THEORETICAL_HOE_CANE_1",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "gold",
+          "text": "+10\u2618 Farming Fortune"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+1\u262f Farming Wisdom "
+        },
+        {
+          "color": "gray",
+          "text": "for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "sugar canes."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Counter: "
+        },
+        {
+          "color": "yellow",
+          "text": "0 Sugar Canes"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Reach 100k Counter for +1 Rarity!"
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

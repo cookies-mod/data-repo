@@ -2,7 +2,7 @@
   "material": "COOKED_BEEF",
   "name": "Enchanted Beef",
   "glowing": true,
-  "tier": "RARE",
+  "tier": "UNOBTAINABLE",
   "npc_sell_price": 102400,
   "id": "ENCHANTED_COOKED_BEEF"
 }

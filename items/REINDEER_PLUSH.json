@@ -5,5 +5,42 @@
   "name": "Reindeer Plush",
   "furniture": "REINDEER_PLUSH",
   "tier": "RARE",
-  "id": "REINDEER_PLUSH"
+  "id": "REINDEER_PLUSH",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Holiday Cosmetic"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "This exclusive "
+        },
+        {
+          "color": "red",
+          "text": "Holiday"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "cosmetic can be placed on your"
+    },
+    {
+      "color": "gray",
+      "text": "island or traded."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

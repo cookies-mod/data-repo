@@ -5,5 +5,40 @@
   "name": "Vaccine Talisman",
   "category": "ACCESSORY",
   "npc_sell_price": 22,
-  "id": "VACCINE_TALISMAN"
+  "id": "VACCINE_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Reduces the effect of "
+        },
+        {
+          "color": "dark_green",
+          "text": "poison"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "10%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

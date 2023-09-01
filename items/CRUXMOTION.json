@@ -5,6 +5,18 @@
   "name": "Cruxmotion",
   "tier": "EPIC",
   "origin": "RIFT",
-  "description": "Ultimately, it\u0027s life that is weird.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Ultimately, it\u0027s life that is"
+    },
+    {
+      "color": "gray",
+      "text": "weird."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "CRUXMOTION"
 }

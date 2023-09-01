@@ -1,5 +1,5 @@
 {
-  "material": "RAW_FISH",
+  "material": "salmon",
   "durability": 1,
   "name": "Zoop the Fish",
   "glowing": true,
@@ -7,5 +7,34 @@
   "origin": "RIFT",
   "museum": true,
   "rift_transferrable": true,
-  "id": "ZOOP_THE_FISH"
+  "id": "ZOOP_THE_FISH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Keep me in here please."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

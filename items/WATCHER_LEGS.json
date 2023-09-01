@@ -2,5 +2,6 @@
   "material": "LEATHER_LEGGINGS",
   "color": "0,0,0",
   "name": "Watcher Leggings",
+  "tier":"UNOBTAINABLE",
   "id": "WATCHER_LEGS"
 }

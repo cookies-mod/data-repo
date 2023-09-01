@@ -12,5 +12,31 @@
       "level": 7
     }
   ],
-  "id": "ZOMBIE_ARTIFACT"
+  "id": "ZOMBIE_ARTIFACT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Reduces the damage taken from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Zombies by "
+        },
+        {
+          "color": "green",
+          "text": "15%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

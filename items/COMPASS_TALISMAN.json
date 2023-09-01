@@ -3,6 +3,7 @@
   "name": "Compass Talisman",
   "glowing": true,
   "category": "ACCESSORY",
+  "tier":"UNOBTAINABLE",
   "npc_sell_price": 85,
   "id": "COMPASS_TALISMAN"
 }

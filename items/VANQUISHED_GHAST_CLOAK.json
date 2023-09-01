@@ -155,5 +155,135 @@
       }
     ]
   ],
-  "id": "VANQUISHED_GHAST_CLOAK"
+  "id": "VANQUISHED_GHAST_CLOAK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Blazing Palisade"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Restores "
+        },
+        {
+          "color": "green",
+          "text": "1%"
+        },
+        {
+          "color": "gray",
+          "text": " of your maximum"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "\u2764 Health "
+        },
+        {
+          "color": "gray",
+          "text": "every second while"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "worn."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Piece Bonus: Ghast Blaster"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Kill "
+        },
+        {
+          "color": "green",
+          "text": "Ghasts "
+        },
+        {
+          "color": "gray",
+          "text": "to accumulate"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Defense"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Piece Bonus: "
+        },
+        {
+          "color": "green",
+          "text": "+0\u2748"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Next Upgrade: "
+        },
+        {
+          "color": "green",
+          "text": "+1\u2748 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "("
+        },
+        {
+          "color": "green",
+          "text": "0"
+        },
+        {
+          "color": "gray",
+          "text": "/"
+        },
+        {
+          "color": "red",
+          "text": "1,000"
+        },
+        {
+          "color": "dark_gray",
+          "text": ")"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "material": "DOUBLE_PLANT",
+  "material": "sunflower",
   "name": "Staff of the Rising Sun",
   "glowing": true,
   "category": "WAND",
@@ -9,5 +9,74 @@
   },
   "ability_damage_scaling": 0.2,
   "museum": true,
-  "id": "HOPE_OF_THE_RESISTANCE"
+  "id": "HOPE_OF_THE_RESISTANCE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Ray of Hope "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Channels your energy towards the"
+    },
+    {
+      "color": "gray",
+      "text": "target location, exploding on"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "impact for "
+        },
+        {
+          "color": "red",
+          "text": "6,642 "
+        },
+        {
+          "color": "gray",
+          "text": "damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Costs "
+        },
+        {
+          "color": "aqua",
+          "text": "10% "
+        },
+        {
+          "color": "gray",
+          "text": "of your total mana"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "to use. This is the only item"
+    },
+    {
+      "color": "gray",
+      "text": "that can deal damage to Dante."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

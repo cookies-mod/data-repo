@@ -1,7 +1,15 @@
 {
   "material": "PAPER",
-  "name": "§dPoem of True Love",
-  "description": "%%gray%%%%italic%%Filled with poor punctuation and misspellings, but its message is profound.",
+  "name": "\u00a7dPoem of True Love",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Quest item"
+    },
+    {
+      "text": ""
+    }
+  ],
   "glowing": true,
   "tier": "EPIC",
   "soulbound": "COOP",

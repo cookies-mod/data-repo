@@ -2,7 +2,34 @@
   "material": "MUTTON",
   "name": "Agarimoo Tongue",
   "tier": "RARE",
-  "description": "Agarimoos have five stomachs and 3 tongues. For this specific Agarimoo, past tense is more accurate.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Agarimoos have five stomachs and"
+    },
+    {
+      "color": "gray",
+      "text": "3 tongues. For this specific"
+    },
+    {
+      "color": "gray",
+      "text": "Agarimoo, past tense is more"
+    },
+    {
+      "color": "gray",
+      "text": "accurate."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "glowing": true,
   "id": "AGARIMOO_TONGUE"
 }

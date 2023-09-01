@@ -15,5 +15,76 @@
   },
   "npc_sell_price": 40,
   "museum": true,
-  "id": "SALMON_HAT"
+  "id": "SALMON_HAT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "blue",
+      "text": "Aqua Affinity I"
+    },
+    {
+      "color": "gray",
+      "text": "Increases your underwater mining"
+    },
+    {
+      "color": "gray",
+      "text": "rate."
+    },
+    {
+      "color": "blue",
+      "text": "Depth Strider I"
+    },
+    {
+      "color": "gray",
+      "text": "Reduces how much you are slowed"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in the water by "
+        },
+        {
+          "color": "green",
+          "text": "33%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "blue",
+      "text": "Respiration I"
+    },
+    {
+      "color": "gray",
+      "text": "Extends your underwater"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "breathing time by "
+        },
+        {
+          "color": "green",
+          "text": "15s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

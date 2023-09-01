@@ -1,8 +1,21 @@
 {
-  "material": "INK_SACK",
+  "material": "pink_dye",
   "durability": 9,
   "name": "Mycelium Dust",
   "npc_sell_price": 15,
   "tier": "RARE",
-  "id": "MYCELIUM_DUST"
+  "id": "MYCELIUM_DUST",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Instantly grows crops and"
+    },
+    {
+      "color": "gray",
+      "text": "saplings in a 3x3 square."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

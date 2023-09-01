@@ -5,7 +5,33 @@
   "name": "Compact Ooze",
   "npc_sell_price": 500,
   "tier": "EPIC",
-  "description": "%%gray%%%%italic%%Piglins sometimes chew on them, they can even blow bubbles out of them.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Piglins sometimes chew on"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "them, they can even blow bubbles"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "out of them."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "soulbound": "COOP",
   "id": "COMPACT_OOZE"
 }

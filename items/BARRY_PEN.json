@@ -3,6 +3,26 @@
   "name": "Barry\u0027s Montgray Pen",
   "tier": "UNCOMMON",
   "origin": "RIFT",
-  "description": "Use at the old election box in the back of the HQ.\n\n%%dark_gray%%Signature Edition - get it?",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Use at the old election box in"
+    },
+    {
+      "color": "gray",
+      "text": "the back of the HQ."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Signature Edition - get it?"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "BARRY_PEN"
 }

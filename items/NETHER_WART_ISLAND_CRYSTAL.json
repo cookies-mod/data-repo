@@ -5,5 +5,31 @@
   "name": "Nether Wart Crystal",
   "crystal": "NETHER_WART_ISLAND",
   "tier": "RARE",
-  "id": "NETHER_WART_ISLAND_CRYSTAL"
+  "id": "NETHER_WART_ISLAND_CRYSTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Grows Nether Wart on top of"
+    },
+    {
+      "color": "gray",
+      "text": "nearby Soul Sand blocks."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Effective Radius: "
+        },
+        {
+          "color": "aqua",
+          "text": "5"
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

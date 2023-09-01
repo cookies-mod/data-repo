@@ -3,6 +3,18 @@
   "name": "Very Scientific Paper",
   "tier": "RARE",
   "origin": "RIFT",
-  "description": "Authored, peer-reviewed and published by Kay.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Authored, peer-reviewed and"
+    },
+    {
+      "color": "gray",
+      "text": "published by Kay."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "VERY_SCIENTIFIC_PAPER"
 }

@@ -1,8 +1,37 @@
 {
-  "material": "RECORD_9",
+  "material": "music_disc_strad",
   "name": "Winter Disc",
   "tier": "RARE",
   "npc_sell_price": 1,
   "museum": true,
-  "id": "WINTER_DISC"
+  "id": "WINTER_DISC",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Place this inside a jukebox to"
+    },
+    {
+      "color": "gray",
+      "text": "play a winter song!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Let Them Eat Cake"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "By ShinkoNet"
+        }
+      ],
+      "text": "  "
+    },
+    {
+      "text": ""
+    }
+  ]
 }

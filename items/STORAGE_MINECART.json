@@ -1,5 +1,5 @@
 {
-  "material": "STORAGE_MINECART",
+  "material": "chest_minecart",
   "name": "Minecart with Chest",
   "npc_sell_price": 10,
   "id": "STORAGE_MINECART"

@@ -7,5 +7,15 @@
   "tier": "EPIC",
   "soulbound": "COOP",
   "unstackable": true,
-  "id": "ANNI_PODIUM_NOTES_FIRST"
+  "id": "ANNI_PODIUM_NOTES_FIRST",
+  "description": [
+    {"text":"Note Block Song","color":"gold"},
+    {"text":"1st Place","color":"yellow"},
+    {"text":""},
+    {"text":"This item was awarded as part of","color":"gray"},
+    {"text":"the ","color":"gray","extra":[{"text":"Hypixel 10th Anniversary","color":"gold"}]},
+    {"text":"Social Media contest for","color":"gray"},
+    {"text":"Favorite Memory.","color":"gray"},
+    {"text":""}
+  ]
 }

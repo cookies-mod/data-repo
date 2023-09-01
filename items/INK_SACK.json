@@ -1,6 +1,12 @@
 {
-  "material": "INK_SACK",
+  "material": "INK_SAC",
   "name": "Ink Sac",
   "npc_sell_price": 2,
-  "id": "INK_SACK"
+  "id": "INK_SACK",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

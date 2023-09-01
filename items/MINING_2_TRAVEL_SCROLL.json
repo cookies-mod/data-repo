@@ -1,7 +1,53 @@
 {
-  "material": "EMPTY_MAP",
+  "material": "map",
   "name": "Travel Scroll to Deep Caverns",
   "category": "TRAVEL_SCROLL",
   "tier": "RARE",
-  "id": "MINING_2_TRAVEL_SCROLL"
+  "id": "MINING_2_TRAVEL_SCROLL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Consume this item to add its"
+    },
+    {
+      "color": "gray",
+      "text": "destination to your fast travel"
+    },
+    {
+      "color": "gray",
+      "text": "options."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Island: "
+        },
+        {
+          "color": "green",
+          "text": "Deep Caverns"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Teleport: "
+        },
+        {
+          "color": "yellow",
+          "text": "Spawn"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

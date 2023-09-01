@@ -11,5 +11,91 @@
       "tier": 7
     }
   ],
-  "id": "AMBER_POLISHED_DRILL_ENGINE"
+  "id": "AMBER_POLISHED_DRILL_ENGINE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Drill Part"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Part Type: "
+        },
+        {
+          "color": "gold",
+          "text": "Drill Engine"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "gold",
+          "text": "+400\u2e15 Mining Speed"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "gold",
+          "text": "+100\u2618 Mining Fortune"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can be applied to Drills by"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "talking to a "
+        },
+        {
+          "color": "dark_green",
+          "text": "Drill Mechanic"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -2,5 +2,25 @@
   "material": "PRISMARINE_SHARD",
   "name": "Shark Fin",
   "tier": "RARE",
-  "id": "SHARK_FIN"
+  "id": "SHARK_FIN",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Dropped by a Shark during"
+    },
+    {
+      "color": "gray",
+      "text": "Fishing Festival."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

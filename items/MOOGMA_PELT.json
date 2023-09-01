@@ -4,7 +4,26 @@
   "tier": "UNCOMMON",
   "glowing": true,
   "soulbound": "COOP",
-  "description": "%%gray%%%%italic%%The bottom of the volcano is filled with it, Moogmas keep on moulting. It\u0027s a problem.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "The bottom of the volcano is"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "filled with it, Moogmas keep on"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "moulting. It\u0027s a problem."
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 50,
   "id": "MOOGMA_PELT"
 }

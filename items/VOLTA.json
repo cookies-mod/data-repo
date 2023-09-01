@@ -5,6 +5,43 @@
   "name": "Volta",
   "tier": "RARE",
   "npc_sell_price": 1111,
-  "description": "%%gray%%%%italic%%Bzzzt",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Machine Fuel"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Adds "
+        },
+        {
+          "color": "dark_green",
+          "text": "+10,000\u2662 Fuel "
+        },
+        {
+          "color": "gray",
+          "text": "to a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "refuelable machine."
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Bzzzt"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "VOLTA"
 }

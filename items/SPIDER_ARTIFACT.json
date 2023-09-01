@@ -12,5 +12,48 @@
       "level": 7
     }
   ],
-  "id": "SPIDER_ARTIFACT"
+  "id": "SPIDER_ARTIFACT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Reduces the damage taken from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Cave Spiders"
+        },
+        {
+          "color": "gray",
+          "text": " and "
+        },
+        {
+          "color": "gray",
+          "text": "Spiders"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "15%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

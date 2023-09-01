@@ -6,5 +6,52 @@
   "category": "ACCESSORY",
   "tier": "RARE",
   "npc_sell_price": 32000,
-  "id": "FEATHER_ARTIFACT"
+  "id": "FEATHER_ARTIFACT",
+  "description": [
+    {
+      "color": "gold",
+      "text": "Ability: Light Weight"
+    },
+    {
+      "color": "gray",
+      "text": "Increases how high you can fall"
+    },
+    {
+      "color": "gray",
+      "text": "before taking fall damage by"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "10"
+        },
+        {
+          "color": "gray",
+          "text": " blocks. Fall damage is"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "also reduced by "
+        },
+        {
+          "color": "green",
+          "text": "15.0%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

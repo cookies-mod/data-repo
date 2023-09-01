@@ -2,7 +2,7 @@
   "material": "STICK",
   "name": "Test Rift Wand",
   "category": "WAND",
-  "tier": "RARE",
+  "tier": "UNOBTAINABLE",
   "stats": {
     "RIFT_DAMAGE": 20
   },

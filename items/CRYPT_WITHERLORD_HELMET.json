@@ -24,5 +24,26 @@
     }
   ],
   "dungeon_item": true,
-  "id": "CRYPT_WITHERLORD_HELMET"
+  "id": "CRYPT_WITHERLORD_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Reduces damage from Withers by"
+    },
+    {
+      "color": "gray",
+      "text": "5%"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

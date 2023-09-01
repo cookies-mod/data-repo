@@ -6,5 +6,39 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 4346,
-  "id": "MITHRIL_INFUSION"
+  "id": "MITHRIL_INFUSION",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Permanently increases minion"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "speed by "
+        },
+        {
+          "color": "green",
+          "text": "10%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can be combined with a minion"
+    },
+    {
+      "color": "gray",
+      "text": "at an anvil."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -3,5 +3,10 @@
   "color": "153,13,0",
   "name": "Emperor Leggings",
   "category": "LEGGINGS",
-  "id": "EMPEROR_LEGGINGS"
+  "id": "EMPEROR_LEGGINGS",
+  "tier": "UNOBTAINABLE",
+  "can_be_reforged": true,
+  "description": [
+    {"text":"Armor the sea emperor wears"}
+  ]
 }

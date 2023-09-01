@@ -5,5 +5,68 @@
   "name": "Corrupted Bait",
   "category": "BAIT",
   "npc_sell_price": 1,
-  "id": "CORRUPTED_BAIT"
+  "id": "CORRUPTED_BAIT",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Fishing Bait"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Consumes on Cast"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Decreases your "
+        },
+        {
+          "color": "aqua",
+          "text": "\u2602 Fishing Speed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "red",
+          "text": "50%"
+        },
+        {
+          "color": "gray",
+          "text": ", but lures a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "special Trophy Fish in the"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Crimson Isle"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

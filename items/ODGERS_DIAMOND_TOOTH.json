@@ -15,6 +15,28 @@
       "reward": "DIAMOND"
     }
   ],
-  "description": "%%gray%%%%italic%%A perfectly fine tooth, besides its radiant brightness...",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "A perfectly fine tooth,"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "besides its radiant"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "brightness..."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "ODGERS_DIAMOND_TOOTH"
 }

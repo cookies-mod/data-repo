@@ -5,5 +5,18 @@
   "name": "Night Vision Charm",
   "category": "ACCESSORY",
   "npc_sell_price": 2500,
-  "id": "NIGHT_VISION_CHARM"
+  "id": "NIGHT_VISION_CHARM",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Grants Night Vision I while this"
+    },
+    {
+      "color": "gray",
+      "text": "item is in your inventory."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

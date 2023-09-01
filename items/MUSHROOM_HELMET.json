@@ -14,5 +14,56 @@
       "level": 7
     }
   ],
-  "id": "MUSHROOM_HELMET"
+  "id": "MUSHROOM_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Full Set Bonus: Night Affinity"
+    },
+    {
+      "color": "gray",
+      "text": "Grants the wearer with"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "permanent Night Vision"
+        },
+        {
+          "color": "gray",
+          "text": " while"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "worn, and during the night, the"
+    },
+    {
+      "color": "gray",
+      "text": "stats of the armor pieces are"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "tripled"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

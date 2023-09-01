@@ -5,5 +5,82 @@
   "name": "Abiphone XIV Enormous",
   "tier": "LEGENDARY",
   "npc_sell_price": 180,
-  "id": "ABIPHONE_XIV_ENORMOUS"
+  "id": "ABIPHONE_XIV_ENORMOUS",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A device that can be used to"
+    },
+    {
+      "color": "gray",
+      "text": "contact people! Click NPCs to"
+    },
+    {
+      "color": "gray",
+      "text": "add them to your contacts!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Features:"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Maximum Contacts: "
+        },
+        {
+          "color": "aqua",
+          "text": "11"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Maximum Discs: "
+        },
+        {
+          "color": "aqua",
+          "text": "25"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "bold": true,
+          "color": "light_purple",
+          "text": "Tic Tac Toe"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "bold": true,
+          "color": "light_purple",
+          "text": "Snake"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to open!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

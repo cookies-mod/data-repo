@@ -31,5 +31,109 @@
       ]
     }
   ],
-  "id": "RUNIC_STAFF"
+  "id": "RUNIC_STAFF",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Every being is sensible to"
+    },
+    {
+      "color": "gray",
+      "text": "specific Runes, in particular to"
+    },
+    {
+      "color": "gray",
+      "text": "3 categories of Runes: Mediator,"
+    },
+    {
+      "color": "gray",
+      "text": "Defender and Virtuoso. Using the"
+    },
+    {
+      "color": "gray",
+      "text": "proper Runic Spell on enemies"
+    },
+    {
+      "color": "gray",
+      "text": "can have great benefits."
+    },
+    {
+      "text": " "
+    },
+    {
+      "bold": true,
+      "color": "yellow",
+      "text": "Left-Click To Swap Rune"
+    },
+    {
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Arcane Zap "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Fires a beam of runic energy and"
+    },
+    {
+      "color": "gray",
+      "text": "hits the first enemy in its"
+    },
+    {
+      "color": "gray",
+      "text": "path. The more distance"
+    },
+    {
+      "color": "gray",
+      "text": "travelled the less damage it"
+    },
+    {
+      "color": "gray",
+      "text": "deals."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "10"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "1s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -5,5 +5,76 @@
   "name": "Feather Talisman",
   "category": "ACCESSORY",
   "npc_sell_price": 160,
-  "id": "FEATHER_TALISMAN"
+  "id": "FEATHER_TALISMAN",
+  "description": [
+    {
+      "color": "gold",
+      "text": "Ability: Light Weight"
+    },
+    {
+      "color": "gray",
+      "text": "Increases how high you can fall"
+    },
+    {
+      "color": "gray",
+      "text": "before taking fall damage by"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "5"
+        },
+        {
+          "color": "gray",
+          "text": " blocks."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This Talisman doesn\u0027t work if"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "the "
+        },
+        {
+          "color": "green",
+          "text": "Feather Ring"
+        },
+        {
+          "color": "gray",
+          "text": " or"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Feather Artifact"
+        },
+        {
+          "color": "gray",
+          "text": " is in your"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "inventory!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

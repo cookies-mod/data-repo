@@ -7,11 +7,5 @@
   },
   "npc_sell_price": 1,
   "tier":"UNOBTAINABLE",
-  "id": "BIGGER_SPRING_BOOTS",
-  "description": [
-    {"text": ""},
-    {"text": "WARNING!", "color": "red", "bold": true},
-    {"text": "This item is not obtainable, it does ONLY exist in the API.", "color": "red"},
-    {"text": ""}
-  ]
+  "id": "BIGGER_SPRING_BOOTS"
 }

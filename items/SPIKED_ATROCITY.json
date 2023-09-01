@@ -5,5 +5,27 @@
   "name": "Spiked Atrocity",
   "category": "ACCESSORY",
   "tier": "EPIC",
-  "id": "SPIKED_ATROCITY"
+  "id": "SPIKED_ATROCITY",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "10.0%"
+        },
+        {
+          "color": "gray",
+          "text": " chance not to consume"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "bait."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

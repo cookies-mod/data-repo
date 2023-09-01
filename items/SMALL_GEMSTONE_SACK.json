@@ -5,5 +5,45 @@
   "name": "Small Gemstone Sack",
   "tier": "UNCOMMON",
   "unstackable": true,
-  "id": "SMALL_GEMSTONE_SACK"
+  "id": "SMALL_GEMSTONE_SACK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Gemstone pickups go directly"
+    },
+    {
+      "color": "gray",
+      "text": "into your sacks."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Capacity: "
+        },
+        {
+          "color": "yellow",
+          "text": "128,000 per gemstone type"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Sacks sum their capacity."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right Click to open sack!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

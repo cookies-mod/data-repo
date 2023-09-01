@@ -17,5 +17,92 @@
       "level": 15
     }
   ],
-  "id": "ENCHANTED_JACK_O_LANTERN"
+  "id": "ENCHANTED_JACK_O_LANTERN",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "For every Farming Level, this Helmet gains:"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+2 "
+        },
+        {
+          "color": "green",
+          "text": "\u2748 Defense"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+4 "
+        },
+        {
+          "color": "red",
+          "text": "\u2764 Health"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+1 "
+        },
+        {
+          "color": "gold",
+          "text": "\u2618 Farming Fortune "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(Holding an Axe)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bonus Defense: "
+        },
+        {
+          "obfuscated": true,
+          "color": "green",
+          "text": "00"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bonus HP: "
+        },
+        {
+          "obfuscated": true,
+          "color": "green",
+          "text": "00"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

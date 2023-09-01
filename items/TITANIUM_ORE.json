@@ -5,6 +5,25 @@
   "name": "Titanium",
   "tier": "RARE",
   "npc_sell_price": 20,
-  "description": "%%gray%%%%italic%%Its strength and resistance to corrosion are the highest of any metallic element.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Its strength and resistance"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "to corrosion are the highest of"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "any metallic element."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "TITANIUM_ORE"
 }

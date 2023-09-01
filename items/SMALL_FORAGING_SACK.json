@@ -5,5 +5,189 @@
   "name": "Small Foraging Sack",
   "tier": "UNCOMMON",
   "unstackable": true,
-  "id": "SMALL_FORAGING_SACK"
+  "id": "SMALL_FORAGING_SACK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Item pickups go directly into"
+    },
+    {
+      "color": "gray",
+      "text": "your sacks."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Items: "
+        },
+        {
+          "color": "green",
+          "text": "Apple"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Oak Sapling"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Acacia"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Wood"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Oak Wood"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Spruce Sapling"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Spruce Wood"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Jungle Wood"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Birch"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Wood"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Dark Oak Wood"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Birch Sapling"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Jungle Sapling"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Acacia Sapling"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Dark"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Oak Sapling"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Capacity: "
+        },
+        {
+          "color": "yellow",
+          "text": "640 per item"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Sacks sum their capacity."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right Click to open sack!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

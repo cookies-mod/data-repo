@@ -18,5 +18,69 @@
       "level": 35
     }
   ],
-  "id": "SQUASH_HELMET"
+  "id": "SQUASH_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Tiered Bonus: Mento Fermento (0/4)"
+    },
+    {
+      "color": "gray",
+      "text": "Farming Sugar Cane, Cactus,"
+    },
+    {
+      "color": "gray",
+      "text": "Mushroom, and Nether Warts has a"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "0.005% "
+        },
+        {
+          "color": "gray",
+          "text": "chance of dropping a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "a Fermento. "
+        },
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "gold",
+          "text": "0\u2618"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Farming Fortune"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

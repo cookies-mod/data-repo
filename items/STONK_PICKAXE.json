@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_PICKAXE",
+  "material": "GOLDEN_PICKAXE",
   "enchantments": {
     "efficiency": 6
   },
@@ -11,5 +11,77 @@
     "MINING_SPEED": 380
   },
   "npc_sell_price": 9999,
-  "id": "STONK_PICKAXE"
+  "id": "STONK_PICKAXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "color": "blue",
+      "text": "Efficiency VI"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+130 "
+        },
+        {
+          "color": "gold",
+          "text": "\u2e15 Mining"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Speed"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "When mining End Stone with this"
+    },
+    {
+      "color": "gray",
+      "text": "pickaxe, Endermites won\u0027t spawn,"
+    },
+    {
+      "color": "gray",
+      "text": "experience will be dropped!"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "5%"
+        },
+        {
+          "color": "gray",
+          "text": " chance to drop an extra"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "End Stone block."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

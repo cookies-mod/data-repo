@@ -66,5 +66,30 @@
     }
   ],
   "dungeon_item": true,
-  "id": "CRYPT_BOW"
+  "id": "CRYPT_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Replaces the arrows that you"
+    },
+    {
+      "color": "gray",
+      "text": "shoot with exploding wither"
+    },
+    {
+      "color": "gray",
+      "text": "skulls!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 35000 / 35000"
+    }
+  ]
 }

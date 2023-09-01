@@ -82,5 +82,78 @@
       ]
     }
   ],
-  "id": "WISE_DRAGON_HELMET"
+  "id": "WISE_DRAGON_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Health: "
+        },
+        {
+          "color": "green",
+          "text": "+70 HP"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Defense: "
+        },
+        {
+          "color": "green",
+          "text": "+110"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Intelligence: "
+        },
+        {
+          "color": "green",
+          "text": "+125"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Wise Blood"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Abilities have "
+        },
+        {
+          "color": "green",
+          "text": "2/3 "
+        },
+        {
+          "color": "gray",
+          "text": "of the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "mana cost."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

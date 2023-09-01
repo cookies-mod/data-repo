@@ -4,5 +4,22 @@
   "tier": "UNCOMMON",
   "soulbound": "COOP",
   "npc_sell_price": 1,
-  "id": "GIFT_COMPASS"
+  "id": "GIFT_COMPASS",
+  "description": [
+    {
+      "color": "gray",
+      "text": "When held, points towards the"
+    },
+    {
+      "color": "gray",
+      "text": "nearest unopened present while"
+    },
+    {
+      "color": "gray",
+      "text": "in Jerry\u0027s Workshop."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -54,5 +54,101 @@
     }
   ],
   "dungeon_item": true,
-  "id": "ZOMBIE_COMMANDER_WHIP"
+  "id": "ZOMBIE_COMMANDER_WHIP",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Commander Whip"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Every "
+        },
+        {
+          "color": "blue",
+          "text": "1 Zombies killed"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "during a dungeon run by this"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "weapon gives the wearer "
+        },
+        {
+          "color": "green",
+          "text": "+1 "
+        },
+        {
+          "color": "red",
+          "text": "\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Strength"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Zombies Killed: "
+        },
+        {
+          "obfuscated": true,
+          "color": "green",
+          "text": "0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bonus Strength: "
+        },
+        {
+          "obfuscated": true,
+          "color": "green",
+          "text": "0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

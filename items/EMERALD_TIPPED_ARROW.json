@@ -18,5 +18,14 @@
       "mode": "II"
     }
   ],
-  "id": "EMERALD_TIPPED_ARROW"
+  "id": "EMERALD_TIPPED_ARROW",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Stats added when shot!"
+    }
+  ]
 }

@@ -15,5 +15,139 @@
       "level": 3
     }
   ],
-  "id": "FARM_SUIT_CHESTPLATE"
+  "id": "FARM_SUIT_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Bonus Speed"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Increases your "
+        },
+        {
+          "color": "white",
+          "text": "\u2726 Speed "
+        },
+        {
+          "color": "gray",
+          "text": "by"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+20"
+        },
+        {
+          "color": "gray",
+          "text": " near Farming Minions or"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "farming islands."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Farmer Aura"
+    },
+    {
+      "color": "gray",
+      "text": "Regrow an extra crop on farming"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "islands every "
+        },
+        {
+          "color": "green",
+          "text": "3 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Farming islands:"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "- "
+        },
+        {
+          "color": "aqua",
+          "text": "Farm"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "- "
+        },
+        {
+          "color": "aqua",
+          "text": "The Barn"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "- "
+        },
+        {
+          "color": "yellow",
+          "text": "Mushroom Desert"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "- "
+        },
+        {
+          "color": "aqua",
+          "text": "Garden"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

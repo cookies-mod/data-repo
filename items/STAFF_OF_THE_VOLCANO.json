@@ -163,5 +163,108 @@
       }
     ]
   ],
-  "id": "STAFF_OF_THE_VOLCANO"
+  "id": "STAFF_OF_THE_VOLCANO",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Explode "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Creates an explosion around you"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "dealing "
+        },
+        {
+          "color": "red",
+          "text": "375,494.4 "
+        },
+        {
+          "color": "gray",
+          "text": "damage and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "setting all mobs on fire in a 4"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "block radius over "
+        },
+        {
+          "color": "green",
+          "text": "1s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "100"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Health Cost: "
+        },
+        {
+          "color": "red",
+          "text": "1,251.5"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "30s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

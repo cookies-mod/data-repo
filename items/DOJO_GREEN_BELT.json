@@ -116,5 +116,31 @@
       }
     ]
   ],
-  "id": "DOJO_GREEN_BELT"
+  "id": "DOJO_GREEN_BELT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Reduces damage taken by "
+        },
+        {
+          "color": "red",
+          "text": "3%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

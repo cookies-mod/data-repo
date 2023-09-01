@@ -1,7 +1,27 @@
 {
-  "material": "MONSTER_EGG",
+  "material": "ghast_spawn_egg",
   "name": "Super Enchanted Egg",
   "glowing": true,
   "tier": "RARE",
-  "id": "SUPER_EGG"
+  "id": "SUPER_EGG",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Used to craft epic and"
+    },
+    {
+      "color": "gray",
+      "text": "legendary pets."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

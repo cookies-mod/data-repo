@@ -24,5 +24,50 @@
       "mode": "III"
     }
   ],
-  "id": "GLUE_ARROW"
+  "id": "GLUE_ARROW",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Passive: Stuck in goo"
+    },
+    {
+      "color": "gray",
+      "text": "Prevents victims from walking"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "dark_green",
+          "text": "1.5s "
+        },
+        {
+          "color": "gray",
+          "text": "when hit."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "6s cooldown per victim"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Practice III."
+    },
+    {
+      "color": "dark_gray",
+      "text": "Stats added when shot!"
+    }
+  ]
 }

@@ -7,5 +7,46 @@
   "tier": "RARE",
   "npc_sell_price": 0,
   "museum": true,
-  "id": "GREAT_SPOOK_ARTIFACT"
+  "id": "GREAT_SPOOK_ARTIFACT",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Obtained during the "
+        },
+        {
+          "color": "yellow",
+          "text": "2022"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Alchemist "
+        },
+        {
+          "color": "gray",
+          "text": "experiments!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Edition #???"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

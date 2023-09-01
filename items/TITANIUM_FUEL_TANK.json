@@ -5,5 +5,74 @@
   "name": "Titanium-Infused Fuel Tank",
   "tier": "RARE",
   "npc_sell_price": 46000,
-  "id": "TITANIUM_FUEL_TANK"
+  "id": "TITANIUM_FUEL_TANK",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Drill Part"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Part Type: "
+        },
+        {
+          "color": "gold",
+          "text": "Fuel Tank"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increases the fuel capacity to"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_green",
+          "text": "25,000"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can be applied to Drills by"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "talking to a "
+        },
+        {
+          "color": "dark_green",
+          "text": "Drill Mechanic"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

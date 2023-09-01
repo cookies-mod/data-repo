@@ -1,5 +1,5 @@
 {
-  "material": "CARPET",
+  "material": "RED_CARPET",
   "durability": 14,
   "name": "Anti-Bite Scarf",
   "tier": "LEGENDARY",
@@ -15,5 +15,75 @@
     "hearts_reduction": 0.3
   },
   "unstackable": true,
-  "id": "ANTI_BITE_SCARF"
+  "id": "ANTI_BITE_SCARF",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Helmets All The Way Around"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Regain "
+        },
+        {
+          "color": "green",
+          "text": "+2\u0444 "
+        },
+        {
+          "color": "gray",
+          "text": "when killing a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "monster."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "If you would take "
+        },
+        {
+          "color": "red",
+          "text": "\u2764 "
+        },
+        {
+          "color": "gray",
+          "text": "damage,"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "take "
+        },
+        {
+          "color": "red",
+          "text": "0.3\u2764 "
+        },
+        {
+          "color": "gray",
+          "text": "less."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

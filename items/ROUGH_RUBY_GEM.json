@@ -4,5 +4,86 @@
   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4MzU1ODUzNCwKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QxNTliMDMyNDNiZTE4YTE0ZjNlYWU3NjNjNDU2NWM3OGYxZjMzOWE4NzQyZDI2ZmRlNTQxYmU1OWI3ZGUwNyIKICAgIH0KICB9Cn0",
   "name": "Rough Ruby Gemstone",
   "npc_sell_price": 3,
-  "id": "ROUGH_RUBY_GEM"
+  "id": "ROUGH_RUBY_GEM",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Taken right from the heart of a"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "crystal vein in the "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Crystal"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Hollows"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Some say that when "
+        },
+        {
+          "color": "yellow",
+          "text": "harnessed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "properly"
+        },
+        {
+          "color": "gray",
+          "text": ", it can give its"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "owner extra "
+        },
+        {
+          "color": "red",
+          "text": "\u2764 Health"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

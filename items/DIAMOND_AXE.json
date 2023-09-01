@@ -7,5 +7,11 @@
     "DAMAGE": 30
   },
   "npc_sell_price": 12,
-  "id": "DIAMOND_AXE"
+  "id": "DIAMOND_AXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

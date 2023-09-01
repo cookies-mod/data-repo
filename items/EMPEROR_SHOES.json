@@ -3,5 +3,10 @@
   "color": "153,13,0",
   "name": "Emperor Shoes",
   "category": "BOOTS",
-  "id": "EMPEROR_SHOES"
+  "id": "EMPEROR_SHOES",
+  "tier": "UNOBTAINABLE",
+  "can_be_reforged": true,
+  "description": [
+    {"text":"Armor the sea emperor wears"}
+  ]
 }

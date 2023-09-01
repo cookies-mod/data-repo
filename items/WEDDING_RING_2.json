@@ -6,5 +6,69 @@
   "category": "ACCESSORY",
   "tier": "UNCOMMON",
   "soulbound": "COOP",
-  "id": "WEDDING_RING_2"
+  "id": "WEDDING_RING_2",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Grants a 1 in 10,000,000,000 chance"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to deal "
+        },
+        {
+          "color": "red",
+          "text": "+100% "
+        },
+        {
+          "color": "gray",
+          "text": "damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "True love is tough to find,"
+    },
+    {
+      "color": "dark_gray",
+      "text": "but finding it hits you hard!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Requires quest progress!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "extra": [
+        {
+          "bold": true,
+          "text": "64x Emerald"
+        }
+      ],
+      "text": "Requires "
+    },
+    {
+      "color": "green",
+      "text": "to upgrade!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

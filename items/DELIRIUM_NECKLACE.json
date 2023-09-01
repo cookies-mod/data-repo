@@ -214,5 +214,52 @@
       }
     ]
   ],
-  "id": "DELIRIUM_NECKLACE"
+  "id": "DELIRIUM_NECKLACE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increase the fire damage you"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "receive by "
+        },
+        {
+          "color": "red",
+          "text": "8% "
+        },
+        {
+          "color": "gray",
+          "text": "per "
+        },
+        {
+          "color": "red",
+          "text": "+1\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Strength"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -14,5 +14,39 @@
       "amount": 5
     }
   ],
-  "id": "ARACK"
+  "id": "ARACK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Venom Mold"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "red",
+          "text": "+100\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "while"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "poisoned."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

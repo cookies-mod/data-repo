@@ -4,5 +4,60 @@
   "tier": "UNCOMMON",
   "origin": "RIFT",
   "unstackable": true,
-  "id": "RIFT_BUCKET"
+  "id": "RIFT_BUCKET",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Instructions:"
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "1. "
+        },
+        {
+          "color": "gray",
+          "text": "Empty water bucket."
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "2. "
+        },
+        {
+          "color": "gray",
+          "text": "Do it again because it\u0027s infinite."
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "3. "
+        },
+        {
+          "color": "gray",
+          "text": "Triple-bill client."
+        }
+      ],
+      "text": " "
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Thanks Plumber Joe!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

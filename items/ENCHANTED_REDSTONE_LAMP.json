@@ -1,8 +1,14 @@
 {
-  "material": "REDSTONE_LAMP_OFF",
+  "material": "REDSTONE_LAMP",
   "name": "Enchanted Redstone Lamp",
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 30720,
-  "id": "ENCHANTED_REDSTONE_LAMP"
+  "id": "ENCHANTED_REDSTONE_LAMP",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

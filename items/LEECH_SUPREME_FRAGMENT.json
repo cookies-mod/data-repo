@@ -5,5 +5,14 @@
   "name": "Leech Supreme Fragment",
   "origin": "RIFT",
   "tier": "RARE",
-  "id": "LEECH_SUPREME_FRAGMENT"
+  "id": "LEECH_SUPREME_FRAGMENT",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

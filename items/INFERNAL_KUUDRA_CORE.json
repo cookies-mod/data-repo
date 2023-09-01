@@ -6,5 +6,43 @@
   "category": "ACCESSORY",
   "tier": "LEGENDARY",
   "npc_sell_price": 1,
-  "id": "INFERNAL_KUUDRA_CORE"
+  "id": "INFERNAL_KUUDRA_CORE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain a "
+        },
+        {
+          "color": "green",
+          "text": "3% "
+        },
+        {
+          "color": "gray",
+          "text": "chance for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Attributes to spawn 1 level"
+    },
+    {
+      "color": "gray",
+      "text": "higher."
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "The dark core of Kuudra!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

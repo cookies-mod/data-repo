@@ -5,5 +5,89 @@
   "name": "Capsaicin Eyedrops",
   "tier": "RARE",
   "unstackable": true,
-  "id": "CAPSAICIN_EYEDROPS"
+  "id": "CAPSAICIN_EYEDROPS",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Right-click on an Inferno minion"
+    },
+    {
+      "color": "gray",
+      "text": "with this item to boost its"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "chances of creating "
+        },
+        {
+          "color": "red",
+          "text": "unique"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "drops from "
+        },
+        {
+          "color": "gold",
+          "text": "Hypergolic "
+        },
+        {
+          "color": "gray",
+          "text": "fuel"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "30% "
+        },
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "green",
+          "text": "24 hours"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Charges: "
+        },
+        {
+          "color": "blue",
+          "text": "2/2"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

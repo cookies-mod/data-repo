@@ -5,5 +5,33 @@
   "name": "Dark Bait",
   "category": "BAIT",
   "npc_sell_price": 8,
-  "id": "DARK_BAIT"
+  "id": "DARK_BAIT",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Fishing Bait"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Consumes on Cast"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increases your chance to catch"
+    },
+    {
+      "color": "gray",
+      "text": "rare Sea Creatures during the"
+    },
+    {
+      "color": "gray",
+      "text": "night."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

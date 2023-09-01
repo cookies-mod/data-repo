@@ -5,5 +5,21 @@
   "name": "Sinful Dice",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "SINFUL_DICE"
+  "id": "SINFUL_DICE",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Snake eyes!"
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

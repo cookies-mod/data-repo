@@ -8,5 +8,59 @@
   "name": "Enchanted Book Bundle",
   "tier": "UNCOMMON",
   "unstackable": true,
-  "id": "ENCHANTED_BOOK_BUNDLE_VICIOUS"
+  "id": "ENCHANTED_BOOK_BUNDLE_VICIOUS",
+  "description": [
+    {
+      "color": "blue",
+      "text": "Vicious III"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "red",
+          "text": "+3\u2afd Ferocity"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Right-click to open this bundle"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "containing "
+        },
+        {
+          "color": "white",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "enchanted"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "books."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

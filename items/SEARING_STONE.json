@@ -6,5 +6,93 @@
   "category": "REFORGE_STONE",
   "tier": "RARE",
   "npc_sell_price": 35650,
-  "id": "SEARING_STONE"
+  "id": "SEARING_STONE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Strengthened"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "reforge when combined with"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "equipment"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Legends say this stone will"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "never cease glowing."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XXIV"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -5,5 +5,40 @@
   "name": "Jungle Amulet",
   "category": "ACCESSORY",
   "tier": "UNCOMMON",
-  "id": "JUNGLE_AMULET"
+  "id": "JUNGLE_AMULET",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "gold",
+          "text": "+10 \u2618 Mining Fortune"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "when mining "
+        },
+        {
+          "color": "light_purple",
+          "text": "Gemstones"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

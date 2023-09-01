@@ -5,5 +5,27 @@
   "name": "Intimidation Ring",
   "category": "ACCESSORY",
   "tier": "UNCOMMON",
-  "id": "INTIMIDATION_RING"
+  "id": "INTIMIDATION_RING",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Monsters at or below Level "
+        },
+        {
+          "color": "green",
+          "text": "5"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "will no longer target you."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

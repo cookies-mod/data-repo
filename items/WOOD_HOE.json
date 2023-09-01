@@ -1,7 +1,8 @@
 {
-  "material": "WOOD_HOE",
+  "material": "WOODen_HOE",
   "name": "Wooden Hoe",
   "category": "HOE",
   "npc_sell_price": 1,
-  "id": "WOOD_HOE"
+  "id": "WOOD_HOE",
+  "can_be_reforged": true
 }

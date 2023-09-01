@@ -13,5 +13,38 @@
   "item_specific": {
     "rift_time_regain_on_kill": 2
   },
-  "id": "AGARICUS_CAP_CAP"
+  "id": "AGARICUS_CAP_CAP",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Helmets All The Way Down"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Regain "
+        },
+        {
+          "color": "green",
+          "text": "+2\u0444 "
+        },
+        {
+          "color": "gray",
+          "text": "when killing a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "monster."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

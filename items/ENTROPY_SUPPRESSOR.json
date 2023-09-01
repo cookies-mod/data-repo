@@ -5,5 +5,88 @@
   "name": "Entropy Suppressor",
   "category": "REFORGE_STONE",
   "tier": "RARE",
-  "id": "ENTROPY_SUPPRESSOR"
+  "id": "ENTROPY_SUPPRESSOR",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can be used in a Reforge Anvil"
+    },
+    {
+      "color": "gray",
+      "text": "or with the Dungeon Blacksmith"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to apply the "
+        },
+        {
+          "color": "blue",
+          "text": "Coldfused"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "reforge to a melee weapon."
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Can be used with Blaze"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Slayer daggers."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XX"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

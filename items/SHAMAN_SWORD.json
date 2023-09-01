@@ -15,5 +15,56 @@
       "level": 3
     }
   ],
-  "id": "SHAMAN_SWORD"
+  "id": "SHAMAN_SWORD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "red",
+          "text": "+1 Damage "
+        },
+        {
+          "color": "gray",
+          "text": "per "
+        },
+        {
+          "color": "red",
+          "text": "50 max \u2764"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Receive "
+        },
+        {
+          "color": "green",
+          "text": "-20% "
+        },
+        {
+          "color": "gray",
+          "text": "damage from wolves."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

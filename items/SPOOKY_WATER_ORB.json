@@ -5,6 +5,25 @@
   "name": "Spooky Water Orb",
   "tier": "LEGENDARY",
   "npc_sell_price": 5000,
-  "description": "A terrifying sphere of extreme spookiness.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A terrifying sphere of extreme"
+    },
+    {
+      "color": "gray",
+      "text": "spookiness."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "SPOOKY_WATER_ORB"
 }

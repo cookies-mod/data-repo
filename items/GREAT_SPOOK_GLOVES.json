@@ -7,5 +7,53 @@
   "tier": "EPIC",
   "museum": true,
   "npc_sell_price": 0,
-  "id": "GREAT_SPOOK_GLOVES"
+  "id": "GREAT_SPOOK_GLOVES",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Obtained during the "
+        },
+        {
+          "color": "yellow",
+          "text": "2022"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Alchemist "
+        },
+        {
+          "color": "gray",
+          "text": "experiments!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "extra": [
+        {
+          "obfuscated": true,
+          "text": "420"
+        }
+      ],
+      "text": "Edition #"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

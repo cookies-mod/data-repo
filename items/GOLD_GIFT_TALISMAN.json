@@ -5,5 +5,44 @@
   "name": "Gold Gift Talisman",
   "category": "ACCESSORY",
   "tier": "LEGENDARY",
-  "id": "GOLD_GIFT_TALISMAN"
+  "id": "GOLD_GIFT_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+25% "
+        },
+        {
+          "color": "gold",
+          "text": "Coin "
+        },
+        {
+          "color": "gray",
+          "text": "and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "EXP "
+        },
+        {
+          "color": "gray",
+          "text": "rewards from gifts."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

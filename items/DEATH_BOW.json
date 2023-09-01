@@ -53,5 +53,72 @@
     }
   ],
   "dungeon_item": true,
-  "id": "DEATH_BOW"
+  "id": "DEATH_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deals "
+        },
+        {
+          "color": "green",
+          "text": "+100% "
+        },
+        {
+          "color": "gray",
+          "text": "damage to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Undead monsters"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Your arrows have a "
+        },
+        {
+          "color": "yellow",
+          "text": "50.0%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "chance to bounce to another"
+    },
+    {
+      "color": "gray",
+      "text": "target after it hits something."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

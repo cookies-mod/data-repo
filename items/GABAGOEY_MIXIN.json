@@ -12,5 +12,79 @@
       "level": 8
     }
   ],
-  "id": "GABAGOEY_MIXIN"
+  "id": "GABAGOEY_MIXIN",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Mixins provide a buff that can"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "be added to "
+        },
+        {
+          "color": "red",
+          "text": "God Potions "
+        },
+        {
+          "color": "gray",
+          "text": "in a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "brewing stand and lasts for the"
+    },
+    {
+      "color": "gray",
+      "text": "full duration."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Increases your "
+        },
+        {
+          "color": "white",
+          "text": "\u2742 True Defense"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

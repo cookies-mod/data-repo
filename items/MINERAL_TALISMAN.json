@@ -8,5 +8,47 @@
   "stats": {
     "MINING_FORTUNE": 3
   },
-  "id": "MINERAL_TALISMAN"
+  "id": "MINERAL_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+3 "
+        },
+        {
+          "color": "gold",
+          "text": "\u2618 Mining"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Fortune"
+        },
+        {
+          "color": "gray",
+          "text": ", which increases your"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "chance for multiple drops."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

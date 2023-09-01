@@ -1,7 +1,47 @@
 {
-  "material": "POWERED_MINECART",
+  "material": "furnace_minecart",
   "name": "Horsezooka",
   "tier": "EPIC",
   "origin": "RIFT",
-  "id": "HORSEZOOKA"
+  "id": "HORSEZOOKA",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Shoot "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Launches a horse to clear out"
+    },
+    {
+      "color": "gray",
+      "text": "hay."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "1"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

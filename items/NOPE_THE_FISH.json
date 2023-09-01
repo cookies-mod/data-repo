@@ -1,10 +1,19 @@
 {
-  "material": "RAW_FISH",
+  "material": "SALMON",
   "durability": 1,
   "name": "Nope the Fish",
   "glowing": true,
   "tier": "SPECIAL",
   "museum": true,
   "soulbound": "COOP",
-  "id": "NOPE_THE_FISH"
+  "id": "NOPE_THE_FISH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Why did we follow Shrimp..."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

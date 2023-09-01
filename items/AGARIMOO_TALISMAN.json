@@ -8,5 +8,10 @@
   "stats": {
     "fishing_speed": 1
   },
-  "id": "AGARIMOO_TALISMAN"
+  "id": "AGARIMOO_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

@@ -17,5 +17,11 @@
       "level": 24
     }
   ],
-  "id": "ROD_OF_THE_SEA"
+  "id": "ROD_OF_THE_SEA",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

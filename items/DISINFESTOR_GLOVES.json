@@ -9,5 +9,10 @@
   "stats": {
     "RIFT_TIME": 30
   },
-  "id": "DISINFESTOR_GLOVES"
+  "id": "DISINFESTOR_GLOVES",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

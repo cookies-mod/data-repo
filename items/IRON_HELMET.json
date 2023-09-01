@@ -6,5 +6,11 @@
     "DEFENSE": 10
   },
   "npc_sell_price": 7,
-  "id": "IRON_HELMET"
+  "id": "IRON_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

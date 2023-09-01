@@ -1,5 +1,5 @@
 {
-  "material": "WOOD_PICKAXE",
+  "material": "WOODEN_PICKAXE",
   "name": "Jungle Pickaxe",
   "glowing": true,
   "category": "PICKAXE",
@@ -16,5 +16,70 @@
     }
   ],
   "museum": true,
-  "id": "JUNGLE_PICKAXE"
+  "id": "JUNGLE_PICKAXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gives a chance to drop "
+        },
+        {
+          "color": "green",
+          "text": "Sludges"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Juice "
+        },
+        {
+          "color": "gray",
+          "text": "when mining in the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_green",
+          "text": "Jungle "
+        },
+        {
+          "color": "gray",
+          "text": "of the "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Crystal"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Hollows"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

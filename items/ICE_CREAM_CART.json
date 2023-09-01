@@ -5,5 +5,42 @@
   "name": "Ice Cream Cart",
   "furniture": "ICE_CREAM_CART",
   "tier": "EPIC",
-  "id": "ICE_CREAM_CART"
+  "id": "ICE_CREAM_CART",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Summer Cosmetic"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "This exclusive "
+        },
+        {
+          "color": "green",
+          "text": "Summer"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "cosmetic can be placed on your"
+    },
+    {
+      "color": "gray",
+      "text": "island or traded."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

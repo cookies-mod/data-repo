@@ -1,8 +1,17 @@
 {
-  "material": "NETHER_BRICK_ITEM",
+  "material": "NETHER_BRICK",
   "name": "Livid Fragment",
   "glowing": true,
   "tier": "RARE",
   "dungeon_item": true,
-  "id": "LIVID_FRAGMENT"
+  "id": "LIVID_FRAGMENT",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

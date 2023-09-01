@@ -54,5 +54,52 @@
     }
   ],
   "dungeon_item": true,
-  "id": "METAL_CHESTPLATE"
+  "id": "METAL_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "While in Dungeons, players"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "within "
+        },
+        {
+          "color": "yellow",
+          "text": "8 "
+        },
+        {
+          "color": "gray",
+          "text": "blocks of you take"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "8% "
+        },
+        {
+          "color": "gray",
+          "text": "less damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

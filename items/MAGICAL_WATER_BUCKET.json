@@ -3,5 +3,26 @@
   "name": "Magical Water Bucket",
   "glowing": true,
   "npc_sell_price": 40,
-  "id": "MAGICAL_WATER_BUCKET"
+  "id": "MAGICAL_WATER_BUCKET",
+  "description": [
+    {
+      "color": "gray",
+      "text": "This Magical Water Bucket will"
+    },
+    {
+      "color": "gray",
+      "text": "never run out of water, no"
+    },
+    {
+      "color": "gray",
+      "text": "matter how many times it is"
+    },
+    {
+      "color": "gray",
+      "text": "emptied."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

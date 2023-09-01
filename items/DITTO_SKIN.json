@@ -7,5 +7,64 @@
   "tier": "EPIC",
   "unstackable": true,
   "museum": true,
-  "id": "DITTO_SKIN"
+  "id": "DITTO_SKIN",
+  "soulbound": "COOP",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Spawn a NPC with the captured"
+    },
+    {
+      "color": "gray",
+      "text": "skin."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Copycat"
+    },
+    {
+      "color": "gray",
+      "text": "Copies the skin of an"
+    },
+    {
+      "color": "gray",
+      "text": "unsuspecting player."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "10s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Requires "
+        },
+        {
+          "color": "dark_purple",
+          "text": "\u24b7 Bingo Rank III"
+        },
+        {
+          "color": "red",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

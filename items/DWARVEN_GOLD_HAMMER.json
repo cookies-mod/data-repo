@@ -1,7 +1,49 @@
 {
-  "material": "GOLD_AXE",
+  "material": "GOLDEN_AXE",
   "name": "Scavenged Golden Hammer",
   "glowing": true,
   "tier": "SPECIAL",
-  "id": "DWARVEN_GOLD_HAMMER"
+  "id": "DWARVEN_GOLD_HAMMER",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Quest Item"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bring to the "
+        },
+        {
+          "color": "gold",
+          "text": "Keeper of Gold"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in the "
+        },
+        {
+          "color": "dark_green",
+          "text": "Mines of Divan"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

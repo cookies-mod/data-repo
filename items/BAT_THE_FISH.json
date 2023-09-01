@@ -1,8 +1,17 @@
 {
-  "material": "COOKED_FISH",
+  "material": "cooked_cod",
   "name": "Bat the Fish",
   "glowing": true,
   "tier": "SPECIAL",
   "museum": true,
-  "id": "BAT_THE_FISH"
+  "id": "BAT_THE_FISH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Where is my cape"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

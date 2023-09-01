@@ -1,5 +1,5 @@
 {
-  "material": "COBBLE_WALL",
+  "material": "COBBLEstone_WALL",
   "name": "Cobblestone Wall",
   "npc_sell_price": 1,
   "id": "COBBLE_WALL"

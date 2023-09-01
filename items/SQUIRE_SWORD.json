@@ -15,5 +15,11 @@
       "level": 4
     }
   ],
-  "id": "SQUIRE_SWORD"
+  "id": "SQUIRE_SWORD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

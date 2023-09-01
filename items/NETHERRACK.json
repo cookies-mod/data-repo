@@ -2,5 +2,11 @@
   "material": "NETHERRACK",
   "name": "Netherrack",
   "npc_sell_price": 1,
-  "id": "NETHERRACK"
+  "id": "NETHERRACK",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

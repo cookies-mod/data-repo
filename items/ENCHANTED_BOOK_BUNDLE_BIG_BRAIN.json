@@ -8,5 +8,59 @@
   "name": "Enchanted Book Bundle",
   "tier": "UNCOMMON",
   "unstackable": true,
-  "id": "ENCHANTED_BOOK_BUNDLE_BIG_BRAIN"
+  "id": "ENCHANTED_BOOK_BUNDLE_BIG_BRAIN",
+  "description": [
+    {
+      "color": "blue",
+      "text": "Big Brain III"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "aqua",
+          "text": "+15\u270e Intelligence"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Right-click to open this bundle"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "containing "
+        },
+        {
+          "color": "white",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "enchanted"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "books."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

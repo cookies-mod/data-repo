@@ -56,5 +56,43 @@
       "level": 8
     }
   ],
-  "id": "RUNAANS_BOW"
+  "id": "RUNAANS_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Triple Shot"
+    },
+    {
+      "color": "gray",
+      "text": "Shoots 3 arrows at a time! The 2"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "extra arrows deal "
+        },
+        {
+          "color": "green",
+          "text": "40%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "percent of the damage and home"
+    },
+    {
+      "color": "gray",
+      "text": "to targets."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

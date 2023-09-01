@@ -5,5 +5,87 @@
   "name": "Farming Talisman",
   "category": "ACCESSORY",
   "npc_sell_price": 25,
-  "id": "FARMING_TALISMAN"
+  "id": "FARMING_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Increases your "
+        },
+        {
+          "color": "white",
+          "text": "\u2726 Speed "
+        },
+        {
+          "color": "gray",
+          "text": "by"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+10"
+        },
+        {
+          "color": "gray",
+          "text": " while held in the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Farm"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "aqua",
+          "text": "The Barn"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "Mushroom Desert"
+        },
+        {
+          "color": "gray",
+          "text": ", and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Garden"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

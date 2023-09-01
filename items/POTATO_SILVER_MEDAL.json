@@ -3,5 +3,12 @@
   "name": "Potato War Silver Medal",
   "tier": "SPECIAL",
   "museum": true,
-  "id": "POTATO_SILVER_MEDAL"
+  "id": "POTATO_SILVER_MEDAL",
+  "description": [
+    {"text":" There is no instance of a","color":"light_purple","italic":true},
+    {"text":" nation benefitting from prolonged","color":"light_purple","italic":true},
+    {"text":" warfare.","color":"light_purple","italic":true},
+    {"text":"- Sun Tzu, The Art of War","color":"dark_gray"},
+    {"text":""}
+  ]
 }

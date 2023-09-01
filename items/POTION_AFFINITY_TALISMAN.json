@@ -5,5 +5,39 @@
   "name": "Potion Affinity Talisman",
   "category": "ACCESSORY",
   "npc_sell_price": 192,
-  "id": "POTION_AFFINITY_TALISMAN"
+  "id": "POTION_AFFINITY_TALISMAN",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Unique Effect: Potion Affinity"
+    },
+    {
+      "color": "gray",
+      "text": "Increases the duration of any"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "consumed Potion by "
+        },
+        {
+          "color": "green",
+          "text": "10%"
+        },
+        {
+          "color": "gray",
+          "text": " when"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "held in your inventory."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

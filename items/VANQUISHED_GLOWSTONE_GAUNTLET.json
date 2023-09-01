@@ -140,5 +140,72 @@
       }
     ]
   ],
-  "id": "VANQUISHED_GLOWSTONE_GAUNTLET"
+  "id": "VANQUISHED_GLOWSTONE_GAUNTLET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Piece Bonus: Glowing"
+    },
+    {
+      "color": "gray",
+      "text": "Mine Glowstone to accumulate"
+    },
+    {
+      "color": "gray",
+      "text": "Health."
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Piece Bonus: "
+        },
+        {
+          "color": "red",
+          "text": "+0\u2764"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Next Upgrade: "
+        },
+        {
+          "color": "red",
+          "text": "+1\u2764 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "("
+        },
+        {
+          "color": "green",
+          "text": "0"
+        },
+        {
+          "color": "gray",
+          "text": "/"
+        },
+        {
+          "color": "red",
+          "text": "1,000"
+        },
+        {
+          "color": "dark_gray",
+          "text": ")"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

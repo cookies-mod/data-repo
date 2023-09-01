@@ -4,5 +4,42 @@
   "skin": "eyJ0aW1lc3RhbXAiOjE1NTQxMjQwNDA1NDcsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhhODJiM2FhM2ZkNzc4NDZhMWNlMDViZmYwYTE3MzU1M2U5ZjNlZWNiZmY5NmQ2YmM2ODYyMjEwYTYwYzdkMjEifSwiQ0FQRSI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE1M2IxYTBkZmNiYWU5NTNjZGViNmYyYzJiZjZiZjc5OTQzMjM5YjEzNzI3ODBkYTQ0YmNiYjI5MjczMTMxZGEifX19",
   "name": "X PEDESTAL",
   "furniture": "PEDESTAL",
-  "id": "PEDESTAL"
+  "id": "PEDESTAL",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Halloween Cosmetic"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "This exclusive "
+        },
+        {
+          "color": "gold",
+          "text": "Halloween"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "cosmetic can be placed on your"
+    },
+    {
+      "color": "gray",
+      "text": "island or traded."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

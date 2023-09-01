@@ -8,5 +8,65 @@
     "CRITICAL_DAMAGE": 50
   },
   "npc_sell_price": 960000,
-  "id": "SLIME_BOW"
+  "id": "SLIME_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Will consume "
+        },
+        {
+          "color": "green",
+          "text": "Slime Balls"
+        },
+        {
+          "color": "gray",
+          "text": " in"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "your inventory or Quiver to deal"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "5x"
+        },
+        {
+          "color": "gray",
+          "text": " damage to "
+        },
+        {
+          "color": "blue",
+          "text": "Magma Cubes"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "and Slimes"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -13,5 +13,48 @@
       "level": 15
     }
   ],
-  "id": "RABBIT_LEGGINGS"
+  "id": "RABBIT_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Bonus Farming Fortune"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Increases "
+        },
+        {
+          "color": "gold",
+          "text": "\u2618 Farming Fortune"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "+10"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

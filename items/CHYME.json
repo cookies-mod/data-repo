@@ -5,5 +5,42 @@
   "name": "Chyme",
   "tier": "RARE",
   "npc_sell_price": 1,
-  "id": "CHYME"
+  "id": "CHYME",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Feeding this to your pets gives"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "them a boost of "
+        },
+        {
+          "color": "green",
+          "text": "90,000 exp"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click on your summoned"
+    },
+    {
+      "color": "yellow",
+      "text": "pet to feed it!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

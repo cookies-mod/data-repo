@@ -7,5 +7,34 @@
   "tier": "LEGENDARY",
   "npc_sell_price": 1000,
   "dungeon_item": true,
-  "id": "TREASURE_ARTIFACT"
+  "id": "TREASURE_ARTIFACT",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+3% "
+        },
+        {
+          "color": "gray",
+          "text": "extra loot to end"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "of dungeon chests."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

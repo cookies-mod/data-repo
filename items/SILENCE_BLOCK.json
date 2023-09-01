@@ -4,5 +4,22 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 160,
-  "id": "SILENCE_BLOCK"
+  "id": "SILENCE_BLOCK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Prevents all mobs making noise"
+    },
+    {
+      "color": "gray",
+      "text": "when placed on your private"
+    },
+    {
+      "color": "gray",
+      "text": "island."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

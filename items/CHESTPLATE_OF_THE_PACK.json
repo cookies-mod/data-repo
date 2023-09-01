@@ -15,5 +15,128 @@
       "level": 6
     }
   ],
-  "id": "CHESTPLATE_OF_THE_PACK"
+  "id": "CHESTPLATE_OF_THE_PACK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "green",
+          "text": "+75\u2748 Defense "
+        },
+        {
+          "color": "gray",
+          "text": "against animals."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "white",
+          "text": "+5\u2742 True Defense"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Full Set Bonus: "
+        },
+        {
+          "color": "red",
+          "text": "Armor of the Pack"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "red",
+          "text": "+35\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+80\u2748 Defense "
+        },
+        {
+          "color": "gray",
+          "text": "for each"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Armor of the Pack "
+        },
+        {
+          "color": "gray",
+          "text": "wearer"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "within "
+        },
+        {
+          "color": "green",
+          "text": "30 "
+        },
+        {
+          "color": "gray",
+          "text": "blocks."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Max of 3 players!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

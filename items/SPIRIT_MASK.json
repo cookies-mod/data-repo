@@ -59,5 +59,74 @@
     }
   ],
   "dungeon_item": true,
-  "id": "SPIRIT_MASK"
+  "id": "SPIRIT_MASK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Second Wind"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Instead of dying, gain "
+        },
+        {
+          "color": "white",
+          "text": "+50\u2726"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "white",
+          "text": "Speed "
+        },
+        {
+          "color": "gray",
+          "text": "and damage immunity for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "3 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "30s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

@@ -2,7 +2,39 @@
   "material": "DEAD_BUSH",
   "name": "Wilted Berberis Bunch",
   "tier": "UNCOMMON",
-  "description": "The plant equivalent of... ALIEN revenant viscera?",
+  "description": [
+    {
+      "color": "gray",
+      "text": "The plant equivalent of... ALIEN"
+    },
+    {
+      "color": "gray",
+      "text": "revenant viscera?"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ],
   "origin": "RIFT",
   "glowing": true,
   "rift_transferrable": true,

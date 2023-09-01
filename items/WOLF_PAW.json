@@ -9,5 +9,10 @@
     "WALK_SPEED": 1
   },
   "soulbound": "COOP",
-  "id": "WOLF_PAW"
+  "id": "WOLF_PAW",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

@@ -77,5 +77,43 @@
     }
   ],
   "dungeon_item": true,
-  "id": "BOUNCY_BOOTS"
+  "id": "BOUNCY_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Bouncing Arrow"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Your arrows have a "
+        },
+        {
+          "color": "yellow",
+          "text": "25%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "chance to bounce to another"
+    },
+    {
+      "color": "gray",
+      "text": "target after it hits something."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 35000 / 35000"
+    }
+  ]
 }

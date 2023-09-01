@@ -1,12 +1,14 @@
 {
-  "material": "GOLD_LEGGINGS",
+  "material": "GOLDEN_LEGGINGS",
   "name": "Leggings of the Stars",
   "category": "LEGGINGS",
-  "tier": "UNOBTAINABLE",
+  "tier": "ADMIN",
   "stats": {
     "DEFENSE": 4000,
     "HEALTH": 15000,
     "INTELLIGENCE": 1500
   },
-  "id": "STAR_LEGGINGS"
+  "id": "STAR_LEGGINGS",
+  "can_be_reforged": true,
+  "soulbound": "SOLO"
 }

@@ -5,5 +5,14 @@
   "name": "Bacte Fragment",
   "tier": "RARE",
   "origin": "RIFT",
-  "id": "BACTE_FRAGMENT"
+  "id": "BACTE_FRAGMENT",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

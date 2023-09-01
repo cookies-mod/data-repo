@@ -207,5 +207,52 @@
       }
     ]
   ],
-  "id": "SCOVILLE_BELT"
+  "id": "SCOVILLE_BELT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "green",
+          "text": "+50\u2748 Defense "
+        },
+        {
+          "color": "gray",
+          "text": "per"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "ignited enemy within a 10 block"
+    },
+    {
+      "color": "gray",
+      "text": "radius up to a maximum of"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+1,000\u2748 Defense"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

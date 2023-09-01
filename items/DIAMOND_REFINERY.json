@@ -1,7 +1,7 @@
 {
   "material": "DIAMOND_ORE",
   "name": "Diamond Refinery",
-  "tier": "RARE",
+  "tier": "UNOBTAINABLE",
   "npc_sell_price": 1300,
   "id": "DIAMOND_REFINERY"
 }

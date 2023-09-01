@@ -1,8 +1,15 @@
 {
-  "material": "INK_SACK",
+  "material": "YELLOW_DYE",
   "durability": 11,
   "name": "Pure Yellow Dye",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "DYE_PURE_YELLOW"
+  "id": "DYE_PURE_YELLOW",
+  "description": [
+    {"text": "Combineable in Avil", "color": "dark_gray"},
+    {"text": ""},
+    {"text": "Changes the color of leather", "color": "gray"},
+    {"text": "armor piece to ", "color": "gray", "extra": [{"text": "#FFF700", "color": "#FFF700"},{"text": "!"}]},
+    {"text": ""}
+  ]
 }

@@ -3,5 +3,29 @@
   "name": "Enchanted Ancient Claw",
   "glowing": true,
   "tier": "EPIC",
-  "id": "ENCHANTED_ANCIENT_CLAW"
+  "id": "ENCHANTED_ANCIENT_CLAW",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Drops rarely off of monsters"
+    },
+    {
+      "color": "gray",
+      "text": "from Diana\u0027s Mythological"
+    },
+    {
+      "color": "gray",
+      "text": "Ritual."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

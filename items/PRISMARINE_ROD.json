@@ -16,5 +16,39 @@
     }
   ],
   "museum": true,
-  "id": "PRISMARINE_ROD"
+  "id": "PRISMARINE_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This fishing rod grants a"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "25%"
+        },
+        {
+          "color": "gray",
+          "text": " chance to catch"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Prismarine Shards or Prismarine"
+    },
+    {
+      "color": "gray",
+      "text": "Crystals."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

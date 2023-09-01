@@ -5,5 +5,44 @@
   "name": "Golden Treat",
   "tier": "LEGENDARY",
   "museum": true,
-  "id": "GOLD_CANDY"
+  "id": "GOLD_CANDY",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Obtained during the "
+        },
+        {
+          "color": "gold",
+          "text": "Spooky"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Festival "
+        },
+        {
+          "color": "gray",
+          "text": "for placing within"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "the Top 50 of the Candy Contest!"
+    },
+    {
+      "color": "gray",
+      "text": "Can be placed."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -17,5 +17,11 @@
       "level": 15
     }
   ],
-  "id": "CHAMP_ROD"
+  "id": "CHAMP_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

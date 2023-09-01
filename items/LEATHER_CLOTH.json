@@ -4,7 +4,28 @@
   "tier": "EPIC",
   "glowing": true,
   "soulbound": "COOP",
-  "description": "%%gray%%%%italic%%The origin of that leather is a well kept secret.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "The origin of that leather"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "is a well kept secret."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 500,
   "id": "LEATHER_CLOTH"
 }

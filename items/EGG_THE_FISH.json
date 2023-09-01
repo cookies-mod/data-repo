@@ -1,9 +1,26 @@
 {
-  "material": "COOKED_FISH",
+  "material": "cooked_salmon",
   "durability": 1,
   "name": "Egg the Fish",
   "glowing": true,
   "tier": "SPECIAL",
   "museum": true,
-  "id": "EGG_THE_FISH"
+  "id": "EGG_THE_FISH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "This delicate, painted fish was"
+    },
+    {
+      "color": "gray",
+      "text": "found in the depths of the Main"
+    },
+    {
+      "color": "gray",
+      "text": "Lobby during the Easter season."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

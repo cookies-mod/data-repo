@@ -17,5 +17,59 @@
       }
     }
   },
-  "id": "CRYSTAL_HOLLOWS_PORTAL"
+  "id": "CRYSTAL_HOLLOWS_PORTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Placing this item on your"
+    },
+    {
+      "color": "gray",
+      "text": "private island will create a"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "portal to "
+        },
+        {
+          "color": "aqua",
+          "text": "the Crystal"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Hollows"
+        },
+        {
+          "color": "gray",
+          "text": " for you to use"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "whenever you want!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "The portal will spawn facing"
+    },
+    {
+      "color": "dark_gray",
+      "text": "you on the block you click on."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

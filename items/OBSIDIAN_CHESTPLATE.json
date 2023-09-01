@@ -15,5 +15,80 @@
       "level": 14
     }
   ],
-  "id": "OBSIDIAN_CHESTPLATE"
+  "id": "OBSIDIAN_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "While worn, gain "
+        },
+        {
+          "color": "green",
+          "text": "+1 "
+        },
+        {
+          "color": "white",
+          "text": "\u2726"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "white",
+          "text": "Speed"
+        },
+        {
+          "color": "gray",
+          "text": " for every "
+        },
+        {
+          "color": "green",
+          "text": "20"
+        },
+        {
+          "color": "gray",
+          "text": " pieces"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "of Obsidian in your inventory!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bonus Speed: "
+        },
+        {
+          "obfuscated": true,
+          "color": "green",
+          "text": "00"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Immune to Wither effect."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

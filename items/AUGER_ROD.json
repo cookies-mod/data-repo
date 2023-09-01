@@ -15,5 +15,37 @@
       "level": 25
     }
   ],
-  "id": "AUGER_ROD"
+  "id": "AUGER_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Breaks nearby ice blocks where"
+    },
+    {
+      "color": "gray",
+      "text": "it lands."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Triples the chance of the sea"
+    },
+    {
+      "color": "gray",
+      "text": "creatures that you spawn to be"
+    },
+    {
+      "color": "gray",
+      "text": "winter sea creatures."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

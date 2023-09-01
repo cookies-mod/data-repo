@@ -6,5 +6,92 @@
   "tier": "UNCOMMON",
   "category": "BAIT",
   "npc_sell_price": 25,
-  "id": "GLOWY_CHUM_BAIT"
+  "id": "GLOWY_CHUM_BAIT",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Fishing Bait"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Consumes on Cast"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "aqua",
+          "text": "+25\u2602 Fishing Speed"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+3\u03b1 Sea Creature"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_aqua",
+          "text": "Chance"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Adds "
+        },
+        {
+          "color": "green",
+          "text": "+2 Chums "
+        },
+        {
+          "color": "gray",
+          "text": "dropped on"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Sea Creatures fished with this"
+    },
+    {
+      "color": "gray",
+      "text": "bait."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

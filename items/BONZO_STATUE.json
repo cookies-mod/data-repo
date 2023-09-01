@@ -7,5 +7,15 @@
   "tier": "UNCOMMON",
   "unstackable": true,
   "museum": true,
-  "id": "BONZO_STATUE"
+  "id": "BONZO_STATUE",
+  "soulbound": "COOP",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Spawn a statue of Bonzo."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

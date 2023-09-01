@@ -18,5 +18,24 @@
       "level": 5
     }
   ],
-  "id": "BASIC_GARDENING_HOE"
+  "id": "BASIC_GARDENING_HOE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "red",
+      "text": "5 Copper"
+    }
+  ]
 }

@@ -3,5 +3,63 @@
   "name": "Savanna Biome Stick",
   "glowing": true,
   "npc_sell_price": 32,
-  "id": "SAVANA_BIOME_STICK"
+  "id": "SAVANA_BIOME_STICK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Allows you to change the biome"
+    },
+    {
+      "color": "gray",
+      "text": "at the targeted block on your"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "private island to "
+        },
+        {
+          "color": "aqua",
+          "text": "Savanna"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Right-click to use, or"
+    },
+    {
+      "color": "gray",
+      "text": "Left-click to change the radius"
+    },
+    {
+      "color": "gray",
+      "text": "it effects."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Selected Radius: "
+        },
+        {
+          "color": "aqua",
+          "text": "3"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

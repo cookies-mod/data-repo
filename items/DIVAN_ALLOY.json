@@ -4,7 +4,31 @@
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRhNDE0ZDI5Y2M5ZWJiZmMxY2JkY2QyMTFlZWU0NzI2ZDA2NzZiZTI2MmU5Y2I4ZWVmZmFmZDFmYzM4MGIxNCJ9fX0\u003d",
   "name": "Divan\u0027s Alloy",
   "tier": "LEGENDARY",
-  "description": "%%gray%%%%italic%%The legendary Divan explored where no other man has set foot, and came back with this incredibly rare alloy.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "The legendary Divan explored"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "where no other man has set foot,"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "and came back with this"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "incredibly rare alloy."
+    },
+    {
+      "text": ""
+    }
+  ],
   "museum": true,
   "id": "DIVAN_ALLOY"
 }

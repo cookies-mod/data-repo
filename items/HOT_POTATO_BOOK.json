@@ -4,5 +4,112 @@
   "glowing": true,
   "tier": "EPIC",
   "npc_sell_price": 38400,
-  "id": "HOT_POTATO_BOOK"
+  "id": "HOT_POTATO_BOOK",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "When applied to armor, grants"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+2\u2748 Defense "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "red",
+          "text": "+4\u2764"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Health"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "When applied to weapons, grants"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "+2\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "red",
+          "text": "+2\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Damage"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This can be applied to an item"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "up to "
+        },
+        {
+          "color": "green",
+          "text": "10 "
+        },
+        {
+          "color": "gray",
+          "text": "times!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

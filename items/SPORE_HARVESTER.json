@@ -5,5 +5,54 @@
   "tier": "UNCOMMON",
   "category": "HOE",
   "npc_sell_price": 50,
-  "id": "SPORE_HARVESTER"
+  "id": "SPORE_HARVESTER",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "color": "gray",
+      "text": "A magically imbued axe used by"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Mages "
+        },
+        {
+          "color": "gray",
+          "text": "to carefully harvest"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Brown Mushrooms "
+        },
+        {
+          "color": "gray",
+          "text": "in the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Crimson Isle"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -4,5 +4,14 @@
   "glowing": true,
   "tier": "EPIC",
   "npc_sell_price": 500,
-  "id": "CRYSTAL_FRAGMENT"
+  "id": "CRYSTAL_FRAGMENT",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

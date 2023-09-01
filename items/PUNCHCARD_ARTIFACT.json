@@ -12,5 +12,60 @@
   "item_specific": {
     "regained_rift_time": 25
   },
-  "id": "PUNCHCARD_ARTIFACT"
+  "id": "PUNCHCARD_ARTIFACT",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Punch in! "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "LEFT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Punch another player while this"
+    },
+    {
+      "color": "gray",
+      "text": "is in your inventory to both"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "regain "
+        },
+        {
+          "color": "green",
+          "text": "+25\u0444 Rift Time"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Usable once per player per"
+    },
+    {
+      "color": "dark_gray",
+      "text": "rift visit up to 20 players."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

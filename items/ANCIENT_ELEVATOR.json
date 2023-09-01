@@ -3,5 +3,54 @@
   "name": "Ancient Elevator",
   "tier": "SPECIAL",
   "museum": true,
-  "id": "ANCIENT_ELEVATOR"
+  "id": "ANCIENT_ELEVATOR",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Manual operation."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "To: "
+        },
+        {
+          "color": "red",
+          "text": "[ADMIN] Minikloon"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "From: "
+        },
+        {
+          "color": "red",
+          "text": "[ADMIN] Minikloon"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Edition #1"
+    },
+    {
+      "color": "dark_gray",
+      "text": "September 2020"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -12,5 +12,11 @@
     "health_regeneration": 2,
     "fishing_speed": 12
   },
-  "id": "GILLSPLASH_CLOAK"
+  "id": "GILLSPLASH_CLOAK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

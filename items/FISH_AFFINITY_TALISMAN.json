@@ -9,5 +9,10 @@
   "stats": {
     "fishing_speed": 10
   },
-  "id": "FISH_AFFINITY_TALISMAN"
+  "id": "FISH_AFFINITY_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

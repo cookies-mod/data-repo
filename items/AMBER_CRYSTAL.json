@@ -4,5 +4,72 @@
   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyMDA3NjM2NDU2NSwKICAicHJvZmlsZUlkIiA6ICJmN2RiZWFlNmE5MWQ0OTYxYTU4NjY5NThiMjc2MjJhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbGltZWdhbWVyNDM3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmNzgzNWZjOWU2ZGFmNjMyMTYwZTliN2ZmMzc4Nzg4YTQwODA2NGNjNzVlYmY5ZjUxNThlNjE1YmRkNTk2MDMiCiAgICB9CiAgfQp9",
   "name": "Amber Crystal",
   "tier": "RARE",
-  "id": "AMBER_CRYSTAL"
+  "id": "AMBER_CRYSTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Energetic crystal found deep"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in the "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Crystal Hollows"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Some say that it can be"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "infused with "
+        },
+        {
+          "color": "light_purple",
+          "text": "gemstones"
+        },
+        {
+          "color": "gray",
+          "text": ", and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "it is rumored to unlock"
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "treasure"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

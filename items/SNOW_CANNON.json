@@ -6,5 +6,57 @@
   "tier": "RARE",
   "npc_sell_price": 10,
   "museum": true,
-  "id": "SNOW_CANNON"
+  "id": "SNOW_CANNON",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Holds and shoots Snowballs. When"
+    },
+    {
+      "color": "gray",
+      "text": "you pickup Snowballs, they"
+    },
+    {
+      "color": "gray",
+      "text": "increase the ammo held by this"
+    },
+    {
+      "color": "gray",
+      "text": "item."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Snowballs: "
+        },
+        {
+          "color": "white",
+          "text": "1,000"
+        },
+        {
+          "color": "gray",
+          "text": "/"
+        },
+        {
+          "color": "white",
+          "text": "1,000"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click to shoot!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

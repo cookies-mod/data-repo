@@ -3,5 +3,47 @@
   "name": "Scavenged Emerald Hammer",
   "glowing": true,
   "tier": "SPECIAL",
-  "id": "DWARVEN_EMERALD_HAMMER"
+  "id": "DWARVEN_EMERALD_HAMMER",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Quest Item"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bring to the "
+        },
+        {
+          "color": "gold",
+          "text": "Keeper of Emerald"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in the "
+        },
+        {
+          "color": "dark_green",
+          "text": "Mines of Divan"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

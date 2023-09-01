@@ -10,5 +10,21 @@
   },
   "soulbound": "COOP",
   "npc_sell_price": 1000,
-  "id": "PIGS_FOOT"
+  "id": "PIGS_FOOT",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Like a Rabbit\u0027s Foot, but more"
+    },
+    {
+      "color": "gray",
+      "text": "useless."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

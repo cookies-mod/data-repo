@@ -4,5 +4,57 @@
   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDU0NjI1OTk0MywKICAicHJvZmlsZUlkIiA6ICI4YmM3MjdlYThjZjA0YWUzYTI4MDVhY2YzNjRjMmQyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RpbnZlbnRpdmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmFjZTU5ODdmYmNjOWZmYzVhMzY5Mjc5ODZhNTc3NzdjNWE2MjIyMjNiYjk2MjE0MjEyYjgzYzYzNzU1NzNhNCIKICAgIH0KICB9Cn0\u003d",
   "name": "Control Switch",
   "tier": "RARE",
-  "id": "CONTROL_SWITCH"
+  "id": "CONTROL_SWITCH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A key component needed by the"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Professor to repair "
+        },
+        {
+          "color": "aqua",
+          "text": "Automaton"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Prime "
+        },
+        {
+          "color": "gray",
+          "text": "in the "
+        },
+        {
+          "color": "aqua",
+          "text": "Lost Precursor"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "City"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

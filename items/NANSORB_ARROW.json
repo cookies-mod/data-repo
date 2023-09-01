@@ -24,5 +24,118 @@
       "mode": "III"
     }
   ],
-  "id": "NANSORB_ARROW"
+  "id": "NANSORB_ARROW",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Replaces the damage reduction"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "from the "
+        },
+        {
+          "color": "blue",
+          "text": "Piercing "
+        },
+        {
+          "color": "gray",
+          "text": "enchant to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Skewer"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Passive: Skewer"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Hits through "
+        },
+        {
+          "color": "blue",
+          "text": "Piercing "
+        },
+        {
+          "color": "gray",
+          "text": "deal"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "+7.5% "
+        },
+        {
+          "color": "gray",
+          "text": "damage than the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "previous one, up to "
+        },
+        {
+          "color": "yellow",
+          "text": "5"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "victims."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Practice III"
+        },
+        {
+          "color": "red",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Stats added when shot!"
+    }
+  ]
 }

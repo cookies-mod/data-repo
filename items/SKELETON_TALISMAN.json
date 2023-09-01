@@ -3,5 +3,31 @@
   "name": "Skeleton Talisman",
   "category": "ACCESSORY",
   "npc_sell_price": 50,
-  "id": "SKELETON_TALISMAN"
+  "id": "SKELETON_TALISMAN",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Reduces the damage taken from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Skeletons by "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

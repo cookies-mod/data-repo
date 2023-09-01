@@ -1,6 +1,12 @@
 {
-  "material": "SULPHUR",
+  "material": "Gunpowder",
   "name": "Gunpowder",
   "npc_sell_price": 4,
-  "id": "SULPHUR"
+  "id": "SULPHUR",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

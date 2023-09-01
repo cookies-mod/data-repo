@@ -16,5 +16,11 @@
       "level": 4
     }
   ],
-  "id": "CELESTE_HELMET"
+  "id": "CELESTE_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

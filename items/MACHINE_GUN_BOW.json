@@ -87,5 +87,96 @@
     }
   ],
   "dungeon_item": true,
-  "id": "MACHINE_GUN_BOW"
+  "id": "MACHINE_GUN_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Rapid Fire "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "LEFT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Shoots "
+        },
+        {
+          "color": "green",
+          "text": "5"
+        },
+        {
+          "color": "gray",
+          "text": " Arrows per second"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "green",
+          "text": "8"
+        },
+        {
+          "color": "gray",
+          "text": " seconds! Arrows deal"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "70.0%"
+        },
+        {
+          "color": "gray",
+          "text": " of what they would"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "normally deal."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "100s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 35000 / 35000"
+    }
+  ]
 }

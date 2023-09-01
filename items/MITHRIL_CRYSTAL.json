@@ -5,5 +5,48 @@
   "name": "Mithril Crystal",
   "crystal": "MITHRIL",
   "tier": "RARE",
-  "id": "MITHRIL_CRYSTAL"
+  "id": "MITHRIL_CRYSTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Can be placed on your private"
+    },
+    {
+      "color": "gray",
+      "text": "island. Increases the speed of"
+    },
+    {
+      "color": "gray",
+      "text": "nearby mining minions by"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "10%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Effective Radius: "
+        },
+        {
+          "color": "aqua",
+          "text": "40"
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

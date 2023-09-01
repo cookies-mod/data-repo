@@ -4,5 +4,150 @@
   "glowing": true,
   "tier": "EPIC",
   "dungeon_item": true,
-  "id": "FUMING_POTATO_BOOK"
+  "id": "FUMING_POTATO_BOOK",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil and"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "When applied to armor, grants"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+2\u2748 Defense "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "red",
+          "text": "+4\u2764"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Health"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "When applied to weapons, grants"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "+2\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "red",
+          "text": "+2\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Damage"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "This book bypasses the "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Hot"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Potato Book "
+        },
+        {
+          "color": "gray",
+          "text": "limit of "
+        },
+        {
+          "color": "green",
+          "text": "10"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "allowing you to upgrade an item"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "up to "
+        },
+        {
+          "color": "green",
+          "text": "15 "
+        },
+        {
+          "color": "gray",
+          "text": "times!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

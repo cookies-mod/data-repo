@@ -6,5 +6,40 @@
   "category": "ACCESSORY",
   "tier": "RARE",
   "npc_sell_price": 500,
-  "id": "VACCINE_ARTIFACT"
+  "id": "VACCINE_ARTIFACT",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Reduces the effect of "
+        },
+        {
+          "color": "dark_green",
+          "text": "poison"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "50%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

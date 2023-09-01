@@ -3,5 +3,31 @@
   "name": "Night Saver",
   "tier": "UNCOMMON",
   "npc_sell_price": 35,
-  "id": "NIGHT_SAVER"
+  "id": "NIGHT_SAVER",
+  "description": [
+    {
+      "color": "gray",
+      "text": "When placed on your private"
+    },
+    {
+      "color": "gray",
+      "text": "island, it will always be"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "night-time"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

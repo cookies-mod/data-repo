@@ -5,5 +5,83 @@
   "name": "Pocket Sack-in-a-Sack",
   "tier": "SPECIAL",
   "unstackable": true,
-  "id": "POCKET_SACK_IN_A_SACK"
+  "id": "POCKET_SACK_IN_A_SACK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Combine this item in an anvil"
+    },
+    {
+      "color": "gray",
+      "text": "with any sack to increase its"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "capacity by "
+        },
+        {
+          "color": "red",
+          "text": "+200% "
+        },
+        {
+          "color": "gray",
+          "text": "its"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "original "
+        },
+        {
+          "color": "gray",
+          "text": "capacity."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This item can be combined with a"
+    },
+    {
+      "color": "gray",
+      "text": "sack up to three times!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "It\u0027s a pocket sack, to be"
+    },
+    {
+      "color": "dark_gray",
+      "text": "stitched inside another sack!"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "8,000 Bits"
+    }
+  ]
 }

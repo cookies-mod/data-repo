@@ -11,5 +11,29 @@
       "level": 8
     }
   ],
-  "id": "WARDEN_HEART"
+  "id": "WARDEN_HEART",
+  "description": [
+    {
+      "color": "gray",
+      "text": "The heart of a powerful"
+    },
+    {
+      "color": "gray",
+      "text": "creature, dropped by the Atoned"
+    },
+    {
+      "color": "gray",
+      "text": "Horror."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

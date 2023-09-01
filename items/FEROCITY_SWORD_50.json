@@ -1,11 +1,13 @@
 {
-  "material": "GOLD_SWORD",
+  "material": "GOLDEN_SWORD",
   "name": "Ferocity Sword 50",
   "category": "SWORD",
-  "tier": "UNOBTAINABLE",
+  "tier": "ADMIN",
   "stats": {
     "DAMAGE": 10,
     "FEROCITY": 50
   },
-  "id": "FEROCITY_SWORD_50"
+  "id": "FEROCITY_SWORD_50",
+  "can_be_reforged": true,
+  "soulbound": "SOLO"
 }

@@ -5,5 +5,14 @@
   "name": "Emperor\u0027s Skull",
   "tier": "RARE",
   "npc_sell_price": 100,
-  "id": "DIVER_FRAGMENT"
+  "id": "DIVER_FRAGMENT",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

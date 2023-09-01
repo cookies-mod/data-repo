@@ -81,5 +81,66 @@
       ]
     }
   ],
-  "id": "ASPECT_OF_THE_DRAGON"
+  "id": "ASPECT_OF_THE_DRAGON",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Dragon Rage "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "All Monsters in front of you"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "take "
+        },
+        {
+          "color": "green",
+          "text": "4,330"
+        },
+        {
+          "color": "gray",
+          "text": " damage. Hit"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "monsters take large knockback."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "100"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

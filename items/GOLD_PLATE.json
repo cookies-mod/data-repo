@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_PLATE",
+  "material": "Light_weighted_pressure_plate",
   "name": "Light Weighted Pressure Plate",
   "npc_sell_price": 8,
   "id": "GOLD_PLATE"

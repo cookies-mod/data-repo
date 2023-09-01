@@ -6,5 +6,187 @@
   "category": "REFORGE_STONE",
   "tier": "EPIC",
   "npc_sell_price": 1,
-  "id": "KUUDRA_MANDIBLE"
+  "id": "KUUDRA_MANDIBLE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Chomp "
+        },
+        {
+          "color": "gray",
+          "text": "reforge"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "when combined with a fishing"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "rod"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Chomp "
+        },
+        {
+          "color": "gray",
+          "text": "("
+        },
+        {
+          "color": "gold",
+          "text": "Legendary"
+        },
+        {
+          "color": "gray",
+          "text": "):"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Strength: "
+        },
+        {
+          "color": "red",
+          "text": "+35"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Crit Chance: "
+        },
+        {
+          "color": "red",
+          "text": "+35%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Fishing Speed: "
+        },
+        {
+          "color": "green",
+          "text": "+9"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "blue",
+      "text": "Chomp Bonus"
+    },
+    {
+      "color": "gray",
+      "text": "Decreases the health of Lava Sea"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Creatures by "
+        },
+        {
+          "color": "red",
+          "text": "1%"
+        },
+        {
+          "color": "gray",
+          "text": " for each"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "unique Lava Sea Creature you"
+    },
+    {
+      "color": "gray",
+      "text": "have killed with this rod in"
+    },
+    {
+      "color": "gray",
+      "text": "your inventory."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XXXIII"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

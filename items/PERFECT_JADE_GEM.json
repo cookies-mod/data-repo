@@ -5,5 +5,86 @@
   "name": "Perfect Jade Gemstone",
   "tier": "LEGENDARY",
   "npc_sell_price": 10240000,
-  "id": "PERFECT_JADE_GEM"
+  "id": "PERFECT_JADE_GEM",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "A perfectly "
+        },
+        {
+          "color": "green",
+          "text": "refined "
+        },
+        {
+          "color": "green",
+          "text": "Jade"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Some say that when "
+        },
+        {
+          "color": "yellow",
+          "text": "harnessed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "properly"
+        },
+        {
+          "color": "gray",
+          "text": ", it can give its"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "owner extra "
+        },
+        {
+          "color": "gold",
+          "text": "\u2618 Mining"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Fortune"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

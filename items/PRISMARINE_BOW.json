@@ -8,5 +8,83 @@
     "STRENGTH": 25
   },
   "npc_sell_price": 120,
-  "id": "PRISMARINE_BOW"
+  "id": "PRISMARINE_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Will consume "
+        },
+        {
+          "color": "green",
+          "text": "Prismarine"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Shards"
+        },
+        {
+          "color": "gray",
+          "text": " in your inventory or"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Quiver to deal "
+        },
+        {
+          "color": "green",
+          "text": "+300%"
+        },
+        {
+          "color": "gray",
+          "text": " damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to "
+        },
+        {
+          "color": "blue",
+          "text": "Squids, Guardians and Elder"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Guardians"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

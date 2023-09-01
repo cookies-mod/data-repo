@@ -1,5 +1,5 @@
 {
-  "material": "WOOD_SWORD",
+  "material": "WOODEN_SWORD",
   "name": "Sword of Revelations",
   "category": "SWORD",
   "tier": "EPIC",
@@ -7,5 +7,72 @@
     "DAMAGE": 180,
     "STRENGTH": 50
   },
-  "id": "SWORD_OF_REVELATIONS"
+  "id": "SWORD_OF_REVELATIONS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Heal "
+        },
+        {
+          "color": "red",
+          "text": "15\u2764 "
+        },
+        {
+          "color": "gray",
+          "text": "per hit."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deals "
+        },
+        {
+          "color": "green",
+          "text": "+200% "
+        },
+        {
+          "color": "gray",
+          "text": "damage against"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "mythological creatures and Minos"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "followers but receive "
+        },
+        {
+          "color": "red",
+          "text": "+75%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "damage from them."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

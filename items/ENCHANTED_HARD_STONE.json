@@ -4,6 +4,18 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 576,
-  "description": "%%gray%%A refined form of heavy rock from the darkest depths.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A refined form of heavy rock"
+    },
+    {
+      "color": "gray",
+      "text": "from the darkest depths."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "ENCHANTED_HARD_STONE"
 }

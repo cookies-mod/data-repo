@@ -6,5 +6,93 @@
   "category": "ACCESSORY",
   "tier": "EPIC",
   "npc_sell_price": 2000,
-  "id": "NETHER_ARTIFACT"
+  "id": "NETHER_ARTIFACT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Reduces the damage taken from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Blazes"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "gray",
+          "text": "Zombie Pigmen"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Magma Cubes"
+        },
+        {
+          "color": "gray",
+          "text": ", and "
+        },
+        {
+          "color": "gray",
+          "text": "Ghasts by"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "5%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "While in the "
+        },
+        {
+          "color": "gold",
+          "text": "Crimson Isle"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "you will receive the damage"
+    },
+    {
+      "color": "gray",
+      "text": "reduction from all mobs."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

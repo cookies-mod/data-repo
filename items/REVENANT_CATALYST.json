@@ -5,5 +5,33 @@
   "name": "Revenant Catalyst",
   "tier": "EPIC",
   "npc_sell_price": 8000,
-  "id": "REVENANT_CATALYST"
+  "id": "REVENANT_CATALYST",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Drops rarely from Revenant"
+    },
+    {
+      "color": "gray",
+      "text": "Horror when you are at least"
+    },
+    {
+      "color": "gray",
+      "text": "Zombie Slayer LVL 6."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_purple",
+      "text": "Catalysts upgrade other items!"
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view upgrades!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

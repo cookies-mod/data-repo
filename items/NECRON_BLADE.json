@@ -56,5 +56,42 @@
     }
   ],
   "dungeon_item": true,
-  "id": "NECRON_BLADE"
+  "id": "NECRON_BLADE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deals +"
+        },
+        {
+          "color": "red",
+          "text": "50% "
+        },
+        {
+          "color": "gray",
+          "text": "damage to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Withers."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to use your class ability!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

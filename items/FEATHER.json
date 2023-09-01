@@ -2,5 +2,11 @@
   "material": "FEATHER",
   "name": "Feather",
   "npc_sell_price": 3,
-  "id": "FEATHER"
+  "id": "FEATHER",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

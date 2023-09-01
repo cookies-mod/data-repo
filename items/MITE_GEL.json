@@ -1,9 +1,30 @@
 {
-  "material": "INK_SACK",
+  "material": "PURPLE_DYE",
   "durability": 5,
   "name": "Mite Gel",
   "tier": "EPIC",
   "npc_sell_price": 2000,
-  "description": "%%dark_gray%%%%italic%%Sticky goo scraped off an Endermite.",
+  "description": [
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Sticky goo scraped off an"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Endermite."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "MITE_GEL"
 }

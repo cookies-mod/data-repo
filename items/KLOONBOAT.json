@@ -1,7 +1,60 @@
 {
-  "material": "BOAT",
+  "material": "OAK_BOAT",
   "name": "Kloonboat",
   "tier": "SPECIAL",
   "museum": true,
-  "id": "KLOONBOAT"
+  "id": "KLOONBOAT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Drop this item to decrease your FPS."
+    },
+    {
+      "color": "dark_gray",
+      "text": "Immune to dropping."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "To: "
+        },
+        {
+          "color": "red",
+          "text": "[ADMIN] Minikloon"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "From: "
+        },
+        {
+          "color": "red",
+          "text": "[ADMIN] Minikloon"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Edition #1"
+    },
+    {
+      "color": "dark_gray",
+      "text": "July 2020"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

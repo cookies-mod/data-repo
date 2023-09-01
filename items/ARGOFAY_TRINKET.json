@@ -9,5 +9,13 @@
   "stats": {
     "RIFT_INTELLIGENCE": 2
   },
-  "id": "ARGOFAY_TRINKET"
+  "id": "ARGOFAY_TRINKET",
+  "description": [
+    {"text":""},
+    {"text":"Monsters you hit drop ","color":"gray","extra":[{"text":"+5%","color":"light_purple"}]},
+    {"text":"Motes","color":"light_purple","extra":[{"text":" on death if there is at","color":"gray"}]},
+    {"text":"least one other player within","color":"gray"},
+    {"text":"50","color":"green","extra":[{"text":" blocks.","color":"gray"}]},
+    {"text":""}
+  ]
 }

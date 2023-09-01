@@ -4,5 +4,29 @@
   "skin": "eyJ0aW1lc3RhbXAiOjE1NjM3ODk3NDg4MDcsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y1NDBiMzNhMjBkZDMwNjQ4N2YyM2E0ZGU1MzEzZjgxYjc3NTBhOWYzYWQ1NDllNTBkMmYwYTNmMDUyYTIyNzkifSwiQ0FQRSI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE1M2IxYTBkZmNiYWU5NTNjZGViNmYyYzJiZjZiZjc5OTQzMjM5YjEzNzI3ODBkYTQ0YmNiYjI5MjczMTMxZGEifX19",
   "name": "Dark Oak Bench",
   "furniture": "SKYBLOCK_BENCH",
-  "id": "SKYBLOCK_BENCH"
+  "id": "SKYBLOCK_BENCH",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Seats Two Players"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This stylized bench seats up to"
+    },
+    {
+      "color": "gray",
+      "text": "two players"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

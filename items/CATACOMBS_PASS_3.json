@@ -4,7 +4,7 @@
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWEyZjY3NTAwYTY1ZjNjZTc5ZDM0ZWMxNTBkZTkzZGY4ZjYwZWJlNTJlMjQ4ZjVlMWNkYjY5YjA3MjYyNTZmNyJ9fX0K",
   "name": "Catacombs Pass III",
   "category": "DUNGEON_PASS",
-  "tier": "UNCOMMON",
+  "tier": "UNOBTAINABLE",
   "dungeon_item": true,
   "id": "CATACOMBS_PASS_3"
 }

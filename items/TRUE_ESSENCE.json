@@ -1,7 +1,13 @@
 {
-  "material": "INK_SACK",
+  "material": "gray_dye",
   "durability": 8,
   "name": "True Essence",
   "glowing": true,
-  "id": "TRUE_ESSENCE"
+  "id": "TRUE_ESSENCE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

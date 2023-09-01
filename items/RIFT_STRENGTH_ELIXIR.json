@@ -6,5 +6,48 @@
   "tier": "RARE",
   "origin": "RIFT",
   "unstackable": true,
-  "id": "RIFT_STRENGTH_ELIXIR"
+  "id": "RIFT_STRENGTH_ELIXIR",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "red",
+          "text": "Strength "
+        },
+        {
+          "color": "gray",
+          "text": "(10:00)"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "granting "
+        },
+        {
+          "color": "dark_purple",
+          "text": "+3\u2741 Rift Damage"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

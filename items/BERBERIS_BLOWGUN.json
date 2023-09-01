@@ -3,5 +3,45 @@
   "name": "Berberis Blowgun",
   "tier": "RARE",
   "origin": "RIFT",
-  "id": "BERBERIS_BLOWGUN"
+  "id": "BERBERIS_BLOWGUN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Swhooomp "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Shoot an arrow. Doesn\u0027t deal"
+    },
+    {
+      "color": "gray",
+      "text": "damage. Except to chickens."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "5"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

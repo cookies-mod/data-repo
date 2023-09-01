@@ -5,5 +5,51 @@
   "category": "ACCESSORY",
   "npc_sell_price": 1000,
   "soulbound": "COOP",
-  "id": "ARCHAEOLOGIST_COMPASS"
+  "id": "ARCHAEOLOGIST_COMPASS",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Right-click to point towards the"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "nearest "
+        },
+        {
+          "color": "aqua",
+          "text": "Relic"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Relics Found: "
+        },
+        {
+          "color": "aqua",
+          "text": "\u00a7K00"
+        },
+        {
+          "color": "aqua",
+          "text": "/28"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

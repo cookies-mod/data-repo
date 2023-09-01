@@ -5,7 +5,30 @@
   "name": "Bobbin\u0027 Scriptures",
   "tier": "RARE",
   "npc_sell_price": 35000,
-  "description": "The sacred ways of bobbin\u0027, written by a long-forgotten worshipper of Kuudra.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "The sacred ways of bobbin\u0027,"
+    },
+    {
+      "color": "gray",
+      "text": "written by a long-forgotten"
+    },
+    {
+      "color": "gray",
+      "text": "worshipper of Kuudra."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "unstackable": true,
   "id": "BOBBIN_SCRIPTURES"
 }

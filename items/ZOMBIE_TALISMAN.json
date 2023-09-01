@@ -4,5 +4,31 @@
   "name": "Zombie Talisman",
   "category": "ACCESSORY",
   "npc_sell_price": 50,
-  "id": "ZOMBIE_TALISMAN"
+  "id": "ZOMBIE_TALISMAN",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Reduces the damage taken from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Zombies by "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

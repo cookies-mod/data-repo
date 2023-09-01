@@ -2,6 +2,18 @@
   "material": "QUARTZ",
   "name": "Sharp Rock",
   "glowing": true,
-  "description": "%%gray%%A sharp rock with sturdy construction.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A sharp rock with sturdy"
+    },
+    {
+      "color": "gray",
+      "text": "construction."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "SILEX"
 }

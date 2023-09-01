@@ -4,5 +4,6 @@
   "stats": {
     "HEALTH": 200
   },
-  "id": "HELMET_OF_LIVE_RELOADING"
+  "id": "HELMET_OF_LIVE_RELOADING",
+  "tier":"UNOBTAINABLE"
 }

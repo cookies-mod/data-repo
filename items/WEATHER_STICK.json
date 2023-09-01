@@ -4,5 +4,45 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 160,
-  "id": "WEATHER_STICK"
+  "id": "WEATHER_STICK",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Weather "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Allows you to change the weather"
+    },
+    {
+      "color": "gray",
+      "text": "on your island."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "5s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

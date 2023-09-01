@@ -7,5 +7,87 @@
   "category": "ACCESSORY",
   "rift_transferrable": true,
   "origin": "RIFT",
-  "id": "RIFT_PRISM"
+  "id": "RIFT_PRISM",
+  "description": [
+    {
+      "color": "gray",
+      "text": "While in your accessory bag, you may"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "join the "
+        },
+        {
+          "color": "light_purple",
+          "text": "Rift "
+        },
+        {
+          "color": "gray",
+          "text": "at "
+        },
+        {
+          "color": "green",
+          "text": "no cost"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Talk with "
+        },
+        {
+          "color": "blue",
+          "text": "Erihann "
+        },
+        {
+          "color": "gray",
+          "text": "in the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Wizard Tower of the Hub to"
+    },
+    {
+      "color": "gray",
+      "text": "consume this accessory."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

@@ -18,5 +18,14 @@
       "mode": "I"
     }
   ],
-  "id": "REDSTONE_TIPPED_ARROW"
+  "id": "REDSTONE_TIPPED_ARROW",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Stats added when shot!"
+    }
+  ]
 }

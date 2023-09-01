@@ -5,6 +5,33 @@
   "name": "Shark Water Orb",
   "tier": "LEGENDARY",
   "npc_sell_price": 5000,
-  "description": "A disgusting ball of mushed shark matter.\n\n%%dark_gray%%Are those teeth sticking out?",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A disgusting ball of mushed"
+    },
+    {
+      "color": "gray",
+      "text": "shark matter."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Are those teeth sticking out?"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "SHARK_WATER_ORB"
 }

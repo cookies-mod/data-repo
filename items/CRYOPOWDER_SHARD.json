@@ -4,5 +4,44 @@
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzQ2NDg3NGRmNDUyYzFkNzE3ZWRkZDBmYjNiODQ4MjAyYWQxNTU3MTI0NWFmNmZhZGUyZWNmNTE0ZjNjODBiYiJ9fX0\u003d",
   "name": "Cryopowder Shard",
   "tier": "LEGENDARY",
-  "id": "CRYOPOWDER_SHARD"
+  "id": "CRYOPOWDER_SHARD",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Combine in an anvil with"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Frosty the Snow Blaster "
+        },
+        {
+          "color": "gray",
+          "text": "to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "craft "
+        },
+        {
+          "color": "gold",
+          "text": "Frosty the Howitzer"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

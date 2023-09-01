@@ -1,6 +1,26 @@
 {
-  "material": "MUSHROOM_SOUP",
+  "material": "MUSHROOM_STEW",
   "name": "Marsh Spore Soup",
   "tier": "RARE",
-  "id": "MARSH_SPORE_SOUP"
+  "id": "MARSH_SPORE_SOUP",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A bubbling soup filed with"
+    },
+    {
+      "color": "gray",
+      "text": "poisonous mushrooms."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to consume"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

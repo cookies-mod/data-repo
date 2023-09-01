@@ -1,5 +1,5 @@
 {
-  "material": "SPRUCE_DOOR_ITEM",
+  "material": "SPRUCE_DOOR",
   "name": "Spruce Door",
   "npc_sell_price": 1,
   "id": "SPRUCE_DOOR_ITEM"

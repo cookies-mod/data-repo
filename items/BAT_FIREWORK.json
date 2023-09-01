@@ -1,6 +1,74 @@
 {
-  "material": "FIREWORK",
+  "material": "FIREWORK_rocket",
   "name": "Bat Firework",
   "tier": "RARE",
-  "id": "BAT_FIREWORK"
+  "id": "BAT_FIREWORK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Launches a firework that"
+    },
+    {
+      "color": "gray",
+      "text": "explodes into several Bat"
+    },
+    {
+      "color": "gray",
+      "text": "Pi\u00f1atas, each dropping a bunch"
+    },
+    {
+      "color": "gray",
+      "text": "of candies. Only usable in the"
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Village"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "30s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Bat Pi\u00f1ata drops do not"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "count towards leaderboard"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "progress!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

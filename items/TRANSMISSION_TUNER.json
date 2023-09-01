@@ -7,5 +7,70 @@
   "npc_sell_price": 45000,
   "unstackable": true,
   "rift_transferrable": true,
-  "id": "TRANSMISSION_TUNER"
+  "id": "TRANSMISSION_TUNER",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "When applied to an item offering"
+    },
+    {
+      "color": "gray",
+      "text": "a Transmission ability, its"
+    },
+    {
+      "color": "gray",
+      "text": "ability range is increased by"
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "text": "+1"
+        },
+        {
+          "color": "gray",
+          "text": ". Can be applied up to "
+        },
+        {
+          "color": "green",
+          "text": "4"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "times!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

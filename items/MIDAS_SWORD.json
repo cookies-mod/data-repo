@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_SWORD",
+  "material": "GOLDEN_SWORD",
   "name": "Midas\u0027 Sword",
   "category": "SWORD",
   "tier": "LEGENDARY",
@@ -107,5 +107,128 @@
       ]
     }
   ],
-  "id": "MIDAS_SWORD"
+  "id": "MIDAS_SWORD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Greed"
+    },
+    {
+      "color": "gray",
+      "text": "The strength and damage bonus of"
+    },
+    {
+      "color": "gray",
+      "text": "this item is dependent on the"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "price paid for it at the "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Dark"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Auction"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "The maximum bonus of this item"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "is "
+        },
+        {
+          "color": "red",
+          "text": "120 "
+        },
+        {
+          "color": "gray",
+          "text": "if the bid was"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "50,000,000 Coins "
+        },
+        {
+          "color": "gray",
+          "text": "or higher!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Price paid: "
+        },
+        {
+          "color": "gold",
+          "text": "0 Coins"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Strength Bonus: "
+        },
+        {
+          "color": "red",
+          "text": "0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Damage Bonus: "
+        },
+        {
+          "color": "red",
+          "text": "0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

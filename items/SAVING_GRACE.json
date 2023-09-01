@@ -4,5 +4,26 @@
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 20000,
-  "id": "SAVING_GRACE"
+  "id": "SAVING_GRACE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Safely teleports you back to"
+    },
+    {
+      "color": "gray",
+      "text": "your private island when you are"
+    },
+    {
+      "color": "gray",
+      "text": "about to die. This item will be"
+    },
+    {
+      "color": "gray",
+      "text": "consumed on use."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

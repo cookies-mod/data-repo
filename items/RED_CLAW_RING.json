@@ -15,5 +15,10 @@
       "level": 5
     }
   ],
-  "id": "RED_CLAW_RING"
+  "id": "RED_CLAW_RING",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

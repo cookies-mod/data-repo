@@ -4,5 +4,29 @@
   "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZjEzZGY2MjZjZmFmZmRjMzY0NTgzNzJiYWI1N2EyNjNjMDBiMDc3MmJhYzI2YzUxNzRjZjM3NWI4ZDQ0NzYxIn19fQ\u003d\u003d",
   "name": "Fire Pit",
   "furniture": "CAMPFIRE",
-  "id": "CAMPFIRE"
+  "id": "CAMPFIRE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Emits Light"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Right-click to toggle this"
+    },
+    {
+      "color": "gray",
+      "text": "Furniture off and on."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

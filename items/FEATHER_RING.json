@@ -6,5 +6,76 @@
   "category": "ACCESSORY",
   "tier": "UNCOMMON",
   "npc_sell_price": 1800,
-  "id": "FEATHER_RING"
+  "id": "FEATHER_RING",
+  "description": [
+    {
+      "color": "gold",
+      "text": "Ability: Light Weight"
+    },
+    {
+      "color": "gray",
+      "text": "Increases how high you can fall"
+    },
+    {
+      "color": "gray",
+      "text": "before taking fall damage by"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "7"
+        },
+        {
+          "color": "gray",
+          "text": " blocks. Fall damage is"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "also reduced by "
+        },
+        {
+          "color": "green",
+          "text": "5.0%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This Ring doesn\u0027t work if the"
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Feather Artifact"
+        },
+        {
+          "color": "gray",
+          "text": " is in your"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "inventory!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

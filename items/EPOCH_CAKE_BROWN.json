@@ -6,5 +6,62 @@
   "furniture": "EPOCH_CAKE_BROWN",
   "tier": "UNCOMMON",
   "museum": true,
-  "id": "EPOCH_CAKE_BROWN"
+  "id": "EPOCH_CAKE_BROWN",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Invite your friends to share a"
+    },
+    {
+      "color": "gray",
+      "text": "slice of cake! Eating this cake"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "grants "
+        },
+        {
+          "color": "gold",
+          "text": "+5\u2618 Farming Fortune"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "for 48 hours."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Obtained in "
+        },
+        {
+          "color": "white",
+          "text": "Year 200"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
-  "material": "DOUBLE_PLANT",
+  "material": "rose_bush",
   "durability": 4,
   "name": "Caducous Stem",
   "tier": "COMMON",
   "origin": "RIFT",
-  "description": "The color and shape of flowers are a precise record of what bees find attractive.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "The color and shape of flowers"
+    },
+    {
+      "color": "gray",
+      "text": "are a precise record of what"
+    },
+    {
+      "color": "gray",
+      "text": "bees find attractive."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "CADUCOUS_STEM"
 }

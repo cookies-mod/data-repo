@@ -5,5 +5,42 @@
   "name": "Skeleton Statue",
   "furniture": "SKELETON_STATUE",
   "tier": "EPIC",
-  "id": "SKELETON_STATUE"
+  "id": "SKELETON_STATUE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Halloween Cosmetic"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "This exclusive "
+        },
+        {
+          "color": "gold",
+          "text": "Halloween"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "cosmetic can be placed on your"
+    },
+    {
+      "color": "gray",
+      "text": "island or traded."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

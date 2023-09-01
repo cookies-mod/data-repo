@@ -1,8 +1,14 @@
 {
-  "material": "SPECKLED_MELON",
+  "material": "glistering_MELON_slice",
   "name": "Enchanted Glistering Melon",
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 1000,
-  "id": "ENCHANTED_GLISTERING_MELON"
+  "id": "ENCHANTED_GLISTERING_MELON",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

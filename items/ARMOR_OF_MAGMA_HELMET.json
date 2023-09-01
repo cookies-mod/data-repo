@@ -9,5 +9,73 @@
     "HEALTH": 50
   },
   "npc_sell_price": 38000,
-  "id": "ARMOR_OF_MAGMA_HELMET"
+  "id": "ARMOR_OF_MAGMA_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Absorb"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Every "
+        },
+        {
+          "color": "blue",
+          "text": "10 Magma Cubes killed"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "gives the wearer "
+        },
+        {
+          "color": "green",
+          "text": "+1 "
+        },
+        {
+          "color": "red",
+          "text": "\u2764 Health"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "aqua",
+          "text": "\u270e Intelligence"
+        },
+        {
+          "color": "gray",
+          "text": " while"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "wearing the set. Max 200 each."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,8 +1,16 @@
 {
-  "material": "DOUBLE_PLANT",
+  "material": "rose_bush",
   "durability": 4,
-  "name": "§cRose Bouquet",
-  "description": "%%gray%%%%italic%%A hastily-made bouquet consisting of Marco\u0027s finest roses.",
+  "name": "\u00a7cRose Bouquet",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Quest item"
+    },
+    {
+      "text": ""
+    }
+  ],
   "soulbound": "COOP",
   "id": "ROSE_BOUQUET"
 }

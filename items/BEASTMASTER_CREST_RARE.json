@@ -5,5 +5,62 @@
   "name": "Beastmaster Crest",
   "category": "ACCESSORY",
   "tier": "RARE",
-  "id": "BEASTMASTER_CREST_RARE"
+  "id": "BEASTMASTER_CREST_RARE",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Pet Exp Boost: "
+        },
+        {
+          "color": "green",
+          "text": "+0.3%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Gains stats based on how many"
+    },
+    {
+      "color": "gray",
+      "text": "mythological creatures and Minos"
+    },
+    {
+      "color": "gray",
+      "text": "followers you\u0027ve slain."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Your kills: "
+        },
+        {
+          "obfuscated": true,
+          "color": "dark_green",
+          "text": "0"
+        },
+        {
+          "color": "dark_gray",
+          "text": "/25"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

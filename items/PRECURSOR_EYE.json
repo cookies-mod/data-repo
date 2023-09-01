@@ -88,5 +88,132 @@
       ]
     }
   ],
-  "id": "PRECURSOR_EYE"
+  "id": "PRECURSOR_EYE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Eye Beam "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "SNEAK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Fire a laser in front of you"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "dealing "
+        },
+        {
+          "color": "red",
+          "text": "4000 "
+        },
+        {
+          "color": "gray",
+          "text": "damage and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "costing "
+        },
+        {
+          "color": "aqua",
+          "text": "40 "
+        },
+        {
+          "color": "gray",
+          "text": "mana. The damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "increases by "
+        },
+        {
+          "color": "red",
+          "text": "100% "
+        },
+        {
+          "color": "gray",
+          "text": "every"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "second for "
+        },
+        {
+          "color": "aqua",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds and the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "mana cost increases by "
+        },
+        {
+          "color": "light_purple",
+          "text": "25%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "every second. You can sneak"
+    },
+    {
+      "color": "gray",
+      "text": "again to de-activate the laser."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Mana is consumed on damage."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 70000 / 70000"
+    }
+  ]
 }

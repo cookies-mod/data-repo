@@ -1,7 +1,27 @@
 {
-  "material": "INK_SACK",
+  "material": "yellow_Dye",
   "durability": 11,
   "name": "Exp Share Core",
   "tier": "EPIC",
-  "id": "PET_ITEM_EXP_SHARE_DROP"
+  "id": "PET_ITEM_EXP_SHARE_DROP",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Used to craft the Exp Share"
+    },
+    {
+      "color": "gray",
+      "text": "pet item"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

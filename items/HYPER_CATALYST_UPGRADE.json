@@ -6,5 +6,68 @@
   "glowing": true,
   "tier": "SPECIAL",
   "npc_sell_price": 500,
-  "id": "HYPER_CATALYST_UPGRADE"
+  "id": "HYPER_CATALYST_UPGRADE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Combine with "
+        },
+        {
+          "color": "blue",
+          "text": "Catalysts"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "buffing the fuel to "
+        },
+        {
+          "color": "green",
+          "text": "x4 "
+        },
+        {
+          "color": "gray",
+          "text": "for 6"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "hours duration."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "300 Bits"
+    }
+  ]
 }

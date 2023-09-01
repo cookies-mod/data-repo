@@ -4,5 +4,22 @@
   "category": "AXE",
   "npc_sell_price": 64,
   "museum": true,
-  "id": "SCULPTORS_AXE"
+  "id": "SCULPTORS_AXE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Right-click on any log on your"
+    },
+    {
+      "color": "gray",
+      "text": "island to turn it into a 6 sided"
+    },
+    {
+      "color": "gray",
+      "text": "log!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

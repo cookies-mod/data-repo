@@ -6,5 +6,46 @@
   "furniture": "EPOCH_CAKE_BLACK",
   "tier": "UNCOMMON",
   "museum": true,
-  "id": "EPOCH_CAKE_BLACK"
+  "id": "EPOCH_CAKE_BLACK",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Invite your friends to share a"
+    },
+    {
+      "color": "gray",
+      "text": "slice of cake! Eating this cake"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "grants "
+        },
+        {
+          "color": "aqua",
+          "text": "+1\u272f Magic Find "
+        },
+        {
+          "color": "gray",
+          "text": "for 48"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "hours."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -19,5 +19,48 @@
       "level": 7
     }
   ],
-  "id": "ANNIHILATION_CLOAK"
+  "id": "ANNIHILATION_CLOAK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Heal "
+        },
+        {
+          "color": "red",
+          "text": "1%\u2764 "
+        },
+        {
+          "color": "gray",
+          "text": "every 2 seconds."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "green",
+          "text": "+2% "
+        },
+        {
+          "color": "gray",
+          "text": "Foraging exp."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

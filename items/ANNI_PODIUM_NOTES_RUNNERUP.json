@@ -7,5 +7,15 @@
   "tier": "EPIC",
   "soulbound": "COOP",
   "unstackable": true,
-  "id": "ANNI_PODIUM_NOTES_RUNNERUP"
+  "id": "ANNI_PODIUM_NOTES_RUNNERUP",
+  "description": [
+    {"text":"Note Block Song","color":"gold"},
+    {"text":"Runner Up","color":"yellow"},
+    {"text":""},
+    {"text":"This item was awarded as part of","color":"gray"},
+    {"text":"the ","color":"gray","extra":[{"text":"Hypixel 10th Anniversary","color":"gold"}]},
+    {"text":"Social Media contest for","color":"gray"},
+    {"text":"Favorite Memory.","color":"gray"},
+    {"text":""}
+  ]
 }

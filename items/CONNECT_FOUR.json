@@ -11,5 +11,18 @@
       "level": 7
     }
   ],
-  "id": "CONNECT_FOUR"
+  "id": "CONNECT_FOUR",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Click another player to initiate"
+    },
+    {
+      "color": "gray",
+      "text": "a game of Four in a Row!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

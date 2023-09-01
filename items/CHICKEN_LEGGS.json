@@ -4,7 +4,26 @@
   "name": "Chicken Leggs",
   "category": "LEGGINGS",
   "tier": "RARE",
-  "description": "%%dark_gray%%Sometimes you pretend to be a dolphin, sometimes a chicken. Cluck cluck!",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Sometimes you pretend to be a"
+    },
+    {
+      "color": "dark_gray",
+      "text": "dolphin, sometimes a chicken."
+    },
+    {
+      "color": "dark_gray",
+      "text": "Cluck cluck!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "origin": "RIFT",
   "stats": {
     "RIFT_TIME": 35

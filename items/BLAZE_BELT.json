@@ -255,5 +255,48 @@
       }
     ]
   ],
-  "id": "BLAZE_BELT"
+  "id": "BLAZE_BELT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Blazing Palisade"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain a "
+        },
+        {
+          "color": "green",
+          "text": "10% "
+        },
+        {
+          "color": "gray",
+          "text": "chance to reflect"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Fireballs"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

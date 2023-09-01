@@ -5,5 +5,62 @@
   "name": "Abiphone XI Ultra Style",
   "tier": "RARE",
   "npc_sell_price": 130,
-  "id": "ABIPHONE_XI_ULTRA_STYLE"
+  "id": "ABIPHONE_XI_ULTRA_STYLE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A device that can be used to"
+    },
+    {
+      "color": "gray",
+      "text": "contact people! Click NPCs to"
+    },
+    {
+      "color": "gray",
+      "text": "add them to your contacts!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Features:"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Maximum Contacts: "
+        },
+        {
+          "color": "aqua",
+          "text": "6"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Maximum Discs: "
+        },
+        {
+          "color": "aqua",
+          "text": "2"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to open!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

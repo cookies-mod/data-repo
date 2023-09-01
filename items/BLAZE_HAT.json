@@ -8,5 +8,11 @@
     "STRENGTH": 20
   },
   "npc_sell_price": 20,
-  "id": "BLAZE_HAT"
+  "id": "BLAZE_HAT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

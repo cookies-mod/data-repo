@@ -55,5 +55,15 @@
     }
   ],
   "dungeon_item": true,
-  "id": "WITHER_GOGGLES"
+  "id": "WITHER_GOGGLES",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

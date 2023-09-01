@@ -15,5 +15,10 @@
       "tier": 2
     }
   ],
-  "id": "TITANIUM_TALISMAN"
+  "id": "TITANIUM_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

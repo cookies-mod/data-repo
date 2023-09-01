@@ -1,9 +1,22 @@
 {
-  "material": "COOKED_FISH",
+  "material": "cooked_salmon",
   "durability": 1,
   "name": "Dust the Fish",
   "glowing": true,
   "tier": "SPECIAL",
   "museum": true,
-  "id": "DUST_THE_FISH"
+  "id": "DUST_THE_FISH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Pretty sure they forgot about"
+    },
+    {
+      "color": "gray",
+      "text": "me..."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

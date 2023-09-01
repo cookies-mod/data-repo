@@ -58,5 +58,88 @@
       "level": 10
     }
   ],
-  "id": "FROZEN_SCYTHE"
+  "id": "FROZEN_SCYTHE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Ice Bolt "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Shoots "
+        },
+        {
+          "color": "green",
+          "text": "1 "
+        },
+        {
+          "color": "gray",
+          "text": "Ice Bolt that deals"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "9,940 "
+        },
+        {
+          "color": "gray",
+          "text": "damage and slows"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "enemies hit for "
+        },
+        {
+          "color": "green",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "50"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

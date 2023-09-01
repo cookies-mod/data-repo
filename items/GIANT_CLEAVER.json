@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_SWORD",
+  "material": "GOLDEN_SWORD",
   "name": "Giant Cleaver",
   "category": "SWORD",
   "tier": "EPIC",
@@ -55,5 +55,102 @@
     }
   ],
   "dungeon_item": true,
-  "id": "GIANT_CLEAVER"
+  "id": "GIANT_CLEAVER",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+235 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+984.65)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Strength: "
+        },
+        {
+          "color": "red",
+          "text": "+95 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+398.05)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Crit Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+95% "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+398.05%)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Cleave"
+    },
+    {
+      "color": "gray",
+      "text": "When hitting an entity, monsters"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in a "
+        },
+        {
+          "color": "green",
+          "text": "5"
+        },
+        {
+          "color": "gray",
+          "text": " block range will be"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "hit for a portion of that damage"
+    },
+    {
+      "color": "gray",
+      "text": "too."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

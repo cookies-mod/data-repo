@@ -7,5 +7,109 @@
     "DAMAGE": 60
   },
   "npc_sell_price": 1100,
-  "id": "ENDER_BOW"
+  "id": "ENDER_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Ender Warp "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "LEFT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Shoots an Ender Pearl. Upon"
+    },
+    {
+      "color": "gray",
+      "text": "landing you deal damage to all"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Monsters in a "
+        },
+        {
+          "color": "green",
+          "text": "8.0"
+        },
+        {
+          "color": "gray",
+          "text": " block"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "radius for "
+        },
+        {
+          "color": "green",
+          "text": "10.0%"
+        },
+        {
+          "color": "gray",
+          "text": " of their"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "\u2764 Health"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "50"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "45s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

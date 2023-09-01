@@ -206,5 +206,94 @@
       }
     ]
   ],
-  "id": "HELLFIRE_ROD"
+  "id": "HELLFIRE_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Lava Rod"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+180"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Strength: "
+        },
+        {
+          "color": "red",
+          "text": "+180"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Sea Creature Chance: "
+        },
+        {
+          "color": "red",
+          "text": "+14%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Fishing Speed: "
+        },
+        {
+          "color": "green",
+          "text": "+75"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increases the chance to catch"
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Trophy Fish "
+        },
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "20%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

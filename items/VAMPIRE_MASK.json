@@ -9,5 +9,52 @@
     "DEFENSE": 111
   },
   "npc_sell_price": 10,
-  "id": "VAMPIRE_MASK"
+  "id": "VAMPIRE_MASK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Rejuvenate"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "While wearing, drains "
+        },
+        {
+          "color": "green",
+          "text": "5"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "health per second from all"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "monsters within "
+        },
+        {
+          "color": "yellow",
+          "text": "8 "
+        },
+        {
+          "color": "gray",
+          "text": "blocks."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

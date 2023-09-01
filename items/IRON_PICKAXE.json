@@ -9,5 +9,10 @@
   },
   "npc_sell_price": 4,
   "id": "IRON_PICKAXE",
-  "can_be_reforged": true
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

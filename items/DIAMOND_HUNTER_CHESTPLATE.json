@@ -116,5 +116,58 @@
       }
     ]
   ],
-  "id": "DIAMOND_HUNTER_CHESTPLATE"
+  "id": "DIAMOND_HUNTER_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Peace Treaty"
+    },
+    {
+      "color": "gray",
+      "text": "Gain immunity to Sea Creatures"
+    },
+    {
+      "color": "gray",
+      "text": "but they are immune to you and"
+    },
+    {
+      "color": "gray",
+      "text": "you can no longer catch them."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Odger\u0027s Blessing"
+    },
+    {
+      "color": "gray",
+      "text": "Increases the chance to catch"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Trophy Fish by "
+        },
+        {
+          "color": "green",
+          "text": "15%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

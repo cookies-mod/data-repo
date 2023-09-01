@@ -15,5 +15,65 @@
   ],
   "rift_transferrable": true,
   "museum": true,
-  "id": "AATROX_BATPHONE"
+  "id": "AATROX_BATPHONE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Whassup? "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Lets you call "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Maddox"
+        },
+        {
+          "color": "gray",
+          "text": ", when"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "he\u0027s not busy."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

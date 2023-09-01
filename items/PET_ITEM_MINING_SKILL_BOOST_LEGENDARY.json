@@ -1,6 +1,6 @@
 {
   "material": "IRON_PICKAXE",
-  "name": "Mining Exp Boost",
+  "name": "Mining Exp Boost - Legendary",
   "glowing": true,
   "category": "PET_ITEM",
   "tier": "UNOBTAINABLE",
@@ -13,11 +13,8 @@
     {"text": "hold 1 item at a time so choose", "color": "gray"},
     {"text": "wisely!", "color": "gray"},
     {"text": ""},
-    {"text": "Gives ", "color": "gray", "extra": [{"text": "+60%", "color": "green"}, {"text": " pet exp for"}]},
+    {"text": "Gives ", "color": "gray", "extra": [{"text": "+", "color": "green"},{"text": "60", "color": "green","obfuscated":true},{"text": "%", "color": "green"}, {"text": " pet exp for"}]},
     {"text": "Mining.", "color": "gray"},
-    {"text": ""},
-    {"text": "WARNING!", "color": "red", "bold": true},
-    {"text": "This item is not obtainable, it does ONLY exist in the API.", "color": "red"},
     {"text": ""}
   ]
 }

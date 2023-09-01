@@ -18,5 +18,16 @@
       }
     }
   },
-  "id": "DARK_AUCTION_PORTAL"
+  "id": "DARK_AUCTION_PORTAL",
+  "description": [
+    {"text":"Placing this item on your","color":"gray"},
+    {"text":"private island will create a","color":"gray"},
+    {"text":"portal to ","color":"gray","extra":[{"text":"the Dark","color":"aqua"}]},
+    {"text":"Auction","color":"aqua","extra":[{"text":" for you to use","color":"gray"}]},
+    {"text":"whenever you want!","color":"gray"},
+    {"text":""},
+    {"text":"The portal will spawn facing","color":"dark_gray"},
+    {"text":"you on the block you click on.","color":"dark_gray"},
+    {"text":""}
+  ]
 }

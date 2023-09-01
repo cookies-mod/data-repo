@@ -7,5 +7,32 @@
   "tier": "EPIC",
   "unstackable": true,
   "museum": true,
-  "id": "GOLDEN_DANTE_STATUE"
+  "id": "GOLDEN_DANTE_STATUE",
+  "soulbound": "COOP",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Spawn a statue of Dante."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Requires "
+        },
+        {
+          "color": "blue",
+          "text": "\u24b7 Bingo Rank II"
+        },
+        {
+          "color": "red",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

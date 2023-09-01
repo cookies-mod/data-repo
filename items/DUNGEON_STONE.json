@@ -5,5 +5,26 @@
   "name": "Dungeon Orb",
   "tier": "LEGENDARY",
   "dungeon_item": true,
-  "id": "DUNGEON_STONE"
+  "id": "DUNGEON_STONE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "When entering a Dungeon, this"
+    },
+    {
+      "color": "gray",
+      "text": "stone adapts to its user and"
+    },
+    {
+      "color": "gray",
+      "text": "allows them to use their class"
+    },
+    {
+      "color": "gray",
+      "text": "abilities."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

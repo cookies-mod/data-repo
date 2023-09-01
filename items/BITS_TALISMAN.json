@@ -6,5 +6,48 @@
   "category": "ACCESSORY",
   "tier": "RARE",
   "unstackable": true,
-  "id": "BITS_TALISMAN"
+  "id": "BITS_TALISMAN",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Whenever you gain bits,"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "grants a "
+        },
+        {
+          "color": "aqua",
+          "text": "10% "
+        },
+        {
+          "color": "gray",
+          "text": "chance to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "gain double!"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "15,000 Bits"
+    }
+  ]
 }

@@ -3,5 +3,14 @@
   "name": "Molten Powder",
   "tier": "RARE",
   "glowing": true,
-  "id": "MOLTEN_POWDER"
+  "id": "MOLTEN_POWDER",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

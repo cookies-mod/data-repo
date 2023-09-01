@@ -3,5 +3,6 @@
   "name": "woB",
   "category": "BOW",
   "origin": "RIFT",
-  "id": "MIRRORED_BOW"
+  "id": "MIRRORED_BOW",
+  "can_be_reforged": true
 }

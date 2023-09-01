@@ -1,5 +1,5 @@
 {
-  "material": "HUGE_MUSHROOM_2",
+  "material": "red_mushroom_block",
   "name": "Enchanted Red Mushroom Block",
   "glowing": true,
   "npc_sell_price": 51200,

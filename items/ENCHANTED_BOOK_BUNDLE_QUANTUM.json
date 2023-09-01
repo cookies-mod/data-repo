@@ -13,5 +13,121 @@
   "rift_transferrable": true,
   "origin": "RIFT",
   "lose_motes_value_on_transfer": true,
-  "id": "ENCHANTED_BOOK_BUNDLE_QUANTUM"
+  "id": "ENCHANTED_BOOK_BUNDLE_QUANTUM",
+  "description": [
+    {
+      "color": "blue",
+      "text": "Quantum III"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "dark_red",
+          "text": "+2.4\u2668 Vitality "
+        },
+        {
+          "color": "gray",
+          "text": "on"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "weekdays and "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+1.2\u262f "
+        },
+        {
+          "color": "gray",
+          "text": "of a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "random "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "Wisdom "
+        },
+        {
+          "color": "gray",
+          "text": "stat on"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "weekends."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Right-click to open this bundle"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "containing "
+        },
+        {
+          "color": "white",
+          "text": "1 "
+        },
+        {
+          "color": "gray",
+          "text": "enchanted book."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Exportable "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Loses motes value when"
+    },
+    {
+      "color": "dark_gray",
+      "text": "crossing dimensions."
+    }
+  ]
 }

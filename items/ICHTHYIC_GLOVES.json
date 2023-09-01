@@ -11,5 +11,11 @@
     "health": 8,
     "fishing_speed": 4
   },
-  "id": "ICHTHYIC_GLOVES"
+  "id": "ICHTHYIC_GLOVES",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

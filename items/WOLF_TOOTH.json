@@ -4,5 +4,14 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 1,
-  "id": "WOLF_TOOTH"
+  "id": "WOLF_TOOTH",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

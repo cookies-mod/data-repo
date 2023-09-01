@@ -255,5 +255,131 @@
       }
     ]
   ],
-  "id": "VANQUISHED_BLAZE_BELT"
+  "id": "VANQUISHED_BLAZE_BELT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Blazing Palisade"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain a "
+        },
+        {
+          "color": "green",
+          "text": "20% "
+        },
+        {
+          "color": "gray",
+          "text": "chance to reflect"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Fireballs"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Piece Bonus: Blaze Consumer"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Kill "
+        },
+        {
+          "color": "green",
+          "text": "Blazes "
+        },
+        {
+          "color": "gray",
+          "text": "to accumulate"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Strength"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Piece Bonus: "
+        },
+        {
+          "color": "red",
+          "text": "+0\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Next Upgrade: "
+        },
+        {
+          "color": "red",
+          "text": "+1\u2741 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "("
+        },
+        {
+          "color": "green",
+          "text": "0"
+        },
+        {
+          "color": "gray",
+          "text": "/"
+        },
+        {
+          "color": "red",
+          "text": "1,000"
+        },
+        {
+          "color": "dark_gray",
+          "text": ")"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

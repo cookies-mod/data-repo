@@ -77,5 +77,60 @@
     }
   ],
   "dungeon_item": true,
-  "id": "HEAVY_BOOTS"
+  "id": "HEAVY_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Vindicate"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "white",
+          "text": "+1 walk speed "
+        },
+        {
+          "color": "gray",
+          "text": "for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "every "
+        },
+        {
+          "color": "green",
+          "text": "50 "
+        },
+        {
+          "color": "gray",
+          "text": "defense that you"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "have."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 35000 / 35000"
+    }
+  ]
 }

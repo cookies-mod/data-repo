@@ -1,8 +1,90 @@
 {
-  "material": "GOLD_AXE",
+  "material": "GOLDEN_AXE",
   "name": "Pumpkin Dicer 3.0",
-  "description": "%%italic%%\"3.0 is better than the 2.0 version\" - CEO of PumpkinDicer LLC.",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+10\u262f Farming Wisdom"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "while harvesting pumpkins"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Roll em\u0027"
+    },
+    {
+      "color": "gray",
+      "text": "Every pumpkin you break, you"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "make a wish to "
+        },
+        {
+          "color": "light_purple",
+          "text": "RNGesus"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "which may grant you with a"
+    },
+    {
+      "color": "gray",
+      "text": "few or TONS of extra"
+    },
+    {
+      "color": "gray",
+      "text": "pumpkins!"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "\"3.0 is better than the 2.0"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "version\" - CEO of PumpkinDicer"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "LLC."
+    },
+    {
+      "text": ""
+    }
+  ],
   "category": "AXE",
   "tier": "LEGENDARY",
-  "id": "PUMPKIN_DICER_3"
+  "id": "PUMPKIN_DICER_3",
+  "can_be_reforged": true
 }

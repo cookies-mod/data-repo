@@ -4,5 +4,14 @@
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 128,
-  "id": "GOLDEN_TOOTH"
+  "id": "GOLDEN_TOOTH",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

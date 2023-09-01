@@ -7,5 +7,18 @@
   "tier": "SPECIAL",
   "dungeon_item": true,
   "museum": true,
-  "id": "STORM_THE_FISH"
+  "id": "STORM_THE_FISH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Be glad you\u0027ll never have to"
+    },
+    {
+      "color": "gray",
+      "text": "face me!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

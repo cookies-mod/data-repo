@@ -2,6 +2,6 @@
   "material": "FURNACE",
   "name": "Super Furnace",
   "glowing": true,
-  "tier": "UNCOMMON",
+  "tier": "UNOBTAINABLE",
   "id": "SUPER_FURNACE"
 }

@@ -5,5 +5,25 @@
   "name": "Arachne\u0027s Fang",
   "npc_sell_price": 500,
   "tier": "UNCOMMON",
-  "id": "ARACHNE_FANG"
+  "id": "ARACHNE_FANG",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Straight from the spider\u0027s"
+    },
+    {
+      "color": "gray",
+      "text": "mouth."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

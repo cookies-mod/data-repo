@@ -10,5 +10,52 @@
   },
   "npc_sell_price": 60,
   "museum": true,
-  "id": "PUFFERFISH_HAT"
+  "id": "PUFFERFISH_HAT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Spiky"
+    },
+    {
+      "color": "gray",
+      "text": "While wearing, your attacks have"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "a chance to deal "
+        },
+        {
+          "color": "green",
+          "text": "10 damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "plus 20%"
+        },
+        {
+          "color": "gray",
+          "text": " of your Strength to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "nearby enemies!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

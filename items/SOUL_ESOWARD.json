@@ -1,9 +1,114 @@
 {
-  "material": "SAPLING",
+  "material": "birch_SAPLING",
   "durability": 2,
   "name": "Soul Esoward",
   "glowing": true,
   "tier": "RARE",
   "unstackable": true,
-  "id": "SOUL_ESOWARD"
+  "id": "SOUL_ESOWARD",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Soulward "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Become "
+        },
+        {
+          "color": "blue",
+          "text": "invulnerable"
+        },
+        {
+          "color": "gray",
+          "text": " for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "5s"
+        },
+        {
+          "color": "gray",
+          "text": ", but can\u0027t deal damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Halves your damage for "
+        },
+        {
+          "color": "green",
+          "text": "2s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "afterwards."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Soulflow Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "10"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "350"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "20s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

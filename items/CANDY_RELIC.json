@@ -5,5 +5,53 @@
   "name": "Candy Relic",
   "category": "ACCESSORY",
   "tier": "LEGENDARY",
-  "id": "CANDY_RELIC"
+  "id": "CANDY_RELIC",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Increases the drop chance of"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "candies from mobs by "
+        },
+        {
+          "color": "green",
+          "text": "20%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "during the "
+        },
+        {
+          "color": "gold",
+          "text": "Spooky"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Festival"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

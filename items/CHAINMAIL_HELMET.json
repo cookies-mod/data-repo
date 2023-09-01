@@ -7,5 +7,11 @@
     "DEFENSE": 12
   },
   "npc_sell_price": 1,
-  "id": "CHAINMAIL_HELMET"
+  "id": "CHAINMAIL_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

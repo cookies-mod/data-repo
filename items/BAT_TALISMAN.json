@@ -10,5 +10,10 @@
     "HEALTH": 1,
     "INTELLIGENCE": 1
   },
-  "id": "BAT_TALISMAN"
+  "id": "BAT_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

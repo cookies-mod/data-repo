@@ -5,5 +5,55 @@
   "name": "Dwarf Turtle Shelmet",
   "category": "PET_ITEM",
   "tier": "RARE",
-  "id": "DWARF_TURTLE_SHELMET"
+  "id": "DWARF_TURTLE_SHELMET",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Consumed on use"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Pet items can boost pets in"
+    },
+    {
+      "color": "gray",
+      "text": "various ways but pets can only"
+    },
+    {
+      "color": "gray",
+      "text": "hold 1 item at a time so choose"
+    },
+    {
+      "color": "gray",
+      "text": "wisely!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Makes the pet\u0027s owner immune"
+    },
+    {
+      "color": "gray",
+      "text": "to knockback."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click on your summoned"
+    },
+    {
+      "color": "yellow",
+      "text": "pet to give it this item!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

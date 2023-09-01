@@ -4,7 +4,43 @@
   "tier": "RARE",
   "glowing": true,
   "soulbound": "COOP",
-  "description": "%%gray%%%%italic%%Some say that the same substance can be found in the abdomen of Dragons, allowing them to breathe fire. Fire bats are much cuter though.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Some say that the same"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "substance can be found in the"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "abdomen of Dragons, allowing"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "them to breathe fire. Fire bats"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "are much cuter though."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 200,
   "id": "FLAMES"
 }

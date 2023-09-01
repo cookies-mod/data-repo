@@ -16,5 +16,11 @@
       "level": 4
     }
   ],
-  "id": "SQUIRE_BOOTS"
+  "id": "SQUIRE_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

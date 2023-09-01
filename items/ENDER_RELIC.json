@@ -12,5 +12,61 @@
       "level": 7
     }
   ],
-  "id": "ENDER_RELIC"
+  "id": "ENDER_RELIC",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Reduces the damage taken from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Endermites"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "gray",
+          "text": "Ender"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Dragons"
+        },
+        {
+          "color": "gray",
+          "text": ", and "
+        },
+        {
+          "color": "gray",
+          "text": "Endermen by"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "25%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

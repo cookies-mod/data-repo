@@ -11,5 +11,30 @@
   "stats": {
     "CRITICAL_DAMAGE": 1
   },
-  "id": "TINY_DANCER"
+  "id": "TINY_DANCER",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

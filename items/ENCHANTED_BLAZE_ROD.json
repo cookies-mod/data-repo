@@ -4,5 +4,11 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 230400,
-  "id": "ENCHANTED_BLAZE_ROD"
+  "id": "ENCHANTED_BLAZE_ROD",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

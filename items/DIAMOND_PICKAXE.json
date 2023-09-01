@@ -9,5 +9,11 @@
     "MINING_SPEED": 230
   },
   "npc_sell_price": 12,
-  "id": "DIAMOND_PICKAXE"
+  "id": "DIAMOND_PICKAXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

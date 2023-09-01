@@ -6,5 +6,98 @@
   "category": "REFORGE_STONE",
   "tier": "RARE",
   "npc_sell_price": 13800,
-  "id": "SHINY_PRISM"
+  "id": "SHINY_PRISM",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Glistening"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "reforge when combined with"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "equipment"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "No matter the angle you look"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "at it, you still won\u0027t find"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "love."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XXIV"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

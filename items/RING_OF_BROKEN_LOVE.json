@@ -9,6 +9,21 @@
   "stats": {
     "RIFT_TIME": 80
   },
-  "description": "This time around, fate really got in the way of love.",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This time around, fate really"
+    },
+    {
+      "color": "gray",
+      "text": "got in the way of love."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "RING_OF_BROKEN_LOVE"
 }

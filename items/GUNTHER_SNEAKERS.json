@@ -9,5 +9,10 @@
     "RIFT_TIME": 30,
     "rift_walk_speed": 4
   },
-  "id": "GUNTHER_SNEAKERS"
+  "id": "GUNTHER_SNEAKERS",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,9 +1,54 @@
 {
-  "material": "RAW_FISH",
+  "material": "tropical_fish",
   "durability": 2,
   "name": "Oops the Fish",
   "glowing": true,
   "tier": "SPECIAL",
   "museum": true,
-  "id": "OOPS_THE_FISH"
+  "id": "OOPS_THE_FISH",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Discovered in the depths of the"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Main Lobby during the summer"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "months."
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": ""
+    }
+  ]
 }

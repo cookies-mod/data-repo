@@ -5,5 +5,22 @@
   "tier": "EPIC",
   "npc_sell_price": 56000,
   "unstackable": true,
-  "id": "JALAPENO_BOOK"
+  "id": "JALAPENO_BOOK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Combine this Book in an Anvil"
+    },
+    {
+      "color": "gray",
+      "text": "with a deployable to gain a"
+    },
+    {
+      "color": "gray",
+      "text": "small but permanent stat boost!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

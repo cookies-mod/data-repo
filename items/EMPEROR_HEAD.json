@@ -4,6 +4,10 @@
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMDQ0YjY1M2JiYjcyN2I1Yzg2NWE4ZWZjNzUwOTJhZmU5MzllMmMzZTY4NjEzZGI5YWJhZTRmMWI2NGY5OWY4In19fQ\u003d\u003d",
   "name": "Emperor Head",
   "category": "HELMET",
-  "tier": "UNCOMMON",
-  "id": "EMPEROR_HEAD"
+  "tier": "UNOBTAINABLE",
+  "can_be_reforged": true,
+  "id": "EMPEROR_HEAD",
+  "description": [
+    {"text":"Armor the sea emperor wears"}
+  ]
 }

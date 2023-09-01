@@ -1,9 +1,15 @@
 {
-  "material": "INK_SACK",
+  "material": "green_dye",
   "durability": 2,
   "name": "Enchanted Cactus Green",
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 480,
-  "id": "ENCHANTED_CACTUS_GREEN"
+  "id": "ENCHANTED_CACTUS_GREEN",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

@@ -10,5 +10,180 @@
       "level": 5
     }
   ],
-  "id": "TACTICAL_INSERTION"
+  "id": "TACTICAL_INSERTION",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Gorilla Tactics "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Marks your location and teleport"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "back there after "
+        },
+        {
+          "color": "green",
+          "text": "3s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "On coming back, "
+        },
+        {
+          "color": "gold",
+          "text": "burn "
+        },
+        {
+          "color": "gray",
+          "text": "enemies"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "within "
+        },
+        {
+          "color": "aqua",
+          "text": "3 "
+        },
+        {
+          "color": "gray",
+          "text": "blocks and set your"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "\u2764 Health "
+        },
+        {
+          "color": "gray",
+          "text": "to HALF of what it"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "was."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "The "
+        },
+        {
+          "color": "gold",
+          "text": "burn "
+        },
+        {
+          "color": "gray",
+          "text": "deals "
+        },
+        {
+          "color": "red",
+          "text": "40% "
+        },
+        {
+          "color": "gray",
+          "text": "of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "ALL damage you dealt within the"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "3s"
+        },
+        {
+          "color": "gray",
+          "text": ", spread over "
+        },
+        {
+          "color": "gold",
+          "text": "6s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "200"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "20s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

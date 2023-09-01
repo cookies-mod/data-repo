@@ -3,5 +3,62 @@
   "name": "Echolocator",
   "glowing": true,
   "tier": "UNCOMMON",
-  "id": "ECHOLOCATOR"
+  "id": "ECHOLOCATOR",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "When held during the "
+        },
+        {
+          "color": "gold",
+          "text": "Spooky"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Festival"
+        },
+        {
+          "color": "gray",
+          "text": ", this compass points"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "towards the nearest "
+        },
+        {
+          "color": "gold",
+          "text": "Mega"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Bat"
+        },
+        {
+          "color": "gray",
+          "text": ". Happy hunting!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -77,5 +77,97 @@
     }
   ],
   "dungeon_item": true,
-  "id": "SUPER_HEAVY_CHESTPLATE"
+  "id": "SUPER_HEAVY_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Each piece of this armor reduces"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "the cooldown of "
+        },
+        {
+          "color": "blue",
+          "text": "Seismic Wave"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "1s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Vindicate"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "white",
+          "text": "+1 walk speed "
+        },
+        {
+          "color": "gray",
+          "text": "for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "every "
+        },
+        {
+          "color": "green",
+          "text": "50 "
+        },
+        {
+          "color": "gray",
+          "text": "defense that you"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "have."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

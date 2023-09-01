@@ -9,5 +9,22 @@
   },
   "npc_sell_price": 1000,
   "museum": true,
-  "id": "MUSIC_PANTS"
+  "id": "MUSIC_PANTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Become a walking, talking"
+    },
+    {
+      "color": "gray",
+      "text": "Jukebox!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

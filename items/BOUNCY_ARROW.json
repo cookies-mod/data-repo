@@ -24,5 +24,93 @@
       "mode": "II"
     }
   ],
-  "id": "BOUNCY_ARROW"
+  "id": "BOUNCY_ARROW",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Passive: Bouncy!"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Arrows have a "
+        },
+        {
+          "color": "yellow",
+          "text": "50% "
+        },
+        {
+          "color": "gray",
+          "text": "chance to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "bounce to another target."
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bounces up to "
+        },
+        {
+          "color": "red",
+          "text": "4 "
+        },
+        {
+          "color": "gray",
+          "text": "targets,"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "each bounce dealing "
+        },
+        {
+          "color": "red",
+          "text": "15% "
+        },
+        {
+          "color": "gray",
+          "text": "less"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "damage."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Practice II"
+        },
+        {
+          "color": "red",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Stats added when shot!"
+    }
+  ]
 }

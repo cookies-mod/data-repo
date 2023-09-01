@@ -1,8 +1,17 @@
 {
-  "material": "MONSTER_EGG",
+  "material": "enderman_spawn_Egg",
   "durability": 58,
   "name": "Null Ovoid",
   "glowing": true,
   "tier": "RARE",
-  "id": "NULL_OVOID"
+  "id": "NULL_OVOID",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

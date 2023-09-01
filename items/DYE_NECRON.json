@@ -1,8 +1,41 @@
 {
-  "material": "INK_SACK",
+  "material": "orange_dye",
   "durability": 14,
   "name": "Necron Dye",
   "tier": "LEGENDARY",
   "unstackable": true,
-  "id": "DYE_NECRON"
+  "id": "DYE_NECRON",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Changes the color of a leather"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "armor piece to "
+        },
+        {
+          "color": "#E7413C",
+          "text": "#E7413C"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "material": "WOOD_AXE",
+  "material": "WOODen_AXE",
   "name": "Cow Axe",
   "category": "AXE",
   "tier": "UNCOMMON",
@@ -10,5 +10,52 @@
       "level": 15
     }
   ],
-  "id": "COW_AXE"
+  "id": "COW_AXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Cow Specialist"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Killing a "
+        },
+        {
+          "color": "light_purple",
+          "text": "Cow "
+        },
+        {
+          "color": "gray",
+          "text": "increases"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "its drops by "
+        },
+        {
+          "color": "green",
+          "text": "2x"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

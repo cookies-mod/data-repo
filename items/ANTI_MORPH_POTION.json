@@ -5,5 +5,31 @@
   "name": "Anti-Morph Potion",
   "tier": "EPIC",
   "origin": "RIFT",
-  "id": "ANTI_MORPH_POTION"
+  "id": "ANTI_MORPH_POTION",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Right-click to throw the potion"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "at "
+        },
+        {
+          "color": "dark_green",
+          "text": "ugly "
+        },
+        {
+          "color": "gray",
+          "text": "people."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

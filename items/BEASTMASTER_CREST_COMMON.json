@@ -4,5 +4,46 @@
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTM0MTU2NjdkZTNmYjg5YzVmNDBjODgwYzM5ZTQ5NzFhMGNhYTdmM2E5ZDJjOGY3MTJiYTM3ZmFkY2VlIn19fQ\u003d\u003d",
   "name": "Beastmaster Crest",
   "category": "ACCESSORY",
-  "id": "BEASTMASTER_CREST_COMMON"
+  "id": "BEASTMASTER_CREST_COMMON",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Gains stats based on how many"
+    },
+    {
+      "color": "gray",
+      "text": "mythological creatures and Minos"
+    },
+    {
+      "color": "gray",
+      "text": "followers you\u0027ve slain."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Your kills: "
+        },
+        {
+          "obfuscated": true,
+          "color": "dark_green",
+          "text": "0"
+        },
+        {
+          "color": "dark_gray",
+          "text": "/25"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

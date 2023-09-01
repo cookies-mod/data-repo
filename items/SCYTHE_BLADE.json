@@ -4,5 +4,14 @@
   "glowing": true,
   "tier": "LEGENDARY",
   "unstackable": true,
-  "id": "SCYTHE_BLADE"
+  "id": "SCYTHE_BLADE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -19,5 +19,75 @@
     }
   ],
   "museum": true,
-  "id": "EMBER_ROD"
+  "id": "EMBER_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Fire Blast "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Shoot 3 Fireballs which deal"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "35.4"
+        },
+        {
+          "color": "gray",
+          "text": " damage in rapid"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "succession in front of you!"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "150"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "30s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -4,5 +4,31 @@
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2UwNjIyZDAxY2ZkYWUzODZjYzdkZDgzNDI3Njc0YjQyMmY0NmQwYTU3ZTY3YTIwNjA3ZTZjYTRiOWFmM2IwMSJ9fX0\u003d",
   "name": "Green Candy",
   "tier": "UNCOMMON",
-  "id": "GREEN_CANDY"
+  "id": "GREEN_CANDY",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Candy can be used to trade with"
+    },
+    {
+      "color": "gray",
+      "text": "the Fear Mongerer during the"
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Spooky Festival"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

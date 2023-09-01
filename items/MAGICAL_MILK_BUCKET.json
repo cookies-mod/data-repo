@@ -1,5 +1,25 @@
 {
   "material": "MILK_BUCKET",
   "name": "Magical Milk Bucket",
-  "id": "MAGICAL_MILK_BUCKET"
+  "id": "MAGICAL_MILK_BUCKET",
+  "description": [
+    {
+      "color": "gray",
+      "text": "What did the mother cow say to"
+    },
+    {
+      "color": "gray",
+      "text": "the baby cow?"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "It\u0027s pasture bed time."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

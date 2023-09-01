@@ -6,5 +6,46 @@
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 640,
-  "id": "SUPER_MAGIC_MUSHROOM_SOUP"
+  "id": "SUPER_MAGIC_MUSHROOM_SOUP",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Consuming this soup on your"
+    },
+    {
+      "color": "gray",
+      "text": "private island allows the player"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to fly for "
+        },
+        {
+          "color": "green",
+          "text": "200 minutes"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Leaving the private island"
+    },
+    {
+      "color": "gray",
+      "text": "will pause the effect!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

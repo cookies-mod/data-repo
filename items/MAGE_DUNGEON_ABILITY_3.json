@@ -2,7 +2,7 @@
   "material": "BLAZE_POWDER",
   "name": "Fireball",
   "glowing": true,
-  "tier": "UNCOMMON",
+  "tier": "UNOBTAINABLE",
   "npc_sell_price": 1,
   "dungeon_item": true,
   "id": "MAGE_DUNGEON_ABILITY_3"

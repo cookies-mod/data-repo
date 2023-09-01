@@ -7,5 +7,78 @@
     "DEFENSE": 15
   },
   "npc_sell_price": 12,
-  "id": "ANGLER_BOOTS"
+  "id": "ANGLER_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Depth Champion"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Take "
+        },
+        {
+          "color": "green",
+          "text": "-30% "
+        },
+        {
+          "color": "gray",
+          "text": "damage from Sea Creatures."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Deepness Within"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "red",
+          "text": "10\u2764 "
+        },
+        {
+          "color": "gray",
+          "text": "per Fishing level."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Fishing: "
+        },
+        {
+          "color": "yellow",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "00"
+            }
+          ],
+          "text": "Level "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -5,7 +5,91 @@
   "name": "Blue Cheese Goblin Omelette",
   "tier": "RARE",
   "npc_sell_price": 20840,
-  "description": "%%gray%%%%italic%%May cause illness",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Drill Part"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Part Type: "
+        },
+        {
+          "color": "gold",
+          "text": "Upgrade Module"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Adds "
+        },
+        {
+          "color": "green",
+          "text": "+1"
+        },
+        {
+          "color": "gray",
+          "text": " level to all"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "unlocked Heart of the Mountain"
+    },
+    {
+      "color": "gray",
+      "text": "perks."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can be applied to Drills by"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "talking to a "
+        },
+        {
+          "color": "dark_green",
+          "text": "Drill Mechanic"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "May cause illness"
+    },
+    {
+      "text": ""
+    }
+  ],
   "requirements": [
     {
       "type": "HEART_OF_THE_MOUNTAIN",

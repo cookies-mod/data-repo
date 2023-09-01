@@ -206,5 +206,52 @@
       }
     ]
   ],
-  "id": "SCOURGE_CLOAK"
+  "id": "SCOURGE_CLOAK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Fire damage is increased by"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "10,000%"
+        },
+        {
+          "color": "gray",
+          "text": ". Increases your next"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "hit by "
+        },
+        {
+          "color": "red",
+          "text": "20% "
+        },
+        {
+          "color": "gray",
+          "text": "of the last fire"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "damage you took."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

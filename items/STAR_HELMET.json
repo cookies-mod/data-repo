@@ -1,12 +1,14 @@
 {
-  "material": "GOLD_HELMET",
+  "material": "GOLDEN_HELMET",
   "name": "Helmet of the Stars",
   "category": "HELMET",
-  "tier": "UNOBTAINABLE",
+  "tier": "ADMIN",
   "stats": {
     "DEFENSE": 3000,
     "HEALTH": 10000,
     "INTELLIGENCE": 1000
   },
-  "id": "STAR_HELMET"
+  "id": "STAR_HELMET",
+  "can_be_reforged": true,
+  "soulbound": "SOLO"
 }

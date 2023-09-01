@@ -5,5 +5,29 @@
   "name": "Enchanting Table+",
   "furniture": "ENCHANTING_PLUS",
   "tier": "RARE",
-  "id": "ENCHANTING_PLUS"
+  "id": "ENCHANTING_PLUS",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Replicates Vanilla functions"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "It\u0027s a fancier enchanting table,"
+    },
+    {
+      "color": "gray",
+      "text": "with maxed bookshelves!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

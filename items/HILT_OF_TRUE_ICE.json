@@ -10,5 +10,14 @@
       "amount": 50
     }
   ],
-  "id": "HILT_OF_TRUE_ICE"
+  "id": "HILT_OF_TRUE_ICE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -5,5 +5,14 @@
   "name": "Golden Gift",
   "tier": "SPECIAL",
   "museum": true,
-  "id": "GOLD_GIFT"
+  "id": "GOLD_GIFT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "It\u0027s a trophy!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

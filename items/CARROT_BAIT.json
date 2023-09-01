@@ -5,5 +5,30 @@
   "name": "Carrot Bait",
   "category": "BAIT",
   "npc_sell_price": 7,
-  "id": "CARROT_BAIT"
+  "id": "CARROT_BAIT",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Fishing Bait"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Consumes on Cast"
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Chance of fishing up... a"
+    },
+    {
+      "color": "gray",
+      "text": "rabbit?"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -6,5 +6,27 @@
   "tier": "RARE",
   "origin": "RIFT",
   "unstackable": true,
-  "id": "RIFT_SPEED_ELIXIR"
+  "id": "RIFT_SPEED_ELIXIR",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "white",
+          "text": "Speed I "
+        },
+        {
+          "color": "gray",
+          "text": "(5:00)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

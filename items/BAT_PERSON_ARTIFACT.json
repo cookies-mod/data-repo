@@ -5,5 +5,110 @@
   "name": "Bat Person Artifact",
   "category": "ACCESSORY",
   "tier": "RARE",
-  "id": "BAT_PERSON_ARTIFACT"
+  "id": "BAT_PERSON_ARTIFACT",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "green",
+          "text": "+10 "
+        },
+        {
+          "color": "green",
+          "text": "\u2748 Defense"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "red",
+          "text": "\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Strength"
+        },
+        {
+          "color": "gray",
+          "text": ", and "
+        },
+        {
+          "color": "aqua",
+          "text": "\u270e Intelligence"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "for each bat you have"
+    },
+    {
+      "color": "gray",
+      "text": "summoned."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Works with "
+        },
+        {
+          "color": "gold",
+          "text": "Spirit Sceptre"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Witch Mask"
+        },
+        {
+          "color": "gray",
+          "text": ", and the "
+        },
+        {
+          "color": "green",
+          "text": "Bat"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Pet"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

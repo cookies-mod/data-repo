@@ -2,5 +2,6 @@
   "material": "FIREWORK_CHARGE",
   "color": "255,0,0",
   "name": "Mining Core",
+  "tier": "UNOBTAINABLE",
   "id": "MINING_CORE"
 }

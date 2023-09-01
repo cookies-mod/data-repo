@@ -4,5 +4,45 @@
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg1NmNmOTcxNjIzOWE3NzA2MjY4NjUyZWZmM2IyOWNlNWRhY2RmYWIxZmIyZmIzMGE1NGIwNzk2NzQwMDYyIn19fQ\u003d\u003d",
   "name": "Arrow Swapper",
   "tier": "UNCOMMON",
-  "id": "ARROW_SWAPPER"
+  "id": "ARROW_SWAPPER",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Select the arrow type you want"
+    },
+    {
+      "color": "gray",
+      "text": "to take priority in your quiver."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Selected: "
+        },
+        {
+          "color": "red",
+          "text": "None"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Left-click: Previous arrow"
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click: Next arrow"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

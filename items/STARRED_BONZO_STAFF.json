@@ -74,5 +74,100 @@
       ]
     }
   ],
-  "id": "STARRED_BONZO_STAFF"
+  "id": "STARRED_BONZO_STAFF",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+160 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+160)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Intelligence: "
+        },
+        {
+          "color": "green",
+          "text": "+300 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+300)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Showtime "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Shoots balloons that create a"
+    },
+    {
+      "color": "gray",
+      "text": "large explosion on impact,"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "dealing up to "
+        },
+        {
+          "color": "red",
+          "text": "1,107.7"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "damage."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "100"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -24,5 +24,69 @@
       ]
     }
   ],
-  "id": "GOBLIN_CHESTPLATE"
+  "id": "GOBLIN_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Smart Miner"
+    },
+    {
+      "color": "gray",
+      "text": "Converts your Intelligence"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "into Mining Speed"
+        },
+        {
+          "color": "gray",
+          "text": ". +"
+        },
+        {
+          "color": "gold",
+          "text": "1"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Mining Speed "
+        },
+        {
+          "color": "gray",
+          "text": "for every "
+        },
+        {
+          "color": "aqua",
+          "text": "15"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Intelligence "
+        },
+        {
+          "color": "gray",
+          "text": "removed."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

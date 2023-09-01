@@ -1,8 +1,21 @@
 {
-  "material": "INK_SACK",
+  "material": "bone_meal",
   "durability": 15,
   "name": "Enchanted Bone Meal",
   "glowing": true,
   "npc_sell_price": 1,
-  "id": "ENCHANTED_BONE_MEAL"
+  "id": "ENCHANTED_BONE_MEAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Instantly grows crops and"
+    },
+    {
+      "color": "gray",
+      "text": "saplings."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

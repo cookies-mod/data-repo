@@ -10,5 +10,147 @@
     "rift_time": 55,
     "rift_intelligence": 7
   },
-  "id": "CRUX_TALISMAN_4"
+  "id": "CRUX_TALISMAN_4",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Defeat crux mobs to gain "
+        },
+        {
+          "color": "green",
+          "text": "+5\u0444 Rift"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Time "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "gold",
+          "text": "+5 Crux Fortune "
+        },
+        {
+          "color": "gray",
+          "text": "per"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "kill milestone."
+    },
+    {
+      "color": "dark_gray",
+      "text": "Crux Fortune boosts the chance"
+    },
+    {
+      "color": "dark_gray",
+      "text": "for bonus crux drops."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Total Bonuses"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "10"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "color": "green",
+          "text": "\u0444 Rift Time"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "10"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "color": "gold",
+          "text": " Crux Fortune"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Kill Milestones"
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_green",
+          "text": "II"
+        },
+        {
+          "color": "dark_green",
+          "text": " Shy"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "obfuscated": true,
+          "color": "yellow",
+          "text": "25"
+        },
+        {
+          "color": "gray",
+          "text": "/"
+        },
+        {
+          "obfuscated": true,
+          "color": "green",
+          "text": "50"
+        },
+        {
+          "color": "gray",
+          "text": " kills"
+        }
+      ],
+      "text": "  "
+    },
+    {
+      "text": ""
+    }
+  ]
 }

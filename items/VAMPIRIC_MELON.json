@@ -1,9 +1,28 @@
 {
-  "material": "MELON_BLOCK",
+  "material": "MELON",
   "name": "Vampiric Melon",
   "tier": "UNCOMMON",
   "motes_sell_price": 120,
   "origin": "RIFT",
-  "description": "Perfect ingredient for a healing melon.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Perfect ingredient for a healing"
+    },
+    {
+      "color": "gray",
+      "text": "melon."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "VAMPIRIC_MELON"
 }

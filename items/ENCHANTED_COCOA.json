@@ -1,9 +1,15 @@
 {
-  "material": "INK_SACK",
+  "material": "cocoa_beans",
   "durability": 3,
   "name": "Enchanted Cocoa Bean",
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 480,
-  "id": "ENCHANTED_COCOA"
+  "id": "ENCHANTED_COCOA",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

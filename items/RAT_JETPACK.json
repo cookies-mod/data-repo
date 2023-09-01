@@ -4,5 +4,31 @@
   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODE4NTUwMjg3NywKICAicHJvZmlsZUlkIiA6ICJlM2I0NDVjODQ3ZjU0OGZiOGM4ZmEzZjFmN2VmYmE4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5pRGlnZ2VyVGVzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNTBkZTcwOTdkOTM5ZTQ0N2NhMmQzOTg0NDFjYmExZDJhNWUxYTY5MDUyYWM5OWMxOWZmMjBhZDVhM2YwMWFiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
   "name": "Rat Jetpack",
   "tier": "EPIC",
-  "id": "RAT_JETPACK"
+  "id": "RAT_JETPACK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Use at Kat to upgrade a Rat pet"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to "
+        },
+        {
+          "color": "light_purple",
+          "text": "mythic "
+        },
+        {
+          "color": "gray",
+          "text": "rarity."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

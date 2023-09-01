@@ -1,8 +1,41 @@
 {
-  "material": "INK_SACK",
+  "material": "LIME_DYE",
   "durability": 10,
   "name": "Nyanza Dye",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "DYE_NYANZA"
+  "id": "DYE_NYANZA",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Changes the color of a leather"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "armor piece to "
+        },
+        {
+          "color": "#E9FFDB",
+          "text": "#E9FFDB"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

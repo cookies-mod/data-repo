@@ -4,5 +4,52 @@
   "category": "ACCESSORY",
   "tier": "RARE",
   "npc_sell_price": 52000,
-  "id": "NIGHT_CRYSTAL"
+  "id": "NIGHT_CRYSTAL",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Increases your "
+        },
+        {
+          "color": "red",
+          "text": "\u2741 Strength"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "green",
+          "text": "\u2748 Defense"
+        },
+        {
+          "color": "gray",
+          "text": " by "
+        },
+        {
+          "color": "green",
+          "text": "+5"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "during the Night."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

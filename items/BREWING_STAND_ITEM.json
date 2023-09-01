@@ -1,5 +1,5 @@
 {
-  "material": "BREWING_STAND_ITEM",
+  "material": "BREWING_STAND",
   "name": "Brewing Stand",
   "npc_sell_price": 12,
   "id": "BREWING_STAND_ITEM"

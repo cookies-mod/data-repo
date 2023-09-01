@@ -5,5 +5,31 @@
   "name": "Arachne Fragment",
   "npc_sell_price": 500,
   "tier": "RARE",
-  "id": "ARACHNE_FRAGMENT"
+  "id": "ARACHNE_FRAGMENT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A Fragment imbued with the"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "power of "
+        },
+        {
+          "color": "dark_red",
+          "text": "Arachne"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

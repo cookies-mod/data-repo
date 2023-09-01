@@ -4,5 +4,43 @@
   "glowing": true,
   "tier": "EPIC",
   "npc_sell_price": 500,
-  "id": "HYPER_CATALYST"
+  "id": "HYPER_CATALYST",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Increases the number of"
+    },
+    {
+      "color": "gray",
+      "text": "resources created by this minion"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "4x"
+        },
+        {
+          "color": "gray",
+          "text": " for "
+        },
+        {
+          "color": "green",
+          "text": "6 hours"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

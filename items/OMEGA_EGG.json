@@ -1,9 +1,29 @@
 {
-  "material": "MONSTER_EGG",
+  "material": "WITHER_SKELETON_SPAWN_EGG",
   "durability": 67,
   "name": "Omega Enchanted Egg",
   "glowing": true,
   "tier": "EPIC",
   "unstackable": true,
-  "id": "OMEGA_EGG"
+  "id": "OMEGA_EGG",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Used to craft the strangest of"
+    },
+    {
+      "color": "gray",
+      "text": "pets."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

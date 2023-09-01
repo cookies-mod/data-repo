@@ -1,9 +1,40 @@
 {
-  "material": "MONSTER_EGG",
+  "material": "squid_spawn_egg",
   "durability": 94,
   "name": "Living Metal Capspawn",
   "tier": "RARE",
   "origin": "RIFT",
   "motes_sell_price": 100,
-  "id": "LM_EGG_CAP"
+  "id": "LM_EGG_CAP",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Spawn "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Spawns a living metal autoarmor"
+    },
+    {
+      "color": "gray",
+      "text": "which can be assimilated into"
+    },
+    {
+      "color": "gray",
+      "text": "your own armor."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

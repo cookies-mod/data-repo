@@ -5,5 +5,31 @@
   "name": "Wheat Crystal",
   "crystal": "WHEAT_ISLAND",
   "tier": "RARE",
-  "id": "WHEAT_ISLAND_CRYSTAL"
+  "id": "WHEAT_ISLAND_CRYSTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Grows Wheat on top of nearby"
+    },
+    {
+      "color": "gray",
+      "text": "tilled soil."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Effective Radius: "
+        },
+        {
+          "color": "aqua",
+          "text": "6"
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

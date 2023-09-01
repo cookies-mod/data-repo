@@ -100,5 +100,91 @@
     }
   ],
   "dungeon_item": true,
-  "id": "SILENT_DEATH"
+  "id": "SILENT_DEATH",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Shadowstep "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Teleport behind the enemy you"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "are looking at, gaining "
+        },
+        {
+          "color": "red",
+          "text": "+25\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Strength"
+        },
+        {
+          "color": "gray",
+          "text": " for "
+        },
+        {
+          "color": "green",
+          "text": "10"
+        },
+        {
+          "color": "gray",
+          "text": " seconds."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Max range of 20 blocks. Cooldown"
+    },
+    {
+      "color": "gray",
+      "text": "resets on kills."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "60s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 35000 / 35000"
+    }
+  ]
 }

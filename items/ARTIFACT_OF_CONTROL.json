@@ -6,5 +6,35 @@
   "unstackable": true,
   "category": "ACCESSORY",
   "tier": "LEGENDARY",
-  "id": "ARTIFACT_OF_CONTROL"
+  "id": "ARTIFACT_OF_CONTROL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Holding this artifact will"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "grant you "
+        },
+        {
+          "color": "green",
+          "text": "2x "
+        },
+        {
+          "color": "gray",
+          "text": "voting power in"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Mayor Elections!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

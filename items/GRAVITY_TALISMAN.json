@@ -6,5 +6,60 @@
   "category": "ACCESSORY",
   "tier": "UNCOMMON",
   "npc_sell_price": 864,
-  "id": "GRAVITY_TALISMAN"
+  "id": "GRAVITY_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gives between "
+        },
+        {
+          "color": "green",
+          "text": "+1"
+        },
+        {
+          "color": "gray",
+          "text": " and "
+        },
+        {
+          "color": "green",
+          "text": "+10"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "green",
+          "text": "\u2748 Defense"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "the closer you are to the"
+    },
+    {
+      "color": "gray",
+      "text": "spawn of an Island!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

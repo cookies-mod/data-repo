@@ -20,5 +20,148 @@
     "FEROCITY": 2,
     "SEA_CREATURE_CHANCE": 1.5
   },
-  "id": "MAGMA_LORD_GAUNTLET"
+  "id": "MAGMA_LORD_GAUNTLET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Tiered Bonus: Fireproof (0/2)"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Provides immunity to "
+        },
+        {
+          "color": "gold",
+          "text": "nether"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "magma"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Tiered Bonus: Lord\u0027s Blessing (0/5)"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+1\u03b1 Sea Creature"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_aqua",
+          "text": "Chance"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "aqua",
+          "text": "+5\u272f Magic Find "
+        },
+        {
+          "color": "gray",
+          "text": "on"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Lava Sea Creatures."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Damage taken by "
+        },
+        {
+          "color": "red",
+          "text": "Lava Sea"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Creatures "
+        },
+        {
+          "color": "gray",
+          "text": "is reduced by "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "and damage dealt is increased"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "red",
+          "text": "1.1x"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

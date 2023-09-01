@@ -69,5 +69,11 @@
       ]
     }
   ],
-  "id": "DIVAN_HELMET"
+  "id": "DIVAN_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

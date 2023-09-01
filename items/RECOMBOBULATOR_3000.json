@@ -6,5 +6,29 @@
   "tier": "LEGENDARY",
   "dungeon_item": true,
   "museum": true,
-  "id": "RECOMBOBULATOR_3000"
+  "id": "RECOMBOBULATOR_3000",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Permanently increases the rarity"
+    },
+    {
+      "color": "gray",
+      "text": "of an item. Can only be applied"
+    },
+    {
+      "color": "gray",
+      "text": "to an item once."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

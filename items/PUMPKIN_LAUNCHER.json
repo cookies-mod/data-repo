@@ -8,5 +8,89 @@
   },
   "ability_damage_scaling": 0.2,
   "museum": true,
-  "id": "PUMPKIN_LAUNCHER"
+  "id": "PUMPKIN_LAUNCHER",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Shoots "
+        },
+        {
+          "color": "gold",
+          "text": "Blast o\u0027 Lanterns"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deals "
+        },
+        {
+          "color": "green",
+          "text": "2 "
+        },
+        {
+          "color": "gray",
+          "text": "damage to "
+        },
+        {
+          "color": "gold",
+          "text": "Spooky"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "enemies and "
+        },
+        {
+          "color": "red",
+          "text": "9,090 "
+        },
+        {
+          "color": "gray",
+          "text": "damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "against non-scary enemies!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Blast o\u0027 Lanterns: "
+        },
+        {
+          "color": "gold",
+          "text": "0"
+        },
+        {
+          "color": "dark_gray",
+          "text": "/20k"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

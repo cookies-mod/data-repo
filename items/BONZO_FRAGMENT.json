@@ -4,5 +4,14 @@
   "glowing": true,
   "tier": "RARE",
   "dungeon_item": true,
-  "id": "BONZO_FRAGMENT"
+  "id": "BONZO_FRAGMENT",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

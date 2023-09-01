@@ -2,5 +2,11 @@
   "material": "SPIDER_EYE",
   "name": "Spider Eye",
   "npc_sell_price": 3,
-  "id": "SPIDER_EYE"
+  "id": "SPIDER_EYE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

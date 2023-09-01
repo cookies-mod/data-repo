@@ -6,5 +6,55 @@
   "tier": "RARE",
   "npc_sell_price": 1000,
   "dungeon_item": true,
-  "id": "MIMIC_FRAGMENT"
+  "id": "MIMIC_FRAGMENT",
+  "description": [
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Fool me once, shame on you."
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Fool me 9 times, and you can"
+    },
+    {
+      "extra": [
+        {
+          "italic": true,
+          "color": "dark_gray",
+          "text": "craft a "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Lesser Orb of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Healing"
+        },
+        {
+          "italic": true,
+          "color": "dark_gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

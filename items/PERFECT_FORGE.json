@@ -6,5 +6,38 @@
   "category": "COSMETIC",
   "tier": "LEGENDARY",
   "unstackable": true,
-  "id": "PERFECT_FORGE"
+  "id": "PERFECT_FORGE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Item skins give your gear a"
+    },
+    {
+      "color": "gray",
+      "text": "fresh new look! Apply them just"
+    },
+    {
+      "color": "gray",
+      "text": "like an enchant book using the"
+    },
+    {
+      "color": "gray",
+      "text": "anvil."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This skin can be applied to"
+    },
+    {
+      "color": "green",
+      "text": "Perfect Helmet"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

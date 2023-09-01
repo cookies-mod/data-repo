@@ -6,5 +6,46 @@
   "furniture": "EPOCH_CAKE_YELLOW",
   "tier": "UNCOMMON",
   "museum": true,
-  "id": "EPOCH_CAKE_YELLOW"
+  "id": "EPOCH_CAKE_YELLOW",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Invite your friends to share a"
+    },
+    {
+      "color": "gray",
+      "text": "slice of cake! Eating this cake"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "grants "
+        },
+        {
+          "color": "white",
+          "text": "+10\u2726 Speed "
+        },
+        {
+          "color": "gray",
+          "text": "for 48"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "hours."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

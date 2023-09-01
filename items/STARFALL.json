@@ -3,6 +3,35 @@
   "name": "Starfall",
   "tier": "RARE",
   "npc_sell_price": 15,
-  "description": "%%gray%%%%italic%%No one knows how and when the Starfall appeared. All we know is that it was already there when the Dwarves discovered the cavern.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "No one knows how and when"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "the Starfall appeared. All we"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "know is that it was already"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "there when the Dwarves"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "discovered the cavern."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "STARFALL"
 }

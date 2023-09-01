@@ -5,7 +5,33 @@
   "name": "Gazing Pearl",
   "tier": "RARE",
   "soulbound": "COOP",
-  "description": "%%gray%%%%italic%%Can be used instead of a lamp, if you enjoy living on the edge.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Can be used instead of a"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "lamp, if you enjoy living on the"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "edge."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 200,
   "id": "GAZING_PEARL"
 }

@@ -16,5 +16,57 @@
     }
   ],
   "soulbound": "COOP",
-  "id": "STARTER_LAVA_ROD"
+  "id": "STARTER_LAVA_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Lava Rod"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+50"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Strength: "
+        },
+        {
+          "color": "red",
+          "text": "+50"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Fishing Speed: "
+        },
+        {
+          "color": "green",
+          "text": "+8"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

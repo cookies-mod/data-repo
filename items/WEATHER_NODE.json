@@ -2,5 +2,33 @@
   "material": "LAPIS_BLOCK",
   "name": "Weather Node",
   "tier": "UNCOMMON",
-  "id": "WEATHER_NODE"
+  "id": "WEATHER_NODE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Place it down and click it to"
+    },
+    {
+      "color": "gray",
+      "text": "change the weather on your"
+    },
+    {
+      "color": "gray",
+      "text": "island."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "The node will remember your"
+    },
+    {
+      "color": "gray",
+      "text": "choice!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

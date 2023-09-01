@@ -10,5 +10,28 @@
       "level": 5
     }
   ],
-  "id": "HOE_OF_GREATER_TILLING"
+  "id": "HOE_OF_GREATER_TILLING",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Tills a "
+        },
+        {
+          "color": "blue",
+          "text": "5x5 "
+        },
+        {
+          "color": "gray",
+          "text": "area of farmland at a time."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

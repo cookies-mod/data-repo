@@ -12,5 +12,71 @@
       "amount": 25
     }
   ],
-  "id": "KRAMPUS_HELMET"
+  "id": "KRAMPUS_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gains "
+        },
+        {
+          "color": "red",
+          "text": "+1\u2764 "
+        },
+        {
+          "color": "gray",
+          "text": "per 50 gifts given"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "by wearer."
+    },
+    {
+      "color": "dark_gray",
+      "text": "Max 500\u2764"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This item can be used as a"
+    },
+    {
+      "color": "gray",
+      "text": "minion upgrade. Place it in ONE"
+    },
+    {
+      "color": "gray",
+      "text": "minion and it will occasionally"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "generate "
+        },
+        {
+          "color": "red",
+          "text": "Red Gifts"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

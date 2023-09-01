@@ -5,5 +5,31 @@
   "name": "Sea Creature Talisman",
   "category": "ACCESSORY",
   "npc_sell_price": 180,
-  "id": "SEA_CREATURE_TALISMAN"
+  "id": "SEA_CREATURE_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Take "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        },
+        {
+          "color": "gray",
+          "text": " less damage from Sea"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Creatures."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

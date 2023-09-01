@@ -8,5 +8,76 @@
   "stats": {
     "DEFENSE": 25
   },
-  "id": "SPOOKY_HELMET"
+  "id": "SPOOKY_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Each armor piece grants a "
+        },
+        {
+          "color": "green",
+          "text": "+5%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "chance to get Candy from mobs"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "during the "
+        },
+        {
+          "color": "gold",
+          "text": "Spooky Festival"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Candy Man"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants a "
+        },
+        {
+          "color": "green",
+          "text": "+5% "
+        },
+        {
+          "color": "gray",
+          "text": "chance to find"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "rare Candy."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

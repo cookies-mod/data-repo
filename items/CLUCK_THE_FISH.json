@@ -1,8 +1,21 @@
 {
-  "material": "RAW_FISH",
+  "material": "cod",
   "name": "Cluck the Fish",
   "glowing": true,
   "tier": "SPECIAL",
   "museum": true,
-  "id": "CLUCK_THE_FISH"
+  "id": "CLUCK_THE_FISH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Cluck cluck bkaawwk. Puk Puk"
+    },
+    {
+      "color": "gray",
+      "text": "Pukaaak!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

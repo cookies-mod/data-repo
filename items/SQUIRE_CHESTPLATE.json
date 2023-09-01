@@ -15,5 +15,11 @@
       "level": 4
     }
   ],
-  "id": "SQUIRE_CHESTPLATE"
+  "id": "SQUIRE_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

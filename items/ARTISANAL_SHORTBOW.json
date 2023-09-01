@@ -14,5 +14,18 @@
       "level": 4
     }
   ],
-  "id": "ARTISANAL_SHORTBOW"
+  "id": "ARTISANAL_SHORTBOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Shortbow: Instantly shoots!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

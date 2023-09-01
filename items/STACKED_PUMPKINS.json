@@ -4,5 +4,42 @@
   "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MTQ4NDc0OTE4NGRjNmRkODUzYmViYWMyZjUwOWZhZGY0NGRjNzg0MTNmYjZkZTVlMzcxYTMzMjBmNzA2NjhhIn19fQ\u003d\u003d",
   "name": "Stacked Pumpkins",
   "furniture": "STACKED_PUMPKINS",
-  "id": "STACKED_PUMPKINS"
+  "id": "STACKED_PUMPKINS",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Halloween Cosmetic"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "This exclusive "
+        },
+        {
+          "color": "gold",
+          "text": "Halloween"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "cosmetic can be placed on your"
+    },
+    {
+      "color": "gray",
+      "text": "island or traded."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

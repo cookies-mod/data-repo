@@ -1,22 +1,76 @@
 {
   "material": "PRISMARINE_CRYSTALS",
-  "name": "Hardened Scales",
+  "name": "Hardened Scales - Rare",
   "glowing": true,
   "category": "PET_ITEM",
-  "tier": "RARE",
+  "tier": "UNOBTAINABLE",
   "id": "PET_ITEM_HARDENED_SCALES_RARE",
   "description": [
-    {"text":"Consumed on use","color":"dark_gray"},
-    {"text":""},
-    {"text":"Pet items can boost pets in","color":"gray"},
-    {"text":"various ways but pets can only","color":"gray"},
-    {"text":"hold 1 item at a time so choose","color":"gray"},
-    {"text":"wisely!","color":"gray"},
-    {"text":""},
-    {"text":"Grants ","color":"gray", "extra": [{"text":"+25❈ Defense","color":"green"},{"text":".","color":"gray"}]},
-    {"text":""},
-    {"text":"WARNING!", "color": "red", "bold": true},
-    {"text":"This item is not obtainable, it does ONLY exist in the API.", "color": "red"},
-    {"text":""}
+    {
+      "color": "dark_gray",
+      "text": "Consumed on use"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Pet items can boost pets in"
+    },
+    {
+      "color": "gray",
+      "text": "various ways but pets can only"
+    },
+    {
+      "color": "gray",
+      "text": "hold 1 item at a time so choose"
+    },
+    {
+      "color": "gray",
+      "text": "wisely!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+"
+        },
+        {
+          "color": "green",
+          "text": "25",
+          "obfuscated": true
+        },
+        {
+          "color": "green",
+          "text": "\u2748 Defense"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click on your summoned"
+    },
+    {
+      "color": "yellow",
+      "text": "pet to give it this item!"
+    },
+    {
+      "text": ""
+    }
   ]
 }

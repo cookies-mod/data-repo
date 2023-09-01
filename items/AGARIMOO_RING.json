@@ -9,5 +9,10 @@
     "fishing_wisdom": 1,
     "fishing_speed": 2
   },
-  "id": "AGARIMOO_RING"
+  "id": "AGARIMOO_RING",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

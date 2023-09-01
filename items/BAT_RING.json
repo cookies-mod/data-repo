@@ -10,5 +10,10 @@
     "HEALTH": 3,
     "INTELLIGENCE": 2
   },
-  "id": "BAT_RING"
+  "id": "BAT_RING",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

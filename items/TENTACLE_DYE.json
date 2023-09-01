@@ -1,8 +1,41 @@
 {
-  "material": "INK_SACK",
+  "material": "light_blue_dye",
   "durability": 12,
   "name": "Tentacle Dye",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "TENTACLE_DYE"
+  "id": "TENTACLE_DYE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Changes the color of a leather"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "armor piece to "
+        },
+        {
+          "color": "#324D6C",
+          "text": "#324D6C"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

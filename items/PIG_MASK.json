@@ -9,5 +9,33 @@
     "WALK_SPEED": 1
   },
   "museum": true,
-  "id": "PIG_MASK"
+  "id": "PIG_MASK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Wear this mask to show your"
+    },
+    {
+      "color": "gray",
+      "text": "support for the Dante"
+    },
+    {
+      "color": "gray",
+      "text": "resistance."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "blue",
+      "text": "Cosmetic item!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

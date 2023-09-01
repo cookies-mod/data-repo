@@ -2,5 +2,11 @@
   "material": "BLAZE_POWDER",
   "name": "Blaze Powder",
   "npc_sell_price": 4,
-  "id": "BLAZE_POWDER"
+  "id": "BLAZE_POWDER",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

@@ -6,5 +6,31 @@
   "category": "ACCESSORY",
   "tier": "UNCOMMON",
   "museum": true,
-  "id": "BINGO_RING"
+  "id": "BINGO_RING",
+  "description": [
+    {
+      "color": "gray",
+      "text": "B.I.N.G.O."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Requires "
+        },
+        {
+          "color": "blue",
+          "text": "\u24b7 Bingo Rank II"
+        },
+        {
+          "color": "red",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

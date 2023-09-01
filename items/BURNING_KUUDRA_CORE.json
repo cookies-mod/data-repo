@@ -6,5 +6,55 @@
   "category": "ACCESSORY",
   "tier": "RARE",
   "npc_sell_price": 1,
-  "id": "BURNING_KUUDRA_CORE"
+  "id": "BURNING_KUUDRA_CORE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain a "
+        },
+        {
+          "color": "green",
+          "text": "1% "
+        },
+        {
+          "color": "gray",
+          "text": "chance for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Attributes to spawn 1 level"
+    },
+    {
+      "color": "gray",
+      "text": "higher."
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "A remnant of the core of"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Kuudra!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

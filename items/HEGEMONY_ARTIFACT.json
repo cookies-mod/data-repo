@@ -6,5 +6,53 @@
   "category": "ACCESSORY",
   "tier": "LEGENDARY",
   "unstackable": true,
-  "id": "HEGEMONY_ARTIFACT"
+  "id": "HEGEMONY_ARTIFACT",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Counts for twice the "
+        },
+        {
+          "color": "gold",
+          "text": "Magical"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Power "
+        },
+        {
+          "color": "gray",
+          "text": "in your "
+        },
+        {
+          "color": "green",
+          "text": "Accessory"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Bag"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -3,5 +3,47 @@
   "name": "Scavenged Lapis Sword",
   "glowing": true,
   "tier": "SPECIAL",
-  "id": "DWARVEN_LAPIS_SWORD"
+  "id": "DWARVEN_LAPIS_SWORD",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Quest Item"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bring to the "
+        },
+        {
+          "color": "gold",
+          "text": "Keeper of Lapis"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in the "
+        },
+        {
+          "color": "dark_green",
+          "text": "Mines of Divan"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

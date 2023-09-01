@@ -8,5 +8,51 @@
   "stats": {
     "health": 3
   },
-  "id": "DRACONIC_ARTIFACT"
+  "id": "DRACONIC_ARTIFACT",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "Created from ripping The End"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "of its fauna."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increases damage dealt to"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Dragons "
+        },
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

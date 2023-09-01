@@ -5,5 +5,22 @@
   "name": "Talisman of Coins",
   "category": "ACCESSORY",
   "npc_sell_price": 70,
-  "id": "COIN_TALISMAN"
+  "id": "COIN_TALISMAN",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Coins start appearing around you"
+    },
+    {
+      "color": "gray",
+      "text": "occasionally on public islands."
+    },
+    {
+      "color": "gray",
+      "text": "Lucky!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

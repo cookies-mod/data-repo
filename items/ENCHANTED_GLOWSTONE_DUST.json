@@ -4,5 +4,11 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 320,
-  "id": "ENCHANTED_GLOWSTONE_DUST"
+  "id": "ENCHANTED_GLOWSTONE_DUST",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

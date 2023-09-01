@@ -3,5 +3,29 @@
   "name": "Griffin Feather",
   "tier": "RARE",
   "npc_sell_price": 1000,
-  "id": "GRIFFIN_FEATHER"
+  "id": "GRIFFIN_FEATHER",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Drops rarely off of monsters"
+    },
+    {
+      "color": "gray",
+      "text": "from Diana\u0027s Mythological"
+    },
+    {
+      "color": "gray",
+      "text": "Ritual."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

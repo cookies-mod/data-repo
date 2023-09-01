@@ -1,7 +1,15 @@
 {
   "material": "EMERALD_BLOCK",
-  "name": "§aFake Emerald Altar",
-  "description": "%%gray%%%%italic%%Can\u0027t bring the girl to the altar? Bring the altar to the girl!",
+  "name": "\u00a7aFake Emerald Altar",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Quest item"
+    },
+    {
+      "text": ""
+    }
+  ],
   "tier": "UNCOMMON",
   "soulbound": "COOP",
   "id": "FAKE_EMERALD_ALTAR"

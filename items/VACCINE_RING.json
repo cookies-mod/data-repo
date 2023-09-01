@@ -6,5 +6,40 @@
   "category": "ACCESSORY",
   "tier": "UNCOMMON",
   "npc_sell_price": 100,
-  "id": "VACCINE_RING"
+  "id": "VACCINE_RING",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Reduces the effect of "
+        },
+        {
+          "color": "dark_green",
+          "text": "poison"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "25%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -5,5 +5,62 @@
   "name": "Wisp Upgrade Stone",
   "tier": "RARE",
   "unstackable": true,
-  "id": "UPGRADE_STONE_FROST"
+  "id": "UPGRADE_STONE_FROST",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Consumed on use"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Upgrades a "
+        },
+        {
+          "color": "green",
+          "text": "Droplet Wisp "
+        },
+        {
+          "color": "gray",
+          "text": "pet"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to a "
+        },
+        {
+          "color": "blue",
+          "text": "Frost Wisp "
+        },
+        {
+          "color": "gray",
+          "text": "pet."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click on your wisp to"
+    },
+    {
+      "color": "yellow",
+      "text": "upgrade it!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

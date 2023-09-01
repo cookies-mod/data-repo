@@ -75,5 +75,136 @@
       ]
     }
   ],
-  "id": "STARRED_SHADOW_ASSASSIN_CHESTPLATE"
+  "id": "STARRED_SHADOW_ASSASSIN_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Crit Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+25% "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Health: "
+        },
+        {
+          "color": "green",
+          "text": "+250"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Defense: "
+        },
+        {
+          "color": "green",
+          "text": "+110 "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Speed: "
+        },
+        {
+          "color": "green",
+          "text": "+8 "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Shadow Assassin"
+    },
+    {
+      "color": "gray",
+      "text": "Collect the shadows of the"
+    },
+    {
+      "color": "gray",
+      "text": "enemies you kill increasing your"
+    },
+    {
+      "color": "gray",
+      "text": "damage for the rest of the"
+    },
+    {
+      "color": "gray",
+      "text": "dungeon while wearing this set."
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "+1\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "every kill"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "On teleport: Grants "
+        },
+        {
+          "color": "red",
+          "text": "+10\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Strength "
+        },
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "aqua",
+          "text": "10 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

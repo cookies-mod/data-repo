@@ -5,5 +5,62 @@
   "name": "Abiphone XII Mega",
   "tier": "RARE",
   "npc_sell_price": 140,
-  "id": "ABIPHONE_XII_MEGA"
+  "id": "ABIPHONE_XII_MEGA",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A device that can be used to"
+    },
+    {
+      "color": "gray",
+      "text": "contact people! Click NPCs to"
+    },
+    {
+      "color": "gray",
+      "text": "add them to your contacts!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Features:"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Maximum Contacts: "
+        },
+        {
+          "color": "aqua",
+          "text": "7"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Maximum Discs: "
+        },
+        {
+          "color": "aqua",
+          "text": "4"
+        }
+      ],
+      "text": " "
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to open!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

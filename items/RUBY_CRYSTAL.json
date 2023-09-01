@@ -5,5 +5,72 @@
   "name": "Ruby Crystal",
   "tier": "RARE",
   "museum": true,
-  "id": "RUBY_CRYSTAL"
+  "id": "RUBY_CRYSTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Energetic crystal found deep"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in the "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Crystal Hollows"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Some say that it can be"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "infused with "
+        },
+        {
+          "color": "light_purple",
+          "text": "gemstones"
+        },
+        {
+          "color": "gray",
+          "text": ", and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "it is rumored to unlock"
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "treasure"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

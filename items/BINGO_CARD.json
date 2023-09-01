@@ -4,5 +4,83 @@
   "tier": "SPECIAL",
   "museum": true,
   "soulbound": "COOP",
-  "id": "BINGO_CARD"
+  "id": "BINGO_CARD",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Obtained during the "
+        },
+        {
+          "color": "gold",
+          "text": "1st Bingo"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Event "
+        },
+        {
+          "color": "gray",
+          "text": "during "
+        },
+        {
+          "color": "green",
+          "text": "December 2021"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "for completing the entire"
+    },
+    {
+      "color": "gray",
+      "text": "Bingo Card!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Player: "
+        },
+        {
+          "obfuscated": true,
+          "color": "red",
+          "text": "Eisengolem"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Playtime: "
+        },
+        {
+          "obfuscated": true,
+          "color": "green",
+          "text": "69"
+        },
+        {
+          "color": "green",
+          "text": "h"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

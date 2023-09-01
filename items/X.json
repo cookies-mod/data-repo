@@ -5,7 +5,20 @@
   "name": "X",
   "tier": "EPIC",
   "soulbound": "COOP",
-  "description": "%%gray%%%%italic%%One Dimensional",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "One Dimensional"
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 20,
   "id": "X"
 }

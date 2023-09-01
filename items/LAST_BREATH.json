@@ -55,5 +55,78 @@
     }
   ],
   "dungeon_item": true,
-  "id": "LAST_BREATH"
+  "id": "LAST_BREATH",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Crit Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+50% "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Reduces the defense of your"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "target by "
+        },
+        {
+          "color": "green",
+          "text": "10% "
+        },
+        {
+          "color": "gray",
+          "text": "of their max"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "\u2748 Defense "
+        },
+        {
+          "color": "gray",
+          "text": "on hit, stacking"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "up to "
+        },
+        {
+          "color": "green",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "times."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

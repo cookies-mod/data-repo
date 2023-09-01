@@ -13,5 +13,46 @@
   "item_specific": {
     "rift_time_regain_on_kill": 1
   },
-  "id": "WYLD_HELMET"
+  "id": "WYLD_HELMET",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Helmets All The Way Down"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Regain "
+        },
+        {
+          "color": "green",
+          "text": "+1\u0444 "
+        },
+        {
+          "color": "gray",
+          "text": "when killing a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "monster."
+    },
+    {
+      "color": "dark_gray",
+      "text": "Note: Monsters already grant"
+    },
+    {
+      "color": "dark_gray",
+      "text": "time on death."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

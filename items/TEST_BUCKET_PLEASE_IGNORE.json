@@ -8,7 +8,38 @@
   "origin": "RIFT",
   "soulbound": "COOP",
   "rift_transferrable": true,
-  "description": "Was it all a test?",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Was it all a test?"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ],
   "stats": {
     "TRUE_DEFENSE": 0.5
   },

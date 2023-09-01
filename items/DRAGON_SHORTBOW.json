@@ -13,5 +13,74 @@
     "aiming": 5
   },
   "soulbound": "COOP",
-  "id": "DRAGON_SHORTBOW"
+  "id": "DRAGON_SHORTBOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "blue",
+      "text": "Dragon Tracer V"
+    },
+    {
+      "color": "gray",
+      "text": "Arrows home towards dragons if"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "they are within "
+        },
+        {
+          "color": "green",
+          "text": "10 "
+        },
+        {
+          "color": "gray",
+          "text": "blocks."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_purple",
+      "text": "Shortbow: Instantly shoots!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Dragon Stalker"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "green",
+          "text": "15% "
+        },
+        {
+          "color": "gray",
+          "text": "bonus damage to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Dragons."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

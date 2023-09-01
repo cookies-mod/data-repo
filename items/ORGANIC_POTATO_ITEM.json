@@ -3,6 +3,6 @@
   "name": "Organic Potato",
   "npc_sell_price": 1,
   "glowing": true,
-  "tier": "UNCOMMON",
+  "tier": "UNOBTAINABLE",
   "id": "ORGANIC_POTATO_ITEM"
 }

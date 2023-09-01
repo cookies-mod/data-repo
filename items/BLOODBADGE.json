@@ -1,10 +1,22 @@
 {
-  "material": "INK_SACK",
+  "material": "red_dye",
   "durability": 1,
   "name": "Bloodbadge",
   "tier": "RARE",
   "origin": "RIFT",
-  "description": "You and killing stuff in the rift, name a more iconic duo.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "You and killing stuff in the"
+    },
+    {
+      "color": "gray",
+      "text": "rift, name a more iconic duo."
+    },
+    {
+      "text": ""
+    }
+  ],
   "motes_sell_price": 2000,
   "id": "BLOODBADGE"
 }

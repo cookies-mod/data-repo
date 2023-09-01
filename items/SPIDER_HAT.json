@@ -50,5 +50,56 @@
     ]
   ],
   "museum": true,
-  "id": "SPIDER_HAT"
+  "id": "SPIDER_HAT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "When worn, "
+        },
+        {
+          "color": "gray",
+          "text": "Spiders"
+        },
+        {
+          "color": "gray",
+          "text": " and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Cave Spiders"
+        },
+        {
+          "color": "gray",
+          "text": " deal "
+        },
+        {
+          "color": "green",
+          "text": "-30%"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "damage."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_SWORD",
+  "material": "GOLDEN_SWORD",
   "name": "Silk-Edge Sword",
   "category": "SWORD",
   "tier": "LEGENDARY",
@@ -58,5 +58,96 @@
       "level": 13
     }
   ],
-  "id": "SILK_EDGE_SWORD"
+  "id": "SILK_EDGE_SWORD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Leap "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Leap into the air and deal"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "444"
+        },
+        {
+          "color": "gray",
+          "text": " damage to nearby"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "enemies upon landing on the"
+    },
+    {
+      "color": "gray",
+      "text": "ground. Damaged enemies will"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "also be frozen for "
+        },
+        {
+          "color": "green",
+          "text": "1.0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "second."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "50"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "1s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

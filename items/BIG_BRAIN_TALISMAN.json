@@ -11,5 +11,30 @@
   "stats": {
     "intelligence": 1
   },
-  "id": "BIG_BRAIN_TALISMAN"
+  "id": "BIG_BRAIN_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

@@ -4,5 +4,53 @@
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDhjOGQ5OTRiY2JhODQwMzhlM2M3ZTViZTkyNDNhNGYyZWNmNzg5YmNkNDcwM2E0NzVjMThlZTIxOTlmMWUzIn19fQ\u003d\u003d",
   "name": "Tutti-Frutti Flavored Poison",
   "unstackable": true,
-  "id": "TUTTI_FRUTTI_POISON"
+  "id": "TUTTI_FRUTTI_POISON",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Basic Brew"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Use this item in place of"
+    },
+    {
+      "color": "gray",
+      "text": "an Awkward Potion for"
+    },
+    {
+      "color": "gray",
+      "text": "certain potions."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Adds "
+        },
+        {
+          "color": "red",
+          "text": "+5% "
+        },
+        {
+          "color": "gray",
+          "text": "to the damage of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Archery potions."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

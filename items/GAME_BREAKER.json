@@ -5,5 +5,22 @@
   "tier": "SPECIAL",
   "npc_sell_price": 777,
   "museum": true,
-  "id": "GAME_BREAKER"
+  "id": "GAME_BREAKER",
+  "description": [
+    {
+      "color": "gray",
+      "text": "This item was given to a player"
+    },
+    {
+      "color": "gray",
+      "text": "who reported a game breaking"
+    },
+    {
+      "color": "gray",
+      "text": "exploit. What a guy!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

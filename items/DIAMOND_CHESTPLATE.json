@@ -7,5 +7,11 @@
     "DEFENSE": 40
   },
   "npc_sell_price": 32,
-  "id": "DIAMOND_CHESTPLATE"
+  "id": "DIAMOND_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

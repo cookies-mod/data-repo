@@ -11,5 +11,18 @@
       "level": 6
     }
   ],
-  "id": "TIC_TAC_TOE"
+  "id": "TIC_TAC_TOE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Click another player to initiate"
+    },
+    {
+      "color": "gray",
+      "text": "a game of Tic Tac Toe!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

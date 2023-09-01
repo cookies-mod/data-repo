@@ -1,7 +1,7 @@
 {
   "material": "IRON_INGOT",
   "name": "Iron Alloy",
-  "tier": "RARE",
+  "tier": "UNOBTAINABLE",
   "npc_sell_price": 1,
   "id": "IRON_ALLOY"
 }

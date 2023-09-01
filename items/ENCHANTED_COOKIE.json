@@ -4,5 +4,11 @@
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 61500,
-  "id": "ENCHANTED_COOKIE"
+  "id": "ENCHANTED_COOKIE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

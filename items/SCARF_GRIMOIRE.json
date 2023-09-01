@@ -11,5 +11,68 @@
   "stats": {
     "rift_Time": 12
   },
-  "id": "SCARF_GRIMOIRE"
+  "id": "SCARF_GRIMOIRE",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Gain dungeon class experience"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+6% "
+        },
+        {
+          "color": "gray",
+          "text": "faster."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Dark and powerful spells,"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "includes his favorite \"Barrier\""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "that his Professor taught him."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

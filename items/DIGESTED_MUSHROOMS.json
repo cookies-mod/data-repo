@@ -5,7 +5,28 @@
   "name": "Digested Mushrooms",
   "tier": "UNCOMMON",
   "npc_sell_price": 50,
-  "description": "%%gray%%%%italic%%Sometimes digested multiple times.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Sometimes digested multiple"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "times."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "soulbound": "COOP",
   "id": "DIGESTED_MUSHROOMS"
 }

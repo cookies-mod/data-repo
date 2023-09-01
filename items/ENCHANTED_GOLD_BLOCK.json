@@ -4,5 +4,11 @@
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 102000,
-  "id": "ENCHANTED_GOLD_BLOCK"
+  "id": "ENCHANTED_GOLD_BLOCK",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

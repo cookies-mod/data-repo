@@ -5,5 +5,53 @@
   "name": "Village Affinity Talisman",
   "category": "ACCESSORY",
   "npc_sell_price": 200,
-  "id": "VILLAGE_TALISMAN"
+  "id": "VILLAGE_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Increases your "
+        },
+        {
+          "color": "white",
+          "text": "\u2726 Speed "
+        },
+        {
+          "color": "gray",
+          "text": "by"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+10"
+        },
+        {
+          "color": "gray",
+          "text": " while held in the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Village"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

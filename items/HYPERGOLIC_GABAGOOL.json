@@ -5,5 +5,41 @@
   "name": "Hypergolic Gabagool",
   "tier": "LEGENDARY",
   "npc_sell_price": 1,
-  "id": "HYPERGOLIC_GABAGOOL"
+  "id": "HYPERGOLIC_GABAGOOL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Feed Wisp pets or craft into"
+    },
+    {
+      "color": "gray",
+      "text": "strong Inferno minion"
+    },
+    {
+      "color": "gray",
+      "text": "fuel."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "red",
+      "text": "Hypergolic-grade fuels"
+    },
+    {
+      "color": "red",
+      "text": "create extra unique items!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

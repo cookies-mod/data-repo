@@ -9,5 +9,35 @@
   "stats": {
     "WALK_SPEED": 5
   },
-  "id": "SPEED_ARTIFACT"
+  "id": "SPEED_ARTIFACT",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gives "
+        },
+        {
+          "color": "green",
+          "text": "+5 "
+        },
+        {
+          "color": "white",
+          "text": "\u2726 Speed"
+        },
+        {
+          "color": "gray",
+          "text": " when"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "held."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

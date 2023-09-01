@@ -3,6 +3,6 @@
   "name": "Organic Nether Wart",
   "npc_sell_price": 2,
   "glowing": true,
-  "tier": "UNCOMMON",
+  "tier": "UNOBTAINABLE",
   "id": "ORGANIC_NETHER_STALK"
 }

@@ -3,5 +3,14 @@
   "name": "Healing Tissue",
   "tier": "RARE",
   "dungeon_item": true,
-  "id": "HEALING_TISSUE"
+  "id": "HEALING_TISSUE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

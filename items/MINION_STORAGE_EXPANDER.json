@@ -5,5 +5,81 @@
   "name": "Minion Storage X-pender",
   "glowing": true,
   "tier": "SPECIAL",
-  "id": "MINION_STORAGE_EXPANDER"
+  "id": "MINION_STORAGE_EXPANDER",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Craft with minion "
+        },
+        {
+          "color": "blue",
+          "text": "Large"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Storage "
+        },
+        {
+          "color": "gray",
+          "text": "chests to upgrade"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "their size to "
+        },
+        {
+          "color": "green",
+          "text": "21 "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "green",
+          "text": "27"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "slots."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "1,500 Bits"
+    }
+  ]
 }

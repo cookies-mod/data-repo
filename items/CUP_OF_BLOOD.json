@@ -5,7 +5,16 @@
   "name": "Cup of Blood",
   "tier": "RARE",
   "npc_sell_price": 200,
-  "description": "%%gray%%%%italic%%Eww",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Eww"
+    },
+    {
+      "text": ""
+    }
+  ],
   "soulbound": "COOP",
   "id": "CUP_OF_BLOOD"
 }

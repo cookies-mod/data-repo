@@ -11,5 +11,10 @@
     "rift_mana_regen": 10
   },
   "glowing": true,
-  "id": "ORANGE_CHESTPLATE"
+  "id": "ORANGE_CHESTPLATE",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

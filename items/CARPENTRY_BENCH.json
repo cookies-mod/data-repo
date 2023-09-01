@@ -4,5 +4,33 @@
   "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMzlkNzc4ZjM5ODg2MTQ0NmY1NWJiYTk4ZmI3ZmM2NWJkNmJhMjM4ZjZjYTg1MDE1ZWUwZDEzMmE0NDkzMWZkIn19fQ\u003d\u003d",
   "name": "Carpentry Table",
   "furniture": "CARPENTRY_BENCH",
-  "id": "CARPENTRY_BENCH"
+  "id": "CARPENTRY_BENCH",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Used for crafting furniture for"
+    },
+    {
+      "color": "gray",
+      "text": "your world. View and craft all"
+    },
+    {
+      "color": "gray",
+      "text": "of your unlocked furniture"
+    },
+    {
+      "color": "gray",
+      "text": "through the Carpentry Table."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

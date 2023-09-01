@@ -35,5 +35,198 @@
       ]
     }
   ],
-  "id": "GEMSTONE_DRILL_4"
+  "id": "GEMSTONE_DRILL_4",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gives "
+        },
+        {
+          "color": "green",
+          "text": "+800"
+        },
+        {
+          "color": "gray",
+          "text": " "
+        },
+        {
+          "color": "light_purple",
+          "text": "Gemstone "
+        },
+        {
+          "color": "gold",
+          "text": "\u2e15 Mining Speed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gives "
+        },
+        {
+          "color": "green",
+          "text": "+120"
+        },
+        {
+          "color": "gray",
+          "text": " "
+        },
+        {
+          "color": "light_purple",
+          "text": "Gemstone "
+        },
+        {
+          "color": "gold",
+          "text": "\u2618 Mining Fortune"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Fuel Tank: "
+        },
+        {
+          "color": "red",
+          "text": "Not Installed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increases fuel capacity with"
+    },
+    {
+      "color": "gray",
+      "text": "part installed."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Drill Engine: "
+        },
+        {
+          "color": "red",
+          "text": "Not Installed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Increases "
+        },
+        {
+          "color": "gold",
+          "text": "\u2e15 Mining Speed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "with part installed."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Upgrade Module: "
+        },
+        {
+          "color": "red",
+          "text": "Not Installed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Applies a passive upgrade with"
+    },
+    {
+      "color": "gray",
+      "text": "part installed."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Apply Drill Parts to this Drill"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by talking to a "
+        },
+        {
+          "color": "dark_green",
+          "text": "Drill"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_green",
+          "text": "Mechanic"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Fuel: "
+        },
+        {
+          "color": "dark_green",
+          "text": "3,000"
+        },
+        {
+          "color": "dark_gray",
+          "text": "/3k"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

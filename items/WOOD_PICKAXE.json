@@ -1,5 +1,5 @@
 {
-  "material": "WOOD_PICKAXE",
+  "material": "WOODen_PICKAXE",
   "name": "Wooden Pickaxe",
   "category": "PICKAXE",
   "stats": {
@@ -8,5 +8,11 @@
     "MINING_SPEED": 70
   },
   "npc_sell_price": 1,
-  "id": "WOOD_PICKAXE"
+  "id": "WOOD_PICKAXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

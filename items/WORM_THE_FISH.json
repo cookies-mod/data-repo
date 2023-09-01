@@ -5,5 +5,14 @@
   "name": "Worm the Fish",
   "tier": "SPECIAL",
   "museum": true,
-  "id": "WORM_THE_FISH"
+  "id": "WORM_THE_FISH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "I come from a land down under."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

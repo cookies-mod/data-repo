@@ -6,5 +6,31 @@
   "category": "ACCESSORY",
   "tier": "COMMON",
   "museum": true,
-  "id": "BINGO_TALISMAN"
+  "id": "BINGO_TALISMAN",
+  "description": [
+    {
+      "color": "gray",
+      "text": "B.I.N.G.O."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "\u24b7 Bingo Rank I"
+        },
+        {
+          "color": "red",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

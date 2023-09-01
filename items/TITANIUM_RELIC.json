@@ -15,5 +15,10 @@
       "tier": 5
     }
   ],
-  "id": "TITANIUM_RELIC"
+  "id": "TITANIUM_RELIC",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

@@ -6,5 +6,50 @@
   "category": "BAIT",
   "tier": "UNCOMMON",
   "npc_sell_price": 3,
-  "id": "ICE_BAIT"
+  "id": "ICE_BAIT",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Fishing Bait"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Consumes on Cast"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increases your chance to catch"
+    },
+    {
+      "color": "gray",
+      "text": "Winter Sea Creatures during the"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Season of Jerry "
+        },
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "20%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

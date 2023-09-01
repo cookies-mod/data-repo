@@ -55,5 +55,125 @@
     }
   ],
   "dungeon_item": true,
-  "id": "SPIRIT_SWORD"
+  "id": "SPIRIT_SWORD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deals "
+        },
+        {
+          "color": "green",
+          "text": "+2% "
+        },
+        {
+          "color": "gray",
+          "text": "damage to "
+        },
+        {
+          "color": "green",
+          "text": "Undead"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "monsters "
+        },
+        {
+          "color": "gray",
+          "text": "for every "
+        },
+        {
+          "color": "green",
+          "text": "1% "
+        },
+        {
+          "color": "gray",
+          "text": "of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "your missing health."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Spirit Item: "
+        },
+        {
+          "color": "gray",
+          "text": "When turned"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "into a ghost, this item becomes"
+    },
+    {
+      "color": "gray",
+      "text": "a Ghost Ability."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Spirit Ability: Spirit Bomb"
+    },
+    {
+      "color": "gray",
+      "text": "Shoots a spirit that deals"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "8000 "
+        },
+        {
+          "color": "gray",
+          "text": "damage on impact."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "10s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

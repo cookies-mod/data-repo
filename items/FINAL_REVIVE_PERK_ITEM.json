@@ -5,5 +5,8 @@
   "name": "Revive Final Kill",
   "glowing": true,
   "tier": "SPECIAL",
-  "id": "FINAL_REVIVE_PERK_ITEM"
+  "id": "FINAL_REVIVE_PERK_ITEM",
+  "description": [
+    {"text":"Unkown item origin?"}
+  ]
 }

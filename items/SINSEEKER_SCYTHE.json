@@ -1,6 +1,6 @@
 {
-  "material": "GOLD_HOE",
-  "name": "§4Sin§5seeker Scythe",
+  "material": "GOLDen_HOE",
+  "name": "\u00a74Sin\u00a75seeker Scythe",
   "category": "SWORD",
   "tier": "EPIC",
   "stats": {
@@ -62,5 +62,112 @@
       "level": 23
     }
   ],
-  "id": "SINSEEKER_SCYTHE"
+  "id": "SINSEEKER_SCYTHE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Sinrecall Transmission "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Zap a line "
+        },
+        {
+          "color": "dark_purple",
+          "text": "4 "
+        },
+        {
+          "color": "gray",
+          "text": "blocks forward."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Recast within 1s ("
+        },
+        {
+          "color": "aqua",
+          "text": "1.5x mana"
+        },
+        {
+          "color": "gray",
+          "text": ")"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "or warp back to starting point."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Mobs crossing the line(s)"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "receive a "
+        },
+        {
+          "color": "red",
+          "text": "melee hit "
+        },
+        {
+          "color": "gray",
+          "text": "from"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "what you\u0027re holding."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "260"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,8 +1,17 @@
 {
-  "material": "MONSTER_EGG",
+  "material": "spider_spawn_egg",
   "durability": 52,
   "name": "Amalgamated Crimsonite (Old)",
   "tier": "RARE",
   "glowing": true,
-  "id": "AMALGAMATED_CRIMSONITE"
+  "id": "AMALGAMATED_CRIMSONITE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

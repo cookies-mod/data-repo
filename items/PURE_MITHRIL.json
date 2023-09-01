@@ -6,5 +6,103 @@
   "category": "REFORGE_STONE",
   "tier": "RARE",
   "npc_sell_price": 29000,
-  "id": "PURE_MITHRIL"
+  "id": "PURE_MITHRIL",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Mithraic "
+        },
+        {
+          "color": "gray",
+          "text": "reforge"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "when combined with a pickaxe"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "It takes a few hours of"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "forging to purify Mithril - the"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "impurities extract themselves"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "while the Mithril coalesces."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XVIII"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

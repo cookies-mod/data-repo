@@ -5,6 +5,15 @@
   "name": "Treasurite",
   "tier": "EPIC",
   "npc_sell_price": 5000,
-  "description": "%%gray%%%%italic%%Origin unknown.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Origin unknown."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "TREASURITE"
 }

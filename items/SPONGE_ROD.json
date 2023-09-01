@@ -16,5 +16,31 @@
     }
   ],
   "museum": true,
-  "id": "SPONGE_ROD"
+  "id": "SPONGE_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This fishing rod grants a"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "20%"
+        },
+        {
+          "color": "gray",
+          "text": " chance to catch Sponge."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

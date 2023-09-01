@@ -4,5 +4,82 @@
   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NTY1NzA0NywKICAicHJvZmlsZUlkIiA6ICIxYWZhZjc2NWI1ZGY0NjA3YmY3ZjY1ZGYzYWIwODhhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3lfQmxvb2RBbmdlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mODlmNzVlMGIwMDM3OGE1ODNkYmJhNzI4ZGNkYzZlOTM0NmYzMWRkNjAxZDQ0OGYzZDYwNjE1Yzc0NjVjYzNlIgogICAgfQogIH0KfQ",
   "name": "Flawless Jade Gemstone",
   "tier": "EPIC",
-  "id": "FLAWLESS_JADE_GEM"
+  "id": "FLAWLESS_JADE_GEM",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A near perfect version of"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Jade"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Some say that when "
+        },
+        {
+          "color": "yellow",
+          "text": "harnessed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "properly"
+        },
+        {
+          "color": "gray",
+          "text": ", it can give its"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "owner extra "
+        },
+        {
+          "color": "gold",
+          "text": "\u2618 Mining"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Fortune"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

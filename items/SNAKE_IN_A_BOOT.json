@@ -9,6 +9,17 @@
     "RIFT_TIME": 60,
     "rift_walk_speed": 7
   },
-  "description": "You\u0027ve got a friend in me.",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "You\u0027ve got a friend in me."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "SNAKE_IN_A_BOOT"
 }

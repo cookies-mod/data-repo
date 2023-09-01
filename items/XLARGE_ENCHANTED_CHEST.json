@@ -3,5 +3,46 @@
   "name": "X-Large Storage",
   "tier": "EPIC",
   "npc_sell_price": 40000,
-  "id": "XLARGE_ENCHANTED_CHEST"
+  "id": "XLARGE_ENCHANTED_CHEST",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Place this chest next to a"
+    },
+    {
+      "color": "gray",
+      "text": "minion and the minion will store"
+    },
+    {
+      "color": "gray",
+      "text": "items inside once its storage is"
+    },
+    {
+      "color": "gray",
+      "text": "full!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Storage space: "
+        },
+        {
+          "color": "aqua",
+          "text": "21 "
+        },
+        {
+          "color": "gray",
+          "text": "items"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

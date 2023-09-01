@@ -10,5 +10,22 @@
   },
   "npc_sell_price": 16,
   "museum": true,
-  "id": "COW_HEAD"
+  "id": "COW_HEAD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Grants immunity to de-buffs"
+    },
+    {
+      "color": "gray",
+      "text": "while equipped."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -4,5 +4,14 @@
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODVjZTQwZWVmODY5YmUyY2Y4ODg4OWRhOTI2OGNmZGU2ZDkzMTliMzc3ODU4OWFkNDdlOWQzNWFhYThmMWQifX19",
   "name": "Bush",
   "npc_sell_price": 10,
-  "id": "BUILDER_BUSH"
+  "id": "BUILDER_BUSH",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Decoration item"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

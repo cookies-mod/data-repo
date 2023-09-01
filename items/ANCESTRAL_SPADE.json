@@ -1,7 +1,133 @@
 {
-  "material": "WOOD_SPADE",
+  "material": "WOODen_shovel",
   "name": "Ancestral Spade",
   "glowing": true,
   "tier": "RARE",
-  "id": "ANCESTRAL_SPADE"
+  "id": "ANCESTRAL_SPADE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Hold in your hand to reveal and"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "dig out "
+        },
+        {
+          "color": "yellow",
+          "text": "Griffin Burrows "
+        },
+        {
+          "color": "gray",
+          "text": "in"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "the hub, which hold both"
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "treasures "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "red",
+          "text": "dangers"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Echo "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Show the way to the next or"
+    },
+    {
+      "color": "gray",
+      "text": "nearby Griffin burrow."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "98"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "3s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Only works while Diana\u0027s"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_green",
+          "text": "Mythological Ritual "
+        },
+        {
+          "color": "gray",
+          "text": "is"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "active."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

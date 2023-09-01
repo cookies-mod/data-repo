@@ -5,7 +5,19 @@
   "name": "Bag of Cash",
   "tier": "RARE",
   "npc_sell_price": 1000000,
-  "description": "%%gold%%Sold to shops for 1,000,000 coins!",
+  "description": [
+    {
+      "color": "gold",
+      "text": "Sold to shops for 1,000,000"
+    },
+    {
+      "color": "gold",
+      "text": "coins!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "museum": true,
   "id": "BAG_OF_CASH"
 }

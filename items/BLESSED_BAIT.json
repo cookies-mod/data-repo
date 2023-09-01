@@ -6,5 +6,42 @@
   "category": "BAIT",
   "tier": "UNCOMMON",
   "npc_sell_price": 42,
-  "id": "BLESSED_BAIT"
+  "id": "BLESSED_BAIT",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Fishing Bait"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Consumes on Cast"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increases your chance to get"
+    },
+    {
+      "color": "gray",
+      "text": "double drops from fishing by"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "15%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

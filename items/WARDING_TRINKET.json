@@ -10,5 +10,10 @@
     "RIFT_TIME": 40,
     "rift_intelligence": 5
   },
-  "id": "WARDING_TRINKET"
+  "id": "WARDING_TRINKET",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

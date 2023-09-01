@@ -3,7 +3,19 @@
   "durability": 3,
   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYzNTA4OTU2NDMwNiwKICAicHJvZmlsZUlkIiA6ICJkZTE0MGFmM2NmMjM0ZmM0OTJiZTE3M2Y2NjA3MzViYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTUlRlYW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjk3NzkwNmFiZGIwMGI0OTVjYzVhNjg1MWU5MmNlYjY1ZTFiZjg5ZmFmMWJlOTE0YjVkMzZjODQ4NzU3NmE3MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
   "name": "Poisoned Candy",
-  "description": "%%gray%%A delicious, vibrant, and round candy with an extra kick.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A delicious, vibrant, and"
+    },
+    {
+      "color": "gray",
+      "text": "round candy with an extra kick."
+    },
+    {
+      "text": ""
+    }
+  ],
   "tier": "UNCOMMON",
   "npc_sell_price": 1,
   "hide_from_viewrecipe_command": true,

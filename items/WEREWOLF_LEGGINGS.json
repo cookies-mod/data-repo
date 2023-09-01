@@ -58,5 +58,86 @@
       "level": 20
     }
   ],
-  "id": "WEREWOLF_LEGGINGS"
+  "id": "WEREWOLF_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Regenerative Howl"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Upon activating "
+        },
+        {
+          "color": "red",
+          "text": "\u2afd Ferocity"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "heal players within "
+        },
+        {
+          "color": "blue",
+          "text": "25"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "blocks for "
+        },
+        {
+          "color": "blue",
+          "text": "1% "
+        },
+        {
+          "color": "gray",
+          "text": "of your "
+        },
+        {
+          "color": "green",
+          "text": "\u2748"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Defense "
+        },
+        {
+          "color": "gray",
+          "text": "and gain "
+        },
+        {
+          "color": "green",
+          "text": "50\u2748 Defense"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "for 5s (up to 10 stacks)."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

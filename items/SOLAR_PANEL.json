@@ -4,5 +4,35 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 10000,
-  "id": "SOLAR_PANEL"
+  "id": "SOLAR_PANEL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Increases the speed of your"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "minion by "
+        },
+        {
+          "color": "green",
+          "text": "25%"
+        },
+        {
+          "color": "gray",
+          "text": " during the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "day. Unlimited Duration!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

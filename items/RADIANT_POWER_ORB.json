@@ -13,5 +13,96 @@
       "level": 2
     }
   ],
-  "id": "RADIANT_POWER_ORB"
+  "id": "RADIANT_POWER_ORB",
+  "description": [
+    {
+      "color": "gold",
+      "text": "Item Ability: Deploy"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Place an orb for "
+        },
+        {
+          "color": "green",
+          "text": "30s "
+        },
+        {
+          "color": "gray",
+          "text": "buffing"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "up to "
+        },
+        {
+          "color": "aqua",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "players within "
+        },
+        {
+          "color": "green",
+          "text": "18"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "blocks."
+    },
+    {
+      "color": "dark_gray",
+      "text": "Costs 50% of max mana."
+    },
+    {
+      "color": "dark_gray",
+      "text": "Only one deployable buff applies."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Orb Buff: Radiant"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Heals "
+        },
+        {
+          "color": "red",
+          "text": "1% "
+        },
+        {
+          "color": "gray",
+          "text": "of max "
+        },
+        {
+          "color": "red",
+          "text": "\u2764"
+        },
+        {
+          "color": "gray",
+          "text": " per second."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

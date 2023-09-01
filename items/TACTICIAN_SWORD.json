@@ -1,5 +1,5 @@
 {
-  "material": "WOOD_SWORD",
+  "material": "WOODEN_SWORD",
   "name": "Tactician\u0027s Sword",
   "category": "SWORD",
   "tier": "RARE",
@@ -7,5 +7,68 @@
     "DAMAGE": 50,
     "CRITICAL_CHANCE": 20
   },
-  "id": "TACTICIAN_SWORD"
+  "id": "TACTICIAN_SWORD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gains "
+        },
+        {
+          "color": "red",
+          "text": "+15 Damage "
+        },
+        {
+          "color": "gray",
+          "text": "for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "each Combat collection of"
+    },
+    {
+      "color": "gray",
+      "text": "Tier VII and over of its"
+    },
+    {
+      "color": "gray",
+      "text": "wearer."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Your Collections: "
+        },
+        {
+          "obfuscated": true,
+          "color": "yellow",
+          "text": "0"
+        },
+        {
+          "color": "gray",
+          "text": "/"
+        },
+        {
+          "color": "yellow",
+          "text": "11"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

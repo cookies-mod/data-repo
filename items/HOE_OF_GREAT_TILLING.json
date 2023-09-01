@@ -10,5 +10,28 @@
       "level": 2
     }
   ],
-  "id": "HOE_OF_GREAT_TILLING"
+  "id": "HOE_OF_GREAT_TILLING",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Tills a "
+        },
+        {
+          "color": "blue",
+          "text": "3x3 "
+        },
+        {
+          "color": "gray",
+          "text": "area of farmland at a time."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -13,6 +13,22 @@
       10
     ]
   },
-  "description": "%%gray%%A ceremonial mask worn by the members of the Kalhuiki Tribe.",
-  "id": "KALHUIKI_MASK"
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "A ceremonial mask worn by the"
+    },
+    {
+      "color": "gray",
+      "text": "members of the Kalhuiki Tribe."
+    },
+    {
+      "text": ""
+    }
+  ],
+  "id": "KALHUIKI_MASK",
+  "can_be_reforged": true
 }

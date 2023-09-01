@@ -7,5 +7,43 @@
     "DAMAGE": 600
   },
   "npc_sell_price": 8000,
-  "id": "STARRED_SPIDER_QUEENS_STINGER"
+  "id": "STARRED_SPIDER_QUEENS_STINGER",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Arrows shot using this bow have"
+    },
+    {
+      "color": "gray",
+      "text": "an aura around them that deals"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "3,153\u2741 Damage "
+        },
+        {
+          "color": "gray",
+          "text": "to nearby"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "enemies. Arrows travel through"
+    },
+    {
+      "color": "gray",
+      "text": "enemies."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

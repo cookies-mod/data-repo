@@ -1,5 +1,5 @@
 {
-  "material": "RAW_FISH",
+  "material": "pufferfish",
   "durability": 3,
   "name": "Voodoo Doll",
   "glowing": true,
@@ -20,5 +20,107 @@
     "mana_cost": 200,
     "cooldown_seconds": 5
   },
-  "id": "VOODOO_DOLL"
+  "id": "VOODOO_DOLL",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Acupuncture "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Shoot arrows from every"
+    },
+    {
+      "color": "gray",
+      "text": "direction around the targeted"
+    },
+    {
+      "color": "gray",
+      "text": "monster."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Monsters hit by at least one"
+    },
+    {
+      "color": "gray",
+      "text": "arrow are slowed and receive"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "70,058.8 "
+        },
+        {
+          "color": "gray",
+          "text": "damage/s for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "10s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "200"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "5s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Who do you voodoo?"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

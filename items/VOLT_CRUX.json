@@ -5,7 +5,22 @@
   "name": "Volt Crux",
   "tier": "UNCOMMON",
   "origin": "RIFT",
-  "description": "Watt is this?",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Watt is this?"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "motes_sell_price": 100,
   "id": "VOLT_CRUX"
 }

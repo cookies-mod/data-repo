@@ -3,5 +3,71 @@
   "name": "Tuning Fork",
   "tier": "RARE",
   "npc_sell_price": 100,
-  "id": "TUNING_FORK"
+  "id": "TUNING_FORK",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Left-Click: "
+        },
+        {
+          "color": "yellow",
+          "text": "Pick tune!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Right-Click note block: "
+        },
+        {
+          "color": "aqua",
+          "text": "Tune it!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Tuning: "
+        },
+        {
+          "color": "dark_red",
+          "text": "F# "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(Low)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Earned from perfecting"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Pachelbel on the personal"
+    },
+    {
+      "color": "dark_gray",
+      "text": "harp."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

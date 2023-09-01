@@ -16,5 +16,81 @@
       "level": 20
     }
   ],
-  "id": "THE_SHREDDER"
+  "id": "THE_SHREDDER",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gives "
+        },
+        {
+          "color": "blue",
+          "text": "strength"
+        },
+        {
+          "color": "gray",
+          "text": " every 50"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "bait used + "
+        },
+        {
+          "color": "blue",
+          "text": "damage"
+        },
+        {
+          "color": "gray",
+          "text": " per 10"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "fish caught."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Bonus Strength (15 cap): "
+        },
+        {
+          "color": "gray",
+          "text": "0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Bonus Damage (115 cap): "
+        },
+        {
+          "color": "gray",
+          "text": "0"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -4,5 +4,58 @@
   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODQ5OTQyMDgwMiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWI4YjUxZWFlZmUwZTNhMTBhZDdmYTE2Mjc4MDFkMmNlNDQxMmI0ZTQzMjY4NTkwNjE5MmY4MzI4MzcwODIzMyIKICAgIH0KICB9Cn0\u003d",
   "name": "Blood God Crest",
   "category": "ACCESSORY",
-  "id": "BLOOD_GOD_CREST"
+  "id": "BLOOD_GOD_CREST",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Tracks a counter for each mob"
+    },
+    {
+      "color": "gray",
+      "text": "killed while worn."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "red",
+          "text": "+1\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "for each"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "digit on the counter."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Counter: "
+        },
+        {
+          "color": "red",
+          "text": "None yet!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

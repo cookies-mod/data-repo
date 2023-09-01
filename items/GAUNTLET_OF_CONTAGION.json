@@ -207,5 +207,103 @@
       }
     ]
   ],
-  "id": "GAUNTLET_OF_CONTAGION"
+  "id": "GAUNTLET_OF_CONTAGION",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Contaminate"
+    },
+    {
+      "color": "gray",
+      "text": "Killing an enemy causes an"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "explosion dealing "
+        },
+        {
+          "color": "green",
+          "text": "10% "
+        },
+        {
+          "color": "gray",
+          "text": "of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "their total "
+        },
+        {
+          "color": "red",
+          "text": "\u2764 Health "
+        },
+        {
+          "color": "gray",
+          "text": "as"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "damage to all enemies within "
+        },
+        {
+          "color": "green",
+          "text": "2"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "blocks"
+        },
+        {
+          "color": "gray",
+          "text": ". Enemies in the blast"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "radius will also be"
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "contaminated "
+        },
+        {
+          "color": "gray",
+          "text": "causing them to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "explode on death."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

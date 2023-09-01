@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_SWORD",
+  "material": "GOLDEN_SWORD",
   "name": "Pooch Sword",
   "category": "SWORD",
   "tier": "LEGENDARY",
@@ -31,5 +31,72 @@
       ]
     }
   ],
-  "id": "POOCH_SWORD"
+  "id": "POOCH_SWORD",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "red",
+          "text": "+1 Damage "
+        },
+        {
+          "color": "gray",
+          "text": "per "
+        },
+        {
+          "color": "red",
+          "text": "50 max \u2764"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Receive "
+        },
+        {
+          "color": "green",
+          "text": "-20% "
+        },
+        {
+          "color": "gray",
+          "text": "damage from wolves."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "red",
+          "text": "+150\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "against wolves."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

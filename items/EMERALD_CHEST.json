@@ -5,5 +5,29 @@
   "name": "Emerald Chest+",
   "furniture": "EMERALD_CHEST",
   "tier": "RARE",
-  "id": "EMERALD_CHEST"
+  "id": "EMERALD_CHEST",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Storage"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "You can store three pages of"
+    },
+    {
+      "color": "gray",
+      "text": "items in this chest"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -97,5 +97,109 @@
       ]
     }
   ],
-  "id": "ICE_SPRAY_WAND"
+  "id": "ICE_SPRAY_WAND",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Ice Spray "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Produces a cone of ice in front"
+    },
+    {
+      "color": "gray",
+      "text": "of the caster that deals"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "43,367 "
+        },
+        {
+          "color": "gray",
+          "text": "damage to mobs and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "freezes them in place for "
+        },
+        {
+          "color": "yellow",
+          "text": "5"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "seconds! Frozen mobs take"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "10%"
+        },
+        {
+          "color": "gray",
+          "text": " increased damage!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "50"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "5s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 35000 / 35000"
+    }
+  ]
 }

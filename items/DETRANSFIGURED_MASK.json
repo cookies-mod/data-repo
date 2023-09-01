@@ -14,5 +14,38 @@
     "rift_time_regain_on_kill": 2
   },
   "unstackable": true,
-  "id": "DETRANSFIGURED_MASK"
+  "id": "DETRANSFIGURED_MASK",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Faces All The Way Down"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Regain "
+        },
+        {
+          "color": "green",
+          "text": "+2\u0444 "
+        },
+        {
+          "color": "gray",
+          "text": "when killing a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "monster."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

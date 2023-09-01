@@ -6,7 +6,46 @@
   "tier": "RARE",
   "category": "ACCESSORY",
   "npc_sell_price": 10000,
-  "description": "The human body produces 2-3 million red blood cells per SECOND.",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "The human body produces 2-3"
+    },
+    {
+      "color": "gray",
+      "text": "million red blood cells per"
+    },
+    {
+      "color": "gray",
+      "text": "SECOND."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ],
   "rift_transferrable": true,
   "origin": "RIFT",
   "stats": {

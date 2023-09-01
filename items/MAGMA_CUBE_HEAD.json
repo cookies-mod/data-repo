@@ -10,5 +10,11 @@
   },
   "npc_sell_price": 32,
   "museum": true,
-  "id": "MAGMA_CUBE_HEAD"
+  "id": "MAGMA_CUBE_HEAD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

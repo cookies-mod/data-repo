@@ -15,5 +15,39 @@
       "level": 5
     }
   ],
-  "id": "CACTUS_BOOTS"
+  "id": "CACTUS_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Deflect"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Rebound "
+        },
+        {
+          "color": "green",
+          "text": "33.0% "
+        },
+        {
+          "color": "gray",
+          "text": "of the damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "you take back at your enemy."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

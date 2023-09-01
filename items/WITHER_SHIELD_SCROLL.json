@@ -1,9 +1,184 @@
 {
-  "material": "BOOK_AND_QUILL",
+  "material": "writable_book",
   "name": "Wither Shield",
   "glowing": true,
   "tier": "EPIC",
   "npc_sell_price": 1,
   "dungeon_item": true,
-  "id": "WITHER_SHIELD_SCROLL"
+  "id": "WITHER_SHIELD_SCROLL",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "gold",
+          "text": "Wither Shield"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability "
+        },
+        {
+          "color": "gray",
+          "text": "when combined with a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Necron\u0027s Blade (Unrefined)"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Wither Shield "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Reduces damage taken by "
+        },
+        {
+          "color": "red",
+          "text": "10%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "yellow",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds. Also grants"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "an absorption shield that gives"
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "150% "
+        },
+        {
+          "color": "gray",
+          "text": "of your Critical Damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "as health, after "
+        },
+        {
+          "color": "yellow",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "50% "
+        },
+        {
+          "color": "gray",
+          "text": "of the shield is"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "converted into healing."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "150"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "10s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

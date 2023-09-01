@@ -60,5 +60,66 @@
       "slot_type": "SAPPHIRE"
     }
   ],
-  "id": "BONZO_STAFF"
+  "id": "BONZO_STAFF",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Showtime "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Shoots balloons that create a"
+    },
+    {
+      "color": "gray",
+      "text": "large explosion on impact,"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "dealing up to "
+        },
+        {
+          "color": "red",
+          "text": "1,068 "
+        },
+        {
+          "color": "gray",
+          "text": "damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "100"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

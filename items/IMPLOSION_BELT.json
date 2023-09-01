@@ -206,5 +206,39 @@
       }
     ]
   ],
-  "id": "IMPLOSION_BELT"
+  "id": "IMPLOSION_BELT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Consolidated"
+    },
+    {
+      "color": "gray",
+      "text": "Increases all explosion damage"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "dealt by "
+        },
+        {
+          "color": "green",
+          "text": "25%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -7,5 +7,10 @@
   "stats": {
     "RIFT_TIME": 15
   },
-  "id": "WYLD_CHESTPLATE"
+  "id": "WYLD_CHESTPLATE",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

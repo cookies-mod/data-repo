@@ -1,8 +1,16 @@
 {
-  "material": "NETHER_STALK",
+  "material": "NETHER_wart",
   "name": "Riftwart Roots",
   "tier": "UNCOMMON",
   "origin": "RIFT",
-  "description": "Do not eat.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Do not eat."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "RIFTWART_ROOTS"
 }

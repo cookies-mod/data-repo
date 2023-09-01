@@ -8,5 +8,49 @@
     "WALK_SPEED": 1
   },
   "museum": true,
-  "id": "POTATO_TALISMAN"
+  "id": "POTATO_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Your potato minions farm "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "faster while wearing on your"
+    },
+    {
+      "color": "gray",
+      "text": "island."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Forged by the Potato King"
+    },
+    {
+      "color": "dark_gray",
+      "text": "after winning the Great"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Potato War."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

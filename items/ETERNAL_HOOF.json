@@ -1,7 +1,33 @@
 {
-  "material": "GOLD_BARDING",
+  "material": "golden_horse_armor",
   "name": "Eternal Hoof",
   "category": "ACCESSORY",
   "tier": "RARE",
-  "id": "ETERNAL_HOOF"
+  "id": "ETERNAL_HOOF",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "green",
+          "text": "2% "
+        },
+        {
+          "color": "gray",
+          "text": "chance to find Trick"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "or Treat chests."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

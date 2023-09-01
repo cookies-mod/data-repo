@@ -5,5 +5,112 @@
   "name": "Trapper Crest",
   "category": "ACCESSORY",
   "tier": "COMMON",
-  "id": "TRAPPER_CREST"
+  "id": "TRAPPER_CREST",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Upgrades to \u00a7A\u00a7LUNCOMMON "
+        },
+        {
+          "color": "gray",
+          "text": "if"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "you collect "
+        },
+        {
+          "color": "dark_purple",
+          "text": "500 pelts "
+        },
+        {
+          "color": "gray",
+          "text": "while"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "Finnegan "
+        },
+        {
+          "color": "gray",
+          "text": "is in office."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Collected: "
+        },
+        {
+          "color": "dark_purple",
+          "text": "0 pelts"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increases the odds of finding"
+    },
+    {
+      "extra": [
+        {
+          "bold": true,
+          "color": "dark_purple",
+          "text": "ENDANGERED "
+        },
+        {
+          "color": "gray",
+          "text": "or "
+        },
+        {
+          "bold": true,
+          "color": "gold",
+          "text": "ELUSIVE"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "mobs by "
+        },
+        {
+          "color": "green",
+          "text": "10%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

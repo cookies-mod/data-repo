@@ -3,6 +3,6 @@
   "name": "Organic Wool",
   "npc_sell_price": 3,
   "glowing": true,
-  "tier": "UNCOMMON",
+  "tier": "UNOBTAINABLE",
   "id": "ORGANIC_WOOL"
 }

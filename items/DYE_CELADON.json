@@ -1,8 +1,41 @@
 {
-  "material": "INK_SACK",
+  "material": "lime_dye",
   "durability": 10,
   "name": "Celadon Dye",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "DYE_CELADON"
+  "id": "DYE_CELADON",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Changes the color of a leather"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "armor piece to "
+        },
+        {
+          "color": "#ACE1AF",
+          "text": "#ACE1AF"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

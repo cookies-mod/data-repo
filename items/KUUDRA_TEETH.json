@@ -5,7 +5,16 @@
   "name": "Kuudra Teeth",
   "tier": "EPIC",
   "npc_sell_price": 500,
-  "description": "%%gray%%%%italic%%Also known as mandibles.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Also known as mandibles."
+    },
+    {
+      "text": ""
+    }
+  ],
   "soulbound": "COOP",
   "id": "KUUDRA_TEETH"
 }

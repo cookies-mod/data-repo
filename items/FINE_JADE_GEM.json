@@ -5,5 +5,86 @@
   "name": "Fine Jade Gemstone",
   "tier": "RARE",
   "npc_sell_price": 19200,
-  "id": "FINE_JADE_GEM"
+  "id": "FINE_JADE_GEM",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "A type of "
+        },
+        {
+          "color": "green",
+          "text": "Jade "
+        },
+        {
+          "color": "gray",
+          "text": "that has"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "clearly been treated with care."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Some say that when "
+        },
+        {
+          "color": "yellow",
+          "text": "harnessed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "properly"
+        },
+        {
+          "color": "gray",
+          "text": ", it can give its"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "owner extra "
+        },
+        {
+          "color": "gold",
+          "text": "\u2618 Mining"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Fortune"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "material": "CLAY_BRICK",
+  "material": "Brick",
   "name": "Brick",
   "npc_sell_price": 2,
   "id": "CLAY_BRICK"

@@ -9,5 +9,54 @@
   "stats": {
     "HEALTH": 2
   },
-  "id": "JAKE_PLUSHIE"
+  "id": "JAKE_PLUSHIE",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "A mystery was solved!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Increases the number of "
+        },
+        {
+          "color": "dark_purple",
+          "text": "pelts"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "obtained when hunting animals"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "dark_purple",
+          "text": "+1"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

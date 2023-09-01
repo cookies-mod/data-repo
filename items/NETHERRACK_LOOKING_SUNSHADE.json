@@ -7,5 +7,18 @@
   "tier": "COMMON",
   "soulbound": "COOP",
   "npc_sell_price": 10000,
-  "id": "NETHERRACK_LOOKING_SUNSHADE"
+  "id": "NETHERRACK_LOOKING_SUNSHADE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Makes you invisible to Dive"
+    },
+    {
+      "color": "gray",
+      "text": "Ghasts."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -16,5 +16,211 @@
       "level": 21
     }
   ],
-  "id": "RANCHERS_BOOTS"
+  "id": "RANCHERS_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "These boots gain "
+        },
+        {
+          "color": "green",
+          "text": "+2\u2748 Defense"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "white",
+          "text": "+4\u2726 Speed"
+        },
+        {
+          "color": "gray",
+          "text": " for every"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Farming Skill level you have."
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "While on the "
+        },
+        {
+          "color": "aqua",
+          "text": "Garden"
+        },
+        {
+          "color": "gray",
+          "text": ", these"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "boots also gain "
+        },
+        {
+          "color": "gold",
+          "text": "+1\u2618 Farming"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Fortune "
+        },
+        {
+          "color": "gray",
+          "text": "for every Farming"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Skill level."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Farmer\u0027s Speed "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "LEFT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Set a maximum amount of "
+        },
+        {
+          "color": "white",
+          "text": "\u2726"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "white",
+          "text": "Speed"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Farmer\u0027s Grace"
+    },
+    {
+      "color": "gray",
+      "text": "Grants immunity to trampling"
+    },
+    {
+      "color": "gray",
+      "text": "crops."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bonus Defense: "
+        },
+        {
+          "color": "green",
+          "text": "120"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bonus Speed: "
+        },
+        {
+          "color": "green",
+          "text": "240"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bonus Farming Fortune: "
+        },
+        {
+          "color": "green",
+          "text": "60"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Current Speed Cap: "
+        },
+        {
+          "color": "green",
+          "text": "400"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

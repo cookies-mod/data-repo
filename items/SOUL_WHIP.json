@@ -60,5 +60,40 @@
       "level": 26
     }
   ],
-  "id": "SOUL_WHIP"
+  "id": "SOUL_WHIP",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Flay "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Flay your whip in an arc,"
+    },
+    {
+      "color": "gray",
+      "text": "dealing your melee damage to all"
+    },
+    {
+      "color": "gray",
+      "text": "enemies in its path"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

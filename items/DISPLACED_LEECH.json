@@ -5,5 +5,205 @@
   "name": "Displaced Leech",
   "tier": "UNCOMMON",
   "category": "REFORGE_STONE",
-  "id": "DISPLACED_LEECH"
+  "id": "DISPLACED_LEECH",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Power Stone"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Combine "
+        },
+        {
+          "color": "green",
+          "text": "9x "
+        },
+        {
+          "color": "gray",
+          "text": "of this stone at the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Thaumaturgist "
+        },
+        {
+          "color": "gray",
+          "text": "to permanently"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "unlock the "
+        },
+        {
+          "color": "green",
+          "text": "Sanguisuge "
+        },
+        {
+          "color": "gray",
+          "text": "power."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "At "
+        },
+        {
+          "obfuscated": true,
+          "color": "gold",
+          "text": "1,250"
+        },
+        {
+          "color": "gold",
+          "text": " Magical Power"
+        },
+        {
+          "color": "gray",
+          "text": ":"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "191\u2764"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "red",
+          "text": "Health"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "455\u2741"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "red",
+          "text": "Strength"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "182\u2620"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "blue",
+          "text": "Crit Damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_red",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "45\u2668"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "dark_red",
+          "text": "Vitality"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Unique Power Bonus:"
+    },
+    {
+      "color": "aqua",
+      "text": "+100\u270e Intelligence"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Combat Skill Level X"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

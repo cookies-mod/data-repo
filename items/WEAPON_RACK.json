@@ -5,5 +5,37 @@
   "name": "Weapon Rack",
   "furniture": "WEAPON_RACK",
   "tier": "UNCOMMON",
-  "id": "WEAPON_RACK"
+  "id": "WEAPON_RACK",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Showcase your items"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Storage"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This weapon rack lets you show"
+    },
+    {
+      "color": "gray",
+      "text": "off 4 weapons (swords, pickaxes,"
+    },
+    {
+      "color": "gray",
+      "text": "or axes)"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

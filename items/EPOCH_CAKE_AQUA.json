@@ -6,5 +6,46 @@
   "furniture": "EPOCH_CAKE_AQUA",
   "tier": "UNCOMMON",
   "museum": true,
-  "id": "EPOCH_CAKE_AQUA"
+  "id": "EPOCH_CAKE_AQUA",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Invite your friends to share a"
+    },
+    {
+      "color": "gray",
+      "text": "slice of cake! Eating this cake"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "grants "
+        },
+        {
+          "color": "aqua",
+          "text": "+5\u270e Intelligence "
+        },
+        {
+          "color": "gray",
+          "text": "for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "48 hours."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

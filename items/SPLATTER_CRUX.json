@@ -5,7 +5,34 @@
   "name": "Splatter Crux",
   "tier": "UNCOMMON",
   "origin": "RIFT",
-  "description": "How many vampires does it take to change a light bulb?\n\nNone... why would they need it?",
+  "description": [
+    {
+      "color": "gray",
+      "text": "How many vampires does it take"
+    },
+    {
+      "color": "gray",
+      "text": "to change a light bulb?"
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "None... why would they need it?"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "motes_sell_price": 90,
   "id": "SPLATTER_CRUX"
 }

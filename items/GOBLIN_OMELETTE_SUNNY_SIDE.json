@@ -5,7 +5,100 @@
   "name": "Sunny Side Goblin Omelette",
   "tier": "RARE",
   "npc_sell_price": 20840,
-  "description": "%%gray%%%%italic%%May cause inflammation",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Drill Part"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Part Type: "
+        },
+        {
+          "color": "gold",
+          "text": "Upgrade Module"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+50 "
+        },
+        {
+          "color": "gold",
+          "text": "\u2618 Mining"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Fortune"
+        },
+        {
+          "color": "gray",
+          "text": ", but fuel consumption"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "is doubled."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can be applied to Drills by"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "talking to a "
+        },
+        {
+          "color": "dark_green",
+          "text": "Drill Mechanic"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "May cause inflammation"
+    },
+    {
+      "text": ""
+    }
+  ],
   "requirements": [
     {
       "type": "HEART_OF_THE_MOUNTAIN",

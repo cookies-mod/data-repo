@@ -5,5 +5,61 @@
   "name": "Master Skull - Tier 1",
   "category": "ACCESSORY",
   "dungeon_item": true,
-  "id": "MASTER_SKULL_TIER_1"
+  "id": "MASTER_SKULL_TIER_1",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+1% "
+        },
+        {
+          "color": "red",
+          "text": "\u2764 Health"
+        },
+        {
+          "color": "gray",
+          "text": " and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "\u2741 Strength"
+        },
+        {
+          "color": "gray",
+          "text": " while in"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Master Mode"
+        },
+        {
+          "color": "gray",
+          "text": " Dungeons."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

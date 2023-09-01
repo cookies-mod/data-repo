@@ -6,5 +6,11 @@
     "DEFENSE": 25
   },
   "npc_sell_price": 10,
-  "id": "IRON_LEGGINGS"
+  "id": "IRON_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

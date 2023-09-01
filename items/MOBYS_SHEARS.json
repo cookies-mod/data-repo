@@ -3,5 +3,40 @@
   "name": "Moby\u0027s Shears",
   "tier": "RARE",
   "category": "SHEARS",
-  "id": "MOBYS_SHEARS"
+  "id": "MOBYS_SHEARS",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Collects "
+        },
+        {
+          "color": "green",
+          "text": "+1 "
+        },
+        {
+          "color": "green",
+          "text": "Glowing"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Mushroom"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

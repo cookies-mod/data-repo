@@ -5,5 +5,14 @@
   "name": "Gabagool Distillate",
   "tier": "RARE",
   "npc_sell_price": 5000,
-  "id": "CRUDE_GABAGOOL_DISTILLATE"
+  "id": "CRUDE_GABAGOOL_DISTILLATE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

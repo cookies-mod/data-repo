@@ -3,5 +3,44 @@
   "name": "Enchanted Bread",
   "glowing": true,
   "npc_sell_price": 60,
-  "id": "ENCHANTED_BREAD"
+  "id": "ENCHANTED_BREAD",
+  "description": [
+    {
+      "color": "gray",
+      "text": "increases the speed of"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "your minion by "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for 12 hours"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

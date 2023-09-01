@@ -6,5 +6,186 @@
   "category": "REFORGE_STONE",
   "tier": "RARE",
   "npc_sell_price": 1,
-  "id": "ACACIA_BIRDHOUSE"
+  "id": "ACACIA_BIRDHOUSE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Power Stone"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Combine "
+        },
+        {
+          "color": "green",
+          "text": "9x "
+        },
+        {
+          "color": "gray",
+          "text": "of this stone at the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Thaumaturgist "
+        },
+        {
+          "color": "gray",
+          "text": "to permanently"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "unlock the "
+        },
+        {
+          "color": "green",
+          "text": "Forceful "
+        },
+        {
+          "color": "gray",
+          "text": "power."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "At "
+        },
+        {
+          "obfuscated": true,
+          "color": "gold",
+          "text": "1,000"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "gold",
+          "text": "Magical Power"
+        },
+        {
+          "color": "gray",
+          "text": ":"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "54\u2764"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "red",
+          "text": "Health"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "582\u2741"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "red",
+          "text": "Strength"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "155\u2620"
+            }
+          ],
+          "text": "+"
+        },
+        {
+          "text": " "
+        },
+        {
+          "color": "blue",
+          "text": "Crit Damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Unique Power Bonus:"
+    },
+    {
+      "color": "red",
+      "text": "+4\u2afd Ferocity"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Combat Skill Level XX"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

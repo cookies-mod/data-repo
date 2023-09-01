@@ -9,5 +9,18 @@
   },
   "museum": true,
   "tier": "SPECIAL",
-  "id": "PARTY_HAT_CRAB"
+  "id": "PARTY_HAT_CRAB",
+  "description": [
+    {"text":"Magic Find: ","color":"gray","extra":[{"text":"+1","color":"green"}]},
+    {"text":""},
+    {"text":"Item year: ","color":"gray","extra":[{"text":"2020","color":"yellow"}]},
+    {"text":""},
+    {"text":"Ability: Party Time!","color":"gold"},
+    {"text":"Gain ","color":"gray","extra":[{"text":"+1\u270e Intelligence ","color":"aqua"},{"text":"while","color":"gray"}]},
+    {"text":"on your head for each SkyBlock","color":"gray"},
+    {"text":"year you've been playing.","color":"gray"},
+    {"text":""},
+    {"text":"Your bonus: ","color":"gray","extra":[{"text":"+1\u270e Intelligence","color":"aqua"}]},
+    {"text":""}
+  ]
 }

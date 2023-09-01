@@ -1,7 +1,16 @@
 {
-  "material": "FIREWORK_CHARGE",
+  "material": "FIREWORK_star",
   "name": "Null Sphere",
   "glowing": true,
   "tier": "UNCOMMON",
-  "id": "NULL_SPHERE"
+  "id": "NULL_SPHERE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

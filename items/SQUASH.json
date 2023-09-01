@@ -5,5 +5,14 @@
   "name": "Squash",
   "tier": "EPIC",
   "npc_sell_price": 75000,
-  "id": "SQUASH"
+  "id": "SQUASH",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

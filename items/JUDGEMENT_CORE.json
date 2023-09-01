@@ -5,5 +5,14 @@
   "name": "Judgement Core",
   "tier": "LEGENDARY",
   "unstackable": true,
-  "id": "JUDGEMENT_CORE"
+  "id": "JUDGEMENT_CORE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

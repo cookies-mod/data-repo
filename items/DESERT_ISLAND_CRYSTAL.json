@@ -5,5 +5,31 @@
   "name": "Desert Crystal",
   "crystal": "DESERT_ISLAND",
   "tier": "RARE",
-  "id": "DESERT_ISLAND_CRYSTAL"
+  "id": "DESERT_ISLAND_CRYSTAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Grows cactus, and sugar cane on"
+    },
+    {
+      "color": "gray",
+      "text": "top of nearby sand blocks."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Effective Radius: "
+        },
+        {
+          "color": "aqua",
+          "text": "16"
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

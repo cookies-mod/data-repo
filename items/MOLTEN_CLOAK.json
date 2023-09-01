@@ -106,5 +106,52 @@
       }
     ]
   ],
-  "id": "MOLTEN_CLOAK"
+  "id": "MOLTEN_CLOAK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Tiered Bonus: Molten Core (0/4)"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "green",
+          "text": "5% "
+        },
+        {
+          "color": "gray",
+          "text": "damage resistance"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "while fighting "
+        },
+        {
+          "color": "gold",
+          "text": "Kuudra"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

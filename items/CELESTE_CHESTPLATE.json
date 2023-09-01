@@ -17,5 +17,11 @@
       "level": 4
     }
   ],
-  "id": "CELESTE_CHESTPLATE"
+  "id": "CELESTE_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

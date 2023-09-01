@@ -6,5 +6,79 @@
   "category": "REFORGE_STONE",
   "tier": "EPIC",
   "npc_sell_price": 1,
-  "id": "TOIL_LOG"
+  "id": "TOIL_LOG",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can be used in a Reforge Anvil"
+    },
+    {
+      "color": "gray",
+      "text": "or with the Dungeon Blacksmith"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to apply the "
+        },
+        {
+          "color": "blue",
+          "text": "Toil "
+        },
+        {
+          "color": "gray",
+          "text": "reforge to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "an axe."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "green",
+          "text": "Mining Skill Level"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "XXV"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

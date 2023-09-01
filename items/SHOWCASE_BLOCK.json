@@ -10,5 +10,46 @@
       "level": 10
     }
   ],
-  "id": "SHOWCASE_BLOCK"
+  "id": "SHOWCASE_BLOCK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Show off an item in this fancy"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "glass display box! "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "CLICK "
+        },
+        {
+          "color": "gray",
+          "text": "to put in or swap an"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "item."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

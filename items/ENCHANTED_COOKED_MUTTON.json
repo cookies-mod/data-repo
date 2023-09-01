@@ -4,5 +4,11 @@
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 128000,
-  "id": "ENCHANTED_COOKED_MUTTON"
+  "id": "ENCHANTED_COOKED_MUTTON",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

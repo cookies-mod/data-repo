@@ -5,5 +5,31 @@
   "name": "Soulflow",
   "tier": "RARE",
   "npc_sell_price": 1,
-  "id": "SOULFLOW"
+  "id": "SOULFLOW",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Hold and right-click to consume,"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "gaining "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+160\u2e0e Soulflow"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

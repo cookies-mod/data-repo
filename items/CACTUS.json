@@ -2,5 +2,11 @@
   "material": "CACTUS",
   "name": "Cactus",
   "npc_sell_price": 3,
-  "id": "CACTUS"
+  "id": "CACTUS",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

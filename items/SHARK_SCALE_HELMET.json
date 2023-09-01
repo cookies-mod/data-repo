@@ -25,5 +25,71 @@
       "slot_type": "AMETHYST"
     }
   ],
-  "id": "SHARK_SCALE_HELMET"
+  "id": "SHARK_SCALE_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Absorb"
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Doubles"
+        },
+        {
+          "color": "gray",
+          "text": " your "
+        },
+        {
+          "color": "green",
+          "text": "\u2748 Defense"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "while in water."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Reflect"
+    },
+    {
+      "color": "gray",
+      "text": "Your sharp scales reflect"
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "15% "
+        },
+        {
+          "color": "gray",
+          "text": "of damage onto the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "attacker."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

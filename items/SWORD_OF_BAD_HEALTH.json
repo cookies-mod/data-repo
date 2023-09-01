@@ -1,5 +1,5 @@
 {
-  "material": "WOOD_SWORD",
+  "material": "WOODen_SWORD",
   "name": "Sword of Bad Health",
   "category": "SWORD",
   "tier": "UNCOMMON",
@@ -161,5 +161,109 @@
       }
     ]
   ],
-  "id": "SWORD_OF_BAD_HEALTH"
+  "id": "SWORD_OF_BAD_HEALTH",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Bad Health "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Use "
+        },
+        {
+          "color": "red",
+          "text": "5% "
+        },
+        {
+          "color": "gray",
+          "text": "of your max health to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "gain "
+        },
+        {
+          "color": "red",
+          "text": "+5\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "for every"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "5% of total hp you have. Capped"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "at "
+        },
+        {
+          "color": "red",
+          "text": "+100\u2741 Strength"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Health Cost: "
+        },
+        {
+          "color": "red",
+          "text": "125.2"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "5s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

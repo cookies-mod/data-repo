@@ -7,5 +7,6 @@
   },
   "npc_sell_price": 1,
   "dungeon_item": true,
+  "tier":"UNOBTAINABLE",
   "id": "DUNGEON_HAMMER"
 }

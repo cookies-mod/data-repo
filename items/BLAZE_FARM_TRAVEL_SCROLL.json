@@ -2,6 +2,76 @@
   "material": "EMPTY_MAP",
   "name": "Travel Scroll to the Blaze Farm",
   "category": "TRAVEL_SCROLL",
-  "tier": "EPIC",
-  "id": "BLAZE_FARM_TRAVEL_SCROLL"
+  "tier":"UNOBTAINABLE",
+  "id": "BLAZE_FARM_TRAVEL_SCROLL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Consume this item to add its"
+    },
+    {
+      "color": "gray",
+      "text": "destination to your fast travel"
+    },
+    {
+      "color": "gray",
+      "text": "options."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "color": "aqua",
+          "text": "MVP"
+        },
+        {
+          "color": "red",
+          "text": "+ "
+        },
+        {
+          "color": "gray",
+          "text": "to consume!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Island: "
+        },
+        {
+          "color": "green",
+          "text": "Crimson Isle"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Teleport: "
+        },
+        {
+          "color": "yellow",
+          "text": "Blaze Farm"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

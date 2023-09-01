@@ -7,5 +7,42 @@
   "rift_transferrable": true,
   "origin": "RIFT",
   "unstackable": true,
-  "id": "PLACEABLE_FAIRY_SOUL_RIFT"
+  "id": "PLACEABLE_FAIRY_SOUL_RIFT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Place this fairy soul down on"
+    },
+    {
+      "color": "gray",
+      "text": "your island so you and others"
+    },
+    {
+      "color": "gray",
+      "text": "can find it."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

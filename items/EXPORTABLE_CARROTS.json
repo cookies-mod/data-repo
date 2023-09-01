@@ -11,5 +11,98 @@
     "permanent_health": 5,
     "permanent_carrots_ff": 12
   },
-  "id": "EXPORTABLE_CARROTS"
+  "id": "EXPORTABLE_CARROTS",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bring "
+        },
+        {
+          "color": "gold",
+          "text": "3,000 "
+        },
+        {
+          "color": "gray",
+          "text": "of these to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Carrolyn "
+        },
+        {
+          "color": "gray",
+          "text": "in "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Scarleton "
+        },
+        {
+          "color": "gray",
+          "text": "to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "permanently gain "
+        },
+        {
+          "color": "red",
+          "text": "+5\u2764 Health"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "gold",
+          "text": "+12\u2618 Farming Fortune"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "for carrots."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

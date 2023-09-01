@@ -4,5 +4,18 @@
   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2MTgwMDE3NTk5MCwKICAicHJvZmlsZUlkIiA6ICI5YzM1ZGU3MjdmMzU0ZTVlYjFiOWRhOGViYTZhYzM1YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXphV1MiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2EyNTczOTZmODlhM2YyM2RjNzA1OTUxZWJiMzM5ZmQ3YzY2OTA1OTJkZjc1NWVmYzQ4YjBkODEyMjllMDg0ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
   "name": "Full Chum Bucket",
   "tier": "UNCOMMON",
-  "id": "FULL_CHUM_BUCKET"
+  "id": "FULL_CHUM_BUCKET",
+  "description": [
+    {
+      "color": "gray",
+      "text": "The result of a hard day\u0027s"
+    },
+    {
+      "color": "gray",
+      "text": "labor! Trade it with Moby."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

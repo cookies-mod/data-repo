@@ -8,5 +8,11 @@
     "MINING_SPEED": 110
   },
   "npc_sell_price": 2,
-  "id": "STONE_PICKAXE"
+  "id": "STONE_PICKAXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

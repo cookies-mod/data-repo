@@ -4,5 +4,11 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 160,
-  "id": "ENCHANTED_REDSTONE"
+  "id": "ENCHANTED_REDSTONE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

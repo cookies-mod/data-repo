@@ -6,5 +6,56 @@
   "category": "ACCESSORY",
   "tier": "UNCOMMON",
   "npc_sell_price": 50,
-  "id": "SPIDER_TALISMAN"
+  "id": "SPIDER_TALISMAN",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Reduces the damage taken from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Cave Spiders"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "gray",
+          "text": "Spiders"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "gray",
+          "text": "Silverfish by "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

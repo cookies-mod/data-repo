@@ -1,8 +1,41 @@
 {
-  "material": "INK_SACK",
+  "material": "PINK_DYE",
   "durability": 9,
   "name": "Nadeshiko Dye",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "DYE_NADESHIKO"
+  "id": "DYE_NADESHIKO",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Changes the color of a leather"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "armor piece to "
+        },
+        {
+          "color": "#F6ADC6",
+          "text": "#F6ADC6"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

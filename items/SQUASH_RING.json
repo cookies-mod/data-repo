@@ -5,5 +5,99 @@
   "name": "Squash Ring",
   "tier": "UNCOMMON",
   "category": "ACCESSORY",
-  "id": "SQUASH_RING"
+  "id": "SQUASH_RING",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "gold",
+          "text": "+20\u2618 Farming Fortune"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "when breaking "
+        },
+        {
+          "color": "green",
+          "text": "Wheat"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Carrots"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Potatoes"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Melons"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Pumpkins"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "gray",
+          "text": "and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Cocoa Beans"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

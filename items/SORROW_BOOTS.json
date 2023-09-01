@@ -73,5 +73,43 @@
       ]
     }
   ],
-  "id": "SORROW_BOOTS"
+  "id": "SORROW_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "2-Piece Set Bonus: Mist Aura"
+    },
+    {
+      "color": "gray",
+      "text": "Hides the wearer in a guise of"
+    },
+    {
+      "color": "gray",
+      "text": "mist, multiplying damage from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "ghosts by "
+        },
+        {
+          "color": "red",
+          "text": "0.6x"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

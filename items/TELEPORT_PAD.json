@@ -1,8 +1,33 @@
 {
-  "material": "ENDER_PORTAL_FRAME",
+  "material": "END_PORTAL_FRAME",
   "name": "Teleport Pad",
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 1000,
-  "id": "TELEPORT_PAD"
+  "id": "TELEPORT_PAD",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Places a Teleport Pad down,"
+    },
+    {
+      "color": "gray",
+      "text": "allowing you to teleport to any"
+    },
+    {
+      "color": "gray",
+      "text": "other Teleport Pad on your"
+    },
+    {
+      "color": "gray",
+      "text": "private island!"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Maximum of 56 per island."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,7 +1,27 @@
 {
-  "material": "INK_SACK",
+  "material": "LIME_DYE",
   "durability": 10,
   "name": "Lucky Clover Core",
   "tier": "EPIC",
-  "id": "PET_ITEM_LUCKY_CLOVER_DROP"
+  "id": "PET_ITEM_LUCKY_CLOVER_DROP",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Used to craft the Lucky Clover"
+    },
+    {
+      "color": "gray",
+      "text": "pet item"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

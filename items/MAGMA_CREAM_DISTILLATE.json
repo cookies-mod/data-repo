@@ -5,5 +5,14 @@
   "name": "Magma Cream Distillate",
   "tier": "RARE",
   "npc_sell_price": 5000,
-  "id": "MAGMA_CREAM_DISTILLATE"
+  "id": "MAGMA_CREAM_DISTILLATE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -4,5 +4,44 @@
   "tier": "RARE",
   "npc_sell_price": 100,
   "glowing": true,
-  "id": "GARDEN_SCYTHE"
+  "id": "GARDEN_SCYTHE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Cleans a "
+        },
+        {
+          "color": "blue",
+          "text": "5x5 "
+        },
+        {
+          "color": "gray",
+          "text": "area of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "grass, leaves and flowers."
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "red",
+      "text": "20 Copper"
+    }
+  ]
 }

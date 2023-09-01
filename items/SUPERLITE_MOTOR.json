@@ -4,5 +4,57 @@
   "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYyNDU0NjIzNzk4NiwKICAicHJvZmlsZUlkIiA6ICIyNDBiYThlMzNlN2M0YzE0ODhiNzJmYmU1Njg2ZjhlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQbGF4Q3JhZnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViYjQ4YmNjODE5Mjc3NDM4YTk4NmY1NTgxM2IwNWZlOTEwZjlkZTIyNmI5Y2QyNTc2ODI2NzRhOGFhZGM0M2EiCiAgICB9CiAgfQp9",
   "name": "Superlite Motor",
   "tier": "RARE",
-  "id": "SUPERLITE_MOTOR"
+  "id": "SUPERLITE_MOTOR",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A key component needed by the"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Professor to repair "
+        },
+        {
+          "color": "aqua",
+          "text": "Automaton"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Prime "
+        },
+        {
+          "color": "gray",
+          "text": "in the "
+        },
+        {
+          "color": "aqua",
+          "text": "Lost Precursor"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "City"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

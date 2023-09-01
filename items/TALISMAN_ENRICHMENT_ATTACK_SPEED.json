@@ -5,5 +5,106 @@
   "name": "Attack Speed Enrichment",
   "glowing": true,
   "tier": "SPECIAL",
-  "id": "TALISMAN_ENRICHMENT_ATTACK_SPEED"
+  "id": "TALISMAN_ENRICHMENT_ATTACK_SPEED",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Enriches an accessory with the"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "power of "
+        },
+        {
+          "color": "yellow",
+          "text": "+0.5\u2694 Bonus Attack"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "Speed "
+        },
+        {
+          "color": "gray",
+          "text": "when applied to a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "legendary "
+        },
+        {
+          "color": "gray",
+          "text": "or "
+        },
+        {
+          "color": "light_purple",
+          "text": "mythic"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "accessory."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Only "
+        },
+        {
+          "bold": true,
+          "color": "gray",
+          "text": "ONE "
+        },
+        {
+          "color": "gray",
+          "text": "enrichment can be"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "applied to a given accessory."
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "5,000 Bits"
+    }
+  ]
 }

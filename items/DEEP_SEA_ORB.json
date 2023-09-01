@@ -6,5 +6,64 @@
   "category": "REFORGE_STONE",
   "tier": "EPIC",
   "npc_sell_price": 1,
-  "id": "DEEP_SEA_ORB"
+  "id": "DEEP_SEA_ORB",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Reforge Stone"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Reforge Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies the "
+        },
+        {
+          "color": "blue",
+          "text": "Submerged"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "reforge when combined with"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "armor"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "The smell of the deep sea"
+    },
+    {
+      "italic": true,
+      "color": "dark_gray",
+      "text": "attracts sea monsters."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

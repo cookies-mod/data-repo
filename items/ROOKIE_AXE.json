@@ -10,5 +10,26 @@
   },
   "npc_sell_price": 6,
   "museum": true,
-  "id": "ROOKIE_AXE"
+  "id": "ROOKIE_AXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "blue",
+      "text": "Efficiency I"
+    },
+    {
+      "color": "gray",
+      "text": "Increases how quickly your tool"
+    },
+    {
+      "color": "gray",
+      "text": "breaks blocks."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

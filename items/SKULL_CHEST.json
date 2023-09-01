@@ -5,5 +5,29 @@
   "name": "Skull Chest++",
   "furniture": "SKULL_CHEST",
   "tier": "RARE",
-  "id": "SKULL_CHEST"
+  "id": "SKULL_CHEST",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Storage"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "You can store six pages of items"
+    },
+    {
+      "color": "gray",
+      "text": "in this chest"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

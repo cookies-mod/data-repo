@@ -2,5 +2,11 @@
   "material": "OBSIDIAN",
   "name": "Obsidian",
   "npc_sell_price": 7,
-  "id": "OBSIDIAN"
+  "id": "OBSIDIAN",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

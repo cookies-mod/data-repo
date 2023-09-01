@@ -9,5 +9,102 @@
     "HEALTH": 80
   },
   "npc_sell_price": 70000,
-  "id": "GROWTH_LEGGINGS"
+  "id": "GROWTH_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Growth"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Heals you for "
+        },
+        {
+          "color": "green",
+          "text": "1% "
+        },
+        {
+          "color": "red",
+          "text": "\u2764 Health"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "after killing a Monster, and"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "also increases the "
+        },
+        {
+          "color": "red",
+          "text": "\u2764 Health"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "bonus of a piece of the armor"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "1"
+        },
+        {
+          "color": "dark_gray",
+          "text": " (Max 100)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "4s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bonus HP: "
+        },
+        {
+          "color": "green",
+          "text": "0/100"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

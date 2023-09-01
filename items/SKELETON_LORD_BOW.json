@@ -2,7 +2,7 @@
   "material": "BOW",
   "name": "Skeleton Lord Bow",
   "category": "BOW",
-  "tier": "EPIC",
+  "tier": "UNOBTAINABLE",
   "npc_sell_price": 1,
   "tiered_stats": {
     "DAMAGE": [

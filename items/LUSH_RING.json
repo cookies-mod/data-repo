@@ -8,5 +8,10 @@
   "stats": {
     "health": 3
   },
-  "id": "LUSH_RING"
+  "id": "LUSH_RING",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

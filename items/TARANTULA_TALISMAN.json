@@ -5,5 +5,44 @@
   "name": "Tarantula Talisman",
   "category": "ACCESSORY",
   "tier": "EPIC",
-  "id": "TARANTULA_TALISMAN"
+  "id": "TARANTULA_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Every "
+        },
+        {
+          "color": "green",
+          "text": "10th "
+        },
+        {
+          "color": "gray",
+          "text": "melee hit on the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "same enemy deals "
+        },
+        {
+          "color": "red",
+          "text": "+10%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "damage."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

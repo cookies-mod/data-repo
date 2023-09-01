@@ -26,5 +26,90 @@
     }
   ],
   "dungeon_item": true,
-  "id": "STINGER_BOW"
+  "id": "STINGER_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Sting"
+    },
+    {
+      "color": "gray",
+      "text": "While in Dungeons, shooting your"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "teammates grants them "
+        },
+        {
+          "color": "white",
+          "text": "20"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "speed and "
+        },
+        {
+          "color": "red",
+          "text": "30 "
+        },
+        {
+          "color": "gray",
+          "text": "strength for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "30 "
+        },
+        {
+          "color": "gray",
+          "text": "seconds but deals "
+        },
+        {
+          "color": "red",
+          "text": "1"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "damage."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "100"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 35000 / 35000"
+    }
+  ]
 }

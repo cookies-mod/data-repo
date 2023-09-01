@@ -1,12 +1,14 @@
 {
-  "material": "GOLD_BOOTS",
+  "material": "GOLDEN_BOOTS",
   "name": "Boots of the Stars",
   "category": "BOOTS",
-  "tier": "UNOBTAINABLE",
+  "tier": "ADMIN",
   "stats": {
     "DEFENSE": 2500,
     "HEALTH": 7500,
     "INTELLIGENCE": 1000
   },
-  "id": "STAR_BOOTS"
+  "id": "STAR_BOOTS",
+  "can_be_reforged": true,
+  "soulbound": "SOLO"
 }

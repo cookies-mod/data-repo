@@ -7,5 +7,79 @@
   "npc_sell_price": 100,
   "soulbound": "COOP",
   "museum": true,
-  "id": "JINGLE_BELLS"
+  "id": "JINGLE_BELLS",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Jingle Bells "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Angers all monsters in a "
+        },
+        {
+          "color": "green",
+          "text": "10"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "block"
+        },
+        {
+          "color": "gray",
+          "text": " range, consuming "
+        },
+        {
+          "color": "green",
+          "text": "50%"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "of your max mana and causing"
+    },
+    {
+      "color": "gray",
+      "text": "them to run towards you."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "1s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

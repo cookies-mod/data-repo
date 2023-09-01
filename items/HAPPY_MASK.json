@@ -6,5 +6,19 @@
   "category": "HELMET",
   "tier": "UNCOMMON",
   "museum": true,
-  "id": "HAPPY_MASK"
+  "id": "HAPPY_MASK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "color": "gray",
+      "text": "Wear this mask to show your"
+    },
+    {
+      "color": "gray",
+      "text": "support for Dante."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

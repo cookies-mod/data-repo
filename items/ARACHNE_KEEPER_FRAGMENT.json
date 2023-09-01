@@ -5,5 +5,74 @@
   "name": "Arachne\u0027s Calling",
   "npc_sell_price": 400,
   "tier": "RARE",
-  "id": "ARACHNE_KEEPER_FRAGMENT"
+  "id": "ARACHNE_KEEPER_FRAGMENT",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Place "
+        },
+        {
+          "color": "green",
+          "text": "4 "
+        },
+        {
+          "color": "gray",
+          "text": "of these at the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Altar "
+        },
+        {
+          "color": "gray",
+          "text": "in "
+        },
+        {
+          "color": "dark_red",
+          "text": "Arachne\u0027s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_red",
+          "text": "Sanctuary "
+        },
+        {
+          "color": "gray",
+          "text": "to summon her."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "italic": true,
+          "color": "gray",
+          "text": "\"It\u0027s time.\" "
+        },
+        {
+          "color": "gray",
+          "text": "- Uninformed Spider"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

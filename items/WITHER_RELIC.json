@@ -7,5 +7,31 @@
   "tier": "LEGENDARY",
   "npc_sell_price": 1000,
   "dungeon_item": true,
-  "id": "WITHER_RELIC"
+  "id": "WITHER_RELIC",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Reduces the damage taken from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Withers by "
+        },
+        {
+          "color": "green",
+          "text": "25%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

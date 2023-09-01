@@ -8,5 +8,60 @@
     "WALK_SPEED": 15,
     "DEFENSE": 125
   },
-  "id": "MINERAL_LEGGINGS"
+  "id": "MINERAL_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Each piece of this armor grants"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "the ability to "
+        },
+        {
+          "color": "blue",
+          "text": "automatically"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "mine "
+        },
+        {
+          "color": "green",
+          "text": "2 "
+        },
+        {
+          "color": "gray",
+          "text": "extra nearby blocks"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "while mining (very short"
+    },
+    {
+      "color": "gray",
+      "text": "cooldown, blocks must require"
+    },
+    {
+      "color": "gray",
+      "text": "breaking power of less than 4)."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

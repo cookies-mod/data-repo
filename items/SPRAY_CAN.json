@@ -4,5 +4,33 @@
   "skin": "eyJ0aW1lc3RhbXAiOjE1NjMyNjI3NTk0NjMsInByb2ZpbGVJZCI6IjU3MGIwNWJhMjZmMzRhOGViZmRiODBlY2JjZDdlNjIwIiwicHJvZmlsZU5hbWUiOiJMb3JkU29ubnkiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwNjRkOTc5NmVkNWZhYjQ0NWRiYzkwYjQxNjZjNGUyNzQyMjg4MzI3MTliNTMxOGEwMDEyNmEyOTA5NmE0ZjEifX19",
   "name": "Spray Can",
   "npc_sell_price": 5,
-  "id": "SPRAY_CAN"
+  "id": "SPRAY_CAN",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Right-click on any wall"
+    },
+    {
+      "color": "gray",
+      "text": "of your choice to spray."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Left-click to access the"
+    },
+    {
+      "color": "gray",
+      "text": "Ink Manager and Spray"
+    },
+    {
+      "color": "gray",
+      "text": "Selector."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

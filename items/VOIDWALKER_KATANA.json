@@ -9,5 +9,65 @@
     "STRENGTH": 40,
     "CRITICAL_DAMAGE": 10
   },
-  "id": "VOIDWALKER_KATANA"
+  "id": "VOIDWALKER_KATANA",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "green",
+          "text": "+150% "
+        },
+        {
+          "color": "gray",
+          "text": "damage to Endermen"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Receive "
+        },
+        {
+          "color": "green",
+          "text": "3% "
+        },
+        {
+          "color": "gray",
+          "text": "less damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "from Endermen"
+        },
+        {
+          "color": "gray",
+          "text": " when held."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

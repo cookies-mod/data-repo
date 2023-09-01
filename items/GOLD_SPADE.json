@@ -6,5 +6,10 @@
     "DAMAGE": 15
   },
   "npc_sell_price": 3,
-  "id": "GOLD_SPADE"
+  "id": "GOLD_SPADE",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

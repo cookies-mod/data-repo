@@ -6,5 +6,96 @@
   "glowing": true,
   "tier": "SPECIAL",
   "museum": true,
-  "id": "GOD_POTION_2"
+  "id": "GOD_POTION_2",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Consume this potion to receive an"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "assortment of positive "
+        },
+        {
+          "color": "light_purple",
+          "text": "potion"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "text": "effects"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Duration:"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "12 hours "
+        },
+        {
+          "color": "gray",
+          "text": "+ "
+        },
+        {
+          "color": "green",
+          "text": "0 hours "
+        },
+        {
+          "color": "gray",
+          "text": "("
+        },
+        {
+          "color": "aqua",
+          "text": "Alchemy Level"
+        },
+        {
+          "color": "gray",
+          "text": ")"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to consume!"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "1,500 Bits"
+    }
+  ]
 }

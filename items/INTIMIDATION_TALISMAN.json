@@ -5,5 +5,31 @@
   "name": "Intimidation Talisman",
   "category": "ACCESSORY",
   "npc_sell_price": 200,
-  "id": "INTIMIDATION_TALISMAN"
+  "id": "INTIMIDATION_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Level "
+        },
+        {
+          "color": "green",
+          "text": "1 "
+        },
+        {
+          "color": "gray",
+          "text": "monsters will no"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "longer target you."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

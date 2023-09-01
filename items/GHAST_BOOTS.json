@@ -2,7 +2,7 @@
   "material": "CHAINMAIL_BOOTS",
   "name": "Ghast Boots",
   "category": "BOOTS",
-  "tier": "RARE",
+  "tier": "UNOBTAINABLE",
   "stats": {
     "HEALTH": 100
   },

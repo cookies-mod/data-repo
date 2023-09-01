@@ -6,5 +6,49 @@
   "glowing": true,
   "tier": "SPECIAL",
   "museum": true,
-  "id": "GOD_POTION"
+  "id": "GOD_POTION",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Legacy"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Consuming this potion"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "gives the player "
+        },
+        {
+          "color": "green",
+          "text": "24 hours"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "of all positive potion"
+    },
+    {
+      "color": "gray",
+      "text": "effects!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to consume!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

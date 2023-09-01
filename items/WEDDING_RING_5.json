@@ -6,5 +6,69 @@
   "category": "ACCESSORY",
   "tier": "RARE",
   "soulbound": "COOP",
-  "id": "WEDDING_RING_5"
+  "id": "WEDDING_RING_5",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Grants a 1 in 1,000,000 chance"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to deal "
+        },
+        {
+          "color": "red",
+          "text": "+100% "
+        },
+        {
+          "color": "gray",
+          "text": "damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "True love is tough to find,"
+    },
+    {
+      "color": "dark_gray",
+      "text": "but finding it hits you hard!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Requires quest progress!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "blue",
+      "extra": [
+        {
+          "bold": true,
+          "text": "1x Enchanted Lava Bucket"
+        }
+      ],
+      "text": "Requires "
+    },
+    {
+      "color": "blue",
+      "text": "to upgrade!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -6,5 +6,31 @@
   "category": "ACCESSORY",
   "npc_sell_price": 2000,
   "soulbound": "COOP",
-  "id": "KING_TALISMAN"
+  "id": "KING_TALISMAN",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gives "
+        },
+        {
+          "color": "green",
+          "text": "+1% "
+        },
+        {
+          "color": "gray",
+          "text": "powder from"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "commissions."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

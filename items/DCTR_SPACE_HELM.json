@@ -1,9 +1,73 @@
 {
-  "material": "STAINED_GLASS",
+  "material": "RED_STAINED_GLASS",
   "durability": 14,
   "name": "Space Helmet",
   "category": "HELMET",
   "tier": "SPECIAL",
   "museum": true,
-  "id": "DCTR_SPACE_HELM"
+  "id": "DCTR_SPACE_HELM",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "A rare space helmet forged"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "from shards of moon glass."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "To: "
+        },
+        {
+          "color": "red",
+          "text": "[ADMIN] Dctr"
+        },
+        {
+          "color": "white",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "From: "
+        },
+        {
+          "color": "red",
+          "text": "[ADMIN] Dctr"
+        },
+        {
+          "color": "white",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Edition #1"
+    },
+    {
+      "color": "dark_gray",
+      "text": "December 2020"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -5,5 +5,42 @@
   "name": "Christmas Tree",
   "furniture": "CHRISTMAS_TREE",
   "tier": "EPIC",
-  "id": "CHRISTMAS_TREE"
+  "id": "CHRISTMAS_TREE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Holiday Cosmetic"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "This exclusive "
+        },
+        {
+          "color": "red",
+          "text": "Holiday"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "cosmetic can be placed on your"
+    },
+    {
+      "color": "gray",
+      "text": "island or traded."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

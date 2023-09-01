@@ -27,5 +27,172 @@
       ]
     }
   ],
-  "id": "FIREDUST_DAGGER"
+  "id": "FIREDUST_DAGGER",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Attunement "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Swap between "
+        },
+        {
+          "color": "dark_gray",
+          "text": "Ashen "
+        },
+        {
+          "color": "gray",
+          "text": "and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "Auric "
+        },
+        {
+          "color": "gray",
+          "text": "mode in order to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "attack through Hellion Shields."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Attuned: "
+        },
+        {
+          "color": "dark_gray",
+          "text": "Ashen"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "red",
+          "text": "1.2x "
+        },
+        {
+          "color": "gray",
+          "text": "damage to Blazes"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "red",
+          "text": "1.1x "
+        },
+        {
+          "color": "gray",
+          "text": "damage to Pigmen"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Burning Vengeance \ufb17"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "On hit, "
+        },
+        {
+          "color": "red",
+          "text": "repeat "
+        },
+        {
+          "color": "gray",
+          "text": "dealt"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "damage after "
+        },
+        {
+          "color": "green",
+          "text": "6s "
+        },
+        {
+          "color": "gray",
+          "text": "if the"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Hellion Shield has switched"
+    },
+    {
+      "color": "gray",
+      "text": "attunement."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

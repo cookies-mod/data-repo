@@ -1,9 +1,119 @@
 {
-  "material": "COOKED_FISH",
+  "material": "cooked_cod",
   "name": "Dead Cat Food",
   "tier": "RARE",
   "category": "PET_ITEM",
   "rift_transferrable": true,
   "origin": "RIFT",
-  "id": "DEAD_CAT_FOOD"
+  "id": "DEAD_CAT_FOOD",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Consumed on use"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This pet item can be used on"
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Montezuma"
+        },
+        {
+          "color": "gray",
+          "text": ". It may have a"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "different effect outside of the"
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "text": "Rift"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+30\u0444 Rift Time"
+        },
+        {
+          "color": "gray",
+          "text": " and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "+5\u26a1 Mana Regen"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click on your summoned"
+    },
+    {
+      "color": "yellow",
+      "text": "pet to give it this item!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

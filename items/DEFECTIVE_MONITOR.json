@@ -10,6 +10,21 @@
     "RIFT_INTELLIGENCE": 6,
     "RIFT_TIME": 60
   },
-  "description": "Obtained from a Kloon who doesn\u0027t seem too stable.",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Obtained from a Kloon who"
+    },
+    {
+      "color": "gray",
+      "text": "doesn\u0027t seem too stable."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "DEFECTIVE_MONITOR"
 }

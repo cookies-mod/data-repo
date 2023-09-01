@@ -1,7 +1,20 @@
 {
-  "material": "INK_SACK",
+  "material": "cyan_dye",
   "durability": 6,
   "name": "Tasty Mithril",
   "tier": "UNCOMMON",
-  "id": "MITHRIL_GOURMAND"
+  "id": "MITHRIL_GOURMAND",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Perfectly round and appetizing"
+    },
+    {
+      "color": "gray",
+      "text": "sphere of Mithril."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

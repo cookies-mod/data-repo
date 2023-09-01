@@ -3,5 +3,25 @@
   "name": "Nurse Shark Tooth",
   "glowing": true,
   "tier": "UNCOMMON",
-  "id": "NURSE_SHARK_TOOTH"
+  "id": "NURSE_SHARK_TOOTH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Dropped by a Shark during"
+    },
+    {
+      "color": "gray",
+      "text": "Fishing Festival."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

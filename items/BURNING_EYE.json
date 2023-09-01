@@ -5,7 +5,43 @@
   "name": "Burning Eye",
   "tier": "UNCOMMON",
   "npc_sell_price": 1000,
-  "description": "%%gray%%%%italic%%Probably the single most regrettable effect of Sulphur on the island\u0027s fauna. You can\u0027t kill a spider with fire if it\u0027s already burning.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Probably the single most"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "regrettable effect of Sulphur on"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "the island\u0027s fauna. You can\u0027t"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "kill a spider with fire if it\u0027s"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "already burning."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "soulbound": "COOP",
   "id": "BURNING_EYE"
 }

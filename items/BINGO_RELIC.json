@@ -6,5 +6,48 @@
   "category": "ACCESSORY",
   "tier": "EPIC",
   "museum": true,
-  "id": "BINGO_RELIC"
+  "id": "BINGO_RELIC",
+  "description": [
+    {
+      "color": "gray",
+      "text": "B.I.N.G.O."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Requires "
+        },
+        {
+          "color": "dark_purple",
+          "text": "\u24b7 Bingo Rank IV"
+        },
+        {
+          "color": "red",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "gold",
+      "text": "200 Bingo Points"
+    },
+    {
+      "color": "blue",
+      "text": "Bingo Artifact"
+    }
+  ]
 }

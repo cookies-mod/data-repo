@@ -1,7 +1,27 @@
 {
-  "material": "INK_SACK",
+  "material": "light_blue_dye",
   "durability": 12,
   "name": "Refined Mineral",
   "tier": "RARE",
-  "id": "REFINED_MINERAL"
+  "id": "REFINED_MINERAL",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Rare minerals found during"
+    },
+    {
+      "color": "gray",
+      "text": "National Mining Month."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

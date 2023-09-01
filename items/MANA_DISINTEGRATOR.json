@@ -5,5 +5,72 @@
   "name": "Mana Disintegrator",
   "tier": "RARE",
   "unstackable": true,
-  "id": "MANA_DISINTEGRATOR"
+  "id": "MANA_DISINTEGRATOR",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Applies "
+        },
+        {
+          "color": "blue",
+          "text": "\u16c3 "
+        },
+        {
+          "color": "gray",
+          "text": "on wands or"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "deployables, reducing their mana"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "cost by "
+        },
+        {
+          "color": "aqua",
+          "text": "1%"
+        },
+        {
+          "color": "gray",
+          "text": ". Can be applied"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "up to "
+        },
+        {
+          "color": "green",
+          "text": "10 "
+        },
+        {
+          "color": "gray",
+          "text": "times."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

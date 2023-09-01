@@ -16,5 +16,47 @@
       "level": 6
     }
   ],
-  "id": "ADVANCED_GARDENING_AXE"
+  "id": "ADVANCED_GARDENING_AXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "blue",
+      "text": "Replenish I"
+    },
+    {
+      "color": "gray",
+      "text": "Upon breaking crops, nether"
+    },
+    {
+      "color": "gray",
+      "text": "wart, or cocoa, automatically"
+    },
+    {
+      "color": "gray",
+      "text": "replant from materials in your"
+    },
+    {
+      "color": "gray",
+      "text": "inventory."
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "red",
+      "text": "25 Copper"
+    }
+  ]
 }

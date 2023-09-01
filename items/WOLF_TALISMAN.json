@@ -5,5 +5,31 @@
   "name": "Wolf Talisman",
   "category": "ACCESSORY",
   "npc_sell_price": 50,
-  "id": "WOLF_TALISMAN"
+  "id": "WOLF_TALISMAN",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Reduces the damage taken from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Wolves by "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

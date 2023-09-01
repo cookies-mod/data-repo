@@ -6,5 +6,26 @@
   "tier": "EPIC",
   "unstackable": true,
   "museum": true,
-  "id": "POTATO_SPREADING"
+  "id": "POTATO_SPREADING",
+  "description": [
+    {
+      "color": "gray",
+      "text": "This item can be used as a"
+    },
+    {
+      "color": "gray",
+      "text": "minion upgrade. Place it in ONE"
+    },
+    {
+      "color": "gray",
+      "text": "minion and it will occasionally"
+    },
+    {
+      "color": "gray",
+      "text": "generate Potatoes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

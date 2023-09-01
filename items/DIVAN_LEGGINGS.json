@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_LEGGINGS",
+  "material": "GOLDEN_LEGGINGS",
   "name": "Leggings of Divan",
   "category": "LEGGINGS",
   "tier": "LEGENDARY",
@@ -67,5 +67,11 @@
       ]
     }
   ],
-  "id": "DIVAN_LEGGINGS"
+  "id": "DIVAN_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

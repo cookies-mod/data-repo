@@ -12,5 +12,56 @@
       "level": 8
     }
   ],
-  "id": "REAPER_ORB"
+  "id": "REAPER_ORB",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain a stack of "
+        },
+        {
+          "color": "red",
+          "text": "2\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Strength "
+        },
+        {
+          "color": "gray",
+          "text": "for every mob"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "killed in the last "
+        },
+        {
+          "color": "green",
+          "text": "5"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "seconds."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -4,5 +4,55 @@
   "glowing": true,
   "tier": "UNOBTAINABLE",
   "npc_sell_price": 205000,
-  "id": "ENCHANTED_CLOCK"
+  "id": "ENCHANTED_CLOCK",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Time Skip "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Advances the time of all minions"
+    },
+    {
+      "color": "gray",
+      "text": "on your island by 1 hour"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "50s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "bold": true,
+      "color": "red",
+      "text": "NOTE: This Item is currently unobtainable!"
+    }
+  ]
 }

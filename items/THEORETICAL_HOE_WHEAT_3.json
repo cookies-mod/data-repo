@@ -10,5 +10,186 @@
       "level": 25
     }
   ],
-  "id": "THEORETICAL_HOE_WHEAT_3"
+  "id": "THEORETICAL_HOE_WHEAT_3",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Harvest "
+        },
+        {
+          "color": "green",
+          "text": "+50% wheat "
+        },
+        {
+          "color": "gray",
+          "text": "and gain"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_aqua",
+          "text": "+3\u262f Farming Wisdom "
+        },
+        {
+          "color": "gray",
+          "text": "while"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "harvesting wheat"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Counter: "
+        },
+        {
+          "color": "yellow",
+          "text": "0 Wheat"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Logarithmic Counter"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Harvest "
+        },
+        {
+          "color": "green",
+          "text": "+16% "
+        },
+        {
+          "color": "gray",
+          "text": "wheat per"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "digits on the Counter, minus 4!"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "0 "
+        },
+        {
+          "color": "gold",
+          "text": "\u2618 Farming Fortune "
+        },
+        {
+          "color": "gray",
+          "text": "for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "wheat."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Collection Analysis"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Harvest "
+        },
+        {
+          "color": "green",
+          "text": "+8% "
+        },
+        {
+          "color": "gray",
+          "text": "wheat per digits of"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "your collection, minus 4!"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+16 "
+        },
+        {
+          "color": "gold",
+          "text": "\u2618 Farming Fortune "
+        },
+        {
+          "color": "gray",
+          "text": "for"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "wheat."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Bonus wheat percent increases"
+    },
+    {
+      "color": "dark_gray",
+      "text": "your Farmhand perk\u0027s chances"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Reach 100k Counter for +1 Rarity!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

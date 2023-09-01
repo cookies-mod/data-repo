@@ -7,5 +7,15 @@
   "tier": "EPIC",
   "soulbound": "COOP",
   "unstackable": true,
-  "id": "ANNI_PODIUM_ART_SECOND"
+  "id": "ANNI_PODIUM_ART_SECOND",
+  "description":[
+    {"text":"Fan Meme","color":"gold"},
+    {"text":"2nd Place","color":"yellow"},
+    {"text":""},
+    {"text":"This item was awarded as part of","color":"gray"},
+    {"text":"the ","color":"gray","extra":[{"text":"Hypixel 10th Anniversary","color":"gold"}]},
+    {"text":"Social Media contest for Best","color":"gray"},
+    {"text":"Meme.","color":"gray"},
+    {"text":""}
+  ]
 }

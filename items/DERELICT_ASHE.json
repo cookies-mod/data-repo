@@ -1,7 +1,16 @@
 {
-  "material": "SULPHUR",
+  "material": "gunpowder",
   "name": "Derelict Ashe",
   "tier": "UNCOMMON",
   "glowing": true,
-  "id": "DERELICT_ASHE"
+  "id": "DERELICT_ASHE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

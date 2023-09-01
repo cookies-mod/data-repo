@@ -12,5 +12,35 @@
       "level": 25
     }
   ],
-  "id": "ARROW_BUNDLE_MAGMA"
+  "id": "ARROW_BUNDLE_MAGMA",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Right-click to consume this item"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "and add "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Magma Arrow x256 "
+        },
+        {
+          "color": "gray",
+          "text": "to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "your quiver."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

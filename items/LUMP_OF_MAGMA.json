@@ -1,10 +1,19 @@
 {
-  "material": "FIREBALL",
+  "material": "fire_charge",
   "name": "Lump of Magma",
   "tier": "UNCOMMON",
   "glowing": true,
   "soulbound": "COOP",
-  "description": "%%gray%%%%italic%%Self explanatory.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Self explanatory."
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 50,
   "id": "LUMP_OF_MAGMA"
 }

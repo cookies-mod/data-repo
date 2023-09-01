@@ -5,5 +5,12 @@
   "name": "Diamond Magmafish",
   "tier": "MYTHIC",
   "unstackable": true,
-  "id": "MAGMA_FISH_DIAMOND"
+  "id": "MAGMA_FISH_DIAMOND",
+  "description": [
+    {
+      "bold": true,
+      "color": "light_purple",
+      "text": "MYTHIC"
+    }
+  ]
 }

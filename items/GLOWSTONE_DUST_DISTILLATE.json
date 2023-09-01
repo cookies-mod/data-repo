@@ -5,5 +5,14 @@
   "name": "Glowstone Distillate",
   "tier": "RARE",
   "npc_sell_price": 5000,
-  "id": "GLOWSTONE_DUST_DISTILLATE"
+  "id": "GLOWSTONE_DUST_DISTILLATE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

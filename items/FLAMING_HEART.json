@@ -5,7 +5,16 @@
   "name": "Flaming Heart",
   "tier": "RARE",
   "soulbound": "COOP",
-  "description": "%%gray%%%%italic%%Burning passion.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Burning passion."
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 200,
   "id": "FLAMING_HEART"
 }

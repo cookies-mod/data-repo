@@ -9,5 +9,44 @@
     "bundled_item_id": "ECCENTRIC_PAINTING",
     "bundled_amount": 9
   },
-  "id": "ECCENTRIC_PAINTING_BUNDLE"
+  "id": "ECCENTRIC_PAINTING_BUNDLE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Right-click to open this bundle"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "containing "
+        },
+        {
+          "color": "gold",
+          "text": "9x "
+        },
+        {
+          "color": "gold",
+          "text": "Eccentric"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Painting"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

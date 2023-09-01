@@ -5,5 +5,97 @@
   "tier": "SPECIAL",
   "museum": true,
   "soulbound": "COOP",
-  "id": "SPOOKY_PIE"
+  "id": "SPOOKY_PIE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Obtained during the "
+        },
+        {
+          "obfuscated": true,
+          "color": "gold",
+          "text": "69"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Spooky Festival "
+        },
+        {
+          "color": "gray",
+          "text": "during"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "extra": [
+        {
+          "obfuscated": true,
+          "text": "69."
+        }
+      ],
+      "text": "SkyBlock Year "
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Player: "
+        },
+        {
+          "obfuscated": true,
+          "color": "gold",
+          "text": "IRONM00N"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Position: "
+        },
+        {
+          "color": "green",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "4,200"
+            }
+          ],
+          "text": "#"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Candy Score: "
+        },
+        {
+          "obfuscated": true,
+          "color": "green",
+          "text": "420"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

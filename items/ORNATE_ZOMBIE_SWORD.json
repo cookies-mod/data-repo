@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_SWORD",
+  "material": "GOLDEN_SWORD",
   "name": "Ornate Zombie Sword",
   "category": "SWORD",
   "tier": "EPIC",
@@ -75,5 +75,121 @@
       ]
     }
   ],
-  "id": "ORNATE_ZOMBIE_SWORD"
+  "id": "ORNATE_ZOMBIE_SWORD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Instant Heal "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Heal for "
+        },
+        {
+          "color": "red",
+          "text": "144 "
+        },
+        {
+          "color": "gray",
+          "text": "+ "
+        },
+        {
+          "color": "red",
+          "text": "5%\u2764 "
+        },
+        {
+          "color": "gray",
+          "text": "and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "heal players within "
+        },
+        {
+          "color": "green",
+          "text": "7 "
+        },
+        {
+          "color": "gray",
+          "text": "blocks"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "red",
+          "text": "48\u2764"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "70"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Charges: "
+        },
+        {
+          "color": "yellow",
+          "text": "5 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "/ "
+        },
+        {
+          "color": "green",
+          "text": "15s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

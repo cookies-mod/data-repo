@@ -7,5 +7,18 @@
   "tier": "SPECIAL",
   "dungeon_item": true,
   "museum": true,
-  "id": "GOLDOR_THE_FISH"
+  "id": "GOLDOR_THE_FISH",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Two things are infinite, the"
+    },
+    {
+      "color": "gray",
+      "text": "universe and my ego."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

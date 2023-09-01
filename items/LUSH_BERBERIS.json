@@ -1,9 +1,24 @@
 {
-  "material": "DOUBLE_PLANT",
+  "material": "large_fern",
   "durability": 3,
   "name": "Lush Berberis",
   "tier": "UNCOMMON",
-  "description": "A wonderful plant!",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A wonderful plant!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 3,
   "id": "LUSH_BERBERIS"
 }

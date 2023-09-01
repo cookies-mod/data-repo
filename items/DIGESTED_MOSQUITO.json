@@ -2,5 +2,14 @@
   "material": "ROTTEN_FLESH",
   "name": "Digested Mosquito",
   "tier": "LEGENDARY",
-  "id": "DIGESTED_MOSQUITO"
+  "id": "DIGESTED_MOSQUITO",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

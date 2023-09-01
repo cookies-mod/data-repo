@@ -1,8 +1,12 @@
 {
   "material": "BLAZE_ROD",
   "name": "Draconic Blade",
-  "tier": "LEGENDARY",
+  "tier": "UNOBTAINABLE",
   "npc_sell_price": 100000,
-  "description": "%%dark_gray%%%%italic%%An extremely sharp blade formed by dragon nuclei",
-  "id": "DRACONIC_BLADE"
+  "id": "DRACONIC_BLADE",
+  "description": [
+    {"text":"An extremely sharp bladle","italic":true,"color":"dark_gray"},
+    {"text":"formed by dragon nuclei","italic":true,"color":"dark_gray"},
+    {"text":""}
+  ]
 }

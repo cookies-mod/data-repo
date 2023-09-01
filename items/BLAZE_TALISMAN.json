@@ -10,5 +10,34 @@
   "stats": {
     "TRUE_DEFENSE": 3
   },
-  "id": "BLAZE_TALISMAN"
+  "id": "BLAZE_TALISMAN",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Reduces the damage taken from"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Blazes by "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -1,9 +1,103 @@
 {
-  "material": "TRAP_DOOR",
+  "material": "oak_TRAPDOOR",
   "name": "Berberis Fuel Injector",
   "tier": "RARE",
   "rift_transferrable": true,
   "glowing": true,
   "origin": "RIFT",
-  "id": "BERBERIS_FUEL_INJECTOR"
+  "id": "BERBERIS_FUEL_INJECTOR",
+  "description": [
+    {
+      "color": "gray",
+      "text": "This item can be used as a"
+    },
+    {
+      "color": "gray",
+      "text": "minion upgrade, only for"
+    },
+    {
+      "extra": [
+        {
+          "color": "yellow",
+          "text": "farming "
+        },
+        {
+          "color": "gray",
+          "text": "minions."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increases the speed of your"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "minion by "
+        },
+        {
+          "color": "green",
+          "text": "15%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Your minion will occasionally"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "generate "
+        },
+        {
+          "color": "green",
+          "text": "Lush Berberis"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "items."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

@@ -15,5 +15,10 @@
   "stats": {
     "combat_wisdom": 5
   },
-  "id": "HUNTER_RING"
+  "id": "HUNTER_RING",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

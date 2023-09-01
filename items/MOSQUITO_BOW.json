@@ -64,5 +64,72 @@
       "level": 13
     }
   ],
-  "id": "MOSQUITO_BOW"
+  "id": "MOSQUITO_BOW",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Nasty Bite"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Fully charged shots while sneaking"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Costs "
+        },
+        {
+          "color": "aqua",
+          "text": "11% "
+        },
+        {
+          "color": "gray",
+          "text": "of max mana."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "red",
+          "text": "+19% "
+        },
+        {
+          "color": "gray",
+          "text": "damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Heal for "
+        },
+        {
+          "color": "green",
+          "text": "2x "
+        },
+        {
+          "color": "gray",
+          "text": "the mana cost."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

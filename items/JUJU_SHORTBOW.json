@@ -64,5 +64,39 @@
       "level": 15
     }
   ],
-  "id": "JUJU_SHORTBOW"
+  "id": "JUJU_SHORTBOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_purple",
+      "text": "Shortbow: Instantly shoots!"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Hits "
+        },
+        {
+          "color": "red",
+          "text": "3 "
+        },
+        {
+          "color": "gray",
+          "text": "mobs on impact."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can damage endermen."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -5,5 +5,77 @@
   "name": "Ultimate Carrot Candy Upgrade",
   "glowing": true,
   "tier": "SPECIAL",
-  "id": "ULTIMATE_CARROT_CANDY_UPGRADE"
+  "id": "ULTIMATE_CARROT_CANDY_UPGRADE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Craft with "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Superb Carrot"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Candies "
+        },
+        {
+          "color": "gray",
+          "text": "efficiently to have"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "them grant "
+        },
+        {
+          "color": "green",
+          "text": "1,000,000 "
+        },
+        {
+          "color": "gray",
+          "text": "pet"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "exp."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "8,000 Bits"
+    }
+  ]
 }

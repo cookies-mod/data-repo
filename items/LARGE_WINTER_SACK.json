@@ -5,5 +5,206 @@
   "name": "Winter Sack",
   "tier": "RARE",
   "unstackable": true,
-  "id": "LARGE_WINTER_SACK"
+  "id": "LARGE_WINTER_SACK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Item pickups go directly into"
+    },
+    {
+      "color": "gray",
+      "text": "your sacks."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Items: "
+        },
+        {
+          "color": "green",
+          "text": "Walnut"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Enchanted Ice"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Ice"
+        },
+        {
+          "color": "gray",
+          "text": ","
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Glacial Fragment"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Hunk of Ice"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "red",
+          "text": "Red"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Gift"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Enchanted Packed Ice"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Green"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Gift"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Enchanted Snow Block"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Hunk of Blue"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Ice"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "White Gift"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Snow Block"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Packed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Ice"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "green",
+          "text": "Snowball"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Capacity: "
+        },
+        {
+          "color": "yellow",
+          "text": "20,160 per item"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Sacks sum their capacity."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right Click to open sack!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

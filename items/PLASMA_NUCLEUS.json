@@ -1,8 +1,72 @@
 {
-  "material": "INK_SACK",
+  "material": "purple_dye",
   "durability": 5,
   "name": "Plasma Nucleus",
   "tier": "LEGENDARY",
   "unstackable": true,
-  "id": "PLASMA_NUCLEUS"
+  "id": "PLASMA_NUCLEUS",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Combine with an "
+        },
+        {
+          "color": "dark_purple",
+          "text": "Overflux Power"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_purple",
+          "text": "Orb "
+        },
+        {
+          "color": "gray",
+          "text": "to increase its strength"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "and create a "
+        },
+        {
+          "color": "gold",
+          "text": "Plasmaflux Power"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Orb"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

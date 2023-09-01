@@ -1,10 +1,41 @@
 {
-  "material": "LEASH",
+  "material": "lead",
   "name": "Kada Lead",
   "glowing": true,
   "tier": "UNCOMMON",
   "soulbound": "COOP",
-  "description": "%%gray%%%%italic%%The lead has to be exceedingly soft due to the nature of the mount. The chicken needs to be comfy.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "The lead has to be"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "exceedingly soft due to the"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "nature of the mount. The chicken"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "needs to be comfy."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 50,
   "id": "KADA_LEAD"
 }

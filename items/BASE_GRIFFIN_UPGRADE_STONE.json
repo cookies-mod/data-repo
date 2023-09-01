@@ -3,5 +3,25 @@
   "durability": 3,
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGUxMzk1MjAyNWEyMzI0YTY2NmY3ZWRmNjUzNTgzMjVhYzYzYmFhMzc5OTAyZTM5MGZjMjcyMDE0NjMxOTNlNyJ9fX0\u003d",
   "name": "Base Griffin Upgrade Stone",
-  "id": "BASE_GRIFFIN_UPGRADE_STONE"
+  "id": "BASE_GRIFFIN_UPGRADE_STONE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Base component to upgrade your"
+    },
+    {
+      "color": "gray",
+      "text": "Griffin\u0027s rarity."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -6,5 +6,107 @@
   "unstackable": true,
   "category": "ACCESSORY",
   "tier": "COMMON",
-  "id": "PANDORAS_BOX"
+  "id": "PANDORAS_BOX",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Complete challenges to earn stats"
+    },
+    {
+      "color": "gray",
+      "text": "and level up the Pandora\u0027s Box."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Challenges completed: "
+        },
+        {
+          "color": "green",
+          "text": "0"
+        },
+        {
+          "color": "gray",
+          "text": "/"
+        },
+        {
+          "color": "green",
+          "text": "20"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "You receive "
+        },
+        {
+          "color": "red",
+          "text": "+1 \u2764"
+        },
+        {
+          "color": "gray",
+          "text": " and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "+1 \u2741"
+        },
+        {
+          "color": "gray",
+          "text": " per 2 challenges"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "you complete."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Note! "
+        },
+        {
+          "color": "gray",
+          "text": "You must have this item in"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "your inventory or accessory bag when"
+    },
+    {
+      "color": "gray",
+      "text": "completing a challenge!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to open."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -4,5 +4,8 @@
   "tier": "UNCOMMON",
   "npc_sell_price": 1,
   "dungeon_item": true,
-  "id": "CASTLE_OF_STONE"
+  "id": "CASTLE_OF_STONE",
+  "description": [
+    {"text":"Dungeon Tank Ultimate Ability","text":"gray"}
+  ]
 }

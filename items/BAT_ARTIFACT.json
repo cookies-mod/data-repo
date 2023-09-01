@@ -10,5 +10,10 @@
     "HEALTH": 5,
     "INTELLIGENCE": 3
   },
-  "id": "BAT_ARTIFACT"
+  "id": "BAT_ARTIFACT",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

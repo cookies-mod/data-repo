@@ -4,5 +4,48 @@
   "name": "Foul Flesh",
   "tier": "RARE",
   "npc_sell_price": 25000,
-  "id": "FOUL_FLESH"
+  "id": "FOUL_FLESH",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    },
+    {
+      "color": "gray",
+      "text": "increases the speed of"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "your minion by "
+        },
+        {
+          "color": "green",
+          "text": "90%"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for 5 hours"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

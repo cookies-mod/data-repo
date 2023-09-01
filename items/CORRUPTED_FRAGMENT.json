@@ -5,7 +5,23 @@
   "name": "Corrupted Fragment",
   "tier": "EPIC",
   "npc_sell_price": 20,
-  "description": "%%gray%%%%italic%%Spreads fast.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Spreads fast."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "soulbound": "COOP",
   "id": "CORRUPTED_FRAGMENT"
 }

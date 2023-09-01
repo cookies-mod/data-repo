@@ -59,5 +59,174 @@
       "slot_type": "COMBAT"
     }
   ],
-  "id": "STARRED_STONE_BLADE"
+  "id": "STARRED_STONE_BLADE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Weapon created by "
+        },
+        {
+          "color": "red",
+          "text": "Scarf"
+        },
+        {
+          "color": "gray",
+          "text": ", it automatically adapts to its user inside Dungeons."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Berserk"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "red",
+          "text": "35\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": "5\u2726 Speed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Healer"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "green",
+          "text": "20% "
+        },
+        {
+          "color": "gray",
+          "text": "HP regeneration and Restore +"
+        },
+        {
+          "color": "green",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "HP/s to nearby allies"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Mage"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "aqua",
+          "text": "200\u270e Intelligence"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Tank"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "green",
+          "text": "100\u2748 Defense "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "white",
+          "text": "5\u2742 True Defense"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Archer"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "blue",
+          "text": "100\u2620 Crit Damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to use your class ability!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

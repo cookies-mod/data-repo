@@ -6,5 +6,48 @@
   "tier": "LEGENDARY",
   "npc_sell_price": 1,
   "dungeon_item": true,
-  "id": "REVIVE_STONE"
+  "id": "REVIVE_STONE",
+  "soulbound": "SOLO",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Revive "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Revive a player who has died in"
+    },
+    {
+      "color": "gray",
+      "text": "a dungeon. ONE TIME USE."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "This item will vanish from"
+    },
+    {
+      "color": "yellow",
+      "text": "your inventory at the end of the"
+    },
+    {
+      "color": "yellow",
+      "text": "Dungeon!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

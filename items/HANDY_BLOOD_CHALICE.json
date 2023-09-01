@@ -11,5 +11,64 @@
       "level": 5
     }
   ],
-  "id": "HANDY_BLOOD_CHALICE"
+  "id": "HANDY_BLOOD_CHALICE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Costs "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "1\u2e0e Soulflow "
+        },
+        {
+          "color": "gray",
+          "text": "per 5s in combat:"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_aqua",
+          "text": "\u204d "
+        },
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "red",
+          "text": "+20\u2afd Ferocity"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Enabled: "
+        },
+        {
+          "color": "green",
+          "text": "On"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to toggle!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

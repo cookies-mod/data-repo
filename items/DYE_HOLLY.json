@@ -1,8 +1,41 @@
 {
-  "material": "INK_SACK",
+  "material": "green_dye",
   "durability": 2,
   "name": "Holly Dye",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "DYE_HOLLY"
+  "id": "DYE_HOLLY",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Changes the color of a leather"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "armor piece to "
+        },
+        {
+          "color": "#3C6746",
+          "text": "#3C6746"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

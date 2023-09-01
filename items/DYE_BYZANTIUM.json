@@ -1,8 +1,41 @@
 {
-  "material": "INK_SACK",
+  "material": "magenta_dye",
   "durability": 13,
   "name": "Byzantium Dye",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "DYE_BYZANTIUM"
+  "id": "DYE_BYZANTIUM",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Changes the color of a leather"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "armor piece to "
+        },
+        {
+          "color": "#702963",
+          "text": "#702963"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

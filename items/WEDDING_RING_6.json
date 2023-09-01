@@ -6,5 +6,87 @@
   "category": "ACCESSORY",
   "tier": "RARE",
   "soulbound": "COOP",
-  "id": "WEDDING_RING_6"
+  "id": "WEDDING_RING_6",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Grants a 1 in 100,000 chance"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to deal "
+        },
+        {
+          "color": "red",
+          "text": "+100% "
+        },
+        {
+          "color": "gray",
+          "text": "damage."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "True love is tough to find,"
+    },
+    {
+      "color": "dark_gray",
+      "text": "but finding it hits you hard!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Requires quest progress!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Requires "
+        },
+        {
+          "color": "white",
+          "text": "1291 "
+        },
+        {
+          "bold": true,
+          "color": "aqua",
+          "text": "Intelligence"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "bold": true,
+          "color": "dark_gray",
+          "text": "(Intelligence, not Mana) "
+        },
+        {
+          "color": "blue",
+          "text": "to upgrade!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

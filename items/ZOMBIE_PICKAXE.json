@@ -7,5 +7,35 @@
     "MINING_SPEED": 190
   },
   "npc_sell_price": 3,
-  "id": "ZOMBIE_PICKAXE"
+  "id": "ZOMBIE_PICKAXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants Haste II"
+        },
+        {
+          "color": "gray",
+          "text": " for "
+        },
+        {
+          "color": "green",
+          "text": "5s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "when breaking Ores!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

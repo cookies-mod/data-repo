@@ -1,5 +1,5 @@
 {
-  "material": "WOOD_SWORD",
+  "material": "WOODEN_SWORD",
   "name": "Scorpion Foil",
   "category": "SWORD",
   "tier": "EPIC",
@@ -14,5 +14,109 @@
       "level": 6
     }
   ],
-  "id": "SCORPION_FOIL"
+  "id": "SCORPION_FOIL",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "green",
+          "text": "250% "
+        },
+        {
+          "color": "gray",
+          "text": "damage against Spiders."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Heartstopper"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "You have "
+        },
+        {
+          "color": "yellow",
+          "text": "4 \u24c4 tickers"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Blocking clears "
+        },
+        {
+          "color": "yellow",
+          "text": "1 \u24c4 "
+        },
+        {
+          "color": "gray",
+          "text": "and heals "
+        },
+        {
+          "color": "red",
+          "text": "60\u2764"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Once all tickers are cleared,"
+    },
+    {
+      "color": "gray",
+      "text": "your next attack is empowered"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "red",
+          "text": "+250% damage"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Tickers refill after 5 seconds."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

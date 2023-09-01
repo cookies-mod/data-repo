@@ -8,5 +8,10 @@
   },
   "npc_sell_price": 8,
   "id": "DIAMOND_SWORD",
-  "can_be_reforged": true
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

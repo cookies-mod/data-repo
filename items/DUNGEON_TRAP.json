@@ -1,7 +1,56 @@
 {
-  "material": "IRON_PLATE",
+  "material": "heavy_weighted_pressure_plate",
   "name": "Trap",
   "tier": "UNCOMMON",
   "dungeon_item": true,
-  "id": "DUNGEON_TRAP"
+  "id": "DUNGEON_TRAP",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Place an explosive trap"
+    },
+    {
+      "color": "gray",
+      "text": "that triggers when mobs"
+    },
+    {
+      "color": "gray",
+      "text": "walk over it dealing"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "20,000"
+        },
+        {
+          "color": "gray",
+          "text": "-"
+        },
+        {
+          "color": "red",
+          "text": "250,000"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "damage based on the"
+    },
+    {
+      "color": "gray",
+      "text": "dungeon floor you are on."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "red",
+      "text": "Dungeons only!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

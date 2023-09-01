@@ -3,5 +3,11 @@
   "name": "Slimeball",
   "npc_sell_price": 5,
   "motes_sell_price": 30,
-  "id": "SLIME_BALL"
+  "id": "SLIME_BALL",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

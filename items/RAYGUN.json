@@ -9,5 +9,13 @@
   "stats": {
     "DAMAGE": 99999999
   },
-  "id": "RAYGUN"
+  "id": "RAYGUN",
+  "can_be_reforged":true,
+  "soulbound": "SOLO",
+  "description": [
+    {"text":""},
+    {"text":"Power L","color":"blue"},
+    {"text":"Increases bow damage by ","color":"gray","extra":[{"text":"65%","color":"green"},{"text":".","color":"gray"}]},
+    {"text":""}
+  ]
 }

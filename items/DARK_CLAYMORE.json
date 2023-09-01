@@ -3,7 +3,110 @@
   "name": "Dark Claymore",
   "category": "LONGSWORD",
   "tier": "LEGENDARY",
-  "description": "%%gray%%%%italic%%That thing was too big to be called a sword, it was more like a large hunk of stone.",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gear Score: "
+        },
+        {
+          "color": "light_purple",
+          "text": "624 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(2615)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+500 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+2,095)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Strength: "
+        },
+        {
+          "color": "red",
+          "text": "+100 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+419)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Crit Damage: "
+        },
+        {
+          "color": "red",
+          "text": "+30% "
+        },
+        {
+          "color": "dark_gray",
+          "text": "(+125.7%)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Swing Range: "
+        },
+        {
+          "color": "red",
+          "text": "5"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "That thing was too big to be"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "called a sword, it was more like"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "a large hunk of stone."
+    },
+    {
+      "text": ""
+    }
+  ],
   "stats": {
     "DAMAGE": 500,
     "STRENGTH": 100,
@@ -86,5 +189,6 @@
       ]
     }
   ],
-  "id": "DARK_CLAYMORE"
+  "id": "DARK_CLAYMORE",
+  "can_be_reforged": true
 }

@@ -5,7 +5,30 @@
   "name": "Shy Crux",
   "tier": "UNCOMMON",
   "origin": "RIFT",
-  "description": "Rumors are that Argofays and other creatures really like this.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Rumors are that Argofays and"
+    },
+    {
+      "color": "gray",
+      "text": "other creatures really like"
+    },
+    {
+      "color": "gray",
+      "text": "this."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "motes_sell_price": 100,
   "id": "SHAME_CRUX"
 }

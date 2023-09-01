@@ -17,5 +17,11 @@
       "level": 4
     }
   ],
-  "id": "CELESTE_BOOTS"
+  "id": "CELESTE_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

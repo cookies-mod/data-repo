@@ -49,5 +49,10 @@
     ]
   ],
   "id": "HARDENED_DIAMOND_LEGGINGS",
-  "can_be_reforged":true
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

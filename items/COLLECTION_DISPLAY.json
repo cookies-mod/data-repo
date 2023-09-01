@@ -4,7 +4,20 @@
   "category": "COSMETIC",
   "tier": "UNCOMMON",
   "unstackable": true,
-  "description": "%%gray%%Show off your collection progress!",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Show off your collection"
+    },
+    {
+      "color": "gray",
+      "text": "progress!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "museum": true,
-  "id": "COLLECTION_DISPLAY"
+  "id": "COLLECTION_DISPLAY",
+  "soulbound": "COOP"
 }

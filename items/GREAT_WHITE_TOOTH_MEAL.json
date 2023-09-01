@@ -1,9 +1,17 @@
 {
-  "material": "INK_SACK",
+  "material": "bone_meal",
   "durability": 15,
   "name": "Great White Tooth Meal",
   "tier": "LEGENDARY",
   "npc_sell_price": 12000,
-  "description": "It smells like blood and fear.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "It smells like blood and fear."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "GREAT_WHITE_TOOTH_MEAL"
 }

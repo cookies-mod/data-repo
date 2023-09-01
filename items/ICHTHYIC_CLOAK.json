@@ -11,5 +11,11 @@
     "health": 10,
     "fishing_speed": 4
   },
-  "id": "ICHTHYIC_CLOAK"
+  "id": "ICHTHYIC_CLOAK",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

@@ -4,5 +4,22 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 30,
-  "id": "MAGICAL_LAVA_BUCKET"
+  "id": "MAGICAL_LAVA_BUCKET",
+  "description": [
+    {
+      "color": "gray",
+      "text": "This Magical Lava Bucket holds a"
+    },
+    {
+      "color": "gray",
+      "text": "tiny volcano. Easy infinite"
+    },
+    {
+      "color": "gray",
+      "text": "lava!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

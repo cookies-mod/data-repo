@@ -3,5 +3,42 @@
   "name": "Pet Cake",
   "npc_sell_price": 10,
   "tier": "COMMON",
-  "id": "PET_CAKE"
+  "id": "PET_CAKE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Feeding this to your pets gives"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "them a boost of "
+        },
+        {
+          "color": "green",
+          "text": "1,000 exp"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click on your summoned"
+    },
+    {
+      "color": "yellow",
+      "text": "pet to feed it!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

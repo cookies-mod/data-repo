@@ -5,5 +5,54 @@
   "name": "Meaty Kuudra Chunk",
   "soulbound": "SOLO",
   "tier": "RARE",
-  "id": "RARE_KUUDRA_CHUNK"
+  "id": "RARE_KUUDRA_CHUNK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A chunk of Kuudra\u0027s enchanted"
+    },
+    {
+      "color": "gray",
+      "text": "flesh, capable of upgrade your"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Kuudra Pet"
+        },
+        {
+          "color": "gray",
+          "text": " to "
+        },
+        {
+          "color": "blue",
+          "text": "Rare"
+        },
+        {
+          "color": "gray",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "rarity!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click on your Kuudra Pet"
+    },
+    {
+      "color": "yellow",
+      "text": "to apply this upgrade!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

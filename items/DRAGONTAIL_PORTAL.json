@@ -18,6 +18,7 @@
       }
     }
   },
+  "tier":"UNOBTAINABLE",
   "id": "DRAGONTAIL_PORTAL",
   "description": [
     {"text":"Placing this item on your","color":"gray"},

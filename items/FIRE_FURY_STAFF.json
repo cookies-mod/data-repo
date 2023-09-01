@@ -212,5 +212,83 @@
       "slot_type": "SAPPHIRE"
     }
   ],
-  "id": "FIRE_FURY_STAFF"
+  "id": "FIRE_FURY_STAFF",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Firestorm "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Shoots a projectile that on"
+    },
+    {
+      "color": "gray",
+      "text": "impact creates a firestorm,"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "dealing up to "
+        },
+        {
+          "color": "red",
+          "text": "657,115.2"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "damage over 10 seconds to mobs"
+    },
+    {
+      "color": "gray",
+      "text": "in a 7 block radius."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "1,000"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "20s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

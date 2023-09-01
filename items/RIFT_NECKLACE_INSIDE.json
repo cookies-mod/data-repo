@@ -78,5 +78,76 @@
       ]
     }
   },
-  "id": "RIFT_NECKLACE_INSIDE"
+  "id": "RIFT_NECKLACE_INSIDE",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "The most powerful necklace ever"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "created by "
+        },
+        {
+          "color": "light_purple",
+          "text": "Elise XXXIII"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Becomes more powerful as you"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "fill the "
+        },
+        {
+          "color": "light_purple",
+          "text": "Rift Gallery"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Secured: "
+        },
+        {
+          "color": "red",
+          "text": "1/8 Timecharms"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "bold": true,
+      "color": "light_purple",
+      "text": "MYTHIC NECKLACE"
+    }
+  ]
 }

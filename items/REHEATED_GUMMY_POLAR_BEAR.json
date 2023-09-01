@@ -5,5 +5,113 @@
   "name": "Re-heated Gummy Polar Bear",
   "tier": "UNCOMMON",
   "rift_transferrable": true,
-  "id": "REHEATED_GUMMY_POLAR_BEAR"
+  "id": "REHEATED_GUMMY_POLAR_BEAR",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants the "
+        },
+        {
+          "color": "green",
+          "text": "Smoldering"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Polarization "
+        },
+        {
+          "color": "gray",
+          "text": "effect."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Smoldering Polarization I "
+        },
+        {
+          "color": "white",
+          "text": "(1:00:00)"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+10\u262f Combat Wisdom"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "from Blazes and pacifies"
+    },
+    {
+      "color": "gray",
+      "text": "nearby Blazes while fighting"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_red",
+          "text": "Inferno Demonlord"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to consume!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

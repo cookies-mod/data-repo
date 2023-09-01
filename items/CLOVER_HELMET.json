@@ -5,5 +5,107 @@
   "name": "Clover Helmet",
   "tier": "LEGENDARY",
   "category": "HELMET",
-  "id": "CLOVER_HELMET"
+  "id": "CLOVER_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Luck is a quantifiable metric"
+    },
+    {
+      "color": "gray",
+      "text": "that anyone possess in varying"
+    },
+    {
+      "color": "gray",
+      "text": "amounts. Sometimes, it is"
+    },
+    {
+      "color": "gray",
+      "text": "necessary to give up on other"
+    },
+    {
+      "color": "gray",
+      "text": "skills to improve it."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Purchased by: "
+        },
+        {
+          "color": "aqua",
+          "text": "[MVP"
+        },
+        {
+          "color": "dark_green",
+          "text": "+"
+        },
+        {
+          "color": "aqua",
+          "text": "] Madeleaan"
+        },
+        {
+          "color": "white",
+          "text": ""
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Purchased for: "
+        },
+        {
+          "obfuscated": true,
+          "color": "gold",
+          "text": "666,666,666 "
+        },
+        {
+          "color": "gold",
+          "text": " coins"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "extra": [
+        {
+          "obfuscated": true,
+          "text": "1"
+        }
+      ],
+      "text": "Auction #"
+    },
+    {
+      "color": "dark_gray",
+      "extra": [
+        {
+          "obfuscated": true,
+          "text": "1"
+        }
+      ],
+      "text": "Bid #"
+    },
+    {
+      "color": "dark_gray",
+      "text": "July 2022"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

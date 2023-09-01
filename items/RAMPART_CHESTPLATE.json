@@ -253,7 +253,7 @@
   "description": [
     {"text":""},
     {"text":"Grants ","color":"gray","extra":[{"text":"+50\u2764 Health","color":"red"},{"text":", ","color":"gray"},{"text":"+20\u2741","color":"red"}]},
-    {"text":"Strength","color":"red","extra":[{"text":", and ","color":"gray"},{"text":"+15☠ Crit","color":"blue"}]},
+    {"text":"Strength","color":"red","extra":[{"text":", and ","color":"gray"},{"text":"+15\u2620 Crit","color":"blue"}]},
     {"text":"Damage ","color":"blue","extra":[{"text":"while on the ","color":"gray"},{"text":"Crimson","color":"red"}]},
     {"text":"Isle","color":"red","extra":[{"text":".","color":"gray"}]},
     {"text":""},

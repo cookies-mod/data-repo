@@ -33,5 +33,135 @@
       ]
     }
   ],
-  "id": "BLAZE_LEGGINGS"
+  "id": "BLAZE_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Blazing Aura"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Damages mobs within "
+        },
+        {
+          "color": "green",
+          "text": "5"
+        },
+        {
+          "color": "gray",
+          "text": " blocks"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "for "
+        },
+        {
+          "color": "green",
+          "text": "3%"
+        },
+        {
+          "color": "gray",
+          "text": " of their max "
+        },
+        {
+          "color": "red",
+          "text": "\u2764"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Health "
+        },
+        {
+          "color": "gray",
+          "text": "per second."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Max "
+        },
+        {
+          "color": "red",
+          "text": "500 "
+        },
+        {
+          "color": "gray",
+          "text": "damage/s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Blaze Rod Collection: "
+        },
+        {
+          "obfuscated": true,
+          "color": "gold",
+          "text": "000"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "+100 per 5,000 rods"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Permanent "
+        },
+        {
+          "color": "red",
+          "text": "Fire "
+        },
+        {
+          "color": "gray",
+          "text": "and "
+        },
+        {
+          "color": "red",
+          "text": "Lava "
+        },
+        {
+          "color": "gray",
+          "text": "immunity."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

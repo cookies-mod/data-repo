@@ -3,7 +3,7 @@
   "color": "255,255,255",
   "name": "Snow Suit Boots",
   "category": "BOOTS",
-  "tier": "EPIC",
+  "tier": "UNBOTAINABLE",
   "stats": {
     "DEFENSE": 25,
     "HEALTH": 65
@@ -16,5 +16,113 @@
       "amount": 10
     }
   ],
-  "id": "SNOW_SUIT_BOOTS"
+  "id": "SNOW_SUIT_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Cold Thumb"
+    },
+    {
+      "color": "gray",
+      "text": "Allows the wearer to shoot"
+    },
+    {
+      "color": "gray",
+      "text": "unlimited snowballs when using"
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Frosty the Snow Cannon"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Each piece grants a "
+        },
+        {
+          "color": "green",
+          "text": "5% "
+        },
+        {
+          "color": "gray",
+          "text": "bonus"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "gift chance for every present"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "you earn from the "
+        },
+        {
+          "color": "red",
+          "text": "Gift Attack"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "minigame!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "All stats of this armor piece"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "are doubled while on "
+        },
+        {
+          "color": "red",
+          "text": "Jerry\u0027s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Workshop"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

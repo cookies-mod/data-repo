@@ -5,7 +5,23 @@
   "glowing": true,
   "motes_sell_price": 5,
   "origin": "RIFT",
-  "description": "Hold this item in your inventory to use the soul in the infested house.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Hold this item in your inventory"
+    },
+    {
+      "color": "gray",
+      "text": "to use the soul in the infested"
+    },
+    {
+      "color": "gray",
+      "text": "house."
+    },
+    {
+      "text": ""
+    }
+  ],
   "unstackable": true,
   "id": "KEY_TO_KAT_SOUL"
 }

@@ -6,7 +6,38 @@
   "tier": "COMMON",
   "category": "ACCESSORY",
   "npc_sell_price": 800,
-  "description": "Do your part bro.",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Do your part bro."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ],
   "rift_transferrable": true,
   "origin": "RIFT",
   "stats": {

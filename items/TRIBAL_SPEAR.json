@@ -6,5 +6,36 @@
   "stats": {
     "STRENGTH": 100
   },
-  "id": "TRIBAL_SPEAR"
+  "id": "TRIBAL_SPEAR",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Thwack "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Throw the spear like an arrow"
+    },
+    {
+      "color": "gray",
+      "text": "which will return to you."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

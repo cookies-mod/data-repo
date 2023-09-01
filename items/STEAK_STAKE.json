@@ -5,5 +5,53 @@
   "category": "SWORD",
   "origin": "RIFT",
   "motes_sell_price": 15,
-  "id": "STEAK_STAKE"
+  "id": "STEAK_STAKE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: A bit of Impalement "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "LEFT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Stab a "
+        },
+        {
+          "color": "dark_red",
+          "text": "Vampire "
+        },
+        {
+          "color": "gray",
+          "text": "at "
+        },
+        {
+          "color": "red",
+          "text": "20%\u2764"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "to instantly vanquish it."
+    },
+    {
+      "color": "dark_gray",
+      "text": "(Does not actually hurt the vampire)"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

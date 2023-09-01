@@ -59,5 +59,52 @@
     }
   ],
   "dungeon_item": true,
-  "id": "THORNS_BOOTS"
+  "id": "THORNS_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Spirit Glide"
+    },
+    {
+      "color": "gray",
+      "text": "Double jump to fly around as a"
+    },
+    {
+      "color": "gray",
+      "text": "spirit."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "250"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "60s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -17,5 +17,43 @@
       "level": 25
     }
   ],
-  "id": "MELON_CHESTPLATE"
+  "id": "MELON_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Tiered Bonus: Cropier Crops (0/4)"
+    },
+    {
+      "color": "gray",
+      "text": "Farming Wheat, Carrot, and"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Potatoes has a "
+        },
+        {
+          "color": "green",
+          "text": "0.03% "
+        },
+        {
+          "color": "gray",
+          "text": "chance"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "of dropping a Cropie."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

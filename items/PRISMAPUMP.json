@@ -4,5 +4,32 @@
   "name": "Prismapump",
   "glowing": true,
   "tier": "RARE",
-  "id": "PRISMAPUMP"
+  "id": "PRISMAPUMP",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Pipeline "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "When used, pumps water in the"
+    },
+    {
+      "color": "gray",
+      "text": "direction the player was facing."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

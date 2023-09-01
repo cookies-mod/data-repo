@@ -5,5 +5,45 @@
   "name": "Large Gemstone Sack",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "LARGE_GEMSTONE_SACK"
+  "id": "LARGE_GEMSTONE_SACK",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Gemstone pickups go directly"
+    },
+    {
+      "color": "gray",
+      "text": "into your sacks."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Capacity: "
+        },
+        {
+          "color": "yellow",
+          "text": "2,560,000 per gemstone type"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Sacks sum their capacity."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right Click to open sack!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -16,5 +16,82 @@
       "level": 8
     }
   ],
-  "id": "WARDEN_HELMET"
+  "id": "WARDEN_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Brute Force"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Halves your "
+        },
+        {
+          "color": "white",
+          "text": "\u2726 Speed "
+        },
+        {
+          "color": "gray",
+          "text": "but"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "grants "
+        },
+        {
+          "color": "red",
+          "text": "+20% "
+        },
+        {
+          "color": "gray",
+          "text": "base weapon"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "damage for every "
+        },
+        {
+          "color": "green",
+          "text": "25 "
+        },
+        {
+          "color": "white",
+          "text": "\u2726"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "white",
+          "text": "Speed"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

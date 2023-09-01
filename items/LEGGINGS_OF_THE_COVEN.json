@@ -16,5 +16,83 @@
     "mana_regen_per_player": 2
   },
   "unstackable": true,
-  "id": "LEGGINGS_OF_THE_COVEN"
+  "id": "LEGGINGS_OF_THE_COVEN",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Friendship is Power"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "dark_purple",
+          "text": "+1\u2741 Rift Damage "
+        },
+        {
+          "color": "gray",
+          "text": "and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "+2\u26a1 Mana Regen "
+        },
+        {
+          "color": "gray",
+          "text": "for each"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "other "
+        },
+        {
+          "color": "gray",
+          "text": "wearer within "
+        },
+        {
+          "color": "green",
+          "text": "64"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "blocks."
+    },
+    {
+      "color": "dark_gray",
+      "text": "Max of 3 players!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "light_purple",
+      "text": "Same color \u003d 2x stats!"
+    },
+    {
+      "color": "yellow",
+      "text": "Left-click to pick color!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

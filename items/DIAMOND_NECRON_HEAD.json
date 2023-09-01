@@ -49,5 +49,110 @@
   ],
   "dungeon_item": true,
   "museum": true,
-  "id": "DIAMOND_NECRON_HEAD"
+  "id": "DIAMOND_NECRON_HEAD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Obtained from killing "
+        },
+        {
+          "color": "red",
+          "text": "Maxor,"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Storm, Goldor and Necron "
+        },
+        {
+          "color": "gray",
+          "text": "in"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "The Catacombs "
+        },
+        {
+          "color": "gray",
+          "text": "lots of times."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "2x "
+        },
+        {
+          "color": "gray",
+          "text": "stats on "
+        },
+        {
+          "color": "red",
+          "text": "The"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Catacombs Floor VII"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Disciples of the Wither King."
+    },
+    {
+      "color": "dark_gray",
+      "text": "Inherited the Catacombs eons"
+    },
+    {
+      "color": "dark_gray",
+      "text": "ago. Never defeated, feared by"
+    },
+    {
+      "color": "dark_gray",
+      "text": "anything living AND dead."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 700000 / 700000"
+    }
+  ]
 }

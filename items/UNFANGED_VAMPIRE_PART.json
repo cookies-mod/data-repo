@@ -7,5 +7,42 @@
   "origin": "RIFT",
   "motes_sell_price": 50000,
   "lose_motes_value_on_transfer": true,
-  "id": "UNFANGED_VAMPIRE_PART"
+  "id": "UNFANGED_VAMPIRE_PART",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Exportable "
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Loses motes value when"
+    },
+    {
+      "color": "dark_gray",
+      "text": "crossing dimensions."
+    }
+  ]
 }

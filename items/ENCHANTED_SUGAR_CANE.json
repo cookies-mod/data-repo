@@ -4,5 +4,11 @@
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 102400,
-  "id": "ENCHANTED_SUGAR_CANE"
+  "id": "ENCHANTED_SUGAR_CANE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

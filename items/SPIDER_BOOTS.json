@@ -57,5 +57,35 @@
       "level": 9
     }
   ],
-  "id": "SPIDER_BOOTS"
+  "id": "SPIDER_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Double Jump"
+    },
+    {
+      "color": "gray",
+      "text": "Allows you to double jump!"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "50"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

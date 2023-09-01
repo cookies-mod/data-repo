@@ -6,5 +6,34 @@
   "tier": "UNCOMMON",
   "origin": "RIFT",
   "rift_transferrable": true,
-  "id": "AGARICUS_CHUM_CAP"
+  "id": "AGARICUS_CHUM_CAP",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

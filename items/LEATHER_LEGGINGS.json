@@ -7,5 +7,10 @@
   },
   "npc_sell_price": 10,
   "id": "LEATHER_LEGGINGS",
-  "can_be_reforged": true
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

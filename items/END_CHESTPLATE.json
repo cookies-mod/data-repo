@@ -16,5 +16,39 @@
     }
   ],
   "soulbound": "COOP",
-  "id": "END_CHESTPLATE"
+  "id": "END_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "All stats of this armor piece"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "are multiplied by "
+        },
+        {
+          "color": "dark_purple",
+          "text": "2x "
+        },
+        {
+          "color": "gray",
+          "text": "while"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "on the End Island!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

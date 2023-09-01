@@ -3,7 +3,7 @@
   "durability": 3,
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTAxZTA0MGNiMDFjZjJjY2U0NDI4MzU4YWUzMWQyZTI2NjIwN2M0N2NiM2FkMTM5NzA5YzYyMDEzMGRjOGFkNCJ9fX0\u003d",
   "name": "Support Orb",
-  "tier": "UNCOMMON",
+  "tier": "UNOBTAINABLE",
   "dungeon_item": true,
   "id": "DUNGEON_BLUE_SUPPORT_ORB"
 }

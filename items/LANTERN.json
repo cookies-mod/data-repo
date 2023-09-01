@@ -4,5 +4,38 @@
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTRmNzU1NWQwNWY1MGZhMTMzYjZhMjEwMTE3NDIzNDY0MDFkZjczNDM5OWQ1YWE2YzI5ODgwYmIxZTM1YjkzZCJ9fX0\u003d",
   "name": "Lantern",
   "tier": "RARE",
-  "id": "LANTERN"
+  "id": "LANTERN",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Places torches by converting"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Coal "
+        },
+        {
+          "color": "gray",
+          "text": "from your inventory when"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "used."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-Click a block to use!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

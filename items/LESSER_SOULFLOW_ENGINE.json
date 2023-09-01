@@ -11,5 +11,59 @@
       "level": 2
     }
   ],
-  "id": "LESSER_SOULFLOW_ENGINE"
+  "id": "LESSER_SOULFLOW_ENGINE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "This item can be used as a"
+    },
+    {
+      "color": "gray",
+      "text": "minion upgrade."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Placing it in a minion will"
+    },
+    {
+      "color": "gray",
+      "text": "reduce the minion\u0027s output by"
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "50%"
+        },
+        {
+          "color": "gray",
+          "text": ", but it will start"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "generating "
+        },
+        {
+          "color": "aqua",
+          "text": "Soulflow "
+        },
+        {
+          "color": "gray",
+          "text": "items."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

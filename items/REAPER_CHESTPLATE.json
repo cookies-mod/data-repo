@@ -48,5 +48,243 @@
       ]
     }
   ],
-  "id": "REAPER_CHESTPLATE"
+  "id": "REAPER_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Full Set Bonus: Enrage "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "SNEAK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Enrage for "
+        },
+        {
+          "color": "green",
+          "text": "6s "
+        },
+        {
+          "color": "gray",
+          "text": "gaining "
+        },
+        {
+          "color": "white",
+          "text": "100\u2726"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "white",
+          "text": "Speed"
+        },
+        {
+          "color": "gray",
+          "text": ", "
+        },
+        {
+          "color": "red",
+          "text": "100\u2741 Damage"
+        },
+        {
+          "color": "gray",
+          "text": ", and "
+        },
+        {
+          "color": "red",
+          "text": "100\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Strength"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "25s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Trolling The Reaper"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Healing Wands heal "
+        },
+        {
+          "color": "green",
+          "text": "+50%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "green",
+          "text": "+100\u2748 "
+        },
+        {
+          "color": "gray",
+          "text": "against Zombies."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Deal "
+        },
+        {
+          "color": "red",
+          "text": "+100% "
+        },
+        {
+          "color": "gray",
+          "text": "damage to zombies"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "but "
+        },
+        {
+          "color": "red",
+          "text": "1% "
+        },
+        {
+          "color": "gray",
+          "text": "to all other mobs."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Piece Bonus: Zombie Bulwark"
+    },
+    {
+      "color": "gray",
+      "text": "Kill Zombies to accumulate"
+    },
+    {
+      "color": "gray",
+      "text": "defense against them."
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Piece Bonus: "
+        },
+        {
+          "color": "green",
+          "text": "+0\u2748"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Next Upgrade: "
+        },
+        {
+          "color": "green",
+          "text": "+20\u2748 "
+        },
+        {
+          "color": "dark_gray",
+          "text": "("
+        },
+        {
+          "color": "green",
+          "text": "0"
+        },
+        {
+          "color": "gray",
+          "text": "/"
+        },
+        {
+          "color": "red",
+          "text": "50"
+        },
+        {
+          "color": "dark_gray",
+          "text": ")"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_green",
+      "text": "This armor piece is undead \u0f15!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

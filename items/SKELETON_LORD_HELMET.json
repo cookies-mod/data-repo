@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_HELMET",
+  "material": "GOLDEN_HELMET",
   "name": "Skeleton Lord Helmet",
   "category": "HELMET",
   "tier": "EPIC",
@@ -100,5 +100,63 @@
     }
   ],
   "dungeon_item": true,
-  "id": "SKELETON_LORD_HELMET"
+  "id": "SKELETON_LORD_HELMET",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Dungeon Lord"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gains "
+        },
+        {
+          "color": "red",
+          "text": "+5\u2741 Strength "
+        },
+        {
+          "color": "gray",
+          "text": "and"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "+10\u2620 Critical Damage "
+        },
+        {
+          "color": "gray",
+          "text": "every"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "minute spent in the Dungeon."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_green",
+      "text": "This armor piece is undead \u0f15!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 70000 / 70000"
+    }
+  ]
 }

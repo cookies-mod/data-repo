@@ -1,7 +1,79 @@
 {
-  "material": "GOLD_AXE",
+  "material": "GOLDEN_AXE",
   "name": "Pumpkin Dicer",
   "category": "AXE",
   "tier": "EPIC",
-  "id": "PUMPKIN_DICER"
+  "id": "PUMPKIN_DICER",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gain "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+5\u262f Farming Wisdom"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "while harvesting pumpkins"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Roll em\u0027"
+    },
+    {
+      "color": "gray",
+      "text": "Every pumpkin you break, you"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "make a wish to "
+        },
+        {
+          "color": "light_purple",
+          "text": "RNGesus"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "which may grant you with a"
+    },
+    {
+      "color": "gray",
+      "text": "few or TONS of extra"
+    },
+    {
+      "color": "gray",
+      "text": "pumpkins!"
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

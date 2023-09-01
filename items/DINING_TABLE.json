@@ -4,5 +4,25 @@
   "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YTZkNGQ1MTZhOWI0MDUzMGMyNzhkN2YxM2E1MDYzMjZhYzBhNzQyZTUwNjkzYjFhMWMxMGFlNGMxNDcwMjE2In19fQ\u003d\u003d",
   "name": "Dining Table",
   "furniture": "DINING_TABLE",
-  "id": "DINING_TABLE"
+  "id": "DINING_TABLE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Furniture"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "This purely cosmetic item is"
+    },
+    {
+      "color": "gray",
+      "text": "great to place chairs around"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

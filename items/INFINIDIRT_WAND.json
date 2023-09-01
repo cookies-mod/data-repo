@@ -1,8 +1,60 @@
 {
   "material": "STICK",
-  "name": "InfiniDirt™ Wand",
+  "name": "InfiniDirt\u2122 Wand",
   "glowing": true,
   "tier": "UNCOMMON",
   "unstackable": true,
-  "id": "INFINIDIRT_WAND"
+  "id": "INFINIDIRT_WAND",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Place Dirt "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Place a dirt block."
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Costs "
+        },
+        {
+          "color": "gold",
+          "text": "1 coins"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Can be used within the Builders"
+    },
+    {
+      "color": "gray",
+      "text": "Wand!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

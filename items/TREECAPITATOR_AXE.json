@@ -1,8 +1,39 @@
 {
-  "material": "GOLD_AXE",
+  "material": "GOLDEN_AXE",
   "name": "Treecapitator",
   "category": "AXE",
   "tier": "EPIC",
   "npc_sell_price": 10000,
-  "id": "TREECAPITATOR_AXE"
+  "id": "TREECAPITATOR_AXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "color": "gray",
+      "text": "A forceful Gold Axe which can"
+    },
+    {
+      "color": "gray",
+      "text": "break a large amount of logs in"
+    },
+    {
+      "color": "gray",
+      "text": "a single hit!"
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "2s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

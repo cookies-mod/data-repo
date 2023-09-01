@@ -5,5 +5,40 @@
   "name": "Glacial Artifact",
   "category": "ACCESSORY",
   "tier": "RARE",
-  "id": "GLACIAL_ARTIFACT"
+  "id": "GLACIAL_ARTIFACT",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "+15\u262f Mining Wisdom "
+        },
+        {
+          "color": "gray",
+          "text": "on"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "red",
+          "text": "Jerry\u0027s Workshop"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

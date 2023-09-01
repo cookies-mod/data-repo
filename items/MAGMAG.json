@@ -5,7 +5,21 @@
   "name": "Magmag",
   "tier": "UNCOMMON",
   "soulbound": "COOP",
-  "description": "%%gray%%%%italic%%Used in love potions, and laxatives.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "Used in love potions, and"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "laxatives."
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 50,
   "id": "MAGMAG"
 }

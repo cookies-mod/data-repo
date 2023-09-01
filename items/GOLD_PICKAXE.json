@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_PICKAXE",
+  "material": "GOLDen_PICKAXE",
   "name": "Golden Pickaxe",
   "category": "PICKAXE",
   "stats": {
@@ -8,5 +8,11 @@
     "MINING_SPEED": 250
   },
   "npc_sell_price": 6,
-  "id": "GOLD_PICKAXE"
+  "id": "GOLD_PICKAXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

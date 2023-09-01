@@ -8,7 +8,42 @@
   "origin": "RIFT",
   "soulbound": "COOP",
   "rift_transferrable": true,
-  "description": "Don\u0027t hate the player, hate the game. - Ice T",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Don\u0027t hate the player, hate the"
+    },
+    {
+      "color": "gray",
+      "text": "game. - Ice T"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ],
   "stats": {
     "HEALTH": 1
   },

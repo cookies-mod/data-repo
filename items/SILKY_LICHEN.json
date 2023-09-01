@@ -1,8 +1,17 @@
 {
-  "material": "INK_SACK",
+  "material": "green_dye",
   "durability": 2,
   "name": "Silky Lichen",
   "tier": "RARE",
   "soulbound": "COOP",
-  "id": "SILKY_LICHEN"
+  "id": "SILKY_LICHEN",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

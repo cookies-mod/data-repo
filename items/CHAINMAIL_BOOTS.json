@@ -8,5 +8,10 @@
   },
   "npc_sell_price": 1,
   "id": "CHAINMAIL_BOOTS",
-  "can_be_reforged": true
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

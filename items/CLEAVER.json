@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_SWORD",
+  "material": "GOLDen_SWORD",
   "name": "Cleaver",
   "category": "SWORD",
   "tier": "UNCOMMON",
@@ -8,5 +8,47 @@
     "STRENGTH": 10
   },
   "npc_sell_price": 8,
-  "id": "CLEAVER"
+  "id": "CLEAVER",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Cleave"
+    },
+    {
+      "color": "gray",
+      "text": "When hitting an entity, monsters"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "in a "
+        },
+        {
+          "color": "green",
+          "text": "3"
+        },
+        {
+          "color": "gray",
+          "text": " block range will be"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "hit for a portion of that damage"
+    },
+    {
+      "color": "gray",
+      "text": "too."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

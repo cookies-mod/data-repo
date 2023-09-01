@@ -5,6 +5,14 @@
   "name": "Agaricus Cap Bunch",
   "tier": "UNCOMMON",
   "origin": "RIFT",
-  "description": "It\u0027s one nether of a cap!",
+  "description": [
+    {
+      "color": "gray",
+      "text": "It\u0027s one nether of a cap!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "AGARICUS_CAP_BUNCH"
 }

@@ -2,5 +2,26 @@
   "material": "EGG",
   "name": "Stone Platform",
   "npc_sell_price": 32,
-  "id": "STONE_BRIDGE"
+  "id": "STONE_BRIDGE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Creates a stone platform in the"
+    },
+    {
+      "color": "gray",
+      "text": "air after travelling 10 blocks."
+    },
+    {
+      "color": "gray",
+      "text": "Perfect for building below your"
+    },
+    {
+      "color": "gray",
+      "text": "island!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

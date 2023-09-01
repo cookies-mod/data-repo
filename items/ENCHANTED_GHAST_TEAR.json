@@ -4,5 +4,11 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 80,
-  "id": "ENCHANTED_GHAST_TEAR"
+  "id": "ENCHANTED_GHAST_TEAR",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

@@ -1,8 +1,41 @@
 {
-  "material": "INK_SACK",
+  "material": "light_blue_dye",
   "durability": 12,
   "name": "Aquamarine Dye",
   "tier": "EPIC",
   "unstackable": true,
-  "id": "DYE_AQUAMARINE"
+  "id": "DYE_AQUAMARINE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Changes the color of a leather"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "armor piece to "
+        },
+        {
+          "color": "#7FFFD4",
+          "text": "#7FFFD4"
+        },
+        {
+          "color": "gray",
+          "text": "!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

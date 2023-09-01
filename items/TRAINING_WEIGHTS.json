@@ -6,5 +6,72 @@
   "tier": "UNCOMMON",
   "npc_sell_price": 1,
   "dungeon_item": true,
-  "id": "TRAINING_WEIGHTS"
+  "id": "TRAINING_WEIGHTS",
+  "description": [
+    {
+      "color": "gray",
+      "text": "The longer you hold this in your"
+    },
+    {
+      "color": "gray",
+      "text": "inventory, the stronger you\u0027ll"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "become for "
+        },
+        {
+          "color": "green",
+          "text": "2 minutes"
+        },
+        {
+          "color": "gray",
+          "text": " after"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "removing it from your inventory!"
+    },
+    {
+      "color": "gray",
+      "text": "Max +50."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "white",
+          "text": "Time Held: "
+        },
+        {
+          "color": "green",
+          "text": "11 Minutes"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "white",
+          "text": "Strength Gain: "
+        },
+        {
+          "color": "red",
+          "text": "+1\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -63,5 +63,229 @@
       "slot_type": "DEFENSIVE"
     }
   ],
-  "id": "ADAPTIVE_LEGGINGS"
+  "id": "ADAPTIVE_LEGGINGS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Efficient training"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Every "
+        },
+        {
+          "color": "aqua",
+          "text": "5 "
+        },
+        {
+          "color": "gray",
+          "text": "Catacombs levels,"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "this armor piece gains +"
+        },
+        {
+          "color": "green",
+          "text": "2%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "stats."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Grants additional bonuses based"
+    },
+    {
+      "color": "gray",
+      "text": "on your selected dungeon class!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Berserk"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "red",
+          "text": "20\u2741 Strength"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Healer"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "green",
+          "text": "10% "
+        },
+        {
+          "color": "gray",
+          "text": "HP regeneration and "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "red",
+          "text": "40\u2764 Health"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Mage"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "aqua",
+          "text": "50\u270e Intelligence"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Tank"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "green",
+          "text": "30\u2748 Defense"
+        },
+        {
+          "color": "gray",
+          "text": " and reduces damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "taken by "
+        },
+        {
+          "color": "aqua",
+          "text": "5% "
+        },
+        {
+          "color": "gray",
+          "text": "for each piece you have equip if"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "you are hit by the same monster within "
+        },
+        {
+          "color": "yellow",
+          "text": "10"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "seconds."
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Archer"
+        },
+        {
+          "color": "gray",
+          "text": ": "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "blue",
+          "text": "5\u2623 Crit Chance "
+        },
+        {
+          "color": "gray",
+          "text": "+"
+        },
+        {
+          "color": "blue",
+          "text": "15\u2620 Crit Damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -10,5 +10,29 @@
       "level": 3
     }
   ],
-  "id": "EGG_HUNT"
+  "id": "EGG_HUNT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Place an egg which can be"
+    },
+    {
+      "color": "gray",
+      "text": "found on your island by guests"
+    },
+    {
+      "color": "gray",
+      "text": "for island points."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Maximum of 10."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

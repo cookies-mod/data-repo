@@ -10,5 +10,11 @@
   },
   "npc_sell_price": 140,
   "museum": true,
-  "id": "CLOWNFISH_HAT"
+  "id": "CLOWNFISH_HAT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

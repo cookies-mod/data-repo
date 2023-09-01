@@ -4,5 +4,11 @@
   "glowing": true,
   "tier": "RARE",
   "npc_sell_price": 25600,
-  "id": "ENCHANTED_REDSTONE_BLOCK"
+  "id": "ENCHANTED_REDSTONE_BLOCK",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

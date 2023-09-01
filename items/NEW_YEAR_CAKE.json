@@ -5,5 +5,22 @@
   "tier": "SPECIAL",
   "npc_sell_price": 100,
   "museum": true,
-  "id": "NEW_YEAR_CAKE"
+  "id": "NEW_YEAR_CAKE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Given to every player as a"
+    },
+    {
+      "color": "gray",
+      "text": "celebration for the 69th"
+    },
+    {
+      "color": "gray",
+      "text": "SkyBlock year!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

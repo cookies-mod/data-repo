@@ -3,6 +3,20 @@
   "name": "Goblin Egg",
   "tier": "RARE",
   "npc_sell_price": 421,
-  "description": "%%gray%%%%italic%%What came first the goblin or the egg?",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "What came first the goblin"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "or the egg?"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "GOBLIN_EGG"
 }

@@ -16,5 +16,44 @@
       "tier": 3
     }
   ],
-  "id": "REFINED_MITHRIL_PICKAXE"
+  "id": "REFINED_MITHRIL_PICKAXE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+50 "
+        },
+        {
+          "color": "gold",
+          "text": "\u2191 Mining Speed"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "when mining Mithril Ore"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

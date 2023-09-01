@@ -6,5 +6,65 @@
   "tier": "LEGENDARY",
   "npc_sell_price": 100,
   "museum": true,
-  "id": "SNOW_HOWITZER"
+  "id": "SNOW_HOWITZER",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Holds and shoots Snowballs. When"
+    },
+    {
+      "color": "gray",
+      "text": "you pickup Snowballs, they"
+    },
+    {
+      "color": "gray",
+      "text": "increase the ammo held by this"
+    },
+    {
+      "color": "gray",
+      "text": "item. Blasts Snowballs at a"
+    },
+    {
+      "color": "gray",
+      "text": "higher velocity than a Snow"
+    },
+    {
+      "color": "gray",
+      "text": "Blaster!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Snowballs: "
+        },
+        {
+          "color": "white",
+          "text": "10,000"
+        },
+        {
+          "color": "gray",
+          "text": "/"
+        },
+        {
+          "color": "white",
+          "text": "10,000"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right click to shoot!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

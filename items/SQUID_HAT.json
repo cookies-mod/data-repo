@@ -9,5 +9,18 @@
   },
   "npc_sell_price": 10,
   "museum": true,
-  "id": "SQUID_HAT"
+  "id": "SQUID_HAT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Extra chance to fish up Squids!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

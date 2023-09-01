@@ -4,5 +4,23 @@
   "tier": "UNCOMMON",
   "npc_sell_price": 50,
   "museum": true,
-  "id": "NAME_TAG"
+  "id": "NAME_TAG",
+  "soulbound": "COOP",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Right-click to apply a name to"
+    },
+    {
+      "color": "gray",
+      "text": "this Name Tag. Can be applied to"
+    },
+    {
+      "color": "gray",
+      "text": "mobs."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

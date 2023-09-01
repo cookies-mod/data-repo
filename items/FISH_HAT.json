@@ -9,5 +9,52 @@
   },
   "npc_sell_price": 24,
   "museum": true,
-  "id": "FISH_HAT"
+  "id": "FISH_HAT",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Splash"
+    },
+    {
+      "color": "gray",
+      "text": "Crouch to splash some water"
+    },
+    {
+      "color": "gray",
+      "text": "around."
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "10"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Cooldown: "
+        },
+        {
+          "color": "green",
+          "text": "1s"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

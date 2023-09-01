@@ -67,5 +67,10 @@
     }
   ],
   "id": "PERFECT_CHESTPLATE_12",
-  "can_be_reforged": true
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

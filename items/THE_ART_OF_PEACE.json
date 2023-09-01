@@ -3,5 +3,53 @@
   "name": "The Art of Peace",
   "tier": "LEGENDARY",
   "museum": true,
-  "id": "THE_ART_OF_PEACE"
+  "id": "THE_ART_OF_PEACE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "red",
+          "text": "+40\u2764 Health "
+        },
+        {
+          "color": "gray",
+          "text": "when"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "applied to an armor piece. Can"
+    },
+    {
+      "color": "gray",
+      "text": "only be applied to an item once."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Stop quoting my brother."
+    },
+    {
+      "color": "dark_gray",
+      "text": " - Moon Tzu"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -2,5 +2,26 @@
   "material": "FURNACE",
   "name": "Auto Smelter",
   "npc_sell_price": 32,
-  "id": "AUTO_SMELTER"
+  "id": "AUTO_SMELTER",
+  "description": [
+    {
+      "color": "gray",
+      "text": "This item can be used as a"
+    },
+    {
+      "color": "gray",
+      "text": "minion upgrade. This will"
+    },
+    {
+      "color": "gray",
+      "text": "automatically smelt materials"
+    },
+    {
+      "color": "gray",
+      "text": "that a minion produces."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

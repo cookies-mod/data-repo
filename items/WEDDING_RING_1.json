@@ -1,8 +1,80 @@
 {
   "material": "GOLD_NUGGET",
-  "name": "§eYellow Rock of Love",
+  "name": "\u00a7eYellow Rock of Love",
   "glowing": true,
   "category": "ACCESSORY",
   "soulbound": "COOP",
-  "id": "WEDDING_RING_1"
+  "id": "WEDDING_RING_1",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Grants a 1 in 100,000,000,000"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "chance to deal "
+        },
+        {
+          "color": "red",
+          "text": "+100%"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "damage."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "True love is tough to find,"
+    },
+    {
+      "color": "dark_gray",
+      "text": "but finding it hits you hard!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Requires quest progress!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Requires "
+        },
+        {
+          "bold": true,
+          "color": "green",
+          "text": "15x "
+        },
+        {
+          "color": "white",
+          "text": "Poppy"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "to upgrade!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

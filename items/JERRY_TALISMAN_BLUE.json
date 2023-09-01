@@ -8,5 +8,32 @@
   "stats": {
     "INTELLIGENCE": -2
   },
-  "id": "JERRY_TALISMAN_BLUE"
+  "id": "JERRY_TALISMAN_BLUE",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Wear to prove you love Jerry,"
+    },
+    {
+      "color": "gray",
+      "text": "or wear to prove you hate"
+    },
+    {
+      "color": "gray",
+      "text": "Jerry."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -2,5 +2,11 @@
   "material": "RABBIT_FOOT",
   "name": "Rabbit\u0027s Foot",
   "npc_sell_price": 5,
-  "id": "RABBIT_FOOT"
+  "id": "RABBIT_FOOT",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

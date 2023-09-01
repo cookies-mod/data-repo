@@ -8,10 +8,5 @@
   },
   "npc_sell_price": 340,
   "id": "AIMING_BOW",
-  "description": [
-    {"text": ""},
-    {"text": "WARNING!", "color": "red", "bold": true},
-    {"text": "This item is not obtainable, it does ONLY exist in the API.", "color": "red"},
-    {"text": ""}
-  ]
+  "can_be_reforged": true
 }

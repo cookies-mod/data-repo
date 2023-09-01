@@ -71,5 +71,74 @@
     ]
   },
   "rift_transferrable": true,
-  "id": "FLEX_HELMET"
+  "id": "FLEX_HELMET",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Costs "
+        },
+        {
+          "color": "light_purple",
+          "text": "100 Motes "
+        },
+        {
+          "color": "gray",
+          "text": "per"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "second to wear."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Worn: "
+        },
+        {
+          "color": "green",
+          "text": "0 seconds"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Left-click to pick animal!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

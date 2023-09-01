@@ -5,5 +5,8 @@
   "name": "Crypt Skull Key",
   "tier": "UNCOMMON",
   "dungeon_item": true,
-  "id": "CRYPT_SKULL_KEY"
+  "id": "CRYPT_SKULL_KEY",
+  "description": [
+    {"text":"Dungeon only item! (NOT IN USE)","color":"red"}
+  ]
 }

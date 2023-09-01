@@ -17,5 +17,18 @@
     }
   ],
   "museum": true,
-  "id": "FARMER_ROD"
+  "id": "FARMER_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Chance to fish up farm animals!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

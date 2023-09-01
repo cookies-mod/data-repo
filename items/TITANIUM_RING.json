@@ -15,5 +15,10 @@
       "tier": 3
     }
   ],
-  "id": "TITANIUM_RING"
+  "id": "TITANIUM_RING",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

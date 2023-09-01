@@ -3,5 +3,14 @@
   "name": "Null Edge",
   "glowing": true,
   "tier": "EPIC",
-  "id": "NULL_EDGE"
+  "id": "NULL_EDGE",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

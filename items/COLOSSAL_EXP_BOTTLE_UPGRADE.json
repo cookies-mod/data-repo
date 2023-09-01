@@ -5,5 +5,64 @@
   "name": "Colossal Experience Bottle Upgrade",
   "glowing": true,
   "tier": "SPECIAL",
-  "id": "COLOSSAL_EXP_BOTTLE_UPGRADE"
+  "id": "COLOSSAL_EXP_BOTTLE_UPGRADE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Craft with a "
+        },
+        {
+          "color": "blue",
+          "text": "Titanic"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "blue",
+          "text": "Experience Bottle "
+        },
+        {
+          "color": "gray",
+          "text": "to "
+        },
+        {
+          "color": "aqua",
+          "text": "double"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "the experience it contains."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "after_description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Cost"
+    },
+    {
+      "color": "aqua",
+      "text": "1,200 Bits"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "material": "DIODE",
+  "material": "Repeater",
   "name": "Repeater",
   "npc_sell_price": 3,
   "id": "DIODE"

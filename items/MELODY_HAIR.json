@@ -1,6 +1,6 @@
 {
   "material": "STRING",
-  "name": "§dMelody\u0027s Hair",
+  "name": "\u00a7dMelody\u0027s Hair",
   "glowing": true,
   "category": "ACCESSORY",
   "tier": "EPIC",
@@ -13,5 +13,50 @@
       "type": "MELODY_HAIR"
     }
   ],
-  "id": "MELODY_HAIR"
+  "id": "MELODY_HAIR",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "A single strand of hair from"
+    },
+    {
+      "color": "gray",
+      "text": "Melody\u0027s head."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Left-Click: "
+        },
+        {
+          "color": "yellow",
+          "text": "Tune up!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Right-Click: "
+        },
+        {
+          "color": "light_purple",
+          "text": "Play note!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

@@ -3,7 +3,26 @@
   "name": "Red Thornleaf",
   "glowing": true,
   "tier": "UNCOMMON",
-  "description": "%%gray%%%%italic%%A leaf that grows on the ground. Really pushing the envelope.",
+  "description": [
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "A leaf that grows on the"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "ground. Really pushing the"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "envelope."
+    },
+    {
+      "text": ""
+    }
+  ],
   "npc_sell_price": 20,
   "id": "RED_THORNLEAF"
 }

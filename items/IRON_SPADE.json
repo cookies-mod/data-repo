@@ -1,10 +1,15 @@
 {
-  "material": "IRON_SPADE",
+  "material": "IRON_Shovel",
   "name": "Iron Shovel",
   "category": "SPADE",
   "stats": {
     "DAMAGE": 25
   },
   "npc_sell_price": 2,
-  "id": "IRON_SPADE"
+  "id": "IRON_SPADE",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

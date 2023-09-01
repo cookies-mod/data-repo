@@ -1,7 +1,359 @@
 {
-  "material": "EXP_BOTTLE",
+  "material": "experience_bottle",
   "name": "Bottled Odonata",
   "tier": "RARE",
   "origin": "RIFT",
-  "id": "BOTTLED_ODONATA"
+  "id": "BOTTLED_ODONATA",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "There\u0027s an "
+        },
+        {
+          "color": "blue",
+          "text": "Odonata "
+        },
+        {
+          "color": "gray",
+          "text": "in there!"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Look:"
+    },
+    {
+      "color": "aqua",
+      "text": "+---------------+"
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "| "
+        },
+        {
+          "color": "yellow",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "yellow",
+          "text": "\u2588"
+        },
+        {
+          "color": "aqua",
+          "text": " |"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "| "
+        },
+        {
+          "color": "yellow",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "yellow",
+          "text": "\u2588"
+        },
+        {
+          "color": "aqua",
+          "text": " |"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "| "
+        },
+        {
+          "color": "yellow",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "yellow",
+          "text": "\u2588"
+        },
+        {
+          "color": "aqua",
+          "text": " |"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "| "
+        },
+        {
+          "color": "yellow",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "yellow",
+          "text": "\u2588"
+        },
+        {
+          "color": "aqua",
+          "text": " |"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "| "
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "yellow",
+          "text": "\u2588"
+        },
+        {
+          "color": "yellow",
+          "text": "\u2588"
+        },
+        {
+          "color": "yellow",
+          "text": "\u2588"
+        },
+        {
+          "color": "yellow",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "aqua",
+          "text": " |"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "| "
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "blue",
+          "text": "\u2588"
+        },
+        {
+          "color": "aqua",
+          "text": " |"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "aqua",
+      "text": "+---------------+"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

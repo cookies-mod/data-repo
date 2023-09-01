@@ -15,5 +15,10 @@
       "tier": 4
     }
   ],
-  "id": "TITANIUM_ARTIFACT"
+  "id": "TITANIUM_ARTIFACT",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

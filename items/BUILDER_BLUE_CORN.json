@@ -4,5 +4,14 @@
   "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmQ1NDE1ODFiMGQyNGIxYjVhYjFkYWQ0ZjUxZTM4M2QwM2I5YjBiY2I0Y2Y4NmYxMzQ1MTQ1NDY4ZWZkMWM1YSJ9fX0",
   "name": "Blue Corn",
   "npc_sell_price": 10,
-  "id": "BUILDER_BLUE_CORN"
+  "id": "BUILDER_BLUE_CORN",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Decoration item"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

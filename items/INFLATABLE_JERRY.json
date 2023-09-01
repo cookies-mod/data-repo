@@ -1,7 +1,31 @@
 {
-  "material": "MONSTER_EGG",
+  "material": "villager_spawn_egg",
   "durability": 120,
   "name": "Inflatable Jerry",
   "dungeon_item": true,
-  "id": "INFLATABLE_JERRY"
+  "id": "INFLATABLE_JERRY",
+  "description": [
+    {
+      "color": "gray",
+      "text": "May it be a light to you in"
+    },
+    {
+      "color": "gray",
+      "text": "dark places, when all other"
+    },
+    {
+      "color": "gray",
+      "text": "lights go out."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "red",
+      "text": "Dungeons only!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

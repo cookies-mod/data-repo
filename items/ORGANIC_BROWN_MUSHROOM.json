@@ -3,6 +3,6 @@
   "name": "Organic Brown Mushroom",
   "npc_sell_price": 4,
   "glowing": true,
-  "tier": "UNCOMMON",
+  "tier": "UNOBTAINABLE",
   "id": "ORGANIC_BROWN_MUSHROOM"
 }

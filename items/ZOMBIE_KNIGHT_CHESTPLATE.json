@@ -1,5 +1,5 @@
 {
-  "material": "GOLD_CHESTPLATE",
+  "material": "GOLDEN_CHESTPLATE",
   "name": "Zombie Knight Chestplate",
   "category": "CHESTPLATE",
   "tier": "EPIC",
@@ -88,5 +88,50 @@
     }
   ],
   "dungeon_item": true,
-  "id": "ZOMBIE_KNIGHT_CHESTPLATE"
+  "id": "ZOMBIE_KNIGHT_CHESTPLATE",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Full Set Bonus: Zombie Knight"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Gains "
+        },
+        {
+          "color": "green",
+          "text": "+50\u2748 Defense "
+        },
+        {
+          "color": "gray",
+          "text": "when used"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "with the Zombie Knight Sword"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_green",
+      "text": "This armor piece is undead \u0f15!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 52500 / 52500"
+    }
+  ]
 }

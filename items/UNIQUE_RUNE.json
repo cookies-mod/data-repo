@@ -5,5 +5,44 @@
   "name": "Rune",
   "category": "COSMETIC",
   "tier": "UNCOMMON",
-  "id": "UNIQUE_RUNE"
+  "id": "UNIQUE_RUNE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Requires level 0"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Helmet"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Creates a captivating Enchanting"
+    },
+    {
+      "color": "gray",
+      "text": "Halo! Obtained from Fire Sales."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Apply this rune to helmet or"
+    },
+    {
+      "color": "gray",
+      "text": "fuse two together at the Runic"
+    },
+    {
+      "color": "gray",
+      "text": "Pedestal!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

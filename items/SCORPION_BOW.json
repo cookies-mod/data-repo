@@ -62,5 +62,82 @@
       "level": 10
     }
   ],
-  "id": "SCORPION_BOW"
+  "id": "SCORPION_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Stinger"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Fully charged shots while sneaking"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Slows the victim and deal "
+        },
+        {
+          "color": "red",
+          "text": "35x"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "your "
+        },
+        {
+          "color": "red",
+          "text": "Strength \u2741 "
+        },
+        {
+          "color": "gray",
+          "text": "as damage"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "per second for "
+        },
+        {
+          "color": "green",
+          "text": "6s"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Cost: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "150"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

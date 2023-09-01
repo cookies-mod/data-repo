@@ -5,6 +5,26 @@
   "name": "Caducous Stem Bunch",
   "tier": "UNCOMMON",
   "origin": "RIFT",
-  "description": "Bundling what bees find attractive together in an industrial production process is definitely what nature planned.",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Bundling what bees find"
+    },
+    {
+      "color": "gray",
+      "text": "attractive together in an"
+    },
+    {
+      "color": "gray",
+      "text": "industrial production process is"
+    },
+    {
+      "color": "gray",
+      "text": "definitely what nature planned."
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "CADUCOUS_STEM_BUNCH"
 }

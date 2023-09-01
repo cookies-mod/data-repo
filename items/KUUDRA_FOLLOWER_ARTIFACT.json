@@ -7,5 +7,31 @@
   "tier": "EPIC",
   "unstackable": true,
   "soulbound": "COOP",
-  "id": "KUUDRA_FOLLOWER_ARTIFACT"
+  "id": "KUUDRA_FOLLOWER_ARTIFACT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Reduces damage taken from Kuudra"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Followers by "
+        },
+        {
+          "color": "green",
+          "text": "50%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

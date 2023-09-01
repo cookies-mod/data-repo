@@ -15,5 +15,43 @@
       "level": 2
     }
   ],
-  "id": "RECLUSE_FANG"
+  "id": "RECLUSE_FANG",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Squash \u0027em"
+    },
+    {
+      "color": "gray",
+      "text": "Squash Spiders to accumulate"
+    },
+    {
+      "color": "gray",
+      "text": "strength against them."
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Bonus: "
+        },
+        {
+          "color": "red",
+          "text": "+0\u2741"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "+1 strength per 40 squashed"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

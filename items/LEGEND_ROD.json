@@ -17,5 +17,11 @@
       "level": 20
     }
   ],
-  "id": "LEGEND_ROD"
+  "id": "LEGEND_ROD",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

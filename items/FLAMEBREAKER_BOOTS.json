@@ -15,5 +15,30 @@
     }
   ],
   "museum": true,
-  "id": "FLAMEBREAKER_BOOTS"
+  "id": "FLAMEBREAKER_BOOTS",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "An old charred shadow of the"
+    },
+    {
+      "color": "gray",
+      "text": "real thing leaving behind"
+    },
+    {
+      "color": "gray",
+      "text": "streaks of coal on the wearer"
+    },
+    {
+      "color": "gray",
+      "text": "from its shoddy construction."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

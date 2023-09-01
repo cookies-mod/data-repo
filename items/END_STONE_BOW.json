@@ -14,5 +14,40 @@
       "level": 15
     }
   ],
-  "id": "END_STONE_BOW"
+  "id": "END_STONE_BOW",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Ability: Extreme Focus "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "LEFT CLICK"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Consumes all your mana, and your"
+    },
+    {
+      "color": "gray",
+      "text": "next hit will deal that much"
+    },
+    {
+      "color": "gray",
+      "text": "more damage!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

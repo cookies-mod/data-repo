@@ -8,5 +8,66 @@
   "rift_transferrable": true,
   "soulbound": "SOLO",
   "unstackable": true,
-  "id": "FAKE_NEUROSCIENCE_DEGREE"
+  "id": "FAKE_NEUROSCIENCE_DEGREE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Use at (the real) Kat to upgrade"
+    },
+    {
+      "color": "gray",
+      "text": "a Spider or Tarantula pet to"
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "text": "mythic "
+        },
+        {
+          "color": "gray",
+          "text": "rarity."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "With this fake diploma you can"
+    },
+    {
+      "color": "dark_gray",
+      "text": "somehow talk spiders into uh..."
+    },
+    {
+      "color": "dark_gray",
+      "text": "upgrading their rarity."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

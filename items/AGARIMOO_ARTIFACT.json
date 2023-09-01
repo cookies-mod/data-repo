@@ -10,5 +10,10 @@
     "farming_wisdom": 1,
     "fishing_speed": 3
   },
-  "id": "AGARIMOO_ARTIFACT"
+  "id": "AGARIMOO_ARTIFACT",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

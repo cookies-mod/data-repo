@@ -1,7 +1,8 @@
 {
-  "material": "GOLD_HOE",
+  "material": "GOLDen_HOE",
   "name": "Golden Hoe",
   "category": "HOE",
   "npc_sell_price": 4,
-  "id": "GOLD_HOE"
+  "id": "GOLD_HOE",
+  "can_be_reforged": true
 }

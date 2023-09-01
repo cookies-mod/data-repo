@@ -6,5 +6,47 @@
   "category": "BAIT",
   "tier": "UNCOMMON",
   "npc_sell_price": 30,
-  "id": "HOT_BAIT"
+  "id": "HOT_BAIT",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Fishing Bait"
+    },
+    {
+      "color": "dark_gray",
+      "text": "Consumes on Cast"
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Increases the chance to catch"
+    },
+    {
+      "extra": [
+        {
+          "color": "gold",
+          "text": "Trophy Fish "
+        },
+        {
+          "color": "gray",
+          "text": "by "
+        },
+        {
+          "color": "green",
+          "text": "5%"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

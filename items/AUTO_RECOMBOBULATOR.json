@@ -7,5 +7,35 @@
   "tier": "LEGENDARY",
   "npc_sell_price": 1000,
   "dungeon_item": true,
-  "id": "AUTO_RECOMBOBULATOR"
+  "id": "AUTO_RECOMBOBULATOR",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants a "
+        },
+        {
+          "color": "green",
+          "text": "1% "
+        },
+        {
+          "color": "gray",
+          "text": "chance to"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "automatically recombobulate"
+    },
+    {
+      "color": "gray",
+      "text": "drops you get from enemies."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

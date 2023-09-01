@@ -4,5 +4,11 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 31000,
-  "id": "ENCHANTED_FERMENTED_SPIDER_EYE"
+  "id": "ENCHANTED_FERMENTED_SPIDER_EYE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }

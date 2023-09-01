@@ -1,6 +1,19 @@
 {
-  "material": "MONSTER_EGG",
+  "material": "villager_spawn_egg",
   "durability": 120,
   "name": "Move Jerry",
-  "id": "ASSISTANT"
+  "id": "ASSISTANT",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Place this where you would like"
+    },
+    {
+      "color": "gray",
+      "text": "Jerry to move to!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

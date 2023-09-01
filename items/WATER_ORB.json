@@ -5,6 +5,49 @@
   "name": "Water Orb",
   "tier": "EPIC",
   "npc_sell_price": 3000,
-  "description": "A perfectly smooth, highly condensed orb of pure fish matter.\n\nUsed as a core ingredient in high level fishing crafts.\n\n%%dark_gray%%Smells like fish...",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A perfectly smooth, highly"
+    },
+    {
+      "color": "gray",
+      "text": "condensed orb of pure fish"
+    },
+    {
+      "color": "gray",
+      "text": "matter."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Used as a core ingredient in"
+    },
+    {
+      "color": "gray",
+      "text": "high level fishing crafts."
+    },
+    {
+      "color": "gray",
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Smells like fish..."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ],
   "id": "WATER_ORB"
 }

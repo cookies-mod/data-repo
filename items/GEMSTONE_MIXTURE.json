@@ -5,5 +5,44 @@
   "name": "Gemstone Mixture",
   "glowing": true,
   "tier": "RARE",
-  "id": "GEMSTONE_MIXTURE"
+  "id": "GEMSTONE_MIXTURE",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A collection of finely treated"
+    },
+    {
+      "extra": [
+        {
+          "color": "light_purple",
+          "text": "Gemstones "
+        },
+        {
+          "color": "gray",
+          "text": "held together by"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "the sturdiest of "
+        },
+        {
+          "color": "green",
+          "text": "sticky"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "substances."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

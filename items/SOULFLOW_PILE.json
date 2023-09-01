@@ -13,5 +13,99 @@
       "level": 2
     }
   ],
-  "id": "SOULFLOW_PILE"
+  "id": "SOULFLOW_PILE",
+  "description": [
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Internalized: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "0\u2e0e Soulflow"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gold",
+      "text": "Ability: Overflow Mana"
+    },
+    {
+      "color": "gray",
+      "text": "When leaving combat, convert up"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "to "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "5\u2e0e Soulflow "
+        },
+        {
+          "color": "gray",
+          "text": "into "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "200\u02ac"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_aqua",
+          "text": "Overflow Mana"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Enabled: "
+        },
+        {
+          "color": "green",
+          "text": "On"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to toggle!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Soulflow from abilities is"
+    },
+    {
+      "color": "dark_gray",
+      "text": "drained from your internalized \u2e0e."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

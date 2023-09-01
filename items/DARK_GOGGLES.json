@@ -48,5 +48,15 @@
     ]
   ],
   "dungeon_item": true,
-  "id": "DARK_GOGGLES"
+  "id": "DARK_GOGGLES",
+  "can_be_reforged": true,
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "green",
+      "text": "Perfect 35000 / 35000"
+    }
+  ]
 }

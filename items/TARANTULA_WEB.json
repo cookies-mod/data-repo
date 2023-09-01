@@ -4,5 +4,14 @@
   "glowing": true,
   "tier": "UNCOMMON",
   "npc_sell_price": 1,
-  "id": "TARANTULA_WEB"
+  "id": "TARANTULA_WEB",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

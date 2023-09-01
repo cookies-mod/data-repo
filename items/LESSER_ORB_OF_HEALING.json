@@ -13,5 +13,73 @@
     }
   ],
   "dungeon_item": true,
-  "id": "LESSER_ORB_OF_HEALING"
+  "id": "LESSER_ORB_OF_HEALING",
+  "description": [
+    {
+      "color": "gray",
+      "text": "A shard of a Dungeon Blessing,"
+    },
+    {
+      "color": "gray",
+      "text": "capable of being bestowed upon"
+    },
+    {
+      "color": "gray",
+      "text": "another player for a continuous"
+    },
+    {
+      "color": "gray",
+      "text": "buff, but draining mana."
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "Orb of Life "
+        },
+        {
+          "bold": true,
+          "color": "yellow",
+          "text": "RIGHT CLICK TEAMMATE"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Grants "
+        },
+        {
+          "color": "green",
+          "text": "+5%"
+        },
+        {
+          "color": "gray",
+          "text": " HP per second."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "dark_gray",
+          "text": "Mana Drain: "
+        },
+        {
+          "color": "dark_aqua",
+          "text": "50 per second"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    }
+  ]
 }

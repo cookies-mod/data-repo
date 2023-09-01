@@ -8,5 +8,7 @@
   "stats": {
     "MAGIC_FIND": 1000
   },
-  "id": "MEGA_LUCK"
+  "id": "MEGA_LUCK",
+  "soulbound": "SOLO",
+  "can_be_reforged": true
 }

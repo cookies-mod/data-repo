@@ -1,9 +1,18 @@
 {
-  "material": "CARPET",
+  "material": "blue_carpet",
   "durability": 11,
   "name": "Nullified Metal",
   "tier": "UNCOMMON",
   "origin": "RIFT",
   "motes_sell_price": 100,
-  "id": "NULLIFIED_METAL"
+  "id": "NULLIFIED_METAL",
+  "description": [
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

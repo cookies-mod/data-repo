@@ -6,5 +6,25 @@
   "tier": "EPIC",
   "unstackable": true,
   "npc_sell_price": 5000,
-  "id": "THUNDER_IN_A_BOTTLE"
+  "id": "THUNDER_IN_A_BOTTLE",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Combinable in Anvil"
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "What happens if you open it?"
+    },
+    {
+      "color": "gray",
+      "text": "The answer may shock you."
+    },
+    {
+      "text": ""
+    }
+  ]
 }

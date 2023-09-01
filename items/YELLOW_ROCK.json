@@ -1,7 +1,15 @@
 {
   "material": "GOLD_NUGGET",
-  "name": "§eYellow Rock",
-  "description": "%%gray%%%%italic%%A little rough around the edges, but beauty can be found within.",
+  "name": "\u00a7eYellow Rock",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Quest item"
+    },
+    {
+      "text": ""
+    }
+  ],
   "glowing": true,
   "id": "YELLOW_ROCK"
 }

@@ -8,5 +8,92 @@
     "bonus_fishing_speed_per_bucket": 4,
     "max_bonus_fishing_speed": 16
   },
-  "id": "EMPTY_CHUMCAP_BUCKET"
+  "id": "EMPTY_CHUMCAP_BUCKET",
+  "description": [
+    {
+      "color": "gray",
+      "text": "Place it down next to water."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Sea Creatures slain nearby will"
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "drop "
+        },
+        {
+          "color": "green",
+          "text": "+1 Chum"
+        },
+        {
+          "color": "gray",
+          "text": "."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "dark_gray",
+      "text": "Up to +4 total from buckets!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "Nearby fishers gain "
+        },
+        {
+          "color": "aqua",
+          "text": "+4\u2602"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "aqua",
+          "text": "Fishing Speed "
+        },
+        {
+          "color": "gray",
+          "text": "and a good"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "color": "gray",
+          "text": "chance to fish up an "
+        },
+        {
+          "color": "red",
+          "text": "Agarimoo"
+        }
+      ],
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "sea creature."
+    },
+    {
+      "color": "dark_gray",
+      "text": "Up to +16\u2602 from buckets!"
+    },
+    {
+      "text": ""
+    }
+  ]
 }

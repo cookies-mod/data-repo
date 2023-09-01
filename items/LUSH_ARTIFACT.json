@@ -9,5 +9,10 @@
     "health": 5,
     "health_regeneration": 1
   },
-  "id": "LUSH_ARTIFACT"
+  "id": "LUSH_ARTIFACT",
+  "description": [
+    {
+      "text": ""
+    }
+  ]
 }

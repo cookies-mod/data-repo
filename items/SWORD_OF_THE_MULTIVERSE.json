@@ -2,7 +2,7 @@
   "material": "IRON_SWORD",
   "name": "Sword of the Multiverse",
   "category": "SWORD",
-  "tier": "UNOBTAINABLE",
+  "tier": "ADMIN",
   "origin": "RIFT",
   "stats": {
     "RIFT_DAMAGE": 99999999

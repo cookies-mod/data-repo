@@ -11,5 +11,75 @@
   "stats": {
     "rift_Time": 11
   },
-  "id": "SCARF_THESIS"
+  "id": "SCARF_THESIS",
+  "description": [
+    {
+      "text": ""
+    },
+    {
+      "color": "gray",
+      "text": "Gain dungeon class experience"
+    },
+    {
+      "extra": [
+        {
+          "color": "green",
+          "text": "+4% "
+        },
+        {
+          "color": "gray",
+          "text": "faster."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "text": ""
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "A research on how to"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "preserve and enhance class"
+    },
+    {
+      "italic": true,
+      "color": "gray",
+      "text": "abilities in death."
+    },
+    {
+      "text": ""
+    },
+    {
+      "color": "yellow",
+      "text": "Right-click to view recipes!"
+    },
+    {
+      "text": ""
+    },
+    {
+      "extra": [
+        {
+          "obfuscated": true,
+          "color": "dark_purple",
+          "text": "X"
+        },
+        {
+          "color": "dark_purple",
+          "extra": [
+            {
+              "obfuscated": true,
+              "text": "X"
+            }
+          ],
+          "text": " Rift-Transferable "
+        }
+      ],
+      "text": ""
+    }
+  ]
 }

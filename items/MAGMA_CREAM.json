@@ -2,5 +2,11 @@
   "material": "MAGMA_CREAM",
   "name": "Magma Cream",
   "npc_sell_price": 8,
-  "id": "MAGMA_CREAM"
+  "id": "MAGMA_CREAM",
+  "description": [
+    {
+      "color": "dark_gray",
+      "text": "Brewing Ingredient"
+    }
+  ]
 }
