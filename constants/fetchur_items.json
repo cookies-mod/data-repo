@@ -1,14 +1,14 @@
 [
-  "cookies:items/mithril_ore:20",
-  "cookies:items/wood_door:1",
-  "cookies:items/wool_14:50",
-  "cookies:items/flint_and_steel:1",
-  "cookies:items/cheap_coffee:1",
-  "cookies:items/stained_glass_4:20",
-  "cookies:items/firework_rocket:1",
-  "cookies:items/compass:1",
-  "cookies:items/pumpkin:1",
-  "cookies:items/rabbit_foot:3",
-  "cookies:items/superboom_tnt:1",
-  "cookies:items/emerald:50"
+  "skyblock:items/mithril_ore:20",
+  "skyblock:items/wood_door:1",
+  "skyblock:items/wool_14:50",
+  "skyblock:items/flint_and_steel:1",
+  "skyblock:items/cheap_coffee:1",
+  "skyblock:items/stained_glass_4:20",
+  "skyblock:items/firework_rocket:1",
+  "skyblock:items/compass:1",
+  "skyblock:items/pumpkin:1",
+  "skyblock:items/rabbit_foot:3",
+  "skyblock:items/superboom_tnt:1",
+  "skyblock:items/emerald:50"
 ]
