@@ -1,0 +1,21 @@
+{
+  "drill_ids": [
+    "skyblock:items/gemstone_drill_1",
+    "skyblock:items/gemstone_drill_2",
+    "skyblock:items/gemstone_drill_3",
+    "skyblock:items/gemstone_drill_4",
+    "skyblock:items/mithril_drill_1",
+    "skyblock:items/mithril_drill_2",
+    "skyblock:items/titanium_drill_1",
+    "skyblock:items/titanium_drill_2",
+    "skyblock:items/titanium_drill_3",
+    "skyblock:items/titanium_drill_4",
+    "skyblock:items/divan_drill"
+  ],
+  "tank_upgrades": {
+    "mithril_fuel_tank": 10000,
+    "titanium_fuel_tank": 25000,
+    "gemstone_fuel_tank": 50000,
+    "perfectly_cut_fuel_tank": 100000
+  }
+}
