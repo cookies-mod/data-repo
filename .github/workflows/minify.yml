@@ -1,0 +1,43 @@
+name: Minify All Json Files
+
+on:
+  push:
+    tags:
+      - v*
+
+jobs:
+  minify:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Bundle Items
+      uses: sergeysova/jq-action@v2
+      with:
+        cmd: jq --slurp --compact-output 'map(.)' items/*.json > items.json
+    - name: Bundle Recipes
+      uses: sergeysova/jq-action@v2
+      with:
+        cmd: jq --slurp --compact-output 'map(.)' recipes/*.json > recipes.json
+    - name: Bundle Constants
+      uses: sergeysova/jq-action@v2
+      with:
+        cmd: |
+          echo "{}" > constants.json
+          for file in constants/*.json
+          do
+            name=`basename $file .json`
+            content=`cat $file | jq --compact-output`
+            jq --compact-output '. + { "'$name'": '$content' }' constants.json > constants_tmp.json
+            mv constants_tmp.json constants.json
+          done
+    - name: Create Signature
+      run: |
+        cat items.json | sha256sum | head -c 40 > items.json.sha256
+        cat recipes.json | sha256sum | head -c 40 > recipes.json.sha256
+        cat constants.json | sha256sum | head -c 40 > constants.json.sha256
+    - name: Create Release
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        TAG: ${{ github.ref_name }}
+      run: gh release create "$tag" --repo="$GITHUB_REPOSITORY" --title "${GITHUB_REPOSITORY#*/} ${tag#v}" items.json recipes.json constants.json items.json.sha256 recipes.json.sha256 constants.json.sha256
