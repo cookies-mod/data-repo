@@ -5,12 +5,11 @@
   "name": "Concentrated Stone",
   "tier": "RARE",
   "npc_sell_price": 200000,
-  "description": "%%gray%%The purest form of stone. How can something so simple, be so heavy?",
   "id": "CONCENTRATED_STONE",
   "description": [
     {"text":"The purest form of stone. How","color":"gray"},
     {"text":"can something so simple, be so","color":"gray"},
     {"text":"heavy?","color":"gray"},
-    {"text":""},
+    {"text":""}
   ]
 }

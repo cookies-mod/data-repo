@@ -5,11 +5,10 @@
   "name": "Plasma",
   "tier": "RARE",
   "npc_sell_price": 20000,
-  "description": "%%gray%%%%italic%%Stable magnetic field, but to handle with caution.",
   "id": "PLASMA",
   "description": [
     {"text":"Stable magnetic field, but","color":"gray","italic":true},
     {"text":"to handle with caution.","color":"gray","italic":true},
-    {"text":""},
+    {"text":""}
   ]
 }

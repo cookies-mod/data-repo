@@ -18,6 +18,6 @@
     {"text":"+15\u2694 Bonus Attack Speed","color":"yellow"},
     {"text":""},
     {"text":"Requires ","color":"gray","extra":[{"text":"Combat Skill Level XXV","color":"green"},{"text":"!","color":"gray"}]},
-    {"text":""},
+    {"text":""}
   ]
 }

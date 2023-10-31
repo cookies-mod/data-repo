@@ -19,6 +19,6 @@
     {"text":"+25\u2620 Crit Damage","color":"blue"},
     {"text":""},
     {"text":"Requires ","color":"gray","extra":[{"text":"Combat Skill Level XXX","color":"green"},{"text":"!","color":"gray"}]},
-    {"text":""},
+    {"text":""}
   ]
 }

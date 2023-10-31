@@ -7,7 +7,7 @@
   "id": "BARN_ISLAND",
   "tier":"UNOBTAINABLE",
   "description": [
-    {"text":"Place this in your private world","text":"gray"},
-    {"text":"to spawn a Barn island!","text":"gray"}
+    {"text":"Place this in your private world","color":"gray"},
+    {"text":"to spawn a Barn island!","color":"gray"}
   ]
 }

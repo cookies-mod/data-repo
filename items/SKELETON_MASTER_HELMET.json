@@ -111,7 +111,7 @@
     {"text":"Increase the damage you deal","color":"gray"},
     {"text":"with arrows by ","color":"gray", "extra":[{"text":"25%.","color":"red"},{"text":".","color":"gray"}]},
     {"text":""},
-    {"text":"Perfect 52500 / 52500","color":"green"},
+    {"text":"Perfect 52500 / 52500","color":"green"}
   ],
   "can_be_reforged":true
 }

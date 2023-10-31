@@ -10,6 +10,6 @@
     {"text":"Increases the number of","color":"gray"},
     {"text":"resources created by this minion","color":"gray"},
     {"text":"by ","color":"gray","extra":[{"text":"2x","color":"green"},{"text":" for ","color":"gray"},{"text":"1 hour","color":"green"},{"text":"!","color":"gray"}]},
-    {"text":""},
+    {"text":""}
   ]
 }

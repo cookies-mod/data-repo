@@ -5,13 +5,12 @@
   "name": "Millenia-Old Blaze Ashes",
   "npc_sell_price": 1000,
   "tier": "RARE",
-  "description": "%%gray%%%%italic%%Despite being ephemeral creatures, blaze ashes are eternal.",
   "soulbound": "COOP",
   "id": "MILLENIA_OLD_BLAZE_ASHES",
   "description": [
     {"text":" Despite being ephemeral","color":"gray","italic":true},
     {"text":" creatures, blaze ashes are","color":"gray","italic":true},
     {"text":" eternal.","color":"gray","italic":true},
-    {"text":""},
+    {"text":""}
   ]
 }

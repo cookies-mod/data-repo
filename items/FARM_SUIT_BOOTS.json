@@ -32,6 +32,6 @@
     {"text": "- ", "color":"gray","extra":[{"text":"Farm","color":"aqua"}]},
     {"text": "- ", "color":"gray","extra":[{"text":"The Barn","color":"aqua"}]},
     {"text": "- ", "color":"gray", "extra":[{"text":"Mushroom Desert","color":"yellow"}]},
-    {"text": ""},
+    {"text": ""}
   ]
 }

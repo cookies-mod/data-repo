@@ -6,6 +6,5 @@
   "npc_sell_price": 1,
   "dungeon_item": true,
   "id": "DUNGEON_GOLDEN_KEY",
-  "tier": "UNOBTAINABLE",
   "tier": "UNOBTAINABLE"
 }

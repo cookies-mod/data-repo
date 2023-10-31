@@ -5,13 +5,12 @@
   "name": "Thunder Shards",
   "tier": "EPIC",
   "soulbound": "COOP",
-  "description": "%%gray%%%%italic%%Wear gloves when handling, and be cautious around water pools.",
   "npc_sell_price": 50000,
   "id": "THUNDER_SHARDS",
   "description": [
     {"text":"Wear gloves when handling,","color":"gray","italic":true},
     {"text":"and be cautious around water","color":"gray","italic":true},
     {"text":"pools.","color":"gray","italic":true},
-    {"text":""},
+    {"text":""}
   ]
 }

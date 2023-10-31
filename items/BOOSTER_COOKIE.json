@@ -23,6 +23,6 @@
     {"text":"/potionbag","color":"light_purple","extra":[{"text":", and ","color":"gray"},{"text":"/quiver","color":"yellow"}]},
     {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"Link your items in chat using ","color":"gray"},{"text":"/show","color":"yellow"}]},
     {"text":"\u2023 ","color":"dark_gray","extra":[{"text":"Insta-sell your Material stash to the ","color":"gray"},{"text":"Bazaar","color":"gold"}]},
-    {"text":""},
+    {"text":""}
   ]
 }

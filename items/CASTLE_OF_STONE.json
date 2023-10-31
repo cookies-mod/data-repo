@@ -6,6 +6,6 @@
   "dungeon_item": true,
   "id": "CASTLE_OF_STONE",
   "description": [
-    {"text":"Dungeon Tank Ultimate Ability","text":"gray"}
+    {"text":"Dungeon Tank Ultimate Ability","color":"gray"}
   ]
 }

@@ -21,7 +21,7 @@
     {"text":""},
     {"text":"Regens ","color":"gray","extra":[{"text":"5 Mana ","color":"aqua"},{"text":"and ","color":"gray"},{"text":"0.5\u2764","color":"red"}]},
     {"text":"on hit.","color":"gray"},
-    {"text":""},
+    {"text":""}
   ],
   "can_be_reforged":true
 }

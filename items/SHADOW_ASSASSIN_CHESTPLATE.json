@@ -87,8 +87,7 @@
     {"text": ""},
     {"text":"On teleport: Restores ","color":"gray","extra":[{"text":"1% ","color":"red"},{"text":"of","color":"gray"}]},
     {"text":"your maximum health.","color":"gray"},
-    {"text":"","color":"gray"},
-
+    {"text":"","color":"gray"}
   ],
   "can_be_reforged": true
 }

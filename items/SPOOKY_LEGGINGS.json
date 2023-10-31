@@ -17,7 +17,7 @@
     {"text":"Full Set Bonus: Candy Man","color":"gold"},
     {"text":"Grants a ","color":"gray","extra":[{"text":"+5% ","color":"green"},{"text":"chance to find","color":"gray"}]},
     {"text":"rare Candy.","color":"gray"},
-    {"text":""},
+    {"text":""}
   ],
   "can_be_reforged":true
 }

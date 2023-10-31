@@ -14,6 +14,6 @@
     {"text":"Note: ","color":"yellow","extra":[{"text":"Only one Corrupted","color":"gray"}]},
     {"text":"Totem can be active at a time.","color":"gray"},
     {"text":"Mana Cost: ","color":"dark_gray","extra":[{"text":"200","color":"dark_aqua"}]},
-    {"text":""},
+    {"text":""}
   ]
 }

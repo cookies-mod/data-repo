@@ -10,6 +10,6 @@
   },
   "id": "ELLES_LAVA_ROD",
   "description": [
-    {"text":"Special kuudra rod","text":"gray"}
+    {"text":"Special kuudra rod","color":"gray"}
   ]
 }

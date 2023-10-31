@@ -12,6 +12,6 @@
     {"text":"Increases the duration of any","color":"gray"},
     {"text":"consumed Potion by ","color":"gray","extra":[{"text":"50%","color":"green"},{"text":" when","color":"gray"}]},
     {"text":"held in your inventory.","color":"gray"},
-    {"text":""},
+    {"text":""}
   ]
 }

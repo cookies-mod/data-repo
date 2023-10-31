@@ -15,6 +15,6 @@
     {"text":"","color":"gray"},
     {"text":"Gives +","color":"gray","extra":[{"text":"20","color":"green","obfuscated":true},{"text":"% ","color":"green"},{"text":"pet exp for","color":"gray"}]},
     {"text":"Fishing.","color":"gray"},
-    {"text":" "},
+    {"text":" "}
   ]
 }

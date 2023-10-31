@@ -18,6 +18,6 @@
     {"text":"Wand heals don't stack.","color":"dark_gray"},
     {"text":"Mana Cost: ","color":"dark_gray","extra":[{"text":"240","color":"dark_aqua"}]},
     {"text":"Cooldown: ","color":"dark_gray","extra":[{"text":"1s","color":"green"}]},
-    {"text":""},
+    {"text":""}
   ]
 }

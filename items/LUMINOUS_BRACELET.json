@@ -22,7 +22,7 @@
     {"text":"Earn ","color":"gray","extra":[{"text":"+20 Coins ","color":"gold"},{"text":"and ","color":"gray"},{"text":"+10","color":"dark_aqua"}]},
     {"text":"Fishing XP ","color":"dark_aqua","extra":[{"text":"when depositing","color":"gray"}]},
     {"text":"Chum ","color":"green","extra":[{"text":"in someone ELSE's","color":"gray"},{"text":"bucket.","color":"gray"}]},
-    {"text":""},
+    {"text":""}
   ],
   "can_be_reforged": true
 }

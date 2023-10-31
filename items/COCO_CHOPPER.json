@@ -7,7 +7,7 @@
   "description": [
     {"text":"Grants ","color":"gray", "extra": [{"text":"+20\u2618 Farming Fortune","color":"gold"}]},
     {"text":"when harvesting Cocoa Beans.","color":"gray"},
-    {"text":""},
+    {"text":""}
   ],
   "can_be_reforged": true
 }

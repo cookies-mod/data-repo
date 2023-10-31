@@ -18,5 +18,5 @@
     {"text":"ability activates.","color":"gray"},
     {"text":""}
   ],
-  "can_be_reforged": tre
+  "can_be_reforged": true
 }

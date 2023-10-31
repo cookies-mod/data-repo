@@ -86,6 +86,6 @@
     {"text":"The mana cost of this item is","color":"gray"},
     {"text":"10.0% ","color":"green","extra":[{"text":"of your maximum mana.","color":"gray"}]},
     {"text":""},
-    {"text":"Perfect 70000 / 70000","color":"green"},
+    {"text":"Perfect 70000 / 70000","color":"green"}
   ]
 }

@@ -21,12 +21,12 @@
     {"text":"Mining Fortune: ","color":"gray","extra":[{"text":"+8","color":"green"}]},
     {"text":""},
     {"text":"Auspicious Bonus","color":"blue"},
-    {"text":"Grants ","color":"gray",extra:[{"text":"+8 ","color":"green"},{"text":"\u2618 Mining","color":"gold"}]},
+    {"text":"Grants ","color":"gray","extra":[{"text":"+8 ","color":"green"},{"text":"\u2618 Mining","color":"gold"}]},
     {"text":"Fortune","color":"gold","extra":[{"text":", which increases your","color":"gray"}]},
     {"text":"chance for multiple drops.","color":"gray"},
     {"text":""},
     {"text":"Requires ","color":"gray","extra":[{"text":"Mining Skill Level","color":"green"}]},
     {"text":"XXI","color":"green","extra":[{"text":"!","color":"gray"}]},
-    {"text":""},
+    {"text":""}
   ]
 }

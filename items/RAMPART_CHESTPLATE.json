@@ -256,6 +256,6 @@
     {"text":"Strength","color":"red","extra":[{"text":", and ","color":"gray"},{"text":"+15\u2620 Crit","color":"blue"}]},
     {"text":"Damage ","color":"blue","extra":[{"text":"while on the ","color":"gray"},{"text":"Crimson","color":"red"}]},
     {"text":"Isle","color":"red","extra":[{"text":".","color":"gray"}]},
-    {"text":""},
+    {"text":""}
   ]
 }

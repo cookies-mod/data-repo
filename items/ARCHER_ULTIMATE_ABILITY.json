@@ -6,9 +6,6 @@
   "dungeon_item": true,
   "id": "ARCHER_ULTIMATE_ABILITY",
   "description": [
-    {"text":"Dungeon archer ultimate","color":"gray"}
-  ],
-  "description": [
     {"text": ""},
     {"text": "WARNING!", "color": "red", "bold": true},
     {"text": "This item is not obtainable, it is only given to ghosts in dungeons.", "color": "red"},

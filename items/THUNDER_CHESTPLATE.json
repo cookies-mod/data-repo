@@ -178,7 +178,7 @@
     {"text":"Creatures ","color":"red","extra":[{"text":"is reduced by ","color":"gray"},{"text":"10%","color":"green"}]},
     {"text":"and damage dealt is increased","color":"gray"},
     {"text":"by ","color":"gray","extra":[{"text":"1.2x","color":"red"},{"text":".","color":"gray"}]},
-    {"text":"","color":"gray"},
+    {"text":"","color":"gray"}
   ],
   "can_be_reforged":true
 }

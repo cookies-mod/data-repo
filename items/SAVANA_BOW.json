@@ -12,7 +12,7 @@
     {"text":""},
     {"text":"All damage dealt with this bow","color":"gray"},
     {"text":"is ","color":"gray","extra":[{"text":"doubled","color":"green"},{"text":".","color":"gray"}]},
-    {"text":""},
+    {"text":""}
   ],
   "can_be_reforged": true
 }

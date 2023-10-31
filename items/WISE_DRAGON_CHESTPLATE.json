@@ -87,7 +87,7 @@
     {"text":"Full Set Bonus: Wise Blood","color":"gold"},
     {"text":"Abilities have ","color":"gray","extra":[{"text":"2/3 ","color":"green"},{"text":"of the","color":"gray"}]},
     {"text":"mana cost.","color":"gray"},
-    {"text":"","color":"gray"},
+    {"text":"","color":"gray"}
   ],
   "can_be_reforged":true
 }

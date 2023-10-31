@@ -19,6 +19,6 @@
     {"text":"Staff","color":"gold","extra":[{"text":".","color":"gray"}]},
     {"text":""},
     {"text":"Edition #","color":"dark_gray","extra":[{"text":"1","obfuscated":true}]},
-    {"text":""},
+    {"text":""}
   ]
 }

@@ -76,7 +76,7 @@
     {"text":"blocks, dealing the same","color":"gray"},
     {"text":"damage.","color":"gray"},
     {"text":"Mana Cost: ","color":"dark_gray","extra":[{"text":"75","color":"dark_aqua"}]},
-    {"text":""},
+    {"text":""}
   ],
   "can_be_reforged": true
 }

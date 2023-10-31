@@ -89,8 +89,7 @@
     {"text":"On teleport: Grants invisibility","color":"gray"},
     {"text":"and ","color":"gray","extra":[{"text":"+20\u2726 Speed ","color":"white"},{"text":"for ","color":"gray"},{"text":"10","color":"aqua"}]},
     {"text":"seconds.","color":"gray"},
-    {"text":"","color":"gray"},
-
+    {"text":"","color":"gray"}
   ],
   "can_be_reforged": true
 }
