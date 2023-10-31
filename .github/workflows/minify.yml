@@ -40,4 +40,4 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         TAG: ${{ github.ref_name }}
-      run: gh release create "$tag" --repo="$GITHUB_REPOSITORY" --title "${GITHUB_REPOSITORY#*/} ${tag#v}" items.json recipes.json constants.json items.json.sha256 recipes.json.sha256 constants.json.sha256
+      run: gh release create "$TAG" --repo="$GITHUB_REPOSITORY" --title "${GITHUB_REPOSITORY#*/} ${TAG#v}" items.json recipes.json constants.json items.json.sha256 recipes.json.sha256 constants.json.sha256
