@@ -1,0 +1,40 @@
+{
+  "values": {
+    "MINE_MITHRIL_LOCATION": 250,
+    "MITHRIL_MINER": 350,
+    "MINE_TITANIUM_LOCATION": 10,
+    "TITANIUM_MINER": 10,
+    "GOBLIN_SLAYER": 100,
+    "ICE_WALKER_SLAYER": 50,
+    "GOBLIN_RAID_SLAYER": 20,
+    "GOBLIN_RAID": 1,
+    "RAFFLE": 1,
+    "STAR_SENTRY_PUNCHER": 10,
+    "GOLDEN_GOBLIN_SLAYER": 1,
+    "LUCKY_RAFFLE": 20,
+    "MITHRIL_POWDER": 500
+  },
+  "name_to_key": {
+    "Mithril Miner": "MITHRIL_MINER",
+    "Lava Springs Mithril": "MINE_MITHRIL_LOCATION",
+    "Royal Mines Mithril": "MINE_MITHRIL_LOCATION",
+    "Cliffside Veins Mithril": "MINE_MITHRIL_LOCATION",
+    "Rampart's Quarry Mithril": "MINE_MITHRIL_LOCATION",
+    "Upper Mines Mithril": "MINE_MITHRIL_LOCATION",
+    "Titanium Miner": "TITANIUM_MINER",
+    "Lava Springs Titanium": "MINE_TITANIUM_LOCATION",
+    "Royal Mines Titanium": "MINE_TITANIUM_LOCATION",
+    "Cliffside Veins Titanium": "MINE_TITANIUM_LOCATION",
+    "Rampart's Quarry Titanium": "MINE_TITANIUM_LOCATION",
+    "Upper Mines Titanium": "MINE_TITANIUM_LOCATION",
+    "Goblin Slayer": "GOBLIN_SLAYER",
+    "Ice Walker Slayer": "ICE_WALKER_SLAYER",
+    "Goblin Raid Slayer": "GOBLIN_RAID_SLAYER",
+    "Goblin Raid": "GOBLIN_RAID",
+    "Raffle": "RAFFLE",
+    "Golden Goblin Slayer": "GOLDEN_GOBLIN_SLAYER",
+    "Star Sentry Puncher": "STAR_SENTRY_PUNCHER",
+    "Lucky Raffle": "LUCKY_RAFFLE",
+    "": "MITHRIL_POWDER"
+  }
+}
