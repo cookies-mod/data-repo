@@ -1,16 +1,1 @@
-{
-  "material": "poppy",
-  "durability": 4,
-  "name": "Kat Flower",
-  "glowing": true,
-  "tier": "SPECIAL",
-  "npc_sell_price": 1,
-  "id": "KAT_FLOWER",
-  "description": [
-    {"text":"Give this to ","color":"gray","extra":[{"text":"Kat ","color":"aqua"},{"text":"the ","color":"gray"},{"text":"Pet","color":"green"}]},
-    {"text":"Sitter ","color":"green","extra":[{"text":"in order to skip ","color":"gray"},{"text":"1","color":"blue"}]},
-    {"text":"day","color":"blue","extra":[{"text":" of wait time while","color":"gray"}]},
-    {"text":"upgrading your pet!","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"poppy","durability":4,"name":{"text":"Kat Flower"},"glowing":true,"tier":"special","npc_sell_price":1,"id":"KAT_FLOWER","description":[{"extra":[{"color":"gray","text":"Give this to "},{"color":"aqua","text":"Kat "},{"color":"gray","text":"the "},{"color":"green","text":"Pet"}],"text":""},{"extra":[{"color":"green","text":"Sitter "},{"color":"gray","text":"in order to skip "},{"color":"blue","text":"1"}],"text":""},{"extra":[{"color":"blue","text":"day "},{"color":"gray","text":" of wait time while"}],"text":""},{"color":"gray","text":"upgrading your pet!"},{"text":""},{"extra":[{"bold":true,"color":"red","text":"SPECIAL"},{"color":"red","text":""}],"text":""}]}

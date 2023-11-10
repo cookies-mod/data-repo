@@ -1,16 +1,1 @@
-{
-  "material": "SHEARS",
-  "name": "Null Blade",
-  "glowing": true,
-  "tier": "LEGENDARY",
-  "id": "NULL_BLADE",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"SHEARS","name":{"text":"Null Blade"},"glowing":true,"tier":"legendary","id":"NULL_BLADE","description":[{"extra":[{"bold":true,"color":"gold","text":"LEGENDARY"},{"color":"gold","text":""}],"text":""}]}

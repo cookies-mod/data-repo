@@ -1,6 +1,1 @@
-{
-  "material": "REDSTONE_TORCH",
-  "name": "Redstone Torch",
-  "npc_sell_price": 1,
-  "id": "REDSTONE_TORCH_ON"
-}
+{"material":"REDSTONE_TORCH","name":{"text":"Redstone Torch"},"npc_sell_price":1,"id":"REDSTONE_TORCH_ON","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

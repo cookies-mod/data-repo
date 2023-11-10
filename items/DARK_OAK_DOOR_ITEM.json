@@ -1,7 +1,1 @@
-{
-  "material": "DARK_OAK_DOOR",
-  "name": "Dark Oak Door",
-  "npc_sell_price": 1,
-  "id": "DARK_OAK_DOOR_ITEM",
-  "description": [null]
-}
+{"material":"DARK_OAK_DOOR","name":{"text":"Dark Oak Door"},"npc_sell_price":1,"id":"DARK_OAK_DOOR_ITEM","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

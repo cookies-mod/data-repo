@@ -1,14 +1,1 @@
-{
-  "material": "COOKIE",
-  "name": "Enchanted Cookie",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 61500,
-  "id": "ENCHANTED_COOKIE",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"COOKIE","name":{"text":"Enchanted Cookie"},"glowing":true,"tier":"rare","npc_sell_price":61500,"id":"ENCHANTED_COOKIE","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

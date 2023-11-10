@@ -1,7 +1,1 @@
-{
-  "material": "music_disc_chirp",
-  "name": "Music Disc - Chirp",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 20,
-  "id": "RECORD_4"
-}
+{"material":"music_disc_chirp","name":{"text":"Music Disc - Chirp"},"tier":"uncommon","npc_sell_price":20,"id":"RECORD_4","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

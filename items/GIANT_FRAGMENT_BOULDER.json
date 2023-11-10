@@ -1,14 +1,1 @@
-{
-  "material": "firework_star",
-  "name": "Jolly Pink Rock",
-  "tier": "EPIC",
-  "dungeon_item": true,
-  "id": "GIANT_FRAGMENT_BOULDER",
-  "description": [
-    {"text":"Precursor Relic","color":"dark_gray"},
-    {"text":""},
-    {"text":"The hottest shade of pink ever","color":"gray"},
-    {"text":"worn by a Giant.","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"firework_star","name":{"text":"Jolly Pink Rock"},"tier":"epic","dungeon_item":true,"id":"GIANT_FRAGMENT_BOULDER","description":[{"color":"dark_gray","text":"Precursor Relic"},{"text":""},{"color":"gray","text":"The hottest shade of pink ever"},{"color":"gray","text":"worn by a Giant."},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC DUNGEON ITEM"},{"color":"dark_purple","text":""}],"text":""}]}

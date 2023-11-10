@@ -1,16 +1,1 @@
-{
-  "material": "LEATHER_HELMET",
-  "name": "Leather Helmet",
-  "category": "HELMET",
-  "stats": {
-    "DEFENSE": 5
-  },
-  "npc_sell_price": 7,
-  "id": "LEATHER_HELMET",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"LEATHER_HELMET","name":{"text":"Leather Helmet"},"category":"HELMET","stats":{"DEFENSE":5},"npc_sell_price":7,"id":"LEATHER_HELMET","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+5"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON HELMET"},{"color":"white","text":""}],"text":""}],"tier":"common"}

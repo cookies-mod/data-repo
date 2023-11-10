@@ -1,7 +1,1 @@
-{
-  "material": "STAINED_CLAY",
-  "durability": 14,
-  "name": "Leave Challenge",
-  "tier": "UNOBTAINABLE",
-  "id": "LEAVE_CHALLENGE_BUTTON"
-}
+{"material":"red_terracotta","tier": "special","durability":14,"name":{"text":"Leave Challenge (Click)"},"id":"LEAVE_CHALLENGE_BUTTON","description":[{"color":"gray","text":"Leave your current challenge."},{"extra":[{"color":"gray","text":"Will count as a "},{"color":"red","text":"fail"},{"color":"gray","text":"!"}],"text":""},{"text":""},{"color":"yellow","text":"Click to leave challenge."}]}

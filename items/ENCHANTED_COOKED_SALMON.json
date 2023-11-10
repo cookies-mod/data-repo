@@ -1,9 +1,1 @@
-{
-  "material": "cooked_salmon",
-  "durability": 1,
-  "name": "Enchanted Cooked Salmon",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 256000,
-  "id": "ENCHANTED_COOKED_SALMON"
-}
+{"material":"cooked_salmon","durability":1,"name":{"text":"Enchanted Cooked Salmon"},"glowing":true,"tier":"rare","npc_sell_price":256000,"id":"ENCHANTED_COOKED_SALMON","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

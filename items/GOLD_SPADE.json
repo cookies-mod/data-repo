@@ -1,15 +1,1 @@
-{
-  "material": "golden_shovel",
-  "name": "Golden Shovel",
-  "category": "SPADE",
-  "stats": {
-    "DAMAGE": 15
-  },
-  "npc_sell_price": 3,
-  "id": "GOLD_SPADE",
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"golden_shovel","name":{"text":"Golden Shovel"},"category":"SPADE","stats":{"DAMAGE":15},"npc_sell_price":3,"id":"GOLD_SPADE","description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+15"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON SHOVEL"},{"color":"white","text":""}],"text":""}],"tier":"common"}

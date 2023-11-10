@@ -1,8 +1,0 @@
-{
-  "material": "BOOK",
-  "name": "Dungeon Journal",
-  "tier": "UNOBTAINABLE",
-  "npc_sell_price": 1,
-  "dungeon_item": true,
-  "id": "DUNGEON_LORE_DIARY"
-}

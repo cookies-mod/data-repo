@@ -1,12 +1,1 @@
-{
-  "material": "iron_horse_armor",
-  "name": "Lucky Hoof",
-  "category": "ACCESSORY",
-  "tier": "UNCOMMON",
-  "id": "LUCKY_HOOF",
-  "description": [
-    {"text":"Gain ","color":"gray","extra":[{"text":"1% ","color":"green"},{"text":"chance to find Trick","color":"gray"}]},
-    {"text":"or Treat Chests.","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"iron_horse_armor","name":{"text":"Lucky Hoof"},"category":"ACCESSORY","tier":"uncommon","id":"LUCKY_HOOF","description":[{"extra":[{"color":"gray","text":"Gain "},{"color":"green","text":"1% "},{"color":"gray","text":"chance to find Trick"}],"text":""},{"color":"gray","text":"or Treat Chests."},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON ACCESSORY"},{"color":"green","text":""}],"text":""}]}

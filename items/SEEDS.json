@@ -1,6 +1,1 @@
-{
-  "material": "wheat_SEEDS",
-  "name": "Seeds",
-  "npc_sell_price": 3,
-  "id": "SEEDS"
-}
+{"material":"wheat_SEEDS","name":{"text":"Seeds"},"npc_sell_price":3,"id":"SEEDS","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

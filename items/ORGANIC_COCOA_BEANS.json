@@ -1,9 +1,0 @@
-{
-  "material": "INK_SACK",
-  "durability": 3,
-  "name": "Organic Cocoa Beans",
-  "npc_sell_price": 3,
-  "glowing": true,
-  "tier": "UNOBTAINABLE",
-  "id": "ORGANIC_COCOA_BEANS"
-}

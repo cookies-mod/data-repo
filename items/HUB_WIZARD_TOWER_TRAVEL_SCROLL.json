@@ -1,18 +1,1 @@
-{
-  "material": "MAP",
-  "name": "Travel Scroll to the Wizard Tower",
-  "category": "TRAVEL_SCROLL",
-  "tier": "EPIC",
-  "origin": "RIFT",
-  "rift_transferrable": true,
-  "id": "HUB_WIZARD_TOWER_TRAVEL_SCROLL",
-  "description":[
-    {"text": "Consume this item to add its", "color": "gray"},
-    {"text": "destination to your fast travel", "color": "gray"},
-    {"text": "options.", "color": "gray"},
-    {"text": ""},
-    {"text": "Island: ", "color": "gray", "extra": [{"text": "Hub", "color": "green"}]},
-    {"text": "Teleport: ", "color": "gray", "extra": [{"text": "Wizard Tower", "color": "yellow"}]},
-    {"text": ""}
-  ]
-}
+{"material":"MAP","name":{"text":"Travel Scroll to the Wizard Tower"},"category":"TRAVEL_SCROLL","tier":"epic","origin":"RIFT","rift_transferrable":true,"id":"HUB_WIZARD_TOWER_TRAVEL_SCROLL","description":[{"color":"gray","text":"Consume this item to add its"},{"color":"gray","text":"destination to your Fast Travel"},{"color":"gray","text":"options."},{"text":""},{"extra":[{"color":"gray","text":"Island: "},{"color":"green","text":"SkyBlock Hub"}],"text":""},{"extra":[{"color":"gray","text":"Teleport: "},{"color":"yellow","text":"Wizard Tower"}],"text":""},{"text":""},{"extra":[{"color":"dark_purple","text":"X"},{"color":"dark_purple","text":" Rift-Transferable X"}],"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC TRAVEL SCROLL"},{"color":"dark_purple","text":""}],"text":""}]}

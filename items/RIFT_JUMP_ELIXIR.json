@@ -1,18 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjJhYzk5MjZkY2ZiNzY0MWExNjIxMjY5MTEyNmUwM2Q5NWQ2NDZhZDM0NWI3NWExOTIwNjFhMWE5MzlkODkwMiJ9fX0\u003d",
-  "name": "Jump Elixir",
-  "tier": "RARE",
-  "origin": "RIFT",
-  "unstackable": true,
-  "id": "RIFT_JUMP_ELIXIR",
-  "description": [
-    {"text":"Grants ","color":"gray","extra":[{"text":"Jump Boost I ","color":"green"},{"text":"(0:20)","color":"gray"}]},
-    {"text":""},
-    {"text":"Cost","color":"gray"},
-    {"text":"Shy Crux ","color":"green","extra":[{"text":"x5","color":"dark_gray"}]},
-    {"text":"5,000 Motes","color":"light_purple"},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjJhYzk5MjZkY2ZiNzY0MWExNjIxMjY5MTEyNmUwM2Q5NWQ2NDZhZDM0NWI3NWExOTIwNjFhMWE5MzlkODkwMiJ9fX0=","name":{"text":"Jump Elixir"},"tier":"rare","origin":"RIFT","unstackable":true,"id":"RIFT_JUMP_ELIXIR","description":[{"extra":[{"color":"gray","text":"Grants "},{"color":"green","text":"Jump Boost I "},{"color":"gray","text":"(0:20)"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

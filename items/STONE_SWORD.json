@@ -1,16 +1,1 @@
-{
-  "material": "STONE_SWORD",
-  "name": "Stone Sword",
-  "category": "SWORD",
-  "stats": {
-    "DAMAGE": 25
-  },
-  "npc_sell_price": 1,
-  "id": "STONE_SWORD",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"STONE_SWORD","name":{"text":"Stone Sword"},"category":"SWORD","stats":{"DAMAGE":25},"npc_sell_price":1,"id":"STONE_SWORD","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+25"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON SWORD"},{"color":"white","text":""}],"text":""}],"tier":"common"}

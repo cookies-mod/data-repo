@@ -1,6 +1,1 @@
-{
-  "material": "LEATHER",
-  "name": "Leather",
-  "npc_sell_price": 3,
-  "id": "LEATHER"
-}
+{"material":"LEATHER","name":{"text":"Leather"},"npc_sell_price":3,"id":"LEATHER","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

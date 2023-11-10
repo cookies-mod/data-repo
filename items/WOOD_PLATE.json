@@ -1,6 +1,1 @@
-{
-  "material": "oak_pressure_PLATE",
-  "name": "Wooden Pressure Plate",
-  "npc_sell_price": 1,
-  "id": "WOOD_PLATE"
-}
+{"material":"oak_pressure_PLATE","name":{"text":"Wooden Pressure Plate"},"npc_sell_price":1,"id":"WOOD_PLATE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

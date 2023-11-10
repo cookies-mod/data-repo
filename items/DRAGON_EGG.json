@@ -1,7 +1,1 @@
-{
-  "material": "DRAGON_EGG",
-  "name": "Dragon Egg",
-  "tier": "LEGENDARY",
-  "npc_sell_price": 100,
-  "id": "DRAGON_EGG"
-}
+{"material":"DRAGON_EGG","name":{"text":"Dragon Egg"},"tier":"legendary","npc_sell_price":100,"id":"DRAGON_EGG","description":[{"extra":[{"bold":true,"color":"gold","text":"LEGENDARY"},{"color":"gold","text":""}],"text":""}]}

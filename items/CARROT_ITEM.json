@@ -1,6 +1,1 @@
-{
-  "material": "carrot",
-  "name": "Carrot",
-  "npc_sell_price": 3,
-  "id": "CARROT_ITEM"
-}
+{"material":"carrot","name":{"text":"Carrot"},"npc_sell_price":3,"id":"CARROT_ITEM","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

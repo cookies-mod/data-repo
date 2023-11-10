@@ -1,7 +1,1 @@
-{
-  "material": "music_disc_13",
-  "name": "Music Disc - 13",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 20,
-  "id": "GOLD_RECORD"
-}
+{"material":"music_disc_13","name":{"text":"Music Disc - 13"},"tier":"uncommon","npc_sell_price":20,"id":"GOLD_RECORD","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

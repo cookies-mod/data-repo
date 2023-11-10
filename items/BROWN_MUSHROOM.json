@@ -1,6 +1,1 @@
-{
-  "material": "BROWN_MUSHROOM",
-  "name": "Brown Mushroom",
-  "npc_sell_price": 10,
-  "id": "BROWN_MUSHROOM"
-}
+{"material":"BROWN_MUSHROOM","name":{"text":"Brown Mushroom"},"npc_sell_price":10,"id":"BROWN_MUSHROOM","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

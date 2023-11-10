@@ -1,18 +1,1 @@
-{
-  "material": "WOODen_PICKAXE",
-  "name": "Wooden Pickaxe",
-  "category": "PICKAXE",
-  "stats": {
-    "BREAKING_POWER": 1,
-    "DAMAGE": 15,
-    "MINING_SPEED": 70
-  },
-  "npc_sell_price": 1,
-  "id": "WOOD_PICKAXE",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"WOODen_PICKAXE","name":{"text":"Wooden Pickaxe"},"category":"PICKAXE","stats":{"BREAKING_POWER":1,"DAMAGE":15,"MINING_SPEED":70},"npc_sell_price":1,"id":"WOOD_PICKAXE","can_be_reforged":true,"description":[{"color":"dark_gray","text":"Breaking Power 1"},{"text":""},{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+15"}],"text":""},{"text":""},{"extra":[{"color":"gray","text":"Mining Speed: "},{"color":"green","text":"+70"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON PICKAXE"},{"color":"white","text":""}],"text":""}],"tier":"common"}

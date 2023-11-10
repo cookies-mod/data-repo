@@ -1,8 +1,1 @@
-{
-  "material": "BONE",
-  "name": "Weak Wolf Catalyst",
-  "glowing": true,
-  "tier": "RARE",
-  "id": "WEAK_WOLF_CATALYST",
-  "description": [null]
-}
+{"material":"BONE","name":{"text":"Weak Wolf Catalyst"},"glowing":true,"tier":"rare","id":"WEAK_WOLF_CATALYST","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

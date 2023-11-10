@@ -1,10 +1,1 @@
-{
-  "material": "tropical_fish",
-  "durability": 2,
-  "name": "Enchanted Clownfish",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 3200,
-  "id": "ENCHANTED_CLOWNFISH",
-  "description": [null]
-}
+{"material":"tropical_fish","durability":2,"name":{"text":"Enchanted Clownfish"},"glowing":true,"tier":"uncommon","npc_sell_price":3200,"id":"ENCHANTED_CLOWNFISH","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

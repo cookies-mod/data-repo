@@ -1,16 +1,1 @@
-{
-  "material": "wither_skeleton_spawn_egg",
-  "durability": 67,
-  "name": "Living Metal Chestspawn",
-  "tier": "RARE",
-  "origin": "RIFT",
-  "motes_sell_price": 100,
-  "id": "LM_EGG_CHEST",
-  "description": [
-    {"text":"Ability: Spawn ","color":"gold","extra":[{"text":"RIGHT CLICK","color":"yellow"}]},
-    {"text":"Spawns a living metal autoarmor","color":"gray"},
-    {"text":"which can be assimilated into","color":"gray"},
-    {"text":"your own armor.","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"wither_skeleton_spawn_egg","durability":67,"name":{"text":"Living Metal Chestspawn"},"tier":"rare","origin":"RIFT","motes_sell_price":100,"id":"LM_EGG_CHEST","description":[{"extra":[{"color":"gold","text":"Ability: Spawn "},{"bold":true,"color":"yellow","text":"RIGHT CLICK"},{"color":"gold","text":""}],"text":""},{"color":"gray","text":"Spawns a living metal autoarmor"},{"color":"gray","text":"which can be assimilated into"},{"color":"gray","text":"your own armor."},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

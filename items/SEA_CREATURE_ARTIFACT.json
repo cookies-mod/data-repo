@@ -1,15 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwYTAxMDc5MWNiMWM4OTAyYzYyMjMyMDdhYTQ0ZmU5ZDFmODRmM2JjOGZmYjFiNGNjM2NmNTU3M2UwNTZlNzEifX19",
-  "name": "Sea Creature Artifact",
-  "category": "ACCESSORY",
-  "tier": "RARE",
-  "npc_sell_price": 25000,
-  "id": "SEA_CREATURE_ARTIFACT",
-  "description": [
-    {"text": "Take ", "color": "gray", "extra": [{"text": "15%", "color": "green"}, {"text": " less damage from"}]},
-    {"text": "Sea Creatures. ", "color": "gray"},
-    {"text": ""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwYTAxMDc5MWNiMWM4OTAyYzYyMjMyMDdhYTQ0ZmU5ZDFmODRmM2JjOGZmYjFiNGNjM2NmNTU3M2UwNTZlNzEifX19","name":{"text":"Sea Creature Artifact"},"category":"ACCESSORY","tier":"rare","npc_sell_price":25000,"id":"SEA_CREATURE_ARTIFACT","description":[{"extra":[{"color":"gray","text":"Take "},{"color":"green","text":"15%"},{"color":"gray","text":" less damage from"}],"text":""},{"color":"gray","text":"Sea Creatures."},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE ACCESSORY"},{"color":"blue","text":""}],"text":""}]}

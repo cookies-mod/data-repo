@@ -1,8 +1,1 @@
-{
-  "material": "EMERALD",
-  "name": "Enchanted Emerald",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 960,
-  "id": "ENCHANTED_EMERALD"
-}
+{"material":"EMERALD","name":{"text":"Enchanted Emerald"},"glowing":true,"tier":"uncommon","npc_sell_price":960,"id":"ENCHANTED_EMERALD","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

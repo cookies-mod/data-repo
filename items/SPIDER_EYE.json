@@ -1,12 +1,1 @@
-{
-  "material": "SPIDER_EYE",
-  "name": "Spider Eye",
-  "npc_sell_price": 3,
-  "id": "SPIDER_EYE",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"SPIDER_EYE","name":{"text":"Spider Eye"},"npc_sell_price":3,"id":"SPIDER_EYE","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

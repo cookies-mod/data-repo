@@ -1,18 +1,1 @@
-{
-  "material": "NETHER_STAR",
-  "name": "Nether Star",
-  "tier": "LEGENDARY",
-  "npc_sell_price": 10000,
-  "museum": true,
-  "soulbound": "COOP",
-  "id": "CORRUPTED_NETHER_STAR",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"NETHER_STAR","name":{"text":"Nether Star"},"tier":"legendary","npc_sell_price":10000,"museum":true,"soulbound":"COOP","id":"CORRUPTED_NETHER_STAR","description":[{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Co-op Soulbound "},{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"gold","text":"LEGENDARY"},{"color":"gold","text":""}],"text":""}]}

@@ -1,7 +1,1 @@
-{
-  "material": "NETHER_BRICKS",
-  "name": "Nether Brick",
-  "npc_sell_price": 1,
-  "id": "NETHER_BRICK_ITEM",
-  "description":[null]
-}
+{"material":"NETHER_BRICKS","name":{"text":"Nether Brick"},"npc_sell_price":1,"id":"NETHER_BRICK_ITEM","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

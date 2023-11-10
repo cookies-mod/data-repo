@@ -1,16 +1,1 @@
-{
-  "material": "GLOWSTONE_DUST",
-  "name": "Golden Powder",
-  "glowing": true,
-  "tier": "EPIC",
-  "id": "GOLDEN_POWDER",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"GLOWSTONE_DUST","name":{"text":"Golden Powder"},"glowing":true,"tier":"epic","id":"GOLDEN_POWDER","description":[{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

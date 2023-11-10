@@ -1,18 +1,1 @@
-{
-  "material": "pufferfish",
-  "durability": 3,
-  "name": "Gift the Fish",
-  "glowing": true,
-  "tier": "SPECIAL",
-  "museum": true,
-  "id": "GIFT_THE_FISH",
-  "description": [
-    {
-      "color": "gray",
-      "text": "I\u0027m empty inside"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"pufferfish","durability":3,"name":{"text":"Gift the Fish"},"glowing":true,"tier":"special","museum":true,"id":"GIFT_THE_FISH","description":[{"color":"gray","text":"I'm empty inside."},{"text":""},{"extra":[{"bold":true,"color":"red","text":"SPECIAL"},{"color":"red","text":""}],"text":""}]}

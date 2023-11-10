@@ -1,6 +1,1 @@
-{
-  "material": "MILK_BUCKET",
-  "name": "Milk Bucket",
-  "npc_sell_price": 4,
-  "id": "MILK_BUCKET"
-}
+{"material":"MILK_BUCKET","name":{"text":"Milk Bucket"},"npc_sell_price":4,"id":"MILK_BUCKET","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

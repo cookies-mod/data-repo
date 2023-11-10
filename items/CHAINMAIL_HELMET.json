@@ -1,17 +1,1 @@
-{
-  "material": "CHAINMAIL_HELMET",
-  "name": "Chainmail Helmet",
-  "category": "HELMET",
-  "tier": "UNCOMMON",
-  "stats": {
-    "DEFENSE": 12
-  },
-  "npc_sell_price": 1,
-  "id": "CHAINMAIL_HELMET",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"CHAINMAIL_HELMET","name":{"text":"Chainmail Helmet"},"category":"HELMET","tier":"uncommon","stats":{"DEFENSE":12},"npc_sell_price":1,"id":"CHAINMAIL_HELMET","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+12"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON HELMET"},{"color":"green","text":""}],"text":""}]}

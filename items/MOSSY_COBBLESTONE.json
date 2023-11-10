@@ -1,6 +1,1 @@
-{
-  "material": "MOSSY_COBBLESTONE",
-  "name": "Moss Stone",
-  "npc_sell_price": 6,
-  "id": "MOSSY_COBBLESTONE"
-}
+{"material":"MOSSY_COBBLESTONE","name":{"text":"Moss Stone"},"npc_sell_price":6,"id":"MOSSY_COBBLESTONE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

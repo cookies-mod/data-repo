@@ -1,10 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzExMDc1MDAxMiwKICAicHJvZmlsZUlkIiA6ICI1N2IzZGZiNWY4YTY0OWUyOGI1NDRlNGZmYzYzMjU2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYaWthcm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdiNjkwMjFmOWMwOTY0N2RmZDliMzRkZjNkZWFmZjcwY2ZjNzQwZjZhMjZmNjEyZGQ0NzUwM2ZjMzRjOTdmMCIKICAgIH0KICB9Cn0",
-  "name": "Master Catacombs Pass VII",
-  "category": "DUNGEON_PASS",
-  "tier": "UNOBTAINABLE",
-  "dungeon_item": true,
-  "id": "MASTER_CATACOMBS_PASS_7"
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTYxNzExMDc1MDAxMiwKICAicHJvZmlsZUlkIiA6ICI1N2IzZGZiNWY4YTY0OWUyOGI1NDRlNGZmYzYzMjU2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYaWthcm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdiNjkwMjFmOWMwOTY0N2RmZDliMzRkZjNkZWFmZjcwY2ZjNzQwZjZhMjZmNjEyZGQ0NzUwM2ZjMzRjOTdmMCIKICAgIH0KICB9Cn0","name":{"text":"MASTER MODE Catacombs - Floor IV"},"category":"DUNGEON_PASS","tier":"uncommon","dungeon_item":true,"id":"MASTER_CATACOMBS_PASS_7","description":[{"extra":[{"color":"gray","text":"Dungeon Size: "},{"color":"aqua","text":"Small"}],"text":""},{"extra":[{"color":"gray","text":"Party size: "},{"color":"blue","text":"2-5"}],"text":""},{"text":""},{"extra":[{"color":"gray","text":"Boss: "},{"bold":true,"color":"red","text":"MASTER "},{"color":"red","text":"Thorn"},{"color":"green","text":" ✔"}],"text":""},{"color":"dark_gray","text":"Shaman Necromancer"},{"color":"gray","text":"Powerful Necromancer that specializes in"},{"color":"gray","text":"animals. Calls himself a vegetarian, go"},{"color":"gray","text":"figure."},{"text":""},{"extra":[{"color":"gray","text":"Requires: "},{"color":"light_purple","text":"Catacombs Level XXX"}],"text":""},{"text":""},{"color":"yellow","text":"Click to queue for dungeon!"}]}

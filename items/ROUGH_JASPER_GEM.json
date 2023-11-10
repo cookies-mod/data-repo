@@ -1,18 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjAxODU1MCwKICAicHJvZmlsZUlkIiA6ICIwNWQ0NTNiZWE0N2Y0MThiOWI2ZDUzODg0MWQxMDY2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFY2hvcnJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzZDA2NGVjMTUwMTcyZDA1ODQ0YzExYTE4NjE5YzE0MjFiYmZiMmRkZDFkYmI4N2NkYzEwZTIyMjUyYjc3M2IiCiAgICB9CiAgfQp9",
-  "name": "\u2741 Rough Jasper Gemstone",
-  "npc_sell_price": 3,
-  "id": "ROUGH_JASPER_GEM",
-  "description": [
-    {"text":"Harvested from the plentiful","color":"gray"},
-    {"text":"gemstone veins in the ","color":"gray","extra":[{"text":"Crystal","color":"dark_purple"}]},
-    {"text":"Hollows","color":"dark_purple","extra":[{"text":".","color":"gray"}]},
-    {"text":""},
-    {"text":"Some say that when ","color":"gray","extra":[{"text":"harnessed","color":"yellow"}]},
-    {"text":"properly","color":"yellow","extra":[{"text":", it can give its","color":"gray"}]},
-    {"text":"owner extra ","color":"gray","extra":[{"text":"\u2741 Strength","color":"red"},{"text":".","color":"gray"}]},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTYxODA4NjAxODU1MCwKICAicHJvZmlsZUlkIiA6ICIwNWQ0NTNiZWE0N2Y0MThiOWI2ZDUzODg0MWQxMDY2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFY2hvcnJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzZDA2NGVjMTUwMTcyZDA1ODQ0YzExYTE4NjE5YzE0MjFiYmZiMmRkZDFkYmI4N2NkYzEwZTIyMjUyYjc3M2IiCiAgICB9CiAgfQp9","name":{"text":"❁ Rough Jasper Gemstone"},"npc_sell_price":3,"id":"ROUGH_JASPER_GEM","description":[{"color":"gray","text":"Harvested from the plentiful"},{"extra":[{"color":"gray","text":"gemstone veins in the "},{"color":"dark_purple","text":"Crystal"}],"text":""},{"extra":[{"color":"dark_purple","text":"Hollows"},{"color":"gray","text":"."}],"text":""},{"text":""},{"extra":[{"color":"gray","text":"Some say that when "},{"color":"yellow","text":"harnessed"}],"text":""},{"extra":[{"color":"yellow","text":"properly"},{"color":"gray","text":", it can give its"}],"text":""},{"extra":[{"color":"gray","text":"owner extra "},{"color":"red","text":"❁ Strength"},{"color":"gray","text":"."}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

@@ -1,17 +1,1 @@
-{
-  "material": "STRING",
-  "name": "Tarantula Web",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 1,
-  "id": "TARANTULA_WEB",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"STRING","name":{"text":"Tarantula Web"},"glowing":true,"tier":"uncommon","npc_sell_price":1,"id":"TARANTULA_WEB","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

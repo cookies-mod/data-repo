@@ -1,8 +1,1 @@
-{
-  "material": "SAND",
-  "name": "Enchanted Sand",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 320,
-  "id": "ENCHANTED_SAND"
-}
+{"material":"SAND","name":{"text":"Enchanted Sand"},"glowing":true,"tier":"uncommon","npc_sell_price":320,"id":"ENCHANTED_SAND","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

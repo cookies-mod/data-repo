@@ -1,8 +1,1 @@
-{
-  "material": "WOODen_HOE",
-  "name": "Wooden Hoe",
-  "category": "HOE",
-  "npc_sell_price": 1,
-  "id": "WOOD_HOE",
-  "can_be_reforged": true
-}
+{"material":"WOODen_HOE","name":{"text":"Wooden Hoe"},"category":"HOE","npc_sell_price":1,"id":"WOOD_HOE","can_be_reforged":true,"tier":"common","description":[{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON HOE"},{"color":"white","text":""}],"text":""}]}

@@ -1,14 +1,1 @@
-{
-  "material": "cooked_cod",
-  "name": "Chill the Fish",
-  "glowing": true,
-  "tier": "SPECIAL",
-  "museum": true,
-  "id": "CHILL_THE_FISH",
-  "description": [
-    {"text":"This fish was found frozen solid","color":"gray"},
-    {"text":"in the lake of the Main Lobby","color":"gray"},
-    {"text":"during the Holiday months.","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"cooked_cod","name":{"text":"Chill the Fish"},"glowing":true,"tier":"special","museum":true,"id":"CHILL_THE_FISH","description":[{"color":"gray","text":"This fish was found frozen solid"},{"color":"gray","text":"in the lake of the Main Lobby"},{"color":"gray","text":"during the Holiday months."},{"text":""},{"extra":[{"bold":true,"color":"red","text":"SPECIAL"},{"color":"red","text":""}],"text":""}]}

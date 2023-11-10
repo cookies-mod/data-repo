@@ -1,6 +1,1 @@
-{
-  "material": "map",
-  "name": "Empty Map",
-  "npc_sell_price": 25,
-  "id": "EMPTY_MAP"
-}
+{"material":"map","name":{"text":"Map"},"npc_sell_price":25,"id":"EMPTY_MAP","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

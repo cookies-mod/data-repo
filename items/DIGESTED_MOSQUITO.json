@@ -1,15 +1,1 @@
-{
-  "material": "ROTTEN_FLESH",
-  "name": "Digested Mosquito",
-  "tier": "LEGENDARY",
-  "id": "DIGESTED_MOSQUITO",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"ROTTEN_FLESH","name":{"text":"Digested Mosquito"},"tier":"legendary","id":"DIGESTED_MOSQUITO","description":[{"extra":[{"bold":true,"color":"gold","text":"LEGENDARY"},{"color":"gold","text":""}],"text":""}]}

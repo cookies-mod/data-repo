@@ -1,6 +1,1 @@
-{
-  "material": "red_terracotta",
-  "durability": 14,
-  "name": "Cancel Race",
-  "id": "CANCEL_RACE_ITEM"
-}
+{"material":"red_terracotta","durability":14,"name":{"text":"Cancel Race (Right Click)"},"id":"CANCEL_RACE_ITEM","tier":"special","description":[{"color":"gray","text":"Cancel your current race and"},{"color":"gray","text":"warp back to the starting area."},{"text":""},{"color":"yellow","text":"Click to cancel!"}]}

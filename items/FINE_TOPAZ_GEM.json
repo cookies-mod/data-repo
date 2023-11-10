@@ -1,18 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxODA4MzkxOTUyNywKICAicHJvZmlsZUlkIiA6ICJjMGYzYjI3YTUwMDE0YzVhYjIxZDc5ZGRlMTAxZGZlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkyY2I2ZTUxYzQ2MWU3MzU5NTI2YmVhNWUwNjIwOWNkZGRlN2M2NDY5YTgxOWYzNDA1Y2YwYTAzOGMxNTk1MDIiCiAgICB9CiAgfQp9",
-  "name": "\u2727 Fine Topaz Gemstone",
-  "tier": "RARE",
-  "npc_sell_price": 19200,
-  "id": "FINE_TOPAZ_GEM",
-  "description": [
-    {"text":"A type of ","color":"gray","extra":[{"text":"Topaz ","color":"yellow"},{"text":"that has"}]},
-    {"text":"clearly been treated with care.","color":"gray"},
-    {"text":""},
-    {"text":"Some say that when ","color":"gray","extra":[{"text":"harnessed","color":"yellow"}]},
-    {"text":"properly","color":"yellow","extra":[{"text":", it can give its","color":"gray"}]},
-    {"text":"owner extra ","color":"gray","extra":[{"text":"\u2727 Pristine","color":"dark_purple"},{"text":"."}]},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTYxODA4MzkxOTUyNywKICAicHJvZmlsZUlkIiA6ICJjMGYzYjI3YTUwMDE0YzVhYjIxZDc5ZGRlMTAxZGZlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkyY2I2ZTUxYzQ2MWU3MzU5NTI2YmVhNWUwNjIwOWNkZGRlN2M2NDY5YTgxOWYzNDA1Y2YwYTAzOGMxNTk1MDIiCiAgICB9CiAgfQp9","name":{"text":"✧ Fine Topaz Gemstone"},"tier":"rare","npc_sell_price":19200,"id":"FINE_TOPAZ_GEM","description":[{"extra":[{"color":"gray","text":"A type of "},{"color":"yellow","text":"Topaz "},{"color":"gray","text":"that has"}],"text":""},{"color":"gray","text":"clearly been treated with care."},{"text":""},{"extra":[{"color":"gray","text":"Some say that when "},{"color":"yellow","text":"harnessed"}],"text":""},{"extra":[{"color":"yellow","text":"properly"},{"color":"gray","text":", it can give its"}],"text":""},{"extra":[{"color":"gray","text":"owner extra "},{"color":"dark_purple","text":"✧ Pristine"},{"color":"gray","text":"."}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

@@ -1,15 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzMjIyMzMzNSwKICAicHJvZmlsZUlkIiA6ICI2ZmU4OTUxZDVhY2M0NDc3OWI2ZmYxMmU3YzFlOTQ2MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJlcGhlbXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U4MGUyYzIwNmYwNmI0MTYzZGVlNjc4MTYyYjJkN2EzZWQ2YjIwYzY0MTlmZWM0NGY5MWY2ZGQwMDFhMTJhMzkiCiAgICB9CiAgfQp9",
-  "name": "Glacite Jewel",
-  "tier": "RARE",
-  "npc_sell_price": 2000,
-  "id": "GLACITE_JEWEL",
-  "description": [
-    {"text":"It is said that there is a","color":"gray","italic":true},
-    {"text":"lost village made of Glacite,","color":"gray","italic":true},
-    {"text":"deep under the Dwarven Mines.","color":"gray","italic":true},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzMjIyMzMzNSwKICAicHJvZmlsZUlkIiA6ICI2ZmU4OTUxZDVhY2M0NDc3OWI2ZmYxMmU3YzFlOTQ2MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJlcGhlbXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U4MGUyYzIwNmYwNmI0MTYzZGVlNjc4MTYyYjJkN2EzZWQ2YjIwYzY0MTlmZWM0NGY5MWY2ZGQwMDFhMTJhMzkiCiAgICB9CiAgfQp9","name":{"text":"Glacite Jewel"},"tier":"rare","npc_sell_price":2000,"id":"GLACITE_JEWEL","description":[{"extra":[{"italic":true,"color":"gray","text":" It is said that there is a"},{"color":"gray","text":""}],"text":""},{"extra":[{"italic":true,"color":"gray","text":" lost village made of Glacite,"},{"color":"gray","text":""}],"text":""},{"extra":[{"italic":true,"color":"gray","text":" deep under the Dwarven Mines."},{"color":"gray","text":""}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

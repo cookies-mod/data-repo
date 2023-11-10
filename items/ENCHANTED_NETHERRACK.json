@@ -1,8 +1,1 @@
-{
-  "material": "NETHERRACK",
-  "name": "Enchanted Netherrack",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 160,
-  "id": "ENCHANTED_NETHERRACK"
-}
+{"material":"NETHERRACK","name":{"text":"Enchanted Netherrack"},"glowing":true,"tier":"uncommon","npc_sell_price":160,"id":"ENCHANTED_NETHERRACK","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

@@ -1,18 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNjZmQ5NGU5MjVlYWI0MzMwYTc2OGFmY2FlNmMxMjhiMGEyOGUyMzE0OWVlZTQxYzljNmRmODk0YzI0ZjNkZSJ9fX0\u003d",
-  "name": "Campfire Scion Badge",
-  "category": "ACCESSORY",
-  "tier": "EPIC",
-  "soulbound": "COOP",
-  "id": "CAMPFIRE_TALISMAN_19",
-  "description": [
-    {"text":"Heal ","color":"gray","extra":[{"text":"40\u2764 ","color":"red"},{"text":"per second while","color":"gray"}]},
-    {"text":"burning.","color":"gray"},
-    {"text":""},
-    {"text":"Trial of Fire XX","color":"gold"},
-    {"text":" \"Fire guy!\"","color":"dark_gray","italic":true},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNjZmQ5NGU5MjVlYWI0MzMwYTc2OGFmY2FlNmMxMjhiMGEyOGUyMzE0OWVlZTQxYzljNmRmODk0YzI0ZjNkZSJ9fX0=","name":{"text":"Campfire Initiate Badge"},"category":"ACCESSORY","tier":"epic","soulbound":"COOP","id":"CAMPFIRE_TALISMAN_19","description":[{"extra":[{"color":"gray","text":"Heal "},{"color":"red","text":"40❤ "},{"color":"gray","text":"per second while"}],"text":""},{"color":"gray","text":"burning."},{"text":""},{"color":"gold","text":"Trial of Fire XX"},{"extra":[{"italic":true,"color":"dark_gray","text":" \"Fire guy!\""},{"color":"dark_gray","text":""}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC ACCESSORY"},{"color":"dark_purple","text":""}],"text":""}]}

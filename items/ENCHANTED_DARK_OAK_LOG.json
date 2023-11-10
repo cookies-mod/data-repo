@@ -1,9 +1,1 @@
-{
-  "material": "dark_oak_log",
-  "durability": 1,
-  "name": "Enchanted Dark Oak Wood",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 320,
-  "id": "ENCHANTED_DARK_OAK_LOG"
-}
+{"material":"dark_oak_log","durability":1,"name":{"text":"Enchanted Dark Oak Wood"},"glowing":true,"tier":"uncommon","npc_sell_price":320,"id":"ENCHANTED_DARK_OAK_LOG","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

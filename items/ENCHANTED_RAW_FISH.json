@@ -1,8 +1,1 @@
-{
-  "material": "cod",
-  "name": "Enchanted Raw Fish",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 960,
-  "id": "ENCHANTED_RAW_FISH"
-}
+{"material":"cod","name":{"text":"Enchanted Raw Fish"},"glowing":true,"tier":"uncommon","npc_sell_price":960,"id":"ENCHANTED_RAW_FISH","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

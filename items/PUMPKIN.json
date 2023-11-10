@@ -1,6 +1,1 @@
-{
-  "material": "PUMPKIN",
-  "name": "Pumpkin",
-  "npc_sell_price": 10,
-  "id": "PUMPKIN"
-}
+{"material":"PUMPKIN","name":{"text":"Pumpkin"},"npc_sell_price":10,"id":"PUMPKIN","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

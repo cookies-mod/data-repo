@@ -1,17 +1,1 @@
-{
-  "material": "cooked_porkchop",
-  "name": "Revenant Viscera",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 128,
-  "id": "REVENANT_VISCERA",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"cooked_porkchop","name":{"text":"Revenant Viscera"},"glowing":true,"tier":"rare","npc_sell_price":128,"id":"REVENANT_VISCERA","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

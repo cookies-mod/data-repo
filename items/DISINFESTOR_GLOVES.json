@@ -1,18 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4MTE2OTAyNDY0MiwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTFiMGI2MzhmYzNkOTAzM2Y3MWRjZjMxYjdkZTQ0YmJmNDgxNGNhMTIzMTc3YWEzZDI0OTQ1YWY0MzRhMTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
-  "name": "Disinfestor Gloves",
-  "category": "GLOVES",
-  "tier": "RARE",
-  "origin": "RIFT",
-  "stats": {
-    "RIFT_TIME": 30
-  },
-  "id": "DISINFESTOR_GLOVES",
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTY4MTE2OTAyNDY0MiwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTFiMGI2MzhmYzNkOTAzM2Y3MWRjZjMxYjdkZTQ0YmJmNDgxNGNhMTIzMTc3YWEzZDI0OTQ1YWY0MzRhMTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==","name":{"text":"Disinfestor Gloves"},"category":"GLOVES","tier":"rare","origin":"RIFT","stats":{"RIFT_TIME":30},"id":"DISINFESTOR_GLOVES","description":[{"extra":[{"color":"gray","text":"Rift Time: "},{"color":"green","text":"+30s"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE GLOVES"},{"color":"blue","text":""}],"text":""}]}

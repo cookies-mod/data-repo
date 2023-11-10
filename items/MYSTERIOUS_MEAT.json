@@ -1,10 +1,1 @@
-{
-  "material": "ROTTEN_FLESH",
-  "name": "Mysterious Meat",
-  "glowing": true,
-  "id": "MYSTERIOUS_MEAT",
-  "description":[
-    {"text":"Quest item", "color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"ROTTEN_FLESH","name":{"text":"Mysterious Meat"},"glowing":true,"id":"MYSTERIOUS_MEAT","description":[{"color":"gray","text":"Quest item"},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

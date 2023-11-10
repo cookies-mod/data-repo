@@ -1,8 +1,1 @@
-{
-  "material": "GOLDEN_CARROT",
-  "name": "Enchanted Golden Carrot",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 61440,
-  "id": "ENCHANTED_GOLDEN_CARROT"
-}
+{"material":"GOLDEN_CARROT","name":{"text":"Enchanted Golden Carrot"},"glowing":true,"tier":"uncommon","npc_sell_price":61440,"id":"ENCHANTED_GOLDEN_CARROT","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

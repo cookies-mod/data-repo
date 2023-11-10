@@ -1,6 +1,1 @@
-{
-  "material": "SLIME_BLOCK",
-  "name": "Slime Block",
-  "npc_sell_price": 45,
-  "id": "SLIME_BLOCK"
-}
+{"material":"SLIME_BLOCK","name":{"text":"Slime Block"},"npc_sell_price":45,"id":"SLIME_BLOCK","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

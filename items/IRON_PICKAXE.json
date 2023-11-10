@@ -1,18 +1,1 @@
-{
-  "material": "IRON_PICKAXE",
-  "name": "Iron Pickaxe",
-  "category": "PICKAXE",
-  "stats": {
-    "BREAKING_POWER": 3,
-    "DAMAGE": 25,
-    "MINING_SPEED": 160
-  },
-  "npc_sell_price": 4,
-  "id": "IRON_PICKAXE",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"IRON_PICKAXE","name":{"text":"Iron Pickaxe"},"category":"PICKAXE","stats":{"BREAKING_POWER":3,"DAMAGE":25,"MINING_SPEED":160},"npc_sell_price":4,"id":"IRON_PICKAXE","can_be_reforged":true,"description":[{"color":"dark_gray","text":"Breaking Power 3"},{"text":""},{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+25"}],"text":""},{"extra":[{"color":"gray","text":"Mining Speed: "},{"color":"green","text":"+160"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON PICKAXE"},{"color":"white","text":""}],"text":""}],"tier":"common"}

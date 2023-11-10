@@ -1,17 +1,1 @@
-{
-  "material": "LEATHER_BOOTS",
-  "name": "Oxford Shoes",
-  "tier": "RARE",
-  "category": "BOOTS",
-  "stats": {
-    "health": 25,
-    "defense": 10
-  },
-  "id": "OXFORD_SHOES",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"LEATHER_BOOTS","name":{"text":"Oxford Shoes"},"tier":"rare","category":"BOOTS","stats":{"health":25,"defense":10},"id":"OXFORD_SHOES","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+25"}],"text":""},{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+10"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"blue","text":"RARE BOOTS"},{"color":"blue","text":""}],"text":""}]}

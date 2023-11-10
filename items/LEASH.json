@@ -1,6 +1,1 @@
-{
-  "material": "lead",
-  "name": "Lead",
-  "npc_sell_price": 8,
-  "id": "LEASH"
-}
+{"material":"lead","name":{"text":"Lead"},"npc_sell_price":8,"id":"LEASH","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

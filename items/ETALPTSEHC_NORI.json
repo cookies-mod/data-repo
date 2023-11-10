@@ -1,17 +1,1 @@
-{
-  "material": "IRON_CHESTPLATE",
-  "name": "etalptsehC norI",
-  "category": "CHESTPLATE",
-  "tier": "RARE",
-  "origin": "RIFT",
-  "stats": {
-    "RIFT_TIME": 30
-  },
-  "glowing": true,
-  "id": "ETALPTSEHC_NORI",
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"IRON_CHESTPLATE","name":{"extra":[{"color":"blue","text":"etalptsehC "},{"color":"blue","text":"norI"}],"text":""},"category":"CHESTPLATE","tier":"rare","origin":"RIFT","stats":{"RIFT_TIME":30},"glowing":true,"id":"ETALPTSEHC_NORI","description":[{"extra":[{"color":"gray","text":"Rift Time: "},{"color":"green","text":"+30s"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE CHESTPLATE"},{"color":"blue","text":""}],"text":""}]}

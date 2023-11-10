@@ -1,14 +1,1 @@
-{
-  "material": "GOLDEN_CHESTPLATE",
-  "name": "Chestplate of the Stars",
-  "category": "CHESTPLATE",
-  "tier": "ADMIN",
-  "stats": {
-    "DEFENSE": 5000,
-    "HEALTH": 20000,
-    "INTELLIGENCE": 2000
-  },
-  "id": "STAR_CHESTPLATE",
-  "can_be_reforged": true,
-  "soulbound": "SOLO"
-}
+{"material":"GOLDEN_CHESTPLATE","name":{"color":"dark_red","text":"Chestplate of the Stars"},"category":"CHESTPLATE","tier":"","stats":{"DEFENSE":5000,"HEALTH":20000,"INTELLIGENCE":2000},"id":"STAR_CHESTPLATE","can_be_reforged":true,"soulbound":"SOLO","description":[{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+20,000"}],"text":""},{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+5,000"}],"text":""},{"extra":[{"color":"gray","text":"Intelligence: "},{"color":"green","text":"+2,000"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","extra":[{"bold":true,"text":"*"}],"text":" Soulbound "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"dark_red","text":"ADMIN CHESPLATE"},{"color":"dark_red","text":""}],"text":""}]}

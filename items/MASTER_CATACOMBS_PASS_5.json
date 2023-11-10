@@ -1,10 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzExMDcxNzIxMywKICAicHJvZmlsZUlkIiA6ICI5MzZmMTA3MTEzOGM0YjMyYTg0OGY2NmE5Nzc2NDJhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDB4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyMjkyZTRlMGZhNjI2NjcyNTZlZjhkYTBmMDE5ODJhOTk2NDk5ZjRkNWQ4OTRiZDA1OGMzZTZmM2QyZmIyZDkiCiAgICB9CiAgfQp9",
-  "name": "Master Catacombs Pass V",
-  "category": "DUNGEON_PASS",
-  "tier": "UNOBTAINABLE",
-  "dungeon_item": true,
-  "id": "MASTER_CATACOMBS_PASS_5"
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTYxNzExMDcxNzIxMywKICAicHJvZmlsZUlkIiA6ICI5MzZmMTA3MTEzOGM0YjMyYTg0OGY2NmE5Nzc2NDJhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDB4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyMjkyZTRlMGZhNjI2NjcyNTZlZjhkYTBmMDE5ODJhOTk2NDk5ZjRkNWQ4OTRiZDA1OGMzZTZmM2QyZmIyZDkiCiAgICB9CiAgfQp9","name":{"text":"MASTER MODE Catacombs - Floor II"},"category":"DUNGEON_PASS","tier":"uncommon","dungeon_item":true,"id":"MASTER_CATACOMBS_PASS_5","description":[{"extra":[{"color":"gray","text":"Dungeon Size: "},{"color":"aqua","text":"Small"}],"text":""},{"extra":[{"color":"gray","text":"Party size: "},{"color":"blue","text":"2-5"}],"text":""},{"text":""},{"extra":[{"color":"gray","text":"Boss: "},{"bold":true,"color":"red","text":"MASTER "},{"color":"red","text":"Scarf"},{"color":"green","text":" ✔"}],"text":""},{"color":"dark_gray","text":"Apprentice Necromancer"},{"color":"gray","text":"First of his class. His teacher said he"},{"color":"gray","text":"will do \"great things\"."},{"text":""},{"extra":[{"color":"gray","text":"Requires: "},{"color":"light_purple","text":"Catacombs Level XXVI"}],"text":""},{"text":""},{"color":"yellow","text":"Click to queue for dungeon!"}]}

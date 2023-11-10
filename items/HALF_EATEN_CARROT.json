@@ -1,7 +1,1 @@
-{
-  "material": "carrot",
-  "name": "Half-Eaten Carrot",
-  "tier": "COMMON",
-  "origin": "RIFT",
-  "id": "HALF_EATEN_CARROT"
-}
+{"material":"carrot","name":{"text":"Half-Eaten Carrot"},"tier":"common","origin":"RIFT","id":"HALF_EATEN_CARROT","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

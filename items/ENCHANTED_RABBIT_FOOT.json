@@ -1,14 +1,1 @@
-{
-  "material": "RABBIT_FOOT",
-  "name": "Enchanted Rabbit Foot",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 800,
-  "id": "ENCHANTED_RABBIT_FOOT",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"RABBIT_FOOT","name":{"text":"Enchanted Rabbit Foot"},"glowing":true,"tier":"rare","npc_sell_price":800,"id":"ENCHANTED_RABBIT_FOOT","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

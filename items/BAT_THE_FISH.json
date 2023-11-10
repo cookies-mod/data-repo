@@ -1,17 +1,1 @@
-{
-  "material": "cooked_cod",
-  "name": "Bat the Fish",
-  "glowing": true,
-  "tier": "SPECIAL",
-  "museum": true,
-  "id": "BAT_THE_FISH",
-  "description": [
-    {
-      "color": "gray",
-      "text": "Where is my cape"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"cooked_cod","name":{"text":"Bat the Fish"},"glowing":true,"tier":"special","museum":true,"id":"BAT_THE_FISH","description":[{"color":"gray","text":"Where is my cape!"},{"text":""},{"extra":[{"bold":true,"color":"red","text":"SPECIAL"},{"color":"red","text":""}],"text":""}]}

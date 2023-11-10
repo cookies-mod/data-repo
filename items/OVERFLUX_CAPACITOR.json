@@ -1,7 +1,1 @@
-{
-  "material": "QUARTZ",
-  "name": "Overflux Capacitor",
-  "glowing": true,
-  "tier": "EPIC",
-  "id": "OVERFLUX_CAPACITOR"
-}
+{"material":"QUARTZ","name":{"text":"Overflux Capacitor"},"glowing":true,"tier":"epic","id":"OVERFLUX_CAPACITOR","description":[{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

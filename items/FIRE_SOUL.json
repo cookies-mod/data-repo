@@ -1,7 +1,1 @@
-{
-  "material": "BLAZE_POWDER",
-  "name": "Fire Soul",
-  "tier": "UNOBTAINABLE",
-  "soulbound": "SOLO",
-  "id": "FIRE_SOUL"
-}
+{"material":"BLAZE_POWDER","name":{"text":"Fire Soul"},"tier":"rare","soulbound":"SOLO","id":"FIRE_SOUL","description":[{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Soulbound "},{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

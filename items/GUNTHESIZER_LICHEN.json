@@ -1,17 +1,1 @@
-{
-  "material": "green_dye",
-  "durability": 2,
-  "name": "Gunthesizer Lichen",
-  "tier": "RARE",
-  "origin": "RIFT",
-  "id": "GUNTHESIZER_LICHEN",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"green_dye","durability":2,"name":{"text":"Gunthesizer Lichen"},"tier":"rare","origin":"RIFT","id":"GUNTHESIZER_LICHEN","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

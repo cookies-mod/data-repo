@@ -1,16 +1,1 @@
-{
-  "material": "IRON_SWORD",
-  "name": "Iron Sword",
-  "category": "SWORD",
-  "stats": {
-    "DAMAGE": 30
-  },
-  "npc_sell_price": 3,
-  "id": "IRON_SWORD",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"IRON_SWORD","name":{"text":"Iron Sword"},"category":"SWORD","stats":{"DAMAGE":30},"npc_sell_price":3,"id":"IRON_SWORD","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+30"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON SWORD"},{"color":"white","text":""}],"text":""}],"tier":"common"}

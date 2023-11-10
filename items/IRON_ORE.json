@@ -1,6 +1,1 @@
-{
-  "material": "IRON_ORE",
-  "name": "Iron Ore",
-  "npc_sell_price": 3,
-  "id": "IRON_ORE"
-}
+{"material":"IRON_ORE","name":{"text":"Iron Ore"},"npc_sell_price":3,"id":"IRON_ORE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

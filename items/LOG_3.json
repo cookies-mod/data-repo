@@ -1,7 +1,1 @@
-{
-  "material": "jungle_log",
-  "durability": 3,
-  "name": "Jungle Wood",
-  "npc_sell_price": 2,
-  "id": "LOG:3"
-}
+{"material":"jungle_log","durability":3,"name":{"text":"Jungle Wood"},"npc_sell_price":2,"id":"LOG:3","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

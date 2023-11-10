@@ -1,6 +1,1 @@
-{
-  "material": "mycelium",
-  "name": "Mycelium",
-  "npc_sell_price": 5,
-  "id": "MYCEL"
-}
+{"material":"mycelium","name":{"text":"Mycelium"},"npc_sell_price":5,"id":"MYCEL","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

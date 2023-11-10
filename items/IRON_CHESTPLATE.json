@@ -1,16 +1,1 @@
-{
-  "material": "IRON_CHESTPLATE",
-  "name": "Iron Chestplate",
-  "category": "CHESTPLATE",
-  "stats": {
-    "DEFENSE": 30
-  },
-  "npc_sell_price": 12,
-  "id": "IRON_CHESTPLATE",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"IRON_CHESTPLATE","name":{"text":"Iron Chestplate"},"category":"CHESTPLATE","stats":{"DEFENSE":30},"npc_sell_price":12,"id":"IRON_CHESTPLATE","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+30"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON CHESTPLATE"},{"color":"white","text":""}],"text":""}],"tier":"common"}

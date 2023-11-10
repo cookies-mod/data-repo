@@ -1,13 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xZTUyNjE5ZWE0YWI0MmZjMDM2ZWJjZGY1MDc3MjBlMTdjYzRhZWFmMDBlNGY5YmYwNmJhOGFkMjQ0NjRiMTQwIn19fQ\u003d\u003d",
-  "name": "Hay Bed",
-  "furniture": "HAY_BED",
-  "id": "HAY_BED",
-  "description": [
-    {"text":""},
-    {"text":"Use to set your spawn location!","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xZTUyNjE5ZWE0YWI0MmZjMDM2ZWJjZGY1MDc3MjBlMTdjYzRhZWFmMDBlNGY5YmYwNmJhOGFkMjQ0NjRiMTQwIn19fQ==","name":{"text":"Hay Bed"},"furniture":"HAY_BED","id":"HAY_BED","description":[{"color":"dark_gray","text":"Furniture"},{"text":""},{"color":"gray","text":"Use to set your spawn location!"},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

@@ -1,16 +1,1 @@
-{
-  "material": "RABBIT_STEW",
-  "name": "\u00a7cMushroom \u0026 Warts Stew",
-  "description": [
-    {
-      "color": "gray",
-      "text": "Quest item"
-    },
-    {
-      "text": ""
-    }
-  ],
-  "tier": "RARE",
-  "soulbound": "COOP",
-  "id": "WARTS_STEW"
-}
+{"material":"RABBIT_STEW","name":{"color":"red","text":"Mushroom and Warts Stew"},"description":[{"color":"gray","text":"Quest item"},{"text":""},{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Co-op Soulbound "},{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}],"tier":"","soulbound":"COOP","id":"WARTS_STEW"}

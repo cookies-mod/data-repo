@@ -1,9 +1,1 @@
-{
-  "material": "salmon",
-  "durability": 1,
-  "name": "Enchanted Raw Salmon",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 1600,
-  "id": "ENCHANTED_RAW_SALMON"
-}
+{"material":"salmon","durability":1,"name":{"text":"Enchanted Raw Salmon"},"glowing":true,"tier":"uncommon","npc_sell_price":1600,"id":"ENCHANTED_RAW_SALMON","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

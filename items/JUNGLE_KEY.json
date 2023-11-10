@@ -1,12 +1,1 @@
-{
-  "material": "TRIPWIRE_HOOK",
-  "name": "Jungle Key",
-  "glowing": true,
-  "tier": "EPIC",
-  "id": "JUNGLE_KEY",
-  "description": [
-    {"text":"Used to open the entrance to","color":"gray"},
-    {"text":"the Jungle Temple.","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"TRIPWIRE_HOOK","name":{"text":"Jungle Key"},"glowing":true,"tier":"epic","id":"JUNGLE_KEY","description":[{"color":"gray","text":"Used to open the entrance to"},{"color":"gray","text":"the Jungle Temple."},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

@@ -1,17 +1,1 @@
-{
-  "material": "CHAINMAIL_BOOTS",
-  "name": "Chainmail Boots",
-  "category": "BOOTS",
-  "tier": "UNCOMMON",
-  "stats": {
-    "DEFENSE": 7
-  },
-  "npc_sell_price": 1,
-  "id": "CHAINMAIL_BOOTS",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"CHAINMAIL_BOOTS","name":{"text":"Chainmail Boots"},"category":"BOOTS","tier":"uncommon","stats":{"DEFENSE":7},"npc_sell_price":1,"id":"CHAINMAIL_BOOTS","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+7"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON BOOTS"},{"color":"green","text":""}],"text":""}]}

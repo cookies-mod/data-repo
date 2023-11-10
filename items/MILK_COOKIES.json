@@ -1,9 +1,0 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYmE0MjE5MzgwYTFlOTNmNjE4YTU2NjBhM2U4YjRkNDQzOGRlMWI4MTVmZDU0M2MyMDc4N2RiMmM3MDk1NWZhIn19fQ\u003d\u003d",
-  "name": "Milk and Cookies",
-  "furniture": "MILK_COOKIES",
-  "tier": "UNOBTAINABLE",
-  "id": "MILK_COOKIES"
-}

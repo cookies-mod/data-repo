@@ -1,14 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0aW1lc3RhbXAiOjE1NjgyMjIyMTY1MzUsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIxZDgzN2NhMjIyY2JjMGJjMTI0MjZmNWRhMDE4YzNhOTMxYjQwNjAwODgwMDk2MGE5ZGYxMTJhNTk2ZTdkNjIifX19",
-  "name": "Small Backpack",
-  "tier": "UNCOMMON",
-  "id": "SMALL_BACKPACK",
-  "description": [
-    {"text":"A bag with ","color":"gray","extra":[{"text":"9","color":"green"},{"text":" slots which can","color":"gray"}]},
-    {"text":"be placed in your Storage Menu","color":"gray"},
-    {"text":"to store additional items.","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0aW1lc3RhbXAiOjE1NjgyMjIyMTY1MzUsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIxZDgzN2NhMjIyY2JjMGJjMTI0MjZmNWRhMDE4YzNhOTMxYjQwNjAwODgwMDk2MGE5ZGYxMTJhNTk2ZTdkNjIifX19","name":{"text":"Small Backpack"},"tier":"uncommon","id":"SMALL_BACKPACK","description":[{"extra":[{"color":"gray","text":"A bag with "},{"color":"green","text":"9"},{"color":"gray","text":" slots which can"}],"text":""},{"color":"gray","text":"be placed in your Storage Menu"},{"color":"gray","text":"to store additional items."},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

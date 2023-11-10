@@ -1,8 +1,1 @@
-{
-  "material": "cod",
-  "name": "Rock the Fish",
-  "glowing": true,
-  "tier": "SPECIAL",
-  "museum": true,
-  "id": "ROCK_THE_FISH"
-}
+{"material":"cod","name":{"text":"Rock the Fish"},"glowing":true,"tier":"special","museum":true,"id":"ROCK_THE_FISH","description":[{"extra":[{"bold":true,"color":"red","text":"SPECIAL"},{"color":"red","text":""}],"text":""}]}

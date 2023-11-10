@@ -1,8 +1,1 @@
-{
-  "material": "iron_horse_armor",
-  "name": "Iron Horse Armor",
-  "tier": "RARE",
-  "npc_sell_price": 500,
-  "museum": true,
-  "id": "IRON_BARDING"
-}
+{"material":"iron_horse_armor","name":{"text":"Iron Horse Armor"},"tier":"rare","npc_sell_price":500,"museum":true,"id":"IRON_BARDING","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

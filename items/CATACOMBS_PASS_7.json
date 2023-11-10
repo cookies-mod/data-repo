@@ -1,10 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzY5NjVlM2ZkNjE5ZGU2YjBhN2NlMTY3MzA3MjUyMGE5MzYwMzc4ZTFjYjhjMTlkNGJhZjBjODY3NjlkMzc2NCJ9fX0K",
-  "name": "Catacombs Pass VII",
-  "category": "DUNGEON_PASS",
-  "tier": "UNOBTAINABLE",
-  "dungeon_item": true,
-  "id": "CATACOMBS_PASS_7"
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzY5NjVlM2ZkNjE5ZGU2YjBhN2NlMTY3MzA3MjUyMGE5MzYwMzc4ZTFjYjhjMTlkNGJhZjBjODY3NjlkMzc2NCJ9fX0K","name":{"text":"The Catacombs - Floor IV"},"category":"DUNGEON_PASS","tier":"uncommon","dungeon_item":true,"id":"CATACOMBS_PASS_7","description":[{"extra":[{"color":"gray","text":"Dungeon Size: "},{"color":"aqua","text":"Small"}],"text":""},{"extra":[{"color":"gray","text":"Party size: "},{"color":"blue","text":"2-5"}],"text":""},{"text":""},{"extra":[{"color":"gray","text":"Boss: "},{"color":"red","text":"Thorn"},{"color":"green","text":" ✔"}],"text":""},{"color":"dark_gray","text":"Shaman Necromancer"},{"color":"gray","text":"Powerful Necromancer that specializes in"},{"color":"gray","text":"animals. Calls himself a vegetarian, go"},{"color":"gray","text":"figure."},{"text":""},{"extra":[{"color":"gray","text":"Requires: "},{"color":"light_purple","text":"Catacombs Level IX"}],"text":""},{"text":""},{"color":"yellow","text":"Click to queue for dungeon!"}]}

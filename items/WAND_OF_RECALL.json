@@ -1,9 +1,1 @@
-{
-  "material": "IRON_HOE",
-  "name": "Wand of Recall",
-  "glowing": true,
-  "category": "WAND",
-  "tier": "UNOBTAINABLE",
-  "museum": true,
-  "id": "WAND_OF_RECALL"
-}
+{"material":"IRON_HOE","name":{"text":"Wand of Recall"},"glowing":true,"category":"WAND","tier":"epic","museum":true,"id":"WAND_OF_RECALL","description":[{"extra":[{"color":"gold","text":"Ability: Absolute Recall "},{"bold":true,"color":"yellow","text":"RIGHT CLICK"},{"color":"gold","text":""}],"text":""},{"color":"gray","text":"Sets a waypoint at your current"},{"extra":[{"color":"gray","text":"location. After "},{"color":"green","text":"5 seconds "},{"color":"gray","text":"or"}],"text":""},{"extra":[{"color":"gray","text":"when you are "},{"color":"green","text":"40 blocks "},{"color":"gray","text":"away"}],"text":""},{"color":"gray","text":"from the location it will"},{"color":"gray","text":"teleport you back."},{"extra":[{"color":"dark_gray","text":"Mana Cost: "},{"color":"dark_aqua","text":"30"}],"text":""},{"extra":[{"color":"dark_gray","text":"Experience Cost: "},{"color":"green","text":"20 "},{"color":"dark_gray","text":"levels of experience"}],"text":""},{"extra":[{"color":"dark_gray","text":"Cooldown: "},{"color":"green","text":"20s"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC WAND"},{"color":"dark_purple","text":""}],"text":""}]}

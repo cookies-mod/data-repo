@@ -1,6 +1,1 @@
-{
-  "material": "HOPPER_MINECART",
-  "name": "Minecart with Hopper",
-  "npc_sell_price": 22,
-  "id": "HOPPER_MINECART"
-}
+{"material":"HOPPER_MINECART","name":{"text":"Minecart with Hopper"},"npc_sell_price":22,"id":"HOPPER_MINECART","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

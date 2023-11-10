@@ -1,7 +1,1 @@
-{
-  "material": "oak_boat",
-  "name": "Boat",
-  "npc_sell_price": 1,
-  "id": "BOAT",
-  "description":[null]
-}
+{"material":"oak_boat","name":{"text":"Boat"},"npc_sell_price":1,"id":"BOAT","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

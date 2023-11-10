@@ -1,8 +1,1 @@
-{
-  "material": "DIAMOND_HORSE_ARMOR",
-  "name": "Diamond Horse Armor",
-  "tier": "EPIC",
-  "npc_sell_price": 1000,
-  "museum": true,
-  "id": "DIAMOND_BARDING"
-}
+{"material":"DIAMOND_HORSE_ARMOR","name":{"text":"Diamond Horse Armor"},"tier":"epic","npc_sell_price":1000,"museum":true,"id":"DIAMOND_BARDING","description":[{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

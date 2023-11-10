@@ -1,6 +1,1 @@
-{
-  "material": "COBBLESTONE_STAIRS",
-  "name": "Cobblestone Stairs",
-  "npc_sell_price": 1,
-  "id": "COBBLESTONE_STAIRS"
-}
+{"material":"COBBLESTONE_STAIRS","name":{"text":"Cobblestone Stairs"},"npc_sell_price":1,"id":"COBBLESTONE_STAIRS","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

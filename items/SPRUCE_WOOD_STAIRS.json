@@ -1,6 +1,1 @@
-{
-  "material": "SPRUCE_STAIRS",
-  "name": "Spruce Wood Stairs",
-  "npc_sell_price": 0.5,
-  "id": "SPRUCE_WOOD_STAIRS"
-}
+{"material":"SPRUCE_STAIRS","name":{"text":"Spruce Wood Stairs"},"npc_sell_price":0.5,"id":"SPRUCE_WOOD_STAIRS","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

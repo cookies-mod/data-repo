@@ -1,13 +1,1 @@
-{
-  "material": "DIAMOND",
-  "name": "Refined Diamond",
-  "glowing": true,
-  "tier": "EPIC",
-  "npc_sell_price": 4096,
-  "id": "REFINED_DIAMOND",
-  "description": [
-    {"text":"Looking at it for too long","color":"gray","italic":true},
-    {"text":"may cause eye trauma.","color":"gray","italic":true},
-    {"text":""}
-  ]
-}
+{"material":"DIAMOND","name":{"text":"Refined Diamond"},"glowing":true,"tier":"epic","npc_sell_price":4096,"id":"REFINED_DIAMOND","description":[{"extra":[{"italic":true,"color":"gray","text":" Looking at it for too long"},{"color":"gray","text":""}],"text":""},{"extra":[{"italic":true,"color":"gray","text":" may cause eye trauma."},{"color":"gray","text":""}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

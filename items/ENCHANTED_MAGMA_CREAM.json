@@ -1,8 +1,1 @@
-{
-  "material": "MAGMA_CREAM",
-  "name": "Enchanted Magma Cream",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 1280,
-  "id": "ENCHANTED_MAGMA_CREAM"
-}
+{"material":"MAGMA_CREAM","name":{"text":"Enchanted Magma Cream"},"glowing":true,"tier":"uncommon","npc_sell_price":1280,"id":"ENCHANTED_MAGMA_CREAM","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

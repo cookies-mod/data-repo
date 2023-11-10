@@ -1,7 +1,1 @@
-{
-  "material": "lapis_lazuli",
-  "durability": 4,
-  "name": "Lapis Lazuli",
-  "npc_sell_price": 1,
-  "id": "INK_SACK:4"
-}
+{"material":"lapis_lazuli","durability":4,"name":{"text":"Lapis Lazuli"},"npc_sell_price":1,"id":"INK_SACK:4","tier":"common","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

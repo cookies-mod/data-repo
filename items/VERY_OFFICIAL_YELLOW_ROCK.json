@@ -1,18 +1,1 @@
-{
-  "material": "GOLD_NUGGET",
-  "skin": "eyJ0aW1lc3RhbXAiOjE1NzI5ODA0NDkwNDMsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg2OTBjMThlMmI4NzgwYzkyN2ZkMTIxZDVhMzYxOTZhNTNhNzJjNjcwYTg5ZDc4NWRlZWRlZTMxNTUwMjRiMmEifX19",
-  "name": "\u00a7eVery Official Yellow Rock of Love!",
-  "description": [
-    {
-      "color": "gray",
-      "text": "Quest item"
-    },
-    {
-      "text": ""
-    }
-  ],
-  "glowing": true,
-  "tier": "LEGENDARY",
-  "soulbound": "COOP",
-  "id": "VERY_OFFICIAL_YELLOW_ROCK"
-}
+{"material":"GOLD_NUGGET","skin":"eyJ0aW1lc3RhbXAiOjE1NzI5ODA0NDkwNDMsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg2OTBjMThlMmI4NzgwYzkyN2ZkMTIxZDVhMzYxOTZhNTNhNzJjNjcwYTg5ZDc4NWRlZWRlZTMxNTUwMjRiMmEifX19","name":{"color":"yellow","text":"Very Official Yellow Rock of Love!"},"description":[{"color":"gray","text":"Quest item"},{"text":""},{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Co-op Soulbound "},{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"gold","text":"LEGENDARY"},{"color":"gold","text":""}],"text":""}],"glowing":true,"tier":"","soulbound":"COOP","id":"VERY_OFFICIAL_YELLOW_ROCK"}

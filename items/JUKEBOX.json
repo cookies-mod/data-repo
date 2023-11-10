@@ -1,6 +1,1 @@
-{
-  "material": "JUKEBOX",
-  "name": "Jukebox",
-  "npc_sell_price": 12,
-  "id": "JUKEBOX"
-}
+{"material":"JUKEBOX","name":{"text":"Jukebox"},"npc_sell_price":12,"id":"JUKEBOX","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

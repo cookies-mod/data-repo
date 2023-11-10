@@ -1,16 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYjE5ZDEwYTMyZGY5M2ExMzkxNTBiNmZiNzViYWNkNTVjYTQ4ZWJiYjhlMWFjMjMwY2I5Mjg3ZDAxNWRiZGIyIn19fQ\u003d\u003d",
-  "name": "Endstone Chest+",
-  "furniture": "ENDSTONE_CHEST",
-  "tier": "RARE",
-  "id": "ENDSTONE_CHEST",
-  "description": [
-    {"text":"Storage","color":"dark_gray"},
-    {"text":""},
-    {"text":"You can store three pages of","color":"gray"},
-    {"text":"items in this chest!","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYjE5ZDEwYTMyZGY5M2ExMzkxNTBiNmZiNzViYWNkNTVjYTQ4ZWJiYjhlMWFjMjMwY2I5Mjg3ZDAxNWRiZGIyIn19fQ==","name":{"text":"Endstone Chest+"},"furniture":"ENDSTONE_CHEST","tier":"rare","id":"ENDSTONE_CHEST","description":[{"color":"dark_gray","text":"Furniture"},{"color":"dark_gray","text":"Storage"},{"text":""},{"color":"gray","text":"You can store three pages of"},{"color":"gray","text":"items in this chest!"},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

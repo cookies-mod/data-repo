@@ -1,17 +1,1 @@
-{
-  "material": "green_dye",
-  "durability": 2,
-  "name": "Silky Lichen",
-  "tier": "RARE",
-  "soulbound": "COOP",
-  "id": "SILKY_LICHEN",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"green_dye","durability":2,"name":{"text":"Silky Lichen"},"tier":"rare","soulbound":"COOP","id":"SILKY_LICHEN","description":[{"text":""},{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Co-op Soulbound "},{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

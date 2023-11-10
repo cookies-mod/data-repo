@@ -1,16 +1,1 @@
-{
-  "material": "STRING",
-  "name": "Larva Silk",
-  "tier": "UNCOMMON",
-  "origin": "RIFT",
-  "glowing": true,
-  "id": "LARVA_SILK",
-  "description": [
-    {"text":"Click two ledge blocks with this","color":"gray"},
-    {"text":"item to setup a ","color":"gray","extra":[{"text":"Silkwire","color":"yellow"},{"text":".","color":"gray"}]},
-    {"text":"","color":"gray"},
-    {"text":"May the larvas which died for","color":"dark_gray"},
-    {"text":"it rest in pieces.","color":"dark_gray"},
-    {"text":""}
-  ]
-}
+{"material":"STRING","name":{"text":"Larva Silk"},"tier":"uncommon","origin":"RIFT","glowing":true,"id":"LARVA_SILK","description":[{"color":"gray","text":"Click two ledge blocks with this"},{"extra":[{"color":"gray","text":"item to setup a "},{"color":"yellow","text":"Silkwire"},{"color":"gray","text":"."}],"text":""},{"text":""},{"color":"dark_gray","text":"May the larvas which died for"},{"color":"dark_gray","text":"it rest in pieces."},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

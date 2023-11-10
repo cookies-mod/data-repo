@@ -1,10 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0Mzg4NjMwMjEwOSwKICAicHJvZmlsZUlkIiA6ICIxYzdmNmQ3NDJjNjU0ZDZhYTZlMjU3NTM1MTE3MWM3NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHlzYWFLb2JlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YzMWY1Yzc4YjdlOTYxNTkxMjkzNzU2YjllMTUwMTJkYjEwNDU3ODQ2YzVlYmM1ZGIwZjJiMGUxODczNDY4ZWUiCiAgICB9CiAgfQp9",
-  "name": "Enchanted Red Sand Cube",
-  "tier": "RARE",
-  "npc_sell_price": 128000,
-  "id": "ENCHANTED_RED_SAND_CUBE",
-  "description": [null]
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTY0Mzg4NjMwMjEwOSwKICAicHJvZmlsZUlkIiA6ICIxYzdmNmQ3NDJjNjU0ZDZhYTZlMjU3NTM1MTE3MWM3NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHlzYWFLb2JlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YzMWY1Yzc4YjdlOTYxNTkxMjkzNzU2YjllMTUwMTJkYjEwNDU3ODQ2YzVlYmM1ZGIwZjJiMGUxODczNDY4ZWUiCiAgICB9CiAgfQp9","name":{"text":"Enchanted Red Sand Cube"},"tier":"rare","npc_sell_price":128000,"id":"ENCHANTED_RED_SAND_CUBE","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

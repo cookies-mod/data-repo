@@ -1,18 +1,1 @@
-{
-  "material": "IRON_SWORD",
-  "name": "Hunter Knife",
-  "category": "SWORD",
-  "tier": "UNCOMMON",
-  "stats": {
-    "WALK_SPEED": 40,
-    "DAMAGE": 50
-  },
-  "soulbound": "COOP",
-  "id": "HUNTER_KNIFE",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"IRON_SWORD","name":{"text":"Hunter Knife"},"category":"SWORD","tier":"uncommon","stats":{"WALK_SPEED":40,"DAMAGE":50},"soulbound":"COOP","id":"HUNTER_KNIFE","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+50"}],"text":""},{"extra":[{"color":"gray","text":"Speed: "},{"color":"green","text":"+40"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Co-op Soulbound "},{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON SWORD"},{"color":"green","text":""}],"text":""}]}

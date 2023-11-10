@@ -1,16 +1,1 @@
-{
-  "material": "WOODen_PICKAXE",
-  "name": "Zoom",
-  "glowing": true,
-  "category": "PICKAXE",
-  "tier": "ADMIN",
-  "stats": {
-    "BREAKING_POWER": 10,
-    "DAMAGE": 30,
-    "MINING_SPEED": 3000
-  },
-  "npc_sell_price": 5000,
-  "id": "ZOOM_PICKAXE",
-  "can_be_reforged": true,
-  "soulbound": "SOLO"
-}
+{"material":"WOODen_PICKAXE","name":{"color":"dark_red","text":"Zoom"},"glowing":true,"category":"PICKAXE","tier":"","stats":{"BREAKING_POWER":10,"DAMAGE":30,"MINING_SPEED":3000},"npc_sell_price":5000,"id":"ZOOM_PICKAXE","can_be_reforged":true,"soulbound":"SOLO","description":[{"color":"dark_gray","text":"Breaking Power 10"},{"text":""},{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+30"}],"text":""},{"extra":[{"color":"gray","text":"Mining Speed: "},{"color":"green","text":"+3,000"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","extra":[{"bold":true,"text":"*"}],"text":" Soulbound "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"dark_red","text":"ADMIN PICKAXE"},{"color":"dark_red","text":""}],"text":""}]}

@@ -1,7 +1,1 @@
-{
-  "material": "IRON_DOOR",
-  "name": "Iron Door",
-  "npc_sell_price": 18,
-  "id": "IRON_DOOR",
-  "description":[null]
-}
+{"material":"IRON_DOOR","name":{"text":"Iron Door"},"npc_sell_price":18,"id":"IRON_DOOR","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

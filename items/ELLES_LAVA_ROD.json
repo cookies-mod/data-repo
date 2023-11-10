@@ -1,15 +1,1 @@
-{
-  "material": "FISHING_ROD",
-  "name": "Elle\u0027s Lava Rod",
-  "category": "FISHING_ROD",
-  "tier": "SPECIAL",
-  "stats": {
-    "damage": 50,
-    "strength": 50,
-    "fishing_speed": 8
-  },
-  "id": "ELLES_LAVA_ROD",
-  "description": [
-    {"text":"Special kuudra rod","color":"gray"}
-  ]
-}
+{"material":"FISHING_ROD","name":{"text":"Elle's Lava Rod"},"category":"FISHING_ROD","tier":"special","stats":{"damage":50,"strength":50,"fishing_speed":8},"id":"ELLES_LAVA_ROD","description":[{"color":"dark_gray","text":"Lava Rod"},{"text":""},{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+50"}],"text":""},{"extra":[{"color":"gray","text":"Strength: "},{"color":"red","text":"+50"}],"text":""},{"extra":[{"color":"gray","text":"Fishing Speed: "},{"color":"green","text":"+8"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"color":"dark_gray","text":" "},{"bold":true,"color":"red","text":"SPECIAL FISHING ROD"},{"color":"dark_gray","text":""}],"text":" "}]}

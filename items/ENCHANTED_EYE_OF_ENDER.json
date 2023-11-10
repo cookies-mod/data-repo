@@ -1,8 +1,1 @@
-{
-  "material": "ender_eye",
-  "name": "Enchanted Eye of Ender",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 3520,
-  "id": "ENCHANTED_EYE_OF_ENDER"
-}
+{"material":"ender_eye","name":{"text":"Enchanted Eye of Ender"},"glowing":true,"tier":"uncommon","npc_sell_price":3520,"id":"ENCHANTED_EYE_OF_ENDER","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

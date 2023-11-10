@@ -1,8 +1,1 @@
-{
-  "material": "STONE_HOE",
-  "name": "Stone Hoe",
-  "category": "HOE",
-  "npc_sell_price": 2,
-  "id": "STONE_HOE",
-  "can_be_reforged": true
-}
+{"material":"STONE_HOE","name":{"text":"Stone Hoe"},"category":"HOE","npc_sell_price":2,"id":"STONE_HOE","can_be_reforged":true,"tier":"common","description":[{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON HOE"},{"color":"white","text":""}],"text":""}]}

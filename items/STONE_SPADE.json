@@ -1,15 +1,1 @@
-{
-  "material": "STONE_SHOVEL",
-  "name": "Stone Shovel",
-  "category": "SPADE",
-  "stats": {
-    "DAMAGE": 20
-  },
-  "npc_sell_price": 1,
-  "id": "STONE_SPADE",
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"STONE_SHOVEL","name":{"text":"Stone Shovel"},"category":"SPADE","stats":{"DAMAGE":20},"npc_sell_price":1,"id":"STONE_SPADE","description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+20"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON SHOVEL"},{"color":"white","text":""}],"text":""}],"tier":"common"}

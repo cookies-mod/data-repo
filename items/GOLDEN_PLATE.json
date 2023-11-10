@@ -1,9 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzMjAyMDczMiwKICAicHJvZmlsZUlkIiA6ICIxNzhmMTJkYWMzNTQ0ZjRhYjExNzkyZDc1MDkzY2JmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaWxlbnRkZXRydWN0aW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZhNWZkMDljZWM0ZmU5N2NjYzc3NjIxYjczZDg5YWQ2ZTQ1ZDc5MzExN2Y1NzY1NTdkNjUzODQ1YWNiNGYwYWQiCiAgICB9CiAgfQp9",
-  "name": "Golden Plate",
-  "tier": "RARE",
-  "npc_sell_price": 3068,
-  "id": "GOLDEN_PLATE"
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTYxMDYzMjAyMDczMiwKICAicHJvZmlsZUlkIiA6ICIxNzhmMTJkYWMzNTQ0ZjRhYjExNzkyZDc1MDkzY2JmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaWxlbnRkZXRydWN0aW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZhNWZkMDljZWM0ZmU5N2NjYzc3NjIxYjczZDg5YWQ2ZTQ1ZDc5MzExN2Y1NzY1NTdkNjUzODQ1YWNiNGYwYWQiCiAgICB9CiAgfQp9","name":{"text":"Golden Plate"},"tier":"rare","npc_sell_price":3068,"id":"GOLDEN_PLATE","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

@@ -1,16 +1,1 @@
-{
-  "material": "DIAMOND_LEGGINGS",
-  "name": "Titan\u0027s Leggings",
-  "category": "LEGGINGS",
-  "tier": "ADMIN",
-  "can_be_reforged": true,
-  "soulbound": "SOLO",
-  "stats": {
-    "DEFENSE": 175,
-    "HEALTH": 200,
-    "STRENGTH": 15,
-    "INTELLIGENCE": 50
-  },
-  "npc_sell_price": 75000,
-  "id": "TITAN_LEGGINGS"
-}
+{"material":"DIAMOND_LEGGINGS","name":{"color":"dark_red","text":"Titan's Leggings"},"category":"LEGGINGS","tier":"","can_be_reforged":true,"soulbound":"SOLO","stats":{"DEFENSE":175,"HEALTH":200,"STRENGTH":15,"INTELLIGENCE":50},"npc_sell_price":75000,"id":"TITAN_LEGGINGS","description":[{"extra":[{"color":"gray","text":"Strength: "},{"color":"red","text":"+15"}],"text":""},{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+200"}],"text":""},{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+175"}],"text":""},{"extra":[{"color":"gray","text":"Intelligence: "},{"color":"green","text":"+50"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","extra":[{"bold":true,"text":"*"}],"text":" Soulbound "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"dark_red","text":"ADMIN LEGGINGS"},{"color":"dark_red","text":""}],"text":""}]}

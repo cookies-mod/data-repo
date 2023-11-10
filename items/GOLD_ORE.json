@@ -1,6 +1,1 @@
-{
-  "material": "GOLD_ORE",
-  "name": "Gold Ore",
-  "npc_sell_price": 3,
-  "id": "GOLD_ORE"
-}
+{"material":"GOLD_ORE","name":{"text":"Gold Ore"},"npc_sell_price":3,"id":"GOLD_ORE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

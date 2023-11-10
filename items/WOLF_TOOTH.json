@@ -1,17 +1,1 @@
-{
-  "material": "GHAST_TEAR",
-  "name": "Wolf Tooth",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 1,
-  "id": "WOLF_TOOTH",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"GHAST_TEAR","name":{"text":"Wolf Tooth"},"glowing":true,"tier":"uncommon","npc_sell_price":1,"id":"WOLF_TOOTH","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

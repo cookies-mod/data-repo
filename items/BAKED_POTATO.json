@@ -1,6 +1,1 @@
-{
-  "material": "BAKED_POTATO",
-  "name": "Baked Potato",
-  "npc_sell_price": 3,
-  "id": "BAKED_POTATO"
-}
+{"material":"BAKED_POTATO","name":{"text":"Baked Potato"},"npc_sell_price":3,"id":"BAKED_POTATO","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

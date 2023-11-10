@@ -1,7 +1,1 @@
-{
-  "material": "DIAMOND_ORE",
-  "name": "Diamond Ore",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 10,
-  "id": "DIAMOND_ORE"
-}
+{"material":"DIAMOND_ORE","name":{"text":"Diamond Ore"},"tier":"uncommon","npc_sell_price":10,"id":"DIAMOND_ORE","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

@@ -1,16 +1,1 @@
-{
-  "material": "NETHER_wart",
-  "name": "Riftwart Roots",
-  "tier": "UNCOMMON",
-  "origin": "RIFT",
-  "description": [
-    {
-      "color": "gray",
-      "text": "Do not eat."
-    },
-    {
-      "text": ""
-    }
-  ],
-  "id": "RIFTWART_ROOTS"
-}
+{"material":"NETHER_wart","name":{"text":"Riftwart Roots"},"tier":"uncommon","origin":"RIFT","description":[{"color":"gray","text":"Do not eat."},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}],"id":"RIFTWART_ROOTS"}

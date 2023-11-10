@@ -1,9 +1,1 @@
-{
-  "material": "jungle_log",
-  "durability": 3,
-  "name": "Enchanted Jungle Wood",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 320,
-  "id": "ENCHANTED_JUNGLE_LOG"
-}
+{"material":"jungle_log","durability":3,"name":{"text":"Enchanted Jungle Wood"},"glowing":true,"tier":"uncommon","npc_sell_price":320,"id":"ENCHANTED_JUNGLE_LOG","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

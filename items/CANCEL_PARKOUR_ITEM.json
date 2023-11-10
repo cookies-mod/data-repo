@@ -1,6 +1,1 @@
-{
-  "material": "red_terracotta",
-  "durability": 14,
-  "name": "Cancel Parkour",
-  "id": "CANCEL_PARKOUR_ITEM"
-}
+{"material":"red_terracotta","durability":14,"name":{"text":"Cancel Parkour (Right Click)"},"id":"CANCEL_PARKOUR_ITEM","tier":"special","description":[{"text":""},{"color":"yellow","text":"Click to cancel!"}]}

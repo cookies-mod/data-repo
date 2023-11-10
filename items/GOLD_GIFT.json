@@ -1,18 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzE3MmQwYTBkNjk2OTIxNmI3ZjBiMmY5OWFkYjQwOTk0NWM1ZGU5YjA4MzFmZjVlZjA2NGJhNWYzODM1ZTY5NiJ9fX0\u003d",
-  "name": "Golden Gift",
-  "tier": "SPECIAL",
-  "museum": true,
-  "id": "GOLD_GIFT",
-  "description": [
-    {
-      "color": "gray",
-      "text": "It\u0027s a trophy!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzE3MmQwYTBkNjk2OTIxNmI3ZjBiMmY5OWFkYjQwOTk0NWM1ZGU5YjA4MzFmZjVlZjA2NGJhNWYzODM1ZTY5NiJ9fX0=","name":{"text":"Golden Gift"},"tier":"special","museum":true,"id":"GOLD_GIFT","description":[{"color":"gray","text":"It's a trophy!"},{"text":""},{"extra":[{"bold":true,"color":"red","text":"SPECIAL"},{"color":"red","text":""}],"text":""}]}

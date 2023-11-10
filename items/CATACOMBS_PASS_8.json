@@ -1,10 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzNhMDI0NmQ1MTM1MGI3NzBkZTI3ZjFhMTkyNWIxMWNlY2U1N2IzYzliMjA5ZTJiNmJmMjc1ZDMyZDAxNTRjMyJ9fX0K",
-  "name": "Catacombs Pass VIII",
-  "category": "DUNGEON_PASS",
-  "tier": "UNOBTAINABLE",
-  "dungeon_item": true,
-  "id": "CATACOMBS_PASS_8"
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzNhMDI0NmQ1MTM1MGI3NzBkZTI3ZjFhMTkyNWIxMWNlY2U1N2IzYzliMjA5ZTJiNmJmMjc1ZDMyZDAxNTRjMyJ9fX0K","name":{"text":"The Catacombs - Floor V"},"category":"DUNGEON_PASS","tier":"uncommon","dungeon_item":true,"id":"CATACOMBS_PASS_8","description":[{"extra":[{"color":"gray","text":"Dungeon Size: "},{"color":"aqua","text":"Medium"}],"text":""},{"extra":[{"color":"gray","text":"Party size: "},{"color":"blue","text":"2-5"}],"text":""},{"text":""},{"extra":[{"color":"gray","text":"Boss: "},{"color":"red","text":"Livid"},{"color":"green","text":" ✔"}],"text":""},{"color":"dark_gray","text":"Master Necromancer"},{"color":"gray","text":"Strongly believes he will become the"},{"color":"gray","text":"Lord one day. Subject of mockeries, even"},{"color":"gray","text":"from his disciples."},{"text":""},{"extra":[{"color":"gray","text":"Requires: "},{"color":"light_purple","text":"Catacombs Level XIV"}],"text":""},{"text":""},{"color":"yellow","text":"Click to queue for dungeon!"}]}

@@ -1,8 +1,1 @@
-{
-  "material": "GOLDEN_SHOVEL",
-  "name": "Fly Swatter",
-  "glowing": true,
-  "tier": "EPIC",
-  "npc_sell_price": 500000,
-  "id": "FLY_SWATTER"
-}
+{"material":"GOLDEN_SHOVEL","name":{"text":"Fly Swatter"},"glowing":true,"tier":"epic","npc_sell_price":500000,"id":"FLY_SWATTER","description":[{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

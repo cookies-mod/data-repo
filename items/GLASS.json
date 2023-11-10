@@ -1,6 +1,1 @@
-{
-  "material": "GLASS",
-  "name": "Glass",
-  "npc_sell_price": 2,
-  "id": "GLASS"
-}
+{"material":"GLASS","name":{"text":"Glass"},"npc_sell_price":2,"id":"GLASS","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

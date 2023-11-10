@@ -1,6 +1,1 @@
-{
-  "material": "ITEM_FRAME",
-  "name": "Item Frame",
-  "npc_sell_price": 5,
-  "id": "ITEM_FRAME"
-}
+{"material":"ITEM_FRAME","name":{"text":"Item Frame"},"npc_sell_price":5,"id":"ITEM_FRAME","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

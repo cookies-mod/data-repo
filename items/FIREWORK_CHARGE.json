@@ -1,6 +1,1 @@
-{
-  "material": "FIREWORK_star",
-  "name": "Firework Star",
-  "npc_sell_price": 3,
-  "id": "FIREWORK_CHARGE"
-}
+{"material":"FIREWORK_star","name":{"text":"Firework Star"},"npc_sell_price":3,"id":"FIREWORK_CHARGE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

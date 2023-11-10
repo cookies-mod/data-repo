@@ -1,7 +1,1 @@
-{
-  "material": "nether_QUARTZ_ORE",
-  "name": "Nether Quartz Ore",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 6,
-  "id": "QUARTZ_ORE"
-}
+{"material":"nether_QUARTZ_ORE","name":{"text":"Nether Quartz Ore"},"tier":"uncommon","npc_sell_price":6,"id":"QUARTZ_ORE","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

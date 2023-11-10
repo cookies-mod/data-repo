@@ -1,7 +1,1 @@
-{
-  "material": "NETHER_STAR",
-  "name": "Energy Crystal",
-  "tier": "UNOBTAINABLE",
-  "dungeon_item": true,
-  "id": "MAXOR_ENERGY_CRYSTAL"
-}
+{"material":"NETHER_STAR","name":{"text":"Energy Crystal"},"tier":"special","dungeon_item":true,"id":"MAXOR_ENERGY_CRYSTAL","description":[{"extra":[{"bold":true,"color":"red","text":"SPECIAL DUNGEON ITEM"},{"color":"red","text":""}],"text":""}]}

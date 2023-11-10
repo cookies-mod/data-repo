@@ -1,9 +1,1 @@
-{
-  "material": "DIAMOND_HOE",
-  "name": "Diamond Hoe",
-  "category": "HOE",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 8,
-  "id": "DIAMOND_HOE",
-  "can_be_reforged": true
-}
+{"material":"DIAMOND_HOE","name":{"text":"Diamond Hoe"},"category":"HOE","tier":"uncommon","npc_sell_price":8,"id":"DIAMOND_HOE","can_be_reforged":true,"description":[{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON HOE"},{"color":"green","text":""}],"text":""}]}

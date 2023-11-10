@@ -1,8 +1,0 @@
-{
-  "material": "IRON_HOE",
-  "name": "Harvesting Upgrade",
-  "glowing": true,
-  "tier": "UNOBTAINABLE",
-  "npc_sell_price": 2600,
-  "id": "HARVESTING_UPGRADE"
-}

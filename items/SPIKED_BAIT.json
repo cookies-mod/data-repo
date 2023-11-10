@@ -1,15 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTEyYmM1ZWYyNmYzNjdiZGJkNzExNmU4MGZkZTRhZjE4MjNjMGU5MzYwYWZhYjAyYTlkM2E0Y2I2ZDVmY2Q4MiJ9fX0\u003d",
-  "name": "Spiked Bait",
-  "category": "BAIT",
-  "npc_sell_price": 20,
-  "id": "SPIKED_BAIT",
-  "description": [
-    {"text":""},
-    {"text":"Grants ","color":"gray","extra":[{"text":"+6\u03b1 Sea Creature","color":"dark_aqua"}]},
-    {"text":"Chance","color":"dark_aqua","extra":[{"text":".","color":"gray"}]},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTEyYmM1ZWYyNmYzNjdiZGJkNzExNmU4MGZkZTRhZjE4MjNjMGU5MzYwYWZhYjAyYTlkM2E0Y2I2ZDVmY2Q4MiJ9fX0=","name":{"text":"Spiked Bait"},"category":"BAIT","npc_sell_price":20,"id":"SPIKED_BAIT","description":[{"color":"dark_gray","text":"Fishing Bait"},{"color":"dark_gray","text":"Consumes on Cast"},{"text":""},{"extra":[{"color":"gray","text":"Grants "},{"color":"dark_aqua","text":"+6α Sea Creature"}],"text":""},{"extra":[{"color":"dark_aqua","text":"Chance"},{"color":"gray","text":"."}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON BAIT"},{"color":"white","text":""}],"text":""}],"tier":"common"}

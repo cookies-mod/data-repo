@@ -1,6 +1,1 @@
-{
-  "material": "COOKED_cod",
-  "name": "Cooked Fish",
-  "npc_sell_price": 8,
-  "id": "COOKED_FISH"
-}
+{"material":"COOKED_cod","name":{"text":"Cooked Fish"},"npc_sell_price":8,"id":"COOKED_FISH","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

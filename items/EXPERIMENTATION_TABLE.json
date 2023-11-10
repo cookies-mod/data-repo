@@ -1,17 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwNTc0MjE2NTc3MCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODFiODQzNDUxMTg0YThjY2Q4ZTZlNDlkMGVkZjM0NTFkM2RlYTUwZmRlNWI2YTJmOThhYjdjZjExMzhiY2VjZSIKICAgIH0KICB9Cn0\u003d",
-  "name": "Experimentation Table",
-  "tier": "RARE",
-  "id": "EXPERIMENTATION_TABLE",
-  "description": [
-    {"text":"Place this item on your","color":"gray"},
-    {"text":"island!","color":"gray"},
-    {"text":""},
-    {"text":"Conduct wild enchanting","color":"gray"},
-    {"text":"experiments to gain bonus","color":"gray"},
-    {"text":"Enchanting Exp ","color":"aqua","extra":[{"text":"and ","color":"gray"},{"text":"items","color":"yellow"},{"text":"!","color":"gray"}]},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTYwNTc0MjE2NTc3MCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODFiODQzNDUxMTg0YThjY2Q4ZTZlNDlkMGVkZjM0NTFkM2RlYTUwZmRlNWI2YTJmOThhYjdjZjExMzhiY2VjZSIKICAgIH0KICB9Cn0=","name":{"text":"Experimentation Table"},"tier":"rare","id":"EXPERIMENTATION_TABLE","description":[{"color":"gray","text":"Place this item on your"},{"color":"gray","text":"island!"},{"text":""},{"color":"gray","text":"Conduct wild enchanting"},{"color":"gray","text":"experiments to gain bonus"},{"extra":[{"color":"aqua","text":"Enchanting Exp "},{"color":"gray","text":"and "},{"color":"yellow","text":"items"},{"color":"gray","text":"!"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

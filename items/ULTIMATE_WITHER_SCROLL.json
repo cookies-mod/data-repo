@@ -1,12 +1,1 @@
-{
-  "material": "BOOK_AND_QUILL",
-  "name": "Ultimate Wither Scroll",
-  "glowing": true,
-  "tier": "UNOBTAINABLE",
-  "stats": {
-    "WEAPON_ABILITY_DAMAGE": 10000
-  },
-  "ability_damage_scaling": 0.3,
-  "dungeon_item": true,
-  "id": "ULTIMATE_WITHER_SCROLL"
-}
+{"material":"writable_book","name":{"text":"Ultimate Wither Scroll"},"glowing":true,"tier":"epic","stats":{"WEAPON_ABILITY_DAMAGE":10000},"ability_damage_scaling":0.3,"dungeon_item":true,"id":"ULTIMATE_WITHER_SCROLL","description":[{"color":"gray","text":"This scroll can be applied to a"},{"color":"gold","text":"Necron's Blade (Unrefined)"},{"extra":[{"color":"gray","text":"granting it the "},{"color":"gold","text":"Wither"}],"text":""},{"extra":[{"color":"gold","text":"Impact "},{"color":"gray","text":"ability."}],"text":""},{"text":""},{"extra":[{"color":"gold","text":"Ability: Wither Impact "},{"bold":true,"color":"yellow","text":"RIGHT CLICK"},{"color":"gold","text":""}],"text":""},{"extra":[{"color":"gray","text":"Teleport "},{"color":"green","text":"10 blocks"},{"color":"gray","text":" ahead of"}],"text":""},{"color":"gray","text":"you. Then implode dealing"},{"extra":[{"color":"red","text":"10,000 "},{"color":"gray","text":"damage to nearby"}],"text":""},{"color":"gray","text":"enemies. Also applies the wither"},{"color":"gray","text":"shield scroll ability reducing"},{"color":"gray","text":"damage taken and granting an"},{"extra":[{"color":"gray","text":"absorption shield for "},{"color":"yellow","text":"5"}],"text":""},{"color":"gray","text":"seconds."},{"extra":[{"color":"dark_gray","text":"Mana Cost: "},{"color":"dark_aqua","text":"300"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC DUNGEON ITEM"},{"color":"dark_purple","text":""}],"text":""}]}

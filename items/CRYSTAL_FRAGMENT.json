@@ -1,17 +1,1 @@
-{
-  "material": "QUARTZ",
-  "name": "Crystal Fragment",
-  "glowing": true,
-  "tier": "EPIC",
-  "npc_sell_price": 500,
-  "id": "CRYSTAL_FRAGMENT",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"QUARTZ","name":{"text":"Crystal Fragment"},"glowing":true,"tier":"epic","npc_sell_price":500,"id":"CRYSTAL_FRAGMENT","description":[{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

@@ -1,7 +1,1 @@
-{
-  "material": "spruce_log",
-  "durability": 1,
-  "name": "Spruce Wood",
-  "npc_sell_price": 2,
-  "id": "LOG:1"
-}
+{"material":"spruce_log","durability":1,"name":{"text":"Spruce Wood"},"npc_sell_price":2,"id":"LOG:1","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

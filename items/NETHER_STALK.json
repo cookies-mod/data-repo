@@ -1,12 +1,1 @@
-{
-  "material": "nether_wart",
-  "name": "Nether Wart",
-  "npc_sell_price": 4,
-  "id": "NETHER_STALK",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"nether_wart","name":{"text":"Nether Wart"},"npc_sell_price":4,"id":"NETHER_STALK","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

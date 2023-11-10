@@ -1,14 +1,1 @@
-{
-  "material": "GOLDEN_BOOTS",
-  "name": "Boots of the Stars",
-  "category": "BOOTS",
-  "tier": "ADMIN",
-  "stats": {
-    "DEFENSE": 2500,
-    "HEALTH": 7500,
-    "INTELLIGENCE": 1000
-  },
-  "id": "STAR_BOOTS",
-  "can_be_reforged": true,
-  "soulbound": "SOLO"
-}
+{"material":"GOLDEN_BOOTS","name":{"color":"dark_red","text":"Boots of the Stars"},"category":"BOOTS","tier":"","stats":{"DEFENSE":2500,"HEALTH":7500,"INTELLIGENCE":1000},"id":"STAR_BOOTS","can_be_reforged":true,"soulbound":"SOLO","description":[{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+7,500"}],"text":""},{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+2,500"}],"text":""},{"extra":[{"color":"gray","text":"Intelligence: "},{"color":"green","text":"+1,000"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","extra":[{"bold":true,"text":"*"}],"text":" Soulbound "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"dark_red","text":"ADMIN BOOTS"},{"color":"dark_red","text":""}],"text":""}]}

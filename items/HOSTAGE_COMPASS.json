@@ -1,7 +1,1 @@
-{
-  "material": "COMPASS",
-  "name": "Hostage Compass",
-  "tier": "UNOBTAINABLE",
-  "npc_sell_price": 1,
-  "id": "HOSTAGE_COMPASS"
-}
+{"material":"COMPASS","name":{"text":"Hostage Compass"},"tier":"uncommon","npc_sell_price":1,"id":"HOSTAGE_COMPASS","description":[{"extra":[{"color":"gray","text":"Points towards the "},{"color":"red","text":"hostage"}],"text":""},{"color":"gray","text":"during a rescue quest."},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

@@ -1,13 +1,1 @@
-{
-  "material": "OAK_BOAT",
-  "name": "Rift Boat",
-  "tier": "UNCOMMON",
-  "origin": "RIFT",
-  "description": [
-    {"text": "Built by Reed, who turns out to", "color": "gray"},
-    {"text": "be a bit of a scammer.", "color": "gray"},
-    {"text": ""}
-    
-  ],
-  "id": "REED_BOAT"
-}
+{"material":"OAK_BOAT","name":{"text":"Rift Boat"},"tier":"uncommon","origin":"RIFT","description":[{"color":"gray","text":"Built by Reed, who turns out to"},{"color":"gray","text":"be a bit of a scammer."},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}],"id":"REED_BOAT"}

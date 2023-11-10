@@ -1,7 +1,1 @@
-{
-  "material": "STRING",
-  "name": "String",
-  "npc_sell_price": 3,
-  "motes_sell_price": 30,
-  "id": "STRING"
-}
+{"material":"STRING","name":{"text":"String"},"npc_sell_price":3,"motes_sell_price":30,"id":"STRING","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

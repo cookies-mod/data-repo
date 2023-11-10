@@ -1,6 +1,1 @@
-{
-  "material": "Dandelion",
-  "name": "Dandelion",
-  "npc_sell_price": 1,
-  "id": "YELLOW_FLOWER"
-}
+{"material":"Dandelion","name":{"text":"Dandelion"},"npc_sell_price":1,"id":"YELLOW_FLOWER","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

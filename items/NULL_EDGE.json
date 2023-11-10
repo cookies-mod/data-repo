@@ -1,16 +1,1 @@
-{
-  "material": "STICK",
-  "name": "Null Edge",
-  "glowing": true,
-  "tier": "EPIC",
-  "id": "NULL_EDGE",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"STICK","name":{"text":"Null Edge"},"glowing":true,"tier":"epic","id":"NULL_EDGE","description":[{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

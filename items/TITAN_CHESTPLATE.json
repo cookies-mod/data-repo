@@ -1,16 +1,1 @@
-{
-  "material": "DIAMOND_CHESTPLATE",
-  "name": "Titan\u0027s Chestplate",
-  "category": "CHESTPLATE",
-  "tier": "ADMIN",
-  "can_be_reforged": true,
-  "soulbound": "SOLO",
-  "stats": {
-    "DEFENSE": 200,
-    "HEALTH": 300,
-    "STRENGTH": 20,
-    "INTELLIGENCE": 75
-  },
-  "npc_sell_price": 100000,
-  "id": "TITAN_CHESTPLATE"
-}
+{"material":"DIAMOND_CHESTPLATE","name":{"color":"dark_red","text":"Titan's Chestplate"},"category":"CHESTPLATE","tier":"","can_be_reforged":true,"soulbound":"SOLO","stats":{"DEFENSE":200,"HEALTH":300,"STRENGTH":20,"INTELLIGENCE":75},"npc_sell_price":100000,"id":"TITAN_CHESTPLATE","description":[{"extra":[{"color":"gray","text":"Strength: "},{"color":"red","text":"+20"}],"text":""},{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+300"}],"text":""},{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+200"}],"text":""},{"extra":[{"color":"gray","text":"Intelligence: "},{"color":"green","text":"+75"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","extra":[{"bold":true,"text":"*"}],"text":" Soulbound "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"dark_red","text":"ADMIN CHESTPLATE"},{"color":"dark_red","text":""}],"text":""}]}

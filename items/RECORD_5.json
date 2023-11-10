@@ -1,7 +1,1 @@
-{
-  "material": "music_disc_far",
-  "name": "Music Disc - Far",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 20,
-  "id": "RECORD_5"
-}
+{"material":"music_disc_far","name":{"text":"Music Disc - Far"},"tier":"uncommon","npc_sell_price":20,"id":"RECORD_5","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

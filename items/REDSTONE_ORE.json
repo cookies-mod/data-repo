@@ -1,7 +1,1 @@
-{
-  "material": "REDSTONE_ORE",
-  "name": "Redstone Ore",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 6,
-  "id": "REDSTONE_ORE"
-}
+{"material":"REDSTONE_ORE","name":{"text":"Redstone Ore"},"tier":"uncommon","npc_sell_price":6,"id":"REDSTONE_ORE","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

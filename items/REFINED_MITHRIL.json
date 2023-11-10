@@ -1,10 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDk5NjQ2NTYzMCwKICAicHJvZmlsZUlkIiA6ICI2ZmU4OTUxZDVhY2M0NDc3OWI2ZmYxMmU3YzFlOTQ2MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJlcGhlbXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM1YTc2NjMzMDA2MTliYjZhMTU2ZDc2MzUxYWMwNWY3YjNjYWZlYWMzMWUyZmYwNGM1NWNjOWYyMzYzMjc4MzIiCiAgICB9CiAgfQp9",
-  "name": "Refined Mithril",
-  "glowing": true,
-  "tier": "EPIC",
-  "npc_sell_price": 204800,
-  "id": "REFINED_MITHRIL"
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTYxMDk5NjQ2NTYzMCwKICAicHJvZmlsZUlkIiA6ICI2ZmU4OTUxZDVhY2M0NDc3OWI2ZmYxMmU3YzFlOTQ2MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJlcGhlbXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM1YTc2NjMzMDA2MTliYjZhMTU2ZDc2MzUxYWMwNWY3YjNjYWZlYWMzMWUyZmYwNGM1NWNjOWYyMzYzMjc4MzIiCiAgICB9CiAgfQp9","name":{"text":"Refined Mithril"},"glowing":true,"tier":"epic","npc_sell_price":204800,"id":"REFINED_MITHRIL","description":[{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

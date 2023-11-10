@@ -1,17 +1,1 @@
-{
-  "material": "DIAMOND_CHESTPLATE",
-  "name": "Diamond Chestplate",
-  "category": "CHESTPLATE",
-  "tier": "UNCOMMON",
-  "stats": {
-    "DEFENSE": 40
-  },
-  "npc_sell_price": 32,
-  "id": "DIAMOND_CHESTPLATE",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"DIAMOND_CHESTPLATE","name":{"text":"Diamond Chestplate"},"category":"CHESTPLATE","tier":"uncommon","stats":{"DEFENSE":40},"npc_sell_price":32,"id":"DIAMOND_CHESTPLATE","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+40"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON CHESTPLATE"},{"color":"green","text":""}],"text":""}]}

@@ -1,8 +1,1 @@
-{
-  "material": "beef",
-  "name": "Enchanted Raw Beef",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 640,
-  "id": "ENCHANTED_RAW_BEEF"
-}
+{"material":"beef","name":{"text":"Enchanted Raw Beef"},"glowing":true,"tier":"uncommon","npc_sell_price":640,"id":"ENCHANTED_RAW_BEEF","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

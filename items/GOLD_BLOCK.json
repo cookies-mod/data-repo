@@ -1,6 +1,1 @@
-{
-  "material": "GOLD_BLOCK",
-  "name": "Block of Gold",
-  "npc_sell_price": 36,
-  "id": "GOLD_BLOCK"
-}
+{"material":"GOLD_BLOCK","name":{"text":"Block of Gold"},"npc_sell_price":36,"id":"GOLD_BLOCK","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

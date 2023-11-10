@@ -1,15 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTljNzY5MDgzMTYzZTlhZWJkOGVkNWQ2NmJlYmNiOWRmMjFjYWJhZTYzYmFhYWEwZDNhYmUxNDIwYTRhYjU4ZiJ9fX0\u003d",
-  "enchantments": {
-    "transylvanian": 4
-  },
-  "name": "Enchanted Book Bundle",
-  "tier": "UNOBTAINABLE",
-  "unstackable": true,
-  "npc_sell_price": 1000,
-  "rift_transferrable": true,
-  "origin": "RIFT",
-  "id": "ENCHANTED_BOOK_BUNDLE_TRANSYLVANIAN"
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTljNzY5MDgzMTYzZTlhZWJkOGVkNWQ2NmJlYmNiOWRmMjFjYWJhZTYzYmFhYWEwZDNhYmUxNDIwYTRhYjU4ZiJ9fX0=","enchantments":{"transylvanian":4},"name":{"text":"Enchanted Book Bundle"},"tier":"legendary","unstackable":true,"npc_sell_price":1000,"rift_transferrable":true,"origin":"RIFT","id":"ENCHANTED_BOOK_BUNDLE_TRANSYLVANIAN","description":[{"color":"blue","text":"Transylvanian IV"},{"extra":[{"color":"gray","text":"Heal "},{"color":"red","text":"2❤"},{"color":"gray","text":"/s "},{"color":"gray","text":"per enemy within"}],"text":""},{"extra":[{"color":"green","text":"10 "},{"color":"gray","text":"blocks, up to "},{"color":"red","text":"20❤"},{"color":"gray","text":"/s."}],"text":""},{"text":""},{"color":"gray","text":"Right-click to open this bundle"},{"extra":[{"color":"gray","text":"containing "},{"color":"white","text":"1 "},{"color":"gray","text":"enchanted"}],"text":""},{"color":"gray","text":"books."},{"text":""},{"extra":[{"color":"dark_purple","text":"X"},{"color":"dark_purple","text":" Rift-Transferable X"}],"text":""},{"extra":[{"bold":true,"color":"gold","text":"LEGENDARY"},{"color":"gold","text":""}],"text":""}]}

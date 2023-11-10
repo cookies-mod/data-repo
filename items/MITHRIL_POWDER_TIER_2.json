@@ -1,7 +1,1 @@
-{
-  "material": "INK_SACK",
-  "durability": 6,
-  "name": "X Mithril Powder",
-  "tier": "UNOBTAINABLE",
-  "id": "MITHRIL_POWDER_TIER_2"
-}
+{"material":"INK_SACK","durability":6,"name":{"extra":[{"color":"dark_purple","text":"0 "},{"color":"dark_green","text":"Mithril Powder"}],"text":""},"tier":"unobtainable","id":"MITHRIL_POWDER_TIER_2","description":[{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

@@ -1,10 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE0MDY3NWQzMzNhZGNjYTc1YjM1YjZiYTI5YjRmZDdlNWVhZWI5OTgzOTUyOTUzODViNDk0MTI4NzE1ZGFiMyJ9fX0K",
-  "name": "Catacombs Pass X",
-  "category": "DUNGEON_PASS",
-  "tier": "UNOBTAINABLE",
-  "dungeon_item": true,
-  "id": "CATACOMBS_PASS_10"
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE0MDY3NWQzMzNhZGNjYTc1YjM1YjZiYTI5YjRmZDdlNWVhZWI5OTgzOTUyOTUzODViNDk0MTI4NzE1ZGFiMyJ9fX0K","name":{"text":"The Catacombs - Floor VII"},"category":"DUNGEON_PASS","tier":"uncommon","dungeon_item":true,"id":"CATACOMBS_PASS_10","description":[{"extra":[{"color":"gray","text":"Dungeon Size: "},{"color":"aqua","text":"Large"}],"text":""},{"extra":[{"color":"gray","text":"Party size: "},{"color":"blue","text":"2-5"}],"text":""},{"text":""},{"extra":[{"color":"gray","text":"Boss: "},{"color":"red","text":"Maxor, Storm, Goldor and Necron"},{"color":"green","text":" ✔"}],"text":""},{"color":"dark_gray","text":"The Wither Lords"},{"color":"gray","text":"Disciples of the Wither King. Inherited"},{"color":"gray","text":"the Catacombs eons ago. Never defeated,"},{"color":"gray","text":"feared by anything living AND dead."},{"text":""},{"extra":[{"color":"gray","text":"Requires: "},{"color":"light_purple","text":"Catacombs Level XXIV"}],"text":""},{"text":""},{"color":"yellow","text":"Click to queue for dungeon!"}]}

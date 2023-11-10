@@ -1,6 +1,1 @@
-{
-  "material": "chicken",
-  "name": "Raw Chicken",
-  "npc_sell_price": 4,
-  "id": "RAW_CHICKEN"
-}
+{"material":"chicken","name":{"text":"Raw Chicken"},"npc_sell_price":4,"id":"RAW_CHICKEN","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

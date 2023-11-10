@@ -1,17 +1,1 @@
-{
-  "material": "oak_BUTTON",
-  "name": "Null Atom",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 33333,
-  "id": "NULL_ATOM",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"oak_BUTTON","name":{"text":"Null Atom"},"glowing":true,"tier":"rare","npc_sell_price":33333,"id":"NULL_ATOM","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

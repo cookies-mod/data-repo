@@ -1,8 +1,1 @@
-{
-  "material": "music_disc_cat",
-  "name": "Music Disc - Cat",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 20,
-  "id": "GREEN_RECORD",
-  "description": [null]
-}
+{"material":"music_disc_cat","name":{"text":"Music Disc - Cat"},"tier":"uncommon","npc_sell_price":20,"id":"GREEN_RECORD","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

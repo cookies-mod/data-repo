@@ -1,6 +1,1 @@
-{
-  "material": "COOKED_BEEF",
-  "name": "Cooked Beef",
-  "npc_sell_price": 4,
-  "id": "COOKED_BEEF"
-}
+{"material":"COOKED_BEEF","name":{"text":"Cooked Beef"},"npc_sell_price":4,"id":"COOKED_BEEF","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

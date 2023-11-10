@@ -1,18 +1,1 @@
-{
-  "material": "GOLDen_PICKAXE",
-  "name": "Golden Pickaxe",
-  "category": "PICKAXE",
-  "stats": {
-    "BREAKING_POWER": 1,
-    "DAMAGE": 15,
-    "MINING_SPEED": 250
-  },
-  "npc_sell_price": 6,
-  "id": "GOLD_PICKAXE",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"GOLDen_PICKAXE","name":{"text":"Golden Pickaxe"},"category":"PICKAXE","stats":{"BREAKING_POWER":1,"DAMAGE":15,"MINING_SPEED":250},"npc_sell_price":6,"id":"GOLD_PICKAXE","can_be_reforged":true,"description":[{"color":"dark_gray","text":"Breaking Power 1"},{"text":""},{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+15"}],"text":""},{"extra":[{"color":"gray","text":"Mining Speed: "},{"color":"green","text":"+250"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON PICKAXE"},{"color":"white","text":""}],"text":""}],"tier":"common"}

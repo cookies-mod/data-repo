@@ -1,12 +1,1 @@
-{
-  "material": "MAGMA_CREAM",
-  "name": "Magma Cream",
-  "npc_sell_price": 8,
-  "id": "MAGMA_CREAM",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"MAGMA_CREAM","name":{"text":"Magma Cream"},"npc_sell_price":8,"id":"MAGMA_CREAM","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

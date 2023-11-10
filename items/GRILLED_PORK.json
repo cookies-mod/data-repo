@@ -1,6 +1,1 @@
-{
-  "material": "cooked_porkchop",
-  "name": "Cooked Porkchop",
-  "npc_sell_price": 5,
-  "id": "GRILLED_PORK"
-}
+{"material":"cooked_porkchop","name":{"text":"Cooked Porkchop"},"npc_sell_price":5,"id":"GRILLED_PORK","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

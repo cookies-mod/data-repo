@@ -1,17 +1,1 @@
-{
-  "material": "PAPER",
-  "name": "\u00a7dPoem of True Love",
-  "description": [
-    {
-      "color": "gray",
-      "text": "Quest item"
-    },
-    {
-      "text": ""
-    }
-  ],
-  "glowing": true,
-  "tier": "EPIC",
-  "soulbound": "COOP",
-  "id": "POEM_OF_INFINITE_LOVE"
-}
+{"material":"PAPER","name":{"color":"light_purple","text":"Poem of True Love"},"description":[{"color":"gray","text":"Quest item"},{"text":""},{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Co-op Soulbound "},{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}],"glowing":true,"tier":"","soulbound":"COOP","id":"POEM_OF_INFINITE_LOVE"}

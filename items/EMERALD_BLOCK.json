@@ -1,6 +1,1 @@
-{
-  "material": "EMERALD_BLOCK",
-  "name": "Block of Emerald",
-  "npc_sell_price": 54,
-  "id": "EMERALD_BLOCK"
-}
+{"material":"EMERALD_BLOCK","name":{"text":"Block of Emerald"},"npc_sell_price":54,"id":"EMERALD_BLOCK","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

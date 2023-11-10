@@ -1,8 +1,1 @@
-{
-  "material": "COOKED_cod",
-  "name": "Enchanted Cooked Fish",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 150000,
-  "id": "ENCHANTED_COOKED_FISH"
-}
+{"material":"COOKED_cod","name":{"text":"Enchanted Cooked Fish"},"glowing":true,"tier":"rare","npc_sell_price":150000,"id":"ENCHANTED_COOKED_FISH","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

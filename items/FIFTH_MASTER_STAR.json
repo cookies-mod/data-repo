@@ -1,17 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTgwMjUyNDkxMywKICAicHJvZmlsZUlkIiA6ICJkZTE0MGFmM2NmMjM0ZmM0OTJiZTE3M2Y2NjA3MzViYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTUlRlYW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzFjODA0MjUyN2Y4MWM4ZTI5M2UyODEwMTEzNDg5ZjQzOTRjYzZlZmUxNWQxYWZhYzQzMTU3MWM3M2I2MmRjNCIKICAgIH0KICB9Cn0\u003d",
-  "name": "Fifth Master Star",
-  "tier": "EPIC",
-  "dungeon_item": true,
-  "id": "FIFTH_MASTER_STAR",
-  "description": [
-    {"text": "Imbue a ", "color": "gray", "extra": [{"text": "5\u272A ", "color": "red"},{"text": "Dungeon Item with"}]},
-    {"text": "an additional ", "color": "gray", "extra": [{"text": "Master Star \u272A ", "color": "red"},{"text": ","}]},
-    {"text": "increasing all stats by an", "color": "gray"},
-    {"text": "additional ", "color": "gray", "extra": [{"text": "+5%", "color": "green"},{"text": ", in "},{"text": "Master", "color": "red"}]},
-    {"text": "Mode", "color": "red", "extra": [{"text": "!", "color":"gray"}]},
-    {"text": ""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTY0NTgwMjUyNDkxMywKICAicHJvZmlsZUlkIiA6ICJkZTE0MGFmM2NmMjM0ZmM0OTJiZTE3M2Y2NjA3MzViYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTUlRlYW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzFjODA0MjUyN2Y4MWM4ZTI5M2UyODEwMTEzNDg5ZjQzOTRjYzZlZmUxNWQxYWZhYzQzMTU3MWM3M2I2MmRjNCIKICAgIH0KICB9Cn0=","name":{"text":"Fifth Master Star"},"tier":"epic","dungeon_item":true,"id":"FIFTH_MASTER_STAR","description":[{"extra":[{"color":"gray","text":"Imbue a "},{"color":"red","text":"4✪"},{"color":"gray","text":" Dungeon Item with"}],"text":""},{"extra":[{"color":"gray","text":"an additional "},{"color":"red","text":"Master Star ✪"},{"color":"gray","text":","}],"text":""},{"color":"gray","text":"increasing all stats by an"},{"extra":[{"color":"gray","text":"additional "},{"color":"green","text":"+5%"},{"color":"gray","text":" in "},{"color":"red","text":"Master"}],"text":""},{"extra":[{"color":"red","text":"Mode"},{"color":"gray","text":"!"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC DUNGEON ITEM"},{"color":"dark_purple","text":""}],"text":""}]}

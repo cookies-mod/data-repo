@@ -1,12 +1,1 @@
-{
-  "material": "IRON_SWORD",
-  "name": "Sword of the Multiverse",
-  "category": "SWORD",
-  "tier": "ADMIN",
-  "origin": "RIFT",
-  "stats": {
-    "RIFT_DAMAGE": 99999999
-  },
-  "id": "SWORD_OF_THE_MULTIVERSE",
-  "soulbound":"SOLO"
-}
+{"material":"IRON_SWORD","name":{"color":"dark_red","text":"Sword of the Multiverse"},"category":"SWORD","tier":"","origin":"RIFT","stats":{"RIFT_DAMAGE":99999999},"id":"SWORD_OF_THE_MULTIVERSE","soulbound":"SOLO","description":[{"extra":[{"color":"gray","text":"Rift Damage: "},{"color":"green","text":"+999,999,999"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Soulbound "},{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"dark_red","text":"ADMIN"},{"color":"dark_red","text":""}],"text":""}]}

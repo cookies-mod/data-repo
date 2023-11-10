@@ -1,6 +1,1 @@
-{
-  "material": "BUCKET",
-  "name": "Bucket",
-  "npc_sell_price": 4,
-  "id": "BUCKET"
-}
+{"material":"BUCKET","name":{"text":"Bucket"},"npc_sell_price":4,"id":"BUCKET","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

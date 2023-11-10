@@ -1,17 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNiZGU0MzExMWY2OWE3ZmRhNmVjNmZhZjIyNjNjODI3OTYxZjM5MGQ3YzYxNjNlZDEyMzEwMzVkMWIwYjkifX19",
-  "name": "Lifeguard Chair",
-  "furniture": "LIFEGUARD_CHAIR",
-  "tier": "EPIC",
-  "id": "LIFEGUARD_CHAIR",
-  "description": [
-    {"text": "Summer Cosmetic", "color": "dark_gray"},
-    {"text": ""},
-    {"text": "This exclusive ", "color": "gray", "extra": [{"text": "Summer", "color": "green"}]},
-    {"text": "cosmetic can be placed on your", "color": "gray"},
-    {"text": "island or traded.", "color": "gray"},
-    {"text": ""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNiZGU0MzExMWY2OWE3ZmRhNmVjNmZhZjIyNjNjODI3OTYxZjM5MGQ3YzYxNjNlZDEyMzEwMzVkMWIwYjkifX19","name":{"text":"Lifeguard Chair"},"furniture":"LIFEGUARD_CHAIR","tier":"epic","id":"LIFEGUARD_CHAIR","description":[{"color":"dark_gray","text":"Furniture"},{"color":"dark_gray","text":"Summer Cosmetic"},{"text":""},{"extra":[{"color":"gray","text":"This exclusive "},{"color":"green","text":"Summer"}],"text":""},{"color":"gray","text":"cosmetic can be placed on your"},{"color":"gray","text":"island or traded."},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

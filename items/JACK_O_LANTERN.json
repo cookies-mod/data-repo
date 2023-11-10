@@ -1,6 +1,1 @@
-{
-  "material": "JACK_O_LANTERN",
-  "name": "Jack o\u0027 Lantern",
-  "npc_sell_price": 4,
-  "id": "JACK_O_LANTERN"
-}
+{"material":"JACK_O_LANTERN","name":{"text":"Jack o' Lantern"},"npc_sell_price":4,"id":"JACK_O_LANTERN","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

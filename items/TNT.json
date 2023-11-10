@@ -1,6 +1,1 @@
-{
-  "material": "TNT",
-  "name": "TNT",
-  "npc_sell_price": 15,
-  "id": "TNT"
-}
+{"material":"TNT","name":{"text":"TNT"},"npc_sell_price":15,"id":"TNT","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

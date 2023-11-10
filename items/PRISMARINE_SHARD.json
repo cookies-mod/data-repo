@@ -1,6 +1,1 @@
-{
-  "material": "PRISMARINE_SHARD",
-  "name": "Prismarine Shard",
-  "npc_sell_price": 5,
-  "id": "PRISMARINE_SHARD"
-}
+{"material":"PRISMARINE_SHARD","name":{"text":"Prismarine Shard"},"npc_sell_price":5,"id":"PRISMARINE_SHARD","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

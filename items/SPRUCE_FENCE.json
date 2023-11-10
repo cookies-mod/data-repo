@@ -1,6 +1,1 @@
-{
-  "material": "SPRUCE_FENCE",
-  "name": "Spruce Fence",
-  "npc_sell_price": 1,
-  "id": "SPRUCE_FENCE"
-}
+{"material":"SPRUCE_FENCE","name":{"text":"Spruce Fence"},"npc_sell_price":1,"id":"SPRUCE_FENCE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

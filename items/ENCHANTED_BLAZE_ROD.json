@@ -1,14 +1,1 @@
-{
-  "material": "BLAZE_ROD",
-  "name": "Enchanted Blaze Rod",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 230400,
-  "id": "ENCHANTED_BLAZE_ROD",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"BLAZE_ROD","name":{"text":"Enchanted Blaze Rod"},"glowing":true,"tier":"uncommon","npc_sell_price":230400,"id":"ENCHANTED_BLAZE_ROD","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

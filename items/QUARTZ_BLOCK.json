@@ -1,6 +1,1 @@
-{
-  "material": "QUARTZ_BLOCK",
-  "name": "Block of Quartz",
-  "npc_sell_price": 16,
-  "id": "QUARTZ_BLOCK"
-}
+{"material":"QUARTZ_BLOCK","name":{"text":"Block of Quartz"},"npc_sell_price":16,"id":"QUARTZ_BLOCK","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

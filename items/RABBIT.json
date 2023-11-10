@@ -1,6 +1,1 @@
-{
-  "material": "RABBIT",
-  "name": "Raw Rabbit",
-  "npc_sell_price": 4,
-  "id": "RABBIT"
-}
+{"material":"RABBIT","name":{"text":"Raw Rabbit"},"npc_sell_price":4,"id":"RABBIT","tier":"common","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

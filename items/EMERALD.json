@@ -1,6 +1,1 @@
-{
-  "material": "EMERALD",
-  "name": "Emerald",
-  "npc_sell_price": 6,
-  "id": "EMERALD"
-}
+{"material":"EMERALD","name":{"text":"Emerald"},"npc_sell_price":6,"id":"EMERALD","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

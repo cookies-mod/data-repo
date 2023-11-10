@@ -1,6 +1,1 @@
-{
-  "material": "SAND",
-  "name": "Sand",
-  "npc_sell_price": 2,
-  "id": "SAND"
-}
+{"material":"SAND","name":{"text":"Sand"},"npc_sell_price":2,"id":"SAND","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

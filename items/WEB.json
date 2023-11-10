@@ -1,7 +1,1 @@
-{
-  "material": "COBWEB",
-  "name": "Web",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 10,
-  "id": "WEB"
-}
+{"material":"COBWEB","name":{"text":"Web"},"tier":"uncommon","npc_sell_price":10,"id":"WEB","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

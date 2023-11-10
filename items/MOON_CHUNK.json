@@ -1,16 +1,1 @@
-{
-  "material": "END_STONE",
-  "name": "\u00a7fChunk of the Moon",
-  "description": [
-    {
-      "color": "gray",
-      "text": "Quest item"
-    },
-    {
-      "text": ""
-    }
-  ],
-  "tier": "RARE",
-  "soulbound": "COOP",
-  "id": "MOON_CHUNK"
-}
+{"material":"END_STONE","name":{"color":"white","text":"Chunk of the Moon"},"description":[{"color":"gray","text":"Quest Item"},{"text":""},{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Co-op Soulbound "},{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}],"tier":"","soulbound":"COOP","id":"MOON_CHUNK"}

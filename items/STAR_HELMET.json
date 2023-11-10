@@ -1,14 +1,1 @@
-{
-  "material": "GOLDEN_HELMET",
-  "name": "Helmet of the Stars",
-  "category": "HELMET",
-  "tier": "ADMIN",
-  "stats": {
-    "DEFENSE": 3000,
-    "HEALTH": 10000,
-    "INTELLIGENCE": 1000
-  },
-  "id": "STAR_HELMET",
-  "can_be_reforged": true,
-  "soulbound": "SOLO"
-}
+{"material":"GOLDEN_HELMET","name":{"color":"dark_red","text":"Helmet of the Stars"},"category":"HELMET","tier":"","stats":{"DEFENSE":3000,"HEALTH":10000,"INTELLIGENCE":1000},"id":"STAR_HELMET","can_be_reforged":true,"soulbound":"SOLO","description":[{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+10,000"}],"text":""},{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+3,000"}],"text":""},{"extra":[{"color":"gray","text":"Intelligence: "},{"color":"green","text":"+1,000"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","extra":[{"bold":true,"text":"*"}],"text":" Soulbound "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"dark_red","text":"ADMIN HELMET"},{"color":"dark_red","text":""}],"text":""}]}

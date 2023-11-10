@@ -1,8 +1,1 @@
-{
-  "material": "red_mushroom_block",
-  "name": "Enchanted Red Mushroom Block",
-  "glowing": true,
-  "npc_sell_price": 51200,
-  "tier": "RARE",
-  "id": "ENCHANTED_HUGE_MUSHROOM_2"
-}
+{"material":"red_mushroom_block","name":{"text":"Enchanted Red Mushroom Block"},"glowing":true,"npc_sell_price":51200,"tier":"rare","id":"ENCHANTED_HUGE_MUSHROOM_2","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

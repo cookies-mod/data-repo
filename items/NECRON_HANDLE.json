@@ -1,17 +1,1 @@
-{
-  "material": "STICK",
-  "name": "Necron\u0027s Handle",
-  "glowing": true,
-  "tier": "EPIC",
-  "dungeon_item": true,
-  "id": "NECRON_HANDLE",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"STICK","name":{"text":"Necron's Handle"},"glowing":true,"tier":"epic","dungeon_item":true,"id":"NECRON_HANDLE","description":[{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC DUNGEON ITEM"},{"color":"dark_purple","text":""}],"text":""}]}

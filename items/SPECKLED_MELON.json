@@ -1,6 +1,1 @@
-{
-  "material": "Glistering_melon_slice",
-  "name": "Glistering Melon",
-  "npc_sell_price": 3.5,
-  "id": "SPECKLED_MELON"
-}
+{"material":"Glistering_melon_slice","name":{"text":"Glistering Melon"},"npc_sell_price":3.5,"id":"SPECKLED_MELON","tier":"common","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

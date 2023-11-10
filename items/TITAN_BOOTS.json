@@ -1,16 +1,1 @@
-{
-  "material": "DIAMOND_BOOTS",
-  "name": "Titan\u0027s Boots",
-  "category": "BOOTS",
-  "tier": "ADMIN",
-  "can_be_reforged": true,
-  "soulbound": "SOLO",
-  "stats": {
-    "DEFENSE": 100,
-    "HEALTH": 100,
-    "STRENGTH": 10,
-    "INTELLIGENCE": 50
-  },
-  "npc_sell_price": 50000,
-  "id": "TITAN_BOOTS"
-}
+{"material":"DIAMOND_BOOTS","name":{"color":"dark_red","text":"Titan's Boots"},"category":"BOOTS","tier":"","can_be_reforged":true,"soulbound":"SOLO","stats":{"DEFENSE":100,"HEALTH":100,"STRENGTH":10,"INTELLIGENCE":50},"npc_sell_price":50000,"id":"TITAN_BOOTS","description":[{"extra":[{"color":"gray","text":"Strength: "},{"color":"red","text":"+10"}],"text":""},{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+100"}],"text":""},{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+100"}],"text":""},{"extra":[{"color":"gray","text":"Intelligence: "},{"color":"green","text":"+50"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","extra":[{"bold":true,"text":"*"}],"text":" Soulbound "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"dark_red","text":"ADMIN BOOTS"},{"color":"dark_red","text":""}],"text":""}]}

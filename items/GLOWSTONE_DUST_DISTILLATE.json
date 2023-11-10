@@ -1,18 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjIxMDI1ODgwMCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTBkMTc0ZTM3MGU0NzI3NTYzOGZlMmQ2Yjg2ZmNkZmU0NDk2ZWI0NTI2NWFkMTEzOTM2ODk0NzBkZjVlZTJiIgogICAgfQogIH0KfQ\u003d\u003d",
-  "name": "Glowstone Distillate",
-  "tier": "RARE",
-  "npc_sell_price": 5000,
-  "id": "GLOWSTONE_DUST_DISTILLATE",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTY0NjIxMDI1ODgwMCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTBkMTc0ZTM3MGU0NzI3NTYzOGZlMmQ2Yjg2ZmNkZmU0NDk2ZWI0NTI2NWFkMTEzOTM2ODk0NzBkZjVlZTJiIgogICAgfQogIH0KfQ==","name":{"text":"Glowstone Distillate"},"tier":"rare","npc_sell_price":5000,"id":"GLOWSTONE_DUST_DISTILLATE","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

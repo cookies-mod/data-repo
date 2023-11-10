@@ -1,14 +1,1 @@
-{
-  "material": "MELON",
-  "name": "Enchanted Melon",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 320,
-  "id": "ENCHANTED_MELON",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"MELON","name":{"text":"Enchanted Melon"},"glowing":true,"tier":"uncommon","npc_sell_price":320,"id":"ENCHANTED_MELON","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

@@ -1,6 +1,1 @@
-{
-  "material": "ACTIVATOR_RAIL",
-  "name": "Activator Rail",
-  "npc_sell_price": 2,
-  "id": "ACTIVATOR_RAIL"
-}
+{"material":"ACTIVATOR_RAIL","name":{"text":"Activator Rail"},"npc_sell_price":2,"id":"ACTIVATOR_RAIL","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

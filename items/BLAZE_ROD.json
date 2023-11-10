@@ -1,6 +1,1 @@
-{
-  "material": "BLAZE_ROD",
-  "name": "Blaze Rod",
-  "npc_sell_price": 9,
-  "id": "BLAZE_ROD"
-}
+{"material":"BLAZE_ROD","name":{"text":"Blaze Rod"},"npc_sell_price":9,"id":"BLAZE_ROD","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

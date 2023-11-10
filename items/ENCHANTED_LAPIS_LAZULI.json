@@ -1,9 +1,1 @@
-{
-  "material": "lapis_lazuli",
-  "durability": 4,
-  "name": "Enchanted Lapis Lazuli",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 160,
-  "id": "ENCHANTED_LAPIS_LAZULI"
-}
+{"material":"lapis_lazuli","durability":4,"name":{"text":"Enchanted Lapis Lazuli"},"glowing":true,"tier":"uncommon","npc_sell_price":160,"id":"ENCHANTED_LAPIS_LAZULI","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

@@ -1,6 +1,1 @@
-{
-  "material": "SNOW_BLOCK",
-  "name": "Snow Block",
-  "npc_sell_price": 4,
-  "id": "SNOW_BLOCK"
-}
+{"material":"SNOW_BLOCK","name":{"text":"Snow Block"},"npc_sell_price":4,"id":"SNOW_BLOCK","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

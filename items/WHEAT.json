@@ -1,6 +1,1 @@
-{
-  "material": "WHEAT",
-  "name": "Wheat",
-  "npc_sell_price": 6,
-  "id": "WHEAT"
-}
+{"material":"WHEAT","name":{"text":"Wheat"},"npc_sell_price":6,"id":"WHEAT","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

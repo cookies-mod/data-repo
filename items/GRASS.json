@@ -1,6 +1,1 @@
-{
-  "material": "GRASS",
-  "name": "Grass",
-  "npc_sell_price": 1,
-  "id": "GRASS"
-}
+{"material":"GRASS","name":{"text":"Grass"},"npc_sell_price":1,"id":"GRASS","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

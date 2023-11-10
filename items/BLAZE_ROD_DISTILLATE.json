@@ -1,18 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjIxMDE1ODAwMiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFlODEzYTNhMzgwZTNlYjIwMWMyNGI5NjYxZjZlZGIzOWJkZjQyYTg4OTg5ZjgxYTkwZjc3MTk5N2Q2ZjVjZCIKICAgIH0KICB9Cn0\u003d",
-  "name": "Blaze Rod Distillate",
-  "tier": "RARE",
-  "npc_sell_price": 5000,
-  "id": "BLAZE_ROD_DISTILLATE",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTY0NjIxMDE1ODAwMiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFlODEzYTNhMzgwZTNlYjIwMWMyNGI5NjYxZjZlZGIzOWJkZjQyYTg4OTg5ZjgxYTkwZjc3MTk5N2Q2ZjVjZCIKICAgIH0KICB9Cn0=","name":{"text":"Blaze Rod Distillate"},"tier":"rare","npc_sell_price":5000,"id":"BLAZE_ROD_DISTILLATE","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

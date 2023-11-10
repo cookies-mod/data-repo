@@ -1,6 +1,1 @@
-{
-  "material": "red_BED",
-  "name": "Bed",
-  "npc_sell_price": 5,
-  "id": "BED"
-}
+{"material":"red_BED","name":{"text":"Bed"},"npc_sell_price":5,"id":"BED","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

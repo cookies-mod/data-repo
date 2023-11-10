@@ -1,16 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhjYTM2MTBiZjFlZDJkY2NlNWNhN2Y3ZjI5MTRhMWMyNWZiZmFiZDc0ZGNlNTFiM2Y1MTI2YmE0NGJhMWEyMCJ9fX0\u003d",
-  "name": "Repelling Candle",
-  "tier": "UNCOMMON",
-  "id": "REPELLING_CANDLE",
-  "description": [
-    {"text":"Prevents unwanted monsters","color":"gray"},
-    {"text":"from spawning on your","color":"gray"},
-    {"text":"island!","color":"gray"},
-    {"text":""},
-    {"text":"Emits life-scarring aroma!","color":"light_purple"},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhjYTM2MTBiZjFlZDJkY2NlNWNhN2Y3ZjI5MTRhMWMyNWZiZmFiZDc0ZGNlNTFiM2Y1MTI2YmE0NGJhMWEyMCJ9fX0=","name":{"text":"Repelling Candle"},"tier":"uncommon","id":"REPELLING_CANDLE","description":[{"color":"gray","text":"Prevents unwanted monsters"},{"color":"gray","text":"from spawning on your"},{"color":"gray","text":"island!"},{"text":""},{"color":"light_purple","text":"Emits life-scarring aroma!"},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

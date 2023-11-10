@@ -1,17 +1,1 @@
-{
-  "material": "cod",
-  "durability": 1,
-  "name": "Grizzly Bait",
-  "tier": "RARE",
-  "unstackable": true,
-  "id": "GRIZZLY_BAIT",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"cod","durability":1,"name":{"text":"Grizzly Salmon"},"tier":"rare","unstackable":true,"id":"GRIZZLY_BAIT","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

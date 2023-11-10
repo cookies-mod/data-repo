@@ -1,6 +1,1 @@
-{
-  "material": "ENDER_PEARL",
-  "name": "Ender Pearl",
-  "npc_sell_price": 7,
-  "id": "ENDER_PEARL"
-}
+{"material":"ENDER_PEARL","name":{"text":"Ender Pearl"},"npc_sell_price":7,"id":"ENDER_PEARL","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

@@ -1,18 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY2NjAwMjAyNDYwNSwKICAicHJvZmlsZUlkIiA6ICI1MTY4ZjZlMjIyM2E0Y2FjYjdiN2QyZjYyZWMxZGFhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZWZfbm90X2FzaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZmI5YjkzYjRjMzczN2EwMTBkMDI0NjViOTkwZDE0NTYyN2Y4ZTYzZTc3OTU2ZTBkZjRiYTYxZTE1N2E0MjljIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
-  "name": "Agaricus Cap Bunch",
-  "tier": "UNCOMMON",
-  "origin": "RIFT",
-  "description": [
-    {
-      "color": "gray",
-      "text": "It\u0027s one nether of a cap!"
-    },
-    {
-      "text": ""
-    }
-  ],
-  "id": "AGARICUS_CAP_BUNCH"
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTY2NjAwMjAyNDYwNSwKICAicHJvZmlsZUlkIiA6ICI1MTY4ZjZlMjIyM2E0Y2FjYjdiN2QyZjYyZWMxZGFhOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZWZfbm90X2FzaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZmI5YjkzYjRjMzczN2EwMTBkMDI0NjViOTkwZDE0NTYyN2Y4ZTYzZTc3OTU2ZTBkZjRiYTYxZTE1N2E0MjljIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=","name":{"text":"Agaricus Cap Bunch"},"tier":"uncommon","origin":"RIFT","description":[{"color":"gray","text":"It's one nether of a cap!"},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}],"id":"AGARICUS_CAP_BUNCH"}

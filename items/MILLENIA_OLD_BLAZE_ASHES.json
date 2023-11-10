@@ -1,16 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0Njc1MzU3NjU0MiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzUzNWY4M2JkNGUyOTBkNDAwZDVjOGM3MTgzMDhjNzRiZTk5ZjA5YTQ4OWQwYzI1ZWQzZDEyMTkzMmNmZmE4ZSIKICAgIH0KICB9Cn0\u003d",
-  "name": "Millenia-Old Blaze Ashes",
-  "npc_sell_price": 1000,
-  "tier": "RARE",
-  "soulbound": "COOP",
-  "id": "MILLENIA_OLD_BLAZE_ASHES",
-  "description": [
-    {"text":" Despite being ephemeral","color":"gray","italic":true},
-    {"text":" creatures, blaze ashes are","color":"gray","italic":true},
-    {"text":" eternal.","color":"gray","italic":true},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTY0Njc1MzU3NjU0MiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzUzNWY4M2JkNGUyOTBkNDAwZDVjOGM3MTgzMDhjNzRiZTk5ZjA5YTQ4OWQwYzI1ZWQzZDEyMTkzMmNmZmE4ZSIKICAgIH0KICB9Cn0=","name":{"text":"Millenia-Old Blaze Ashes"},"npc_sell_price":1000,"tier":"rare","soulbound":"COOP","id":"MILLENIA_OLD_BLAZE_ASHES","description":[{"extra":[{"italic":true,"color":"gray","text":" Despite being ephemeral"},{"color":"gray","text":""}],"text":""},{"extra":[{"italic":true,"color":"gray","text":" creatures, blaze ashes are"},{"color":"gray","text":""}],"text":""},{"extra":[{"italic":true,"color":"gray","text":" eternal."},{"color":"gray","text":""}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Co-op Soulbound "},{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

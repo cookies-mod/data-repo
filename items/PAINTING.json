@@ -1,6 +1,1 @@
-{
-  "material": "PAINTING",
-  "name": "Painting",
-  "npc_sell_price": 1,
-  "id": "PAINTING"
-}
+{"material":"PAINTING","name":{"text":"Painting"},"npc_sell_price":1,"id":"PAINTING","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

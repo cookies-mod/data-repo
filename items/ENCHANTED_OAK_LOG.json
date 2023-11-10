@@ -1,8 +1,1 @@
-{
-  "material": "oak_LOG",
-  "name": "Enchanted Oak Wood",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 320,
-  "id": "ENCHANTED_OAK_LOG"
-}
+{"material":"oak_LOG","name":{"text":"Enchanted Oak Wood"},"glowing":true,"tier":"uncommon","npc_sell_price":320,"id":"ENCHANTED_OAK_LOG","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

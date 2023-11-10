@@ -1,18 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU4NmUwYjI5M2RlZjVjMjU3MzM4NDNiYmU2Nzc5Y2NkYTc3NTkwZTEzMjI0YTJkYjYyNzZhZDgyM2VkNTVlIn19fQ\u003d\u003d",
-  "name": "Titan\u0027s Helmet",
-  "category": "HELMET",
-  "tier": "ADMIN",
-  "can_be_reforged": true,
-  "soulbound": "SOLO",
-  "stats": {
-    "DEFENSE": 100,
-    "HEALTH": 150,
-    "STRENGTH": 10,
-    "INTELLIGENCE": 50
-  },
-  "npc_sell_price": 50000,
-  "id": "TITAN_HELMET"
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU4NmUwYjI5M2RlZjVjMjU3MzM4NDNiYmU2Nzc5Y2NkYTc3NTkwZTEzMjI0YTJkYjYyNzZhZDgyM2VkNTVlIn19fQ==","name":{"color":"dark_red","text":"Titan's Helmet"},"category":"HELMET","tier":"","can_be_reforged":true,"soulbound":"SOLO","stats":{"DEFENSE":100,"HEALTH":150,"STRENGTH":10,"INTELLIGENCE":50},"npc_sell_price":50000,"id":"TITAN_HELMET","description":[{"extra":[{"color":"gray","text":"Strength: "},{"color":"red","text":"+10"}],"text":""},{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+150"}],"text":""},{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+100"}],"text":""},{"extra":[{"color":"gray","text":"Intelligence: "},{"color":"green","text":"+50"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","extra":[{"bold":true,"text":"*"}],"text":" Soulbound "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"dark_red","text":"ADMIN HELMET"},{"color":"dark_red","text":""}],"text":""}]}

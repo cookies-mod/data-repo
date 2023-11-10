@@ -1,14 +1,1 @@
-{
-  "material": "BLAZE_POWDER",
-  "name": "Enchanted Blaze Powder",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 1440,
-  "id": "ENCHANTED_BLAZE_POWDER",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"BLAZE_POWDER","name":{"text":"Enchanted Blaze Powder"},"glowing":true,"tier":"uncommon","npc_sell_price":1440,"id":"ENCHANTED_BLAZE_POWDER","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

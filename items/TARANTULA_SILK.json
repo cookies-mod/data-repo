@@ -1,17 +1,1 @@
-{
-  "material": "COBWEB",
-  "name": "Tarantula Silk",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 128,
-  "id": "TARANTULA_SILK",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"COBWEB","name":{"text":"Tarantula Silk"},"glowing":true,"tier":"rare","npc_sell_price":128,"id":"TARANTULA_SILK","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

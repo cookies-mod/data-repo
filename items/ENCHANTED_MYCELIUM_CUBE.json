@@ -1,9 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0Mzg4NjMxNjgyMywKICAicHJvZmlsZUlkIiA6ICIwNTVhOTk2NTk2M2E0YjRmOGMwMjRmMTJmNDFkMmNmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVWb3hlbGxlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhMzUxZDUzMTZlNWI1MDhmYmJmNTk1ZTA3NzNhZWM5NjM5YTA4OTE4MDdmZWYwOWJjNTlhNTZkNDY0OTBjYjAiCiAgICB9CiAgfQp9",
-  "name": "Enchanted Mycelium Cube",
-  "tier": "RARE",
-  "npc_sell_price": 128000,
-  "id": "ENCHANTED_MYCELIUM_CUBE"
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTY0Mzg4NjMxNjgyMywKICAicHJvZmlsZUlkIiA6ICIwNTVhOTk2NTk2M2E0YjRmOGMwMjRmMTJmNDFkMmNmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVWb3hlbGxlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhMzUxZDUzMTZlNWI1MDhmYmJmNTk1ZTA3NzNhZWM5NjM5YTA4OTE4MDdmZWYwOWJjNTlhNTZkNDY0OTBjYjAiCiAgICB9CiAgfQp9","name":{"text":"Enchanted Mycelium Cube"},"tier":"rare","npc_sell_price":128000,"id":"ENCHANTED_MYCELIUM_CUBE","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

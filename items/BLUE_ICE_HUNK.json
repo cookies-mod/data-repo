@@ -1,8 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWFiMDllZTE0ZTNhNWRmNTk5Y2ZhNGQxNmM1Y2U4ZDA1NGJlZjg0Njk1MTMyMGY3MjFhYTRhNzE4MWY4ZGI1ZSJ9fX0\u003d",
-  "name": "Hunk of Blue Ice",
-  "tier": "RARE",
-  "id": "BLUE_ICE_HUNK"
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWFiMDllZTE0ZTNhNWRmNTk5Y2ZhNGQxNmM1Y2U4ZDA1NGJlZjg0Njk1MTMyMGY3MjFhYTRhNzE4MWY4ZGI1ZSJ9fX0=","name":{"text":"Hunk of Blue Ice"},"tier":"rare","id":"BLUE_ICE_HUNK","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

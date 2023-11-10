@@ -1,7 +1,1 @@
-{
-  "material": "STRING",
-  "name": "gnirtS",
-  "origin": "RIFT",
-  "motes_sell_price": 30,
-  "id": "MIRRORED_STRING"
-}
+{"material":"STRING","name":{"color":"white","text":"gnirtS"},"origin":"RIFT","motes_sell_price":30,"id":"MIRRORED_STRING","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

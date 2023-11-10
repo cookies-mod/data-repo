@@ -1,8 +1,1 @@
-{
-  "material": "cod",
-  "name": "Stew the Fish",
-  "glowing": true,
-  "tier": "SPECIAL",
-  "museum": true,
-  "id": "STEW_THE_FISH"
-}
+{"material":"cod","name":{"text":"Stew the Fish"},"glowing":true,"tier":"special","museum":true,"id":"STEW_THE_FISH","description":[{"extra":[{"bold":true,"color":"red","text":"SPECIAL"},{"color":"red","text":""}],"text":""}]}

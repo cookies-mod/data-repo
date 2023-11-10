@@ -1,7 +1,1 @@
-{
-  "material": "ANVIL",
-  "name": "Zog Anvil",
-  "tier": "RARE",
-  "id": "ZOG_ANVIL",
-  "description":[null]
-}
+{"material":"ANVIL","name":{"text":"Zog Anvil"},"tier":"rare","id":"ZOG_ANVIL","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

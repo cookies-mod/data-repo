@@ -1,17 +1,1 @@
-{
-  "material": "BOOK",
-  "name": "Book of Progression",
-  "category": "ACCESSORY",
-  "tier": "COMMON",
-  "id": "BOOK_OF_PROGRESSION",
-  "soulbound": "SOLO",
-  "description": [
-    {"text":"This book, imbued with great","color":"gray"},
-    {"text":"power, upgrades as you do.","color":"gray"},
-    {"text":""},
-    {"text":"A wise novel once thought to","color":"dark_gray","italic":true},
-    {"text":"be the cure to all problems.","color":"dark_gray", "italic":true},
-    {"text":"Click to select modifiers!","color":"yellow"},
-    {"text":""}
-  ]
-}
+{"material":"BOOK","name":{"text":"Book of Progression"},"category":"ACCESSORY","tier":"common","id":"BOOK_OF_PROGRESSION","soulbound":"SOLO","description":[{"color":"gray","text":"This book, imbued with great"},{"color":"gray","text":"power, upgrades as you do."},{"text":""},{"extra":[{"italic":true,"color":"dark_gray","text":" A wise novel once thought to"},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"italic":true,"color":"dark_gray","text":" be the cure to all problems."},{"color":"dark_gray","text":""}],"text":""},{"text":""},{"color":"yellow","text":"Click to select modifiers!"},{"text":""},{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","extra":[{"bold":true,"text":"*"}],"text":"Soulbound "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON ACCESSORY"},{"color":"white","text":""}],"text":""}]}

@@ -1,10 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzExMDczNDE2NiwKICAicHJvZmlsZUlkIiA6ICJjMGYzYjI3YTUwMDE0YzVhYjIxZDc5ZGRlMTAxZGZlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M5NjlmNmIxNDg2NDhhYThkMDI3MjI4YTUyZmI1YTNjYTFlZTg0ZGM3NmU0Nzg1MWYxNGRiMDI5YTczMGE4YTMiCiAgICB9CiAgfQp9",
-  "name": "Master Catacombs Pass VI",
-  "category": "DUNGEON_PASS",
-  "tier": "UNOBTAINABLE",
-  "dungeon_item": true,
-  "id": "MASTER_CATACOMBS_PASS_6"
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTYxNzExMDczNDE2NiwKICAicHJvZmlsZUlkIiA6ICJjMGYzYjI3YTUwMDE0YzVhYjIxZDc5ZGRlMTAxZGZlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M5NjlmNmIxNDg2NDhhYThkMDI3MjI4YTUyZmI1YTNjYTFlZTg0ZGM3NmU0Nzg1MWYxNGRiMDI5YTczMGE4YTMiCiAgICB9CiAgfQp9","name":{"text":"MASTER MODE Catacombs - Floor III"},"category":"DUNGEON_PASS","tier":"uncommon","dungeon_item":true,"id":"MASTER_CATACOMBS_PASS_6","description":[{"extra":[{"color":"gray","text":"Dungeon Size: "},{"color":"aqua","text":"Small"}],"text":""},{"extra":[{"color":"gray","text":"Party size: "},{"color":"blue","text":"2-5"}],"text":""},{"text":""},{"extra":[{"color":"gray","text":"Boss: "},{"bold":true,"color":"red","text":"MASTER "},{"color":"red","text":"The Professor"},{"color":"green","text":" ✔"}],"text":""},{"color":"dark_gray","text":"Professor"},{"color":"gray","text":"Despite his great technique, he failed"},{"color":"gray","text":"the Masters exam three times. Works from 8"},{"color":"gray","text":"to 5. Cares about his students."},{"text":""},{"extra":[{"color":"gray","text":"Requires: "},{"color":"light_purple","text":"Catacombs Level XXVIII"}],"text":""},{"text":""},{"color":"yellow","text":"Click to queue for dungeon!"}]}

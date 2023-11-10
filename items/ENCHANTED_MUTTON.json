@@ -1,14 +1,1 @@
-{
-  "material": "MUTTON",
-  "name": "Enchanted Mutton",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 800,
-  "id": "ENCHANTED_MUTTON",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"MUTTON","name":{"text":"Enchanted Mutton"},"glowing":true,"tier":"uncommon","npc_sell_price":800,"id":"ENCHANTED_MUTTON","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

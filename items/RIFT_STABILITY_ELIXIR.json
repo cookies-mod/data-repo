@@ -1,16 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjU1NTM4MTIwOWJmOTg5ZThjYWFjM2FlOGQ2YjdlMTkzMzczZjE3MTgwODhmNWRiZjEyMmY3MWY1ZWFmOTBmMCJ9fX0\u003d",
-  "name": "Stability Elixir",
-  "tier": "RARE",
-  "origin": "RIFT",
-  "unstackable": true,
-  "id": "RIFT_STABILITY_ELIXIR",
-  "description": [
-    {"text":"Useful to stay integral in case","color":"gray"},
-    {"text":"you've accidentally inverted","color":"gray"},
-    {"text":"yourself.","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjU1NTM4MTIwOWJmOTg5ZThjYWFjM2FlOGQ2YjdlMTkzMzczZjE3MTgwODhmNWRiZjEyMmY3MWY1ZWFmOTBmMCJ9fX0=","name":{"text":"Stability Elixir"},"tier":"rare","origin":"RIFT","unstackable":true,"id":"RIFT_STABILITY_ELIXIR","description":[{"color":"gray","text":"Useful to stay integral in case"},{"color":"gray","text":"you've accidentally inverted"},{"color":"gray","text":"yourself."},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

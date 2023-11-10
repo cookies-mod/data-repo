@@ -1,8 +1,1 @@
-{
-  "material": "PORKchop",
-  "name": "Enchanted Pork",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 800,
-  "id": "ENCHANTED_PORK"
-}
+{"material":"PORKchop","name":{"text":"Enchanted Pork"},"glowing":true,"tier":"uncommon","npc_sell_price":800,"id":"ENCHANTED_PORK","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

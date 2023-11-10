@@ -1,16 +1,1 @@
-{
-  "material": "WOODen_AXE",
-  "name": "Wooden Axe",
-  "category": "AXE",
-  "stats": {
-    "DAMAGE": 10
-  },
-  "npc_sell_price": 1,
-  "id": "WOOD_AXE",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"WOODen_AXE","name":{"text":"Wooden Axe"},"category":"AXE","stats":{"DAMAGE":10},"npc_sell_price":1,"id":"WOOD_AXE","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+10"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON AXE"},{"color":"white","text":""}],"text":""}],"tier":"common"}

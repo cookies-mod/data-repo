@@ -1,17 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjAyMGMzMzY5MjhkOTRmODhiZmNlYjUxODE4YTY0MDQwYjgyNjZkNDk3ZDM4ZWUxMjhlNDNhNGUwMmUyYTM2In19fQ\u003d\u003d",
-  "name": "Boss",
-  "category": "HELMET",
-  "tier": "ADMIN",
-  "stats": {
-    "WALK_SPEED": 60,
-    "DEFENSE": 1000,
-    "HEALTH": 1000
-  },
-  "npc_sell_price": 1000000,
-  "id": "BOSS",
-  "can_be_reforged":true,
-  "soulbound":"SOLO"
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjAyMGMzMzY5MjhkOTRmODhiZmNlYjUxODE4YTY0MDQwYjgyNjZkNDk3ZDM4ZWUxMjhlNDNhNGUwMmUyYTM2In19fQ==","name":{"color":"dark_red","text":"Boss"},"category":"HELMET","tier":"","stats":{"WALK_SPEED":60,"DEFENSE":1000,"HEALTH":1000},"npc_sell_price":1000000,"id":"BOSS","can_be_reforged":true,"soulbound":"SOLO","description":[{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+1,000"}],"text":""},{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+1,000"}],"text":""},{"extra":[{"color":"gray","text":"Speed: "},{"color":"green","text":"+60"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","extra":[{"bold":true,"text":"*"}],"text":" Soulbound "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"dark_red","text":"ADMIN HELMET"},{"color":"dark_red","text":""}],"text":""}]}

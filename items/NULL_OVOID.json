@@ -1,17 +1,1 @@
-{
-  "material": "enderman_spawn_Egg",
-  "durability": 58,
-  "name": "Null Ovoid",
-  "glowing": true,
-  "tier": "RARE",
-  "id": "NULL_OVOID",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"enderman_spawn_Egg","durability":58,"name":{"text":"Null Ovoid"},"glowing":true,"tier":"rare","id":"NULL_OVOID","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

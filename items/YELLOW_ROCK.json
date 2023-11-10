@@ -1,15 +1,1 @@
-{
-  "material": "GOLD_NUGGET",
-  "name": "\u00a7eYellow Rock",
-  "description": [
-    {
-      "color": "gray",
-      "text": "Quest item"
-    },
-    {
-      "text": ""
-    }
-  ],
-  "glowing": true,
-  "id": "YELLOW_ROCK"
-}
+{"material":"GOLD_NUGGET","name":{"color":"yellow","text":"Yellow Rock"},"description":[{"color":"gray","text":"Quest item"},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"glowing":true,"id":"YELLOW_ROCK","tier":""}

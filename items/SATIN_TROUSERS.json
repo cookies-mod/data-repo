@@ -1,17 +1,1 @@
-{
-  "material": "LEATHER_LEGGINGS",
-  "name": "Satin Trousers",
-  "tier": "RARE",
-  "category": "LEGGINGS",
-  "stats": {
-    "health": 25,
-    "defense": 10
-  },
-  "id": "SATIN_TROUSERS",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"LEATHER_LEGGINGS","name":{"text":"Satin Trousers"},"tier":"rare","category":"LEGGINGS","stats":{"health":25,"defense":10},"id":"SATIN_TROUSERS","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+25"}],"text":""},{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+10"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"blue","text":"RARE LEGGINGS"},{"color":"blue","text":""}],"text":""}]}

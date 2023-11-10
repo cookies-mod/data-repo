@@ -1,15 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTE4MzcwNjY1OSwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMDFjZTY4ODQyMDc0ZGRlMDUzMTg1YjIxOGUzNGVlMzI1OWNiMzZhYzQ3MWQ4MDk5OGY5Y2IwMWYzMmU1MWM3IgogICAgfQogIH0KfQ\u003d\u003d",
-  "name": "Sludge Juice",
-  "tier": "UNCOMMON",
-  "description": [
-    {"text":""},
-    {"text":"A green viscous substance","color":"gray"},
-    {"text":"highly valued by the Kalhuiki","color":"gray"},
-    {"text":"Tribe for its stickiness.","color":"gray"},
-    {"text":""}
-  ],
-  "id": "SLUDGE_JUICE"
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTYxOTE4MzcwNjY1OSwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMDFjZTY4ODQyMDc0ZGRlMDUzMTg1YjIxOGUzNGVlMzI1OWNiMzZhYzQ3MWQ4MDk5OGY5Y2IwMWYzMmU1MWM3IgogICAgfQogIH0KfQ==","name":{"text":"Sludge Juice"},"tier":"uncommon","description":[{"color":"gray","text":"A green viscous substance"},{"color":"gray","text":"highly valued by the Kalhuiki"},{"color":"gray","text":"Tribe for its stickiness."},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}],"id":"SLUDGE_JUICE"}

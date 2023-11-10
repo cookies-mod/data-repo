@@ -1,16 +1,1 @@
-{
-  "material": "GOLDen_SWORD",
-  "name": "Golden Sword",
-  "category": "SWORD",
-  "stats": {
-    "DAMAGE": 20
-  },
-  "npc_sell_price": 4,
-  "id": "GOLD_SWORD",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"GOLDen_SWORD","name":{"text":"Golden Sword"},"category":"SWORD","stats":{"DAMAGE":20},"npc_sell_price":4,"id":"GOLD_SWORD","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+20"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON SWORD"},{"color":"white","text":""}],"text":""}],"tier":"common"}

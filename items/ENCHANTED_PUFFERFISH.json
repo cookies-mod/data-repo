@@ -1,15 +1,1 @@
-{
-  "material": "pufferfish",
-  "durability": 3,
-  "name": "Enchanted Pufferfish",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 2400,
-  "id": "ENCHANTED_PUFFERFISH",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"pufferfish","durability":3,"name":{"text":"Enchanted Pufferfish"},"glowing":true,"tier":"uncommon","npc_sell_price":2400,"id":"ENCHANTED_PUFFERFISH","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

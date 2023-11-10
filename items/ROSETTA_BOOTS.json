@@ -1,18 +1,1 @@
-{
-  "material": "DIAMOND_BOOTS",
-  "name": "Rosetta\u0027s Boots",
-  "category": "BOOTS",
-  "tier": "UNCOMMON",
-  "stats": {
-    "DEFENSE": 20
-  },
-  "npc_sell_price": 480,
-  "id": "ROSETTA_BOOTS",
-  "can_be_reforged":true,
-  "description": [
-    {"text":""},
-    {"text":"Growth I","color":"blue"},
-    {"text":"Grants ","color":"gray","extra":[{"text":"+15 ","color":"green"},{"text":"\u2764 Health","color":"red"},{"text":".","color":"gray"}]},
-    {"text":""}
-  ]
-}
+{"material":"DIAMOND_BOOTS","name":{"text":"Rosetta's Boots"},"category":"BOOTS","tier":"uncommon","stats":{"DEFENSE":20},"npc_sell_price":480,"id":"ROSETTA_BOOTS","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+15"}],"text":""},{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+20"}],"text":""},{"text":""},{"color":"blue","text":"Growth I"},{"extra":[{"color":"gray","text":"Grants "},{"color":"green","text":"+15 "},{"color":"red","text":"❤ Health"},{"color":"gray","text":"."}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON BOOTS"},{"color":"green","text":""}],"text":""}]}

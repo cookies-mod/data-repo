@@ -1,6 +1,1 @@
-{
-  "material": "NOTE_BLOCK",
-  "name": "Noteblock",
-  "npc_sell_price": 3,
-  "id": "NOTE_BLOCK"
-}
+{"material":"NOTE_BLOCK","name":{"text":"Noteblock"},"npc_sell_price":3,"id":"NOTE_BLOCK","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

@@ -1,17 +1,1 @@
-{
-  "material": "IRON_AXE",
-  "name": "remmaH yniT",
-  "tier": "UNCOMMON",
-  "description": [
-    {
-      "color": "gray",
-      "text": ".wohemoS"
-    },
-    {
-      "text": ""
-    }
-  ],
-  "origin": "RIFT",
-  "motes_sell_price": 495,
-  "id": "TINY_HAMMER"
-}
+{"material":"IRON_AXE","name":{"extra":[{"color":"white","text":"remmaH "},{"color":"white","text":"yniT"}],"text":""},"tier":"uncommon","description":[{"color":"gray","text":".wohemoS"},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}],"origin":"RIFT","motes_sell_price":495,"id":"TINY_HAMMER"}

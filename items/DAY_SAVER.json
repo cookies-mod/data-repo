@@ -1,13 +1,1 @@
-{
-  "material": "DAYLIGHT_DETECTOR",
-  "name": "Day Saver",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 35,
-  "id": "DAY_SAVER",
-  "description": [
-    {"text":"When placed on your private","color":"gray"},
-    {"text":"island, it will always be","color":"gray"},
-    {"text":"daytime","color":"green","extra":[{"text":"!","color":"gray"}]},
-    {"text":""}
-  ]
-}
+{"material":"DAYLIGHT_DETECTOR","name":{"text":"Day Saver"},"tier":"uncommon","npc_sell_price":35,"id":"DAY_SAVER","description":[{"color":"gray","text":"When placed on your private"},{"color":"gray","text":"island, it will always be"},{"extra":[{"color":"green","text":"daytime"},{"color":"gray","text":"!"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

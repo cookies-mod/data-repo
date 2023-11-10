@@ -1,14 +1,1 @@
-{
-  "material": "GLOWSTONE",
-  "name": "Enchanted Glowstone",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 61000,
-  "id": "ENCHANTED_GLOWSTONE",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"GLOWSTONE","name":{"text":"Enchanted Glowstone"},"glowing":true,"tier":"uncommon","npc_sell_price":61000,"id":"ENCHANTED_GLOWSTONE","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

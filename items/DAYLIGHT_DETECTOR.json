@@ -1,7 +1,1 @@
-{
-  "material": "DAYLIGHT_DETECTOR",
-  "name": "Daylight Detector",
-  "npc_sell_price": 9,
-  "id": "DAYLIGHT_DETECTOR",
-  "description": [null]
-}
+{"material":"DAYLIGHT_DETECTOR","name":{"text":"Daylight Detector"},"npc_sell_price":9,"id":"DAYLIGHT_DETECTOR","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

@@ -1,18 +1,1 @@
-{
-  "material": "LEATHER_BOOTS",
-  "color": "79,40,134",
-  "name": "Gunther\u0027s Sneakers",
-  "category": "BOOTS",
-  "tier": "RARE",
-  "origin": "RIFT",
-  "stats": {
-    "RIFT_TIME": 30,
-    "rift_walk_speed": 4
-  },
-  "id": "GUNTHER_SNEAKERS",
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"LEATHER_BOOTS","color":"79,40,134","name":{"text":"Gunther's Sneakers"},"category":"BOOTS","tier":"rare","origin":"RIFT","stats":{"RIFT_TIME":30,"rift_walk_speed":4},"id":"GUNTHER_SNEAKERS","description":[{"extra":[{"color":"gray","text":"Rift Time: "},{"color":"green","text":"+30s"}],"text":""},{"extra":[{"color":"gray","text":"Speed: "},{"color":"green","text":"+4"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE BOOTS"},{"color":"blue","text":""}],"text":""}]}

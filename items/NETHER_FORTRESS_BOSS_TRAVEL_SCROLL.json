@@ -1,16 +1,1 @@
-{
-  "material": "map",
-  "name": "Dusty Travel Scroll to the Kuudra Skull",
-  "category": "TRAVEL_SCROLL",
-  "tier": "EPIC",
-  "id": "NETHER_FORTRESS_BOSS_TRAVEL_SCROLL",
-  "description":[
-    {"text": "Consume this item to add its", "color": "gray"},
-    {"text": "destination to your fast travel", "color": "gray"},
-    {"text": "options.", "color": "gray"},
-    {"text": ""},
-    {"text": "Island: ", "color": "gray", "extra": [{"text": "Crimson Isle", "color": "green"}]},
-    {"text": "Teleport: ", "color": "gray", "extra": [{"text": "Forgotten Skull", "color": "yellow"}]},
-    {"text": ""}
-  ]
-}
+{"material":"map","name":{"text":"Dusty Travel Scroll to the Kuudra Skull"},"category":"TRAVEL_SCROLL","tier":"epic","id":"NETHER_FORTRESS_BOSS_TRAVEL_SCROLL","description":[{"color":"gray","text":"Consume this item to add its"},{"color":"gray","text":"destination to your fast travel"},{"color":"gray","text":"options."},{"text":""},{"extra":[{"color":"gray","text":"Requires "},{"color":"aqua","text":"MVP"},{"color":"red","text":"+ "},{"color":"gray","text":"to consume!"}],"text":""},{"text":""},{"extra":[{"color":"gray","text":"Island: "},{"color":"green","text":"Crimson Isle"}],"text":""},{"extra":[{"color":"gray","text":"Teleport: "},{"color":"yellow","text":"Forgotten Skull"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC TRAVEL SCROLL"},{"color":"dark_purple","text":""}],"text":""}]}

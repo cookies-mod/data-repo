@@ -1,15 +1,1 @@
-{
-  "material": "WOODen_Shovel",
-  "name": "Wooden Shovel",
-  "category": "SPADE",
-  "stats": {
-    "DAMAGE": 15
-  },
-  "npc_sell_price": 1,
-  "id": "WOOD_SPADE",
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"WOODen_Shovel","name":{"text":"Wooden Shovel"},"category":"SPADE","stats":{"DAMAGE":15},"npc_sell_price":1,"id":"WOOD_SPADE","description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+15"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON SHOVEL"},{"color":"white","text":""}],"text":""}],"tier":"common"}

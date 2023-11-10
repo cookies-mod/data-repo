@@ -1,8 +1,1 @@
-{
-  "material": "cooked_PORKchop",
-  "name": "Enchanted Grilled Pork",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 128000,
-  "id": "ENCHANTED_GRILLED_PORK"
-}
+{"material":"cooked_PORKchop","name":{"text":"Enchanted Grilled Pork"},"glowing":true,"tier":"rare","npc_sell_price":128000,"id":"ENCHANTED_GRILLED_PORK","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

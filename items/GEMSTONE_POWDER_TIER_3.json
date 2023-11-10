@@ -1,7 +1,1 @@
-{
-  "material": "INK_SACK",
-  "durability": 14,
-  "name": "X Gemstone Powder",
-  "tier": "UNOBTAINABLE",
-  "id": "GEMSTONE_POWDER_TIER_3"
-}
+{"material":"orange_dye","durability":14,"name":{"extra":[{"color":"gold","text":"0 "},{"color":"light_purple","text":"Gemstone Powder"}],"text":""},"tier":"unobtainable","id":"GEMSTONE_POWDER_TIER_3","description":[{"extra":[{"bold":true,"color":"gold","text":"LEGENDARY"},{"color":"gold","text":""}],"text":""}]}

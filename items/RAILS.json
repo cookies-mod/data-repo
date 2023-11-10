@@ -1,6 +1,1 @@
-{
-  "material": "RAIL",
-  "name": "Rail",
-  "npc_sell_price": 1,
-  "id": "RAILS"
-}
+{"material":"RAIL","name":{"text":"Rail"},"npc_sell_price":1,"id":"RAILS","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

@@ -1,17 +1,1 @@
-{
-  "material": "BOW",
-  "name": "Decent Bow",
-  "category": "BOW",
-  "tier": "UNCOMMON",
-  "stats": {
-    "DAMAGE": 45
-  },
-  "npc_sell_price": 99,
-  "id": "DECENT_BOW",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"BOW","name":{"text":"Decent Bow"},"category":"BOW","tier":"uncommon","stats":{"DAMAGE":45},"npc_sell_price":99,"id":"DECENT_BOW","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+45"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON BOW"},{"color":"green","text":""}],"text":""}]}

@@ -1,7 +1,1 @@
-{
-  "material": "music_disc_blocks",
-  "name": "Music Disc - Blocks",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 20,
-  "id": "RECORD_3"
-}
+{"material":"music_disc_blocks","name":{"text":"Music Disc - Blocks"},"tier":"uncommon","npc_sell_price":20,"id":"RECORD_3","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

@@ -1,6 +1,1 @@
-{
-  "material": "IRON_INGOT",
-  "name": "Iron Ingot",
-  "npc_sell_price": 3,
-  "id": "IRON_INGOT"
-}
+{"material":"IRON_INGOT","name":{"text":"Iron Ingot"},"npc_sell_price":3,"id":"IRON_INGOT","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

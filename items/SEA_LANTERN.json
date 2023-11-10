@@ -1,6 +1,1 @@
-{
-  "material": "SEA_LANTERN",
-  "name": "Sea Lantern",
-  "npc_sell_price": 45,
-  "id": "SEA_LANTERN"
-}
+{"material":"SEA_LANTERN","name":{"text":"Sea Lantern"},"npc_sell_price":45,"id":"SEA_LANTERN","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

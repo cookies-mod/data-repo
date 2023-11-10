@@ -1,18 +1,1 @@
-{
-  "material": "BOW",
-  "name": "Savanna Bow",
-  "category": "BOW",
-  "tier": "UNCOMMON",
-  "stats": {
-    "DAMAGE": 50
-  },
-  "npc_sell_price": 500,
-  "id": "SAVANA_BOW",
-  "description": [
-    {"text":""},
-    {"text":"All damage dealt with this bow","color":"gray"},
-    {"text":"is ","color":"gray","extra":[{"text":"doubled","color":"green"},{"text":".","color":"gray"}]},
-    {"text":""}
-  ],
-  "can_be_reforged": true
-}
+{"material":"BOW","name":{"text":"Savanna Bow"},"category":"BOW","tier":"uncommon","stats":{"DAMAGE":50},"npc_sell_price":500,"id":"SAVANA_BOW","description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+50"}],"text":""},{"text":""},{"color":"gray","text":"All damage dealt with this bow"},{"extra":[{"color":"gray","text":"is "},{"color":"green","text":"doubled"},{"color":"gray","text":"."}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON BOW"},{"color":"green","text":""}],"text":""}],"can_be_reforged":true}

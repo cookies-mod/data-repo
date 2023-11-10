@@ -1,9 +1,1 @@
-{
-  "material": "SPONGE",
-  "durability": 1,
-  "name": "Enchanted Wet Sponge",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 80000,
-  "id": "ENCHANTED_WET_SPONGE"
-}
+{"material":"SPONGE","durability":1,"name":{"text":"Enchanted Wet Sponge"},"glowing":true,"tier":"rare","npc_sell_price":80000,"id":"ENCHANTED_WET_SPONGE","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

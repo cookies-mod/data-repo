@@ -1,6 +1,1 @@
-{
-  "material": "CHEST",
-  "name": "Chest",
-  "npc_sell_price": 2,
-  "id": "CHEST"
-}
+{"material":"CHEST","name":{"text":"Chest"},"npc_sell_price":2,"id":"CHEST","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

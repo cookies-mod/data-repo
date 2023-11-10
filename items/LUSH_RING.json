@@ -1,17 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmY5YzcxYWYzZjdlODE5ZWMzYzQ0OTZmMjkxNTY3YWVmYjk4ZjU1ODQ1MTdkYTI2NmJhMGE2ZWNjYWE5YTZlMyJ9fX0\u003d",
-  "name": "Lush Ring",
-  "category": "ACCESSORY",
-  "tier": "RARE",
-  "stats": {
-    "health": 3
-  },
-  "id": "LUSH_RING",
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmY5YzcxYWYzZjdlODE5ZWMzYzQ0OTZmMjkxNTY3YWVmYjk4ZjU1ODQ1MTdkYTI2NmJhMGE2ZWNjYWE5YTZlMyJ9fX0=","name":{"text":"Lush Ring"},"category":"ACCESSORY","tier":"rare","stats":{"health":3},"id":"LUSH_RING","description":[{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+3"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE ACCESSORY"},{"color":"blue","text":""}],"text":""}]}

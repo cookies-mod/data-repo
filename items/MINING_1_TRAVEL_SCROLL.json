@@ -1,16 +1,1 @@
-{
-  "material": "MAP",
-  "name": "Travel Scroll to the Gold Mine",
-  "category": "TRAVEL_SCROLL",
-  "tier": "RARE",
-  "id": "MINING_1_TRAVEL_SCROLL",
-  "description":[
-    {"text": "Consume this item to add its", "color": "gray"},
-    {"text": "destination to your fast travel", "color": "gray"},
-    {"text": "options.", "color": "gray"},
-    {"text": ""},
-    {"text": "Island: ", "color": "gray", "extra": [{"text": "Gold Mine", "color": "green"}]},
-    {"text": "Teleport: ", "color": "gray", "extra": [{"text": "Spawn", "color": "yellow"}]},
-    {"text": ""}
-  ]
-}
+{"material":"MAP","name":{"text":"Travel Scroll to the Gold Mine"},"category":"TRAVEL_SCROLL","tier":"rare","id":"MINING_1_TRAVEL_SCROLL","description":[{"color":"gray","text":"Consume this item to add its"},{"color":"gray","text":"destination to your fast travel"},{"color":"gray","text":"options."},{"text":""},{"extra":[{"color":"gray","text":"Island: "},{"color":"green","text":"Gold Mine"}],"text":""},{"extra":[{"color":"gray","text":"Teleport: "},{"color":"yellow","text":"Spawn"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE TRAVEL SCROLL"},{"color":"blue","text":""}],"text":""}]}

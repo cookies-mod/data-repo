@@ -1,6 +1,1 @@
-{
-  "material": "RABBIT_HIDE",
-  "name": "Rabbit Hide",
-  "npc_sell_price": 5,
-  "id": "RABBIT_HIDE"
-}
+{"material":"RABBIT_HIDE","name":{"text":"Rabbit Hide"},"npc_sell_price":5,"id":"RABBIT_HIDE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

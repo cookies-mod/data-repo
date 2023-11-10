@@ -1,17 +1,1 @@
-{
-  "material": "poppy",
-  "name": "Scarf Fragment",
-  "glowing": true,
-  "tier": "RARE",
-  "dungeon_item": true,
-  "id": "SCARF_FRAGMENT",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"poppy","name":{"text":"Scarf Fragment"},"glowing":true,"tier":"rare","dungeon_item":true,"id":"SCARF_FRAGMENT","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE DUNGEON ITEM"},{"color":"blue","text":""}],"text":""}]}

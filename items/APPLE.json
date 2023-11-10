@@ -1,6 +1,1 @@
-{
-  "material": "APPLE",
-  "name": "Apple",
-  "npc_sell_price": 5,
-  "id": "APPLE"
-}
+{"material":"APPLE","name":{"text":"Apple"},"npc_sell_price":5,"id":"APPLE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

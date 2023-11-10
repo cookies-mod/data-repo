@@ -1,9 +1,0 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQxMTQ4NTcwYWQ5ZTEyMDQ0MjA1ZDYzMmE0MzcxNjNlZDFjZDhkMjljN2RjNWIyOTJiNmY1NDc4MjZhZjE2In19fQ\u003d\u003d",
-  "name": "Box of Booster Cookies",
-  "tier": "UNOBTAINABLE",
-  "unstackable": true,
-  "id": "BOOSTER_COOKIE_BOX"
-}

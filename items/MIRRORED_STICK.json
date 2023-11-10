@@ -1,7 +1,1 @@
-{
-  "material": "STICK",
-  "name": "kcitS",
-  "origin": "RIFT",
-  "motes_sell_price": 15,
-  "id": "MIRRORED_STICK"
-}
+{"material":"STICK","name":{"color":"white","text":"kcitS"},"origin":"RIFT","motes_sell_price":15,"id":"MIRRORED_STICK","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

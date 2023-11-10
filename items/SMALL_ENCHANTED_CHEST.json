@@ -1,15 +1,1 @@
-{
-  "material": "CHEST",
-  "name": "Small Storage",
-  "npc_sell_price": 65,
-  "id": "SMALL_ENCHANTED_CHEST",
-  "description":[
-    {"text":"Place this chest next to a","color":"gray"},
-    {"text":"minion and the minion will store","color":"gray"},
-    {"text":"items inside once its storage is","color":"gray"},
-    {"text":"full!","color":"gray"},
-    {"text":""},
-    {"text":"Storage space: ","color":"gray","extra":[{"text":"3 ","color":"aqua"},{"text":"items","color":"gray"}]},
-    {"text":""}
-  ]
-}
+{"material":"CHEST","name":{"text":"Small Storage"},"npc_sell_price":65,"id":"SMALL_ENCHANTED_CHEST","description":[{"color":"gray","text":"Place this chest next to a"},{"color":"gray","text":"minion and the minion will store"},{"color":"gray","text":"items inside once its storage is"},{"color":"gray","text":"full!"},{"text":""},{"extra":[{"color":"gray","text":"Storage space: "},{"color":"aqua","text":"3 "},{"color":"gray","text":"items"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

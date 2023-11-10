@@ -1,16 +1,1 @@
-{
-  "material": "gunpowder",
-  "name": "Derelict Ashe",
-  "tier": "UNCOMMON",
-  "glowing": true,
-  "id": "DERELICT_ASHE",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"gunpowder","name":{"text":"Derelict Ashe"},"tier":"uncommon","glowing":true,"id":"DERELICT_ASHE","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

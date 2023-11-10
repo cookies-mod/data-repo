@@ -1,17 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1MjE0NjkwNTM1OCwKICAicHJvZmlsZUlkIiA6ICJhMWU4OThjNWEyNmY0MTYyOTQyYmNmNmM1MzRiMTE5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0b21keGlpaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMzgyNjE4MWNlOTAxMmI2NjU4NjVmM2FjMDA2NjMwN2I0ZDAyZGEyODE1NDAxMDRlMDQ2MWZmZWZhNzQ1OWZkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
-  "name": "Aspiring Leap",
-  "tier": "EPIC",
-  "npc_sell_price": 16000,
-  "dungeon_item": true,
-  "id": "ASPIRING_LEAP",
-  "description": [
-    {"text": "Ability: Aspiring Leap ", "color":"gold", "extra": [{"text": "RIGHT CLICK", "bold":true,"color":"yellow"}]},
-    {"text": "Allows you to teleport to co-op", "color": "gray"},
-    {"text": "members on your private island!", "color": "gray"},
-    {"text": "Cooldown: ", "color": "dark_gray", "extra": [{"text": "5s","color":"green"}]},
-    {"text": ""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTY1MjE0NjkwNTM1OCwKICAicHJvZmlsZUlkIiA6ICJhMWU4OThjNWEyNmY0MTYyOTQyYmNmNmM1MzRiMTE5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0b21keGlpaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMzgyNjE4MWNlOTAxMmI2NjU4NjVmM2FjMDA2NjMwN2I0ZDAyZGEyODE1NDAxMDRlMDQ2MWZmZWZhNzQ1OWZkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=","name":{"text":"Aspiring Leap"},"tier":"epic","npc_sell_price":16000,"dungeon_item":true,"id":"ASPIRING_LEAP","description":[{"extra":[{"color":"gold","text":"Ability: Aspiring Leap "},{"bold":true,"color":"yellow","text":"RIGHT CLICK"},{"color":"gold","text":""}],"text":""},{"color":"gray","text":"Allows you to teleport to co-op"},{"color":"gray","text":"members on your private island!"},{"extra":[{"color":"dark_gray","text":"Cooldown: "},{"color":"green","text":"5s"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC DUNGEON ITEM"},{"color":"dark_purple","text":""}],"text":""}]}

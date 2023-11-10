@@ -1,17 +1,1 @@
-{
-  "material": "DROPPER",
-  "name": "Dwarven Super Compactor",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 100000,
-  "id": "DWARVEN_COMPACTOR",
-  "description": [
-    {"text":"This item can be used as a","color":"gray"},
-    {"text":"minion upgrade.","color":"gray"},
-    {"text":"Automatically smelts materials","color":"gray"},
-    {"text":"produced by minions before","color":"gray"},
-    {"text":"compacting them into their","color":"gray"},
-    {"text":"enchanted form.","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"DROPPER","name":{"text":"Dwarven Super Compactor"},"glowing":true,"tier":"rare","npc_sell_price":100000,"id":"DWARVEN_COMPACTOR","description":[{"color":"gray","text":"This item can be used as a"},{"color":"gray","text":"minion upgrade."},{"color":"gray","text":"Automatically smelts materials"},{"color":"gray","text":"produced by minions before"},{"color":"gray","text":"compacting them into their"},{"color":"gray","text":"enchanted form."},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

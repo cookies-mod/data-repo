@@ -1,7 +1,1 @@
-{
-  "material": "birch_log",
-  "durability": 2,
-  "name": "Birch Wood",
-  "npc_sell_price": 2,
-  "id": "LOG:2"
-}
+{"material":"acacia_log","durability":2,"name":{"text":"Acacia Wood"},"npc_sell_price":2,"id":"LOG:2","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

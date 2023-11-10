@@ -1,9 +1,0 @@
-{
-  "material": "tropical_fish",
-  "durability": 2,
-  "name": "Enchanted Clownfish",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 3200,
-  "id": "ENCHANTED_FISH:2"
-}

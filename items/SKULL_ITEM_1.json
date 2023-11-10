@@ -1,8 +1,0 @@
-{
-  "material": "wither_skeleton_skull",
-  "durability": 1,
-  "name": "Wither Skeleton Skull",
-  "tier": "RARE",
-  "npc_sell_price": 20,
-  "id": "SKULL_ITEM:1"
-}

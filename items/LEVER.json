@@ -1,6 +1,1 @@
-{
-  "material": "LEVER",
-  "name": "Lever",
-  "npc_sell_price": 1,
-  "id": "LEVER"
-}
+{"material":"LEVER","name":{"text":"Lever"},"npc_sell_price":1,"id":"LEVER","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

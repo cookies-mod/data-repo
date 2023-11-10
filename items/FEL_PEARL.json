@@ -1,16 +1,1 @@
-{
-  "material": "ENDER_PEARL",
-  "name": "Fel Pearl",
-  "tier": "RARE",
-  "dungeon_item": true,
-  "id": "FEL_PEARL",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"ENDER_PEARL","name":{"text":"Fel Pearl"},"tier":"rare","dungeon_item":true,"id":"FEL_PEARL","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE DUNGEON ITEM"},{"color":"blue","text":""}],"text":""}]}

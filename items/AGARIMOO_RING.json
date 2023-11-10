@@ -1,18 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDNlYmYzOGI0YTcwOGViMDA3NDVkMWZiODdhNTNjYjgxYTdhZjZjYzE3OGQ5YTJjMTExNmMyY2JjZmY5NGZlYSJ9fX0\u003d",
-  "name": "Agarimoo Ring",
-  "category": "ACCESSORY",
-  "tier": "UNCOMMON",
-  "stats": {
-    "fishing_wisdom": 1,
-    "fishing_speed": 2
-  },
-  "id": "AGARIMOO_RING",
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDNlYmYzOGI0YTcwOGViMDA3NDVkMWZiODdhNTNjYjgxYTdhZjZjYzE3OGQ5YTJjMTExNmMyY2JjZmY5NGZlYSJ9fX0=","name":{"text":"Agarimoo Ring"},"category":"ACCESSORY","tier":"uncommon","stats":{"fishing_wisdom":1,"fishing_speed":2},"id":"AGARIMOO_RING","description":[{"extra":[{"color":"gray","text":"Fishing Wisdom: "},{"color":"green","text":"+1"}],"text":""},{"extra":[{"color":"gray","text":"Fishing Speed: "},{"color":"green","text":"+2"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON ACCESSORY"},{"color":"green","text":""}],"text":""}]}

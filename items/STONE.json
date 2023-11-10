@@ -1,6 +1,1 @@
-{
-  "material": "STONE",
-  "name": "Stone",
-  "npc_sell_price": 1,
-  "id": "STONE"
-}
+{"material":"STONE","name":{"text":"Stone"},"npc_sell_price":1,"id":"STONE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

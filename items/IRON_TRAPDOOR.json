@@ -1,6 +1,1 @@
-{
-  "material": "IRON_TRAPDOOR",
-  "name": "Iron Trapdoor",
-  "npc_sell_price": 12,
-  "id": "IRON_TRAPDOOR"
-}
+{"material":"IRON_TRAPDOOR","name":{"text":"Iron Trapdoor"},"npc_sell_price":12,"id":"IRON_TRAPDOOR","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

@@ -1,6 +1,1 @@
-{
-  "material": "BIRCH_DOOR",
-  "name": "Birch Door",
-  "npc_sell_price": 1,
-  "id": "BIRCH_DOOR_ITEM"
-}
+{"material":"BIRCH_DOOR","name":{"text":"Birch Door"},"npc_sell_price":1,"id":"BIRCH_DOOR_ITEM","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

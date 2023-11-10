@@ -1,14 +1,1 @@
-{
-  "material": "GOLDEN_LEGGINGS",
-  "name": "Leggings of the Stars",
-  "category": "LEGGINGS",
-  "tier": "ADMIN",
-  "stats": {
-    "DEFENSE": 4000,
-    "HEALTH": 15000,
-    "INTELLIGENCE": 1500
-  },
-  "id": "STAR_LEGGINGS",
-  "can_be_reforged": true,
-  "soulbound": "SOLO"
-}
+{"material":"GOLDEN_LEGGINGS","name":{"color":"dark_red","text":"Leggings of the Stars"},"category":"LEGGINGS","tier":"","stats":{"DEFENSE":4000,"HEALTH":15000,"INTELLIGENCE":1500},"id":"STAR_LEGGINGS","can_be_reforged":true,"soulbound":"SOLO","description":[{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+15,000"}],"text":""},{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+4,000"}],"text":""},{"extra":[{"color":"gray","text":"Intelligence: "},{"color":"green","text":"+1,500"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","extra":[{"bold":true,"text":"*"}],"text":" Soulbound "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"dark_red","text":"ADMIN LEGGINGS"},{"color":"dark_red","text":""}],"text":""}]}

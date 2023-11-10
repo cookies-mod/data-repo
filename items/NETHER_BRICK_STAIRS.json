@@ -1,7 +1,1 @@
-{
-  "material": "NETHER_BRICK_STAIRS",
-  "name": "Nether Bricks Stairs",
-  "npc_sell_price": 2,
-  "id": "NETHER_BRICK_STAIRS",
-  "description":[null]
-}
+{"material":"NETHER_BRICK_STAIRS","name":{"text":"Nether Bricks Stairs"},"npc_sell_price":2,"id":"NETHER_BRICK_STAIRS","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

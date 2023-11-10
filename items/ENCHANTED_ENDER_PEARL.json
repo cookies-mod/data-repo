@@ -1,9 +1,1 @@
-{
-  "material": "ENDER_PEARL",
-  "name": "Enchanted Ender Pearl",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 140,
-  "id": "ENCHANTED_ENDER_PEARL",
-  "description": [null]
-}
+{"material":"ENDER_PEARL","name":{"text":"Enchanted Ender Pearl"},"glowing":true,"tier":"uncommon","npc_sell_price":140,"id":"ENCHANTED_ENDER_PEARL","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

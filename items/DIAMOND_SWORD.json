@@ -1,17 +1,1 @@
-{
-  "material": "DIAMOND_SWORD",
-  "name": "Diamond Sword",
-  "category": "SWORD",
-  "tier": "UNCOMMON",
-  "stats": {
-    "DAMAGE": 35
-  },
-  "npc_sell_price": 8,
-  "id": "DIAMOND_SWORD",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"DIAMOND_SWORD","name":{"text":"Diamond Sword"},"category":"SWORD","tier":"uncommon","stats":{"DAMAGE":35},"npc_sell_price":8,"id":"DIAMOND_SWORD","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+35"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON SWORD"},{"color":"green","text":""}],"text":""}]}

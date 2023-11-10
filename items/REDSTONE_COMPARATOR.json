@@ -1,7 +1,1 @@
-{
-  "material": "COMPARATOR",
-  "name": "Comparator",
-  "npc_sell_price": 5,
-  "id": "REDSTONE_COMPARATOR",
-  "description":[null]
-}
+{"material":"COMPARATOR","name":{"text":"Comparator"},"npc_sell_price":5,"id":"REDSTONE_COMPARATOR","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

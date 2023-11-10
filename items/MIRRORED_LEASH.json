@@ -1,7 +1,1 @@
-{
-  "material": "lead",
-  "name": "daeL",
-  "origin": "RIFT",
-  "motes_sell_price": 75,
-  "id": "MIRRORED_LEASH"
-}
+{"material":"lead","name":{"color":"white","text":"daeL"},"origin":"RIFT","motes_sell_price":75,"id":"MIRRORED_LEASH","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

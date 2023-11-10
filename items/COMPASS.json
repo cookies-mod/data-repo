@@ -1,6 +1,1 @@
-{
-  "material": "COMPASS",
-  "name": "Compass",
-  "npc_sell_price": 12,
-  "id": "COMPASS"
-}
+{"material":"COMPASS","name":{"text":"Compass"},"npc_sell_price":12,"id":"COMPASS","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

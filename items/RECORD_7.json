@@ -1,7 +1,1 @@
-{
-  "material": "music_disc_mellohi",
-  "name": "Music Disc - Mellohi",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 20,
-  "id": "RECORD_7"
-}
+{"material":"music_disc_mellohi","name":{"text":"Music Disc - Mellohi"},"tier":"uncommon","npc_sell_price":20,"id":"RECORD_7","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

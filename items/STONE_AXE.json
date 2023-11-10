@@ -1,16 +1,1 @@
-{
-  "material": "STONE_AXE",
-  "name": "Stone Axe",
-  "category": "AXE",
-  "stats": {
-    "DAMAGE": 15
-  },
-  "npc_sell_price": 2,
-  "id": "STONE_AXE",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"STONE_AXE","name":{"text":"Stone Axe"},"category":"AXE","stats":{"DAMAGE":15},"npc_sell_price":2,"id":"STONE_AXE","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+15"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON AXE"},{"color":"white","text":""}],"text":""}],"tier":"common"}

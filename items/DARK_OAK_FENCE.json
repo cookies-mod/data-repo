@@ -1,7 +1,1 @@
-{
-  "material": "DARK_OAK_FENCE",
-  "name": "Dark Oak Fence",
-  "npc_sell_price": 1,
-  "id": "DARK_OAK_FENCE",
-  "description": [null]
-}
+{"material":"DARK_OAK_FENCE","name":{"text":"Dark Oak Fence"},"npc_sell_price":1,"id":"DARK_OAK_FENCE","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

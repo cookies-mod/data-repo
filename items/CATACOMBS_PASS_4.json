@@ -1,10 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTcyMDkxN2NkYTA1Njc0NDI2MTdmMjcyMWU4OGJlOWQyZmZiYjBiMjZhM2Y0YzJmZTIxNjU1ODE0ZDRmNDQ3NiJ9fX0K",
-  "name": "Catacombs Pass IV",
-  "category": "DUNGEON_PASS",
-  "tier": "UNOBTAINABLE",
-  "dungeon_item": true,
-  "id": "CATACOMBS_PASS_4"
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTcyMDkxN2NkYTA1Njc0NDI2MTdmMjcyMWU4OGJlOWQyZmZiYjBiMjZhM2Y0YzJmZTIxNjU1ODE0ZDRmNDQ3NiJ9fX0K","name":{"text":"The Catacombs - Floor I"},"category":"DUNGEON_PASS","tier":"uncommon","dungeon_item":true,"id":"CATACOMBS_PASS_4","description":[{"extra":[{"color":"gray","text":"Dungeon Size: "},{"color":"aqua","text":"Tiny"}],"text":""},{"extra":[{"color":"gray","text":"Party size: "},{"color":"blue","text":"2-5"}],"text":""},{"text":""},{"extra":[{"color":"gray","text":"Boss: "},{"color":"red","text":"Bonzo"},{"color":"green","text":" ✔"}],"text":""},{"color":"dark_gray","text":"New Necromancer"},{"color":"gray","text":"Involved in the dark arts due to his"},{"color":"gray","text":"parents' insistence. Originally worked as"},{"color":"gray","text":"a Circus clown."},{"text":""},{"extra":[{"color":"gray","text":"Requires: "},{"color":"light_purple","text":"Catacombs Level I"}],"text":""},{"text":""},{"color":"yellow","text":"Click to queue for dungeon!"}]}

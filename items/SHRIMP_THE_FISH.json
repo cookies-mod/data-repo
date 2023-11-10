@@ -1,17 +1,1 @@
-{
-  "material": "cod",
-  "name": "Shrimp the Fish",
-  "glowing": true,
-  "tier": "SPECIAL",
-  "museum": true,
-  "id": "SHRIMP_THE_FISH",
-  "description": [
-    {
-      "color": "gray",
-      "text": "I achieved nothing."
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"cod","name":{"text":"Shrimp the Fish"},"glowing":true,"tier":"special","museum":true,"id":"SHRIMP_THE_FISH","description":[{"color":"gray","text":"I achieved nothing."},{"text":""},{"extra":[{"bold":true,"color":"red","text":"SPECIAL"},{"color":"red","text":""}],"text":""}]}

@@ -1,16 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjY1MDI5MjQ5NiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTE0ZDNjNTdmODA4MjRiMzgzOWI4YjIyMGYyMTU4YmNhNTA1ZDQ5N2ZkMWM5ZTNmMjlmNDIyYjFlNjIwNmE0NSIKICAgIH0KICB9Cn0\u003d",
-  "name": "\u2742 Rough Opal Gemstone",
-  "npc_sell_price": 3,
-  "id": "ROUGH_OPAL_GEM",
-  "description": [
-    {"text":"Found sprinkled around the ","color":"gray","extra":[{"text":"Crimson Isle","color":"red"},{"text":".","color":"gray"}]},
-    {"text":""},
-    {"text":"Some say that when ","color":"gray","extra":[{"text":"harnessed","color":"yellow"}]},
-    {"text":"properly","color":"yellow","extra":[{"text":", it can give its","color":"gray"}]},
-    {"text":"owner extra ","color":"gray","extra":[{"text":"\u2742 True Defense","color":"white"},{"text":".","color":"gray"}]},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTY0NjY1MDI5MjQ5NiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTE0ZDNjNTdmODA4MjRiMzgzOWI4YjIyMGYyMTU4YmNhNTA1ZDQ5N2ZkMWM5ZTNmMjlmNDIyYjFlNjIwNmE0NSIKICAgIH0KICB9Cn0=","name":{"text":"❂ Rough Opal Gemstone"},"npc_sell_price":3,"id":"ROUGH_OPAL_GEM","description":[{"color":"gray","text":"Found sprinkled around the"},{"extra":[{"color":"red","text":"Crimson Isle"},{"color":"gray","text":"."}],"text":""},{"text":""},{"extra":[{"color":"gray","text":"Some say that when "},{"color":"yellow","text":"harnessed"}],"text":""},{"extra":[{"color":"yellow","text":"properly"},{"color":"gray","text":", it can give its"}],"text":""},{"extra":[{"color":"gray","text":"owner extra "},{"color":"white","text":"❂ True Defense"},{"color":"gray","text":"."}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

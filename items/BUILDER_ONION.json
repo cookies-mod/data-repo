@@ -1,12 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjEzNGFiMTQ1YmQxNzY3NmFjMTBhNmY1YjY1NTRkZDQxMjU2Y2UzYjgyMzlmODdjMDU5MWIxMDVhYTllMDg2In19fQ",
-  "name": "Onion",
-  "npc_sell_price": 10,
-  "id": "BUILDER_ONION",
-  "description": [
-    {"text":"Decoration item","color":"dark_gray"},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjEzNGFiMTQ1YmQxNzY3NmFjMTBhNmY1YjY1NTRkZDQxMjU2Y2UzYjgyMzlmODdjMDU5MWIxMDVhYTllMDg2In19fQ","name":{"text":"Onion"},"npc_sell_price":10,"id":"BUILDER_ONION","description":[{"color":"dark_gray","text":"Decoration item"},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

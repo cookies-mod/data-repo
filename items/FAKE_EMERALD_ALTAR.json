@@ -1,16 +1,1 @@
-{
-  "material": "EMERALD_BLOCK",
-  "name": "\u00a7aFake Emerald Altar",
-  "description": [
-    {
-      "color": "gray",
-      "text": "Quest item"
-    },
-    {
-      "text": ""
-    }
-  ],
-  "tier": "UNCOMMON",
-  "soulbound": "COOP",
-  "id": "FAKE_EMERALD_ALTAR"
-}
+{"material":"EMERALD_BLOCK","name":{"text":"Fake Emerald Altar"},"description":[{"color":"gray","text":"Quest item"},{"text":""},{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Co-op Soulbound "},{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}],"tier":"uncommon","soulbound":"COOP","id":"FAKE_EMERALD_ALTAR"}

@@ -1,15 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80OGQ5YzhjZTkwNTJmYTkxYWM3YWNmNmE5OThlOTY0YzZiMTkyYzE1NDczOGQwMTAwOWUzZjYxMjhmZGVkYzcxIn19fQ\u003d\u003d",
-  "name": "Stool",
-  "furniture": "STOOL",
-  "id": "STOOL",
-  "description": [
-    {"text":"Seat","color":"dark_gray"},
-    {"text":""},
-    {"text":"This simple stool can be sat on","color":"gray"},
-    {"text":"by a player.","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80OGQ5YzhjZTkwNTJmYTkxYWM3YWNmNmE5OThlOTY0YzZiMTkyYzE1NDczOGQwMTAwOWUzZjYxMjhmZGVkYzcxIn19fQ==","name":{"text":"Stool"},"furniture":"STOOL","id":"STOOL","description":[{"color":"dark_gray","text":"Furniture"},{"color":"dark_gray","text":"Seat"},{"text":""},{"color":"gray","text":"This simple stool can be sat on"},{"color":"gray","text":"by a player."},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

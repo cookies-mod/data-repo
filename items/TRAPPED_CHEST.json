@@ -1,6 +1,1 @@
-{
-  "material": "TRAPPED_CHEST",
-  "name": "Trapped Chest",
-  "npc_sell_price": 4,
-  "id": "TRAPPED_CHEST"
-}
+{"material":"TRAPPED_CHEST","name":{"text":"Trapped Chest"},"npc_sell_price":4,"id":"TRAPPED_CHEST","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

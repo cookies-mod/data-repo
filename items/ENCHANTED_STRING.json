@@ -1,8 +1,1 @@
-{
-  "material": "STRING",
-  "name": "Enchanted String",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 576,
-  "id": "ENCHANTED_STRING"
-}
+{"material":"STRING","name":{"text":"Enchanted String"},"glowing":true,"tier":"uncommon","npc_sell_price":576,"id":"ENCHANTED_STRING","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

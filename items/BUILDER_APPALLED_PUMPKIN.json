@@ -1,17 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTA3ZGE1NzJhOGU5ZGFkNTc4MmIxNjY1Yjc0ZjkxMWQyMWZiMWE3MjNhOTdkYTdjOGVjNDk0Yjc1ZWM5ZGI4NCJ9fX0",
-  "name": "Appalled Pumpkin",
-  "npc_sell_price": 10,
-  "id": "BUILDER_APPALLED_PUMPKIN",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Decoration item"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTA3ZGE1NzJhOGU5ZGFkNTc4MmIxNjY1Yjc0ZjkxMWQyMWZiMWE3MjNhOTdkYTdjOGVjNDk0Yjc1ZWM5ZGI4NCJ9fX0","name":{"text":"Appalled Pumpkin"},"npc_sell_price":10,"id":"BUILDER_APPALLED_PUMPKIN","description":[{"color":"dark_gray","text":"Decoration item"},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

@@ -1,6 +1,1 @@
-{
-  "material": "VINE",
-  "name": "Vines",
-  "npc_sell_price": 5,
-  "id": "VINE"
-}
+{"material":"VINE","name":{"text":"Vines"},"npc_sell_price":5,"id":"VINE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

@@ -1,6 +1,1 @@
-{
-  "material": "ACACIA_DOOR",
-  "name": "Acacia Door",
-  "npc_sell_price": 1,
-  "id": "ACACIA_DOOR_ITEM"
-}
+{"material":"ACACIA_DOOR","name":{"text":"Acacia Door"},"npc_sell_price":1,"id":"ACACIA_DOOR_ITEM","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

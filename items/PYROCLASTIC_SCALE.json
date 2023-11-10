@@ -1,15 +1,1 @@
-{
-  "material": "PRISMARINE_SHARD",
-  "name": "Pyroclastic Scale",
-  "tier": "UNCOMMON",
-  "glowing": true,
-  "soulbound": "COOP",
-  "description": [
-    {"text": "Makes pretty \"drip\"", "color": "gray", "italic": true},
-    {"text": "necklaces, according to the", "color": "gray", "italic": true},
-    {"text": "local youth.", "color": "gray", "italic": true},
-    {"text": ""}
-  ],
-  "npc_sell_price": 50,
-  "id": "PYROCLASTIC_SCALE"
-}
+{"material":"PRISMARINE_SHARD","name":{"text":"Pyroclastic Scale"},"tier":"uncommon","glowing":true,"soulbound":"COOP","description":[{"extra":[{"italic":true,"color":"gray","text":" Makes pretty \"drip\""},{"color":"gray","text":""}],"text":""},{"extra":[{"italic":true,"color":"gray","text":" necklaces, according to the"},{"color":"gray","text":""}],"text":""},{"extra":[{"italic":true,"color":"gray","text":" local youth."},{"color":"gray","text":""}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Co-op Soulbound "},{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}],"npc_sell_price":50,"id":"PYROCLASTIC_SCALE"}

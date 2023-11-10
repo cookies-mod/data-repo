@@ -1,7 +1,1 @@
-{
-  "material": "ICE",
-  "name": "Ice",
-  "npc_sell_price": 0.5,
-  "id": "ICE",
-  "description":[null]
-}
+{"material":"ICE","name":{"text":"Ice"},"npc_sell_price":0.5,"id":"ICE","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

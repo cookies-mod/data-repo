@@ -1,12 +1,1 @@
-{
-  "material": "Gunpowder",
-  "name": "Gunpowder",
-  "npc_sell_price": 4,
-  "id": "SULPHUR",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"Gunpowder","name":{"text":"Gunpowder"},"npc_sell_price":4,"id":"SULPHUR","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

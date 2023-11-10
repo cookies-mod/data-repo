@@ -1,6 +1,1 @@
-{
-  "material": "MINECART",
-  "name": "Minecart",
-  "npc_sell_price": 8,
-  "id": "MINECART"
-}
+{"material":"MINECART","name":{"text":"Minecart"},"npc_sell_price":8,"id":"MINECART","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

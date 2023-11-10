@@ -1,17 +1,1 @@
-{
-  "material": "ROTTEN_FLESH",
-  "name": "Revenant Flesh",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 1,
-  "id": "REVENANT_FLESH",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"ROTTEN_FLESH","name":{"text":"Revenant Flesh"},"glowing":true,"tier":"uncommon","npc_sell_price":1,"id":"REVENANT_FLESH","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

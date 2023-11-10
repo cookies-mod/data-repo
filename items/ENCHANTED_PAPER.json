@@ -1,8 +1,1 @@
-{
-  "material": "PAPER",
-  "name": "Enchanted Paper",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 384,
-  "id": "ENCHANTED_PAPER"
-}
+{"material":"PAPER","name":{"text":"Enchanted Paper"},"glowing":true,"tier":"uncommon","npc_sell_price":384,"id":"ENCHANTED_PAPER","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

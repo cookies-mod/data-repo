@@ -1,15 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzE1MzlkYmNkMzZmODc3MjYzMmU1NzM5ZTJlNTE0ODRlZGYzNzNjNTU4ZDZmYjJjNmI2MWI3MmI3Y2FhIn19fQ",
-  "name": "Tasty Cheese",
-  "tier": "RARE",
-  "npc_sell_price": 500,
-  "id": "CHEESE_FUEL",
-  "description": [
-    {"text":"Increases the number of","color":"gray"},
-    {"text":"resources created by this minion","color":"gray"},
-    {"text":"by ","color":"gray","extra":[{"text":"2x","color":"green"},{"text":" for ","color":"gray"},{"text":"1 hour","color":"green"},{"text":"!","color":"gray"}]},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzE1MzlkYmNkMzZmODc3MjYzMmU1NzM5ZTJlNTE0ODRlZGYzNzNjNTU4ZDZmYjJjNmI2MWI3MmI3Y2FhIn19fQ","name":{"text":"Tasty Cheese"},"tier":"rare","npc_sell_price":500,"id":"CHEESE_FUEL","description":[{"color":"gray","text":"Increases the number of"},{"color":"gray","text":"resources created by this minion"},{"extra":[{"color":"gray","text":"by "},{"color":"green","text":"2x"},{"color":"gray","text":" for "},{"color":"green","text":"1 hour"},{"color":"gray","text":"!"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

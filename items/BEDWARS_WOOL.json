@@ -1,18 +1,1 @@
-{
-  "material": "white_wool",
-  "durability": 12,
-  "name": "Tree-like Wool",
-  "tier": "COMMON",
-  "origin": "RIFT",
-  "description": [
-    {
-      "color": "gray",
-      "text": "Good for bridging."
-    },
-    {
-      "text": ""
-    }
-  ],
-  "motes_sell_price": 10,
-  "id": "BEDWARS_WOOL"
-}
+{"material":"white_wool","durability":12,"name":{"text":"Tree-like Wool"},"tier":"common","origin":"RIFT","description":[{"color":"gray","text":"Good for bridging."},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"motes_sell_price":10,"id":"BEDWARS_WOOL"}

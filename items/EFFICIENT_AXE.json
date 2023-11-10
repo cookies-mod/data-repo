@@ -1,18 +1,1 @@
-{
-  "material": "IRON_AXE",
-  "name": "Efficient Axe",
-  "category": "AXE",
-  "tier": "UNCOMMON",
-  "stats": {
-    "DAMAGE": 25
-  },
-  "npc_sell_price": 25,
-  "id": "EFFICIENT_AXE",
-  "description": [
-    {"text":""},
-    {"text":"Drops 5 Planks from chopping","color":"gray"},
-    {"text":"Logs.","color":"gray"},
-    {"text":""}
-  ],
-  "can_be_reforged": true
-}
+{"material":"IRON_AXE","name":{"text":"Efficient Axe"},"category":"AXE","tier":"uncommon","stats":{"DAMAGE":25},"npc_sell_price":25,"id":"EFFICIENT_AXE","description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+25"}],"text":""},{"text":""},{"color":"gray","text":"Drops 5 Planks from chopping"},{"color":"gray","text":"Logs."},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON AXE"},{"color":"green","text":""}],"text":""}],"can_be_reforged":true}

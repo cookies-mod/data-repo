@@ -1,11 +1,1 @@
-{
-  "material": "NAME_TAG",
-  "name": "Raffle Ticket",
-  "tier": "UNCOMMON",
-  "id": "MINING_RAFFLE_TICKET",
-  "description": [
-    {"text":"Bring this back to the raffle","color":"gray"},
-    {"text":"box!","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"NAME_TAG","name":{"text":"Raffle Ticket"},"tier":"uncommon","id":"MINING_RAFFLE_TICKET","description":[{"color":"gray","text":"Bring this back to the raffle"},{"color":"gray","text":"box!"},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

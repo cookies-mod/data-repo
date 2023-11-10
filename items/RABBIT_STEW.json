@@ -1,6 +1,1 @@
-{
-  "material": "RABBIT_STEW",
-  "name": "Rabbit Stew",
-  "npc_sell_price": 12,
-  "id": "RABBIT_STEW"
-}
+{"material":"RABBIT_STEW","name":{"text":"Rabbit Stew"},"npc_sell_price":12,"id":"RABBIT_STEW","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

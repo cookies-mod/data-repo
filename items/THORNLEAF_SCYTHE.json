@@ -1,16 +1,1 @@
-{
-  "material": "IRON_HOE",
-  "name": "Thornleaf Scythe",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "category": "HOE",
-  "npc_sell_price": 50,
-  "id": "THORNLEAF_SCYTHE",
-  "can_be_reforged":true,
-  "description": [
-    {"text":"A crudely sharpened implement","color":"gray"},
-    {"text":"used by the ","color":"gray","extra":[{"text":"Barbarians ","color":"red"},{"text":"to","color":"gray"}]},
-    {"text":"harvest ","color":"gray","extra":[{"text":"Red Thornleaf","color":"green"},{"text":".","color":"gray"}]},
-    {"text":""}
-  ]
-}
+{"material":"IRON_HOE","name":{"text":"Thornleaf Scythe"},"glowing":true,"tier":"uncommon","category":"HOE","npc_sell_price":50,"id":"THORNLEAF_SCYTHE","can_be_reforged":true,"description":[{"color":"gray","text":"A crudely sharpened implement"},{"extra":[{"color":"gray","text":"used by the "},{"color":"red","text":"Barbarians "},{"color":"gray","text":"to"}],"text":""},{"extra":[{"color":"gray","text":"harvest "},{"color":"green","text":"Red Thornleaf"},{"color":"gray","text":"."}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON HOE"},{"color":"green","text":""}],"text":""}]}

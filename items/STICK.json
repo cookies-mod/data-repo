@@ -1,7 +1,1 @@
-{
-  "material": "STICK",
-  "name": "Stick",
-  "npc_sell_price": 0.25,
-  "motes_sell_price": 15,
-  "id": "STICK"
-}
+{"material":"STICK","name":{"text":"Stick"},"npc_sell_price":0.25,"motes_sell_price":15,"id":"STICK","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

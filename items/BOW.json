@@ -1,11 +1,1 @@
-{
-  "material": "BOW",
-  "name": "Bow",
-  "category": "BOW",
-  "stats": {
-    "DAMAGE": 30
-  },
-  "npc_sell_price": 9,
-  "motes_sell_price": 105,
-  "id": "BOW"
-}
+{"material":"BOW","name":{"text":"Bow"},"category":"BOW","stats":{"DAMAGE":30},"npc_sell_price":9,"motes_sell_price":105,"id":"BOW","tier":"common","description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+30"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON BOW"},{"color":"white","text":""}],"text":""}]}

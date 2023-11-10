@@ -1,8 +1,1 @@
-{
-  "material": "BOOK",
-  "name": "Journal",
-  "tier": "RARE",
-  "npc_sell_price": 1,
-  "dungeon_item": true,
-  "id": "DUNGEON_LORE_PAPER"
-}
+{"material":"BOOK","name":{"text":"Journal"},"tier":"rare","npc_sell_price":1,"dungeon_item":true,"id":"DUNGEON_LORE_PAPER","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE DUNGEON ITEM"},{"color":"blue","text":""}],"text":""}]}

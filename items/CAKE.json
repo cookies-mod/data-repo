@@ -1,7 +1,1 @@
-{
-  "material": "CAKE",
-  "name": "Cake",
-  "npc_sell_price": 10,
-  "id": "CAKE",
-  "description": [null]
-}
+{"material":"CAKE","name":{"text":"Cake"},"npc_sell_price":10,"id":"CAKE","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

@@ -1,17 +1,1 @@
-{
-  "material": "DIAMOND_AXE",
-  "name": "Diamond Axe",
-  "category": "AXE",
-  "tier": "UNCOMMON",
-  "stats": {
-    "DAMAGE": 30
-  },
-  "npc_sell_price": 12,
-  "id": "DIAMOND_AXE",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"DIAMOND_AXE","name":{"text":"Diamond Axe"},"category":"AXE","tier":"uncommon","stats":{"DAMAGE":30},"npc_sell_price":12,"id":"DIAMOND_AXE","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+30"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON AXE"},{"color":"green","text":""}],"text":""}]}

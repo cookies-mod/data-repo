@@ -1,17 +1,1 @@
-{
-  "material": "DROPPER",
-  "name": "Personal Compactor 4000",
-  "glowing": true,
-  "category": "ACCESSORY",
-  "tier": "UNCOMMON",
-  "unstackable": true,
-  "id": "PERSONAL_COMPACTOR_4000",
-  "description": [
-    {"text":"Automatically turns certain","color":"gray"},
-    {"text":"materials in your inventory into","color":"gray"},
-    {"text":"their enchanted form.","color":"gray"},
-    {"text":""},
-    {"text":"Does not grant Carpentry XP!","color":"dark_gray"},
-    {"text":""}
-  ]
-}
+{"material":"DROPPER","name":{"text":"Personal Compactor 4000"},"glowing":true,"category":"ACCESSORY","tier":"uncommon","unstackable":true,"id":"PERSONAL_COMPACTOR_4000","description":[{"color":"gray","text":"Automatically turns certain"},{"color":"gray","text":"materials in your inventory into"},{"color":"gray","text":"their enchanted form."},{"text":""},{"color":"dark_gray","text":"Does not grant Carpentry XP!"},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON ACCESSORY"},{"color":"green","text":""}],"text":""}]}

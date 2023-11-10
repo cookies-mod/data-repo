@@ -1,16 +1,1 @@
-{
-  "material": "FURNACE",
-  "name": "Hyper Furnace",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "id": "HYPER_FURNACE",
-  "description": [
-    {
-      "color": "gray",
-      "text": "Smelts items instantly."
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"FURNACE","name":{"text":"Hyper Furnace"},"glowing":true,"tier":"uncommon","id":"HYPER_FURNACE","description":[{"color":"gray","text":"Smelts items instantly."},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

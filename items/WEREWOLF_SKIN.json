@@ -1,12 +1,1 @@
-{
-  "material": "LEATHER",
-  "name": "Werewolf Skin",
-  "tier": "RARE",
-  "id": "WEREWOLF_SKIN",
-  "description": [
-    {"text":"Dropped by Werewolf sea","color":"gray"},
-    {"text":"creatures during the Spooky","color":"gray"},
-    {"text":"Festival.","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"LEATHER","name":{"text":"Werewolf Skin"},"tier":"rare","id":"WEREWOLF_SKIN","description":[{"color":"gray","text":"Dropped by Werewolf sea"},{"color":"gray","text":"creatures during the Spooky"},{"color":"gray","text":"Festival."},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

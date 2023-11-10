@@ -1,11 +1,1 @@
-{
-  "material": "SPIDER_EYE",
-  "name": "Enchanted Spider Eye",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 480,
-  "id": "ENCHANTED_SPIDER_EYE",
-  "description": [
-    {"text":"Brewing Ingredient", "color": "dark_gray"}
-  ]
-}
+{"material":"SPIDER_EYE","name":{"text":"Enchanted Spider Eye"},"glowing":true,"tier":"uncommon","npc_sell_price":480,"id":"ENCHANTED_SPIDER_EYE","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

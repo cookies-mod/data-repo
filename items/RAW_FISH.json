@@ -1,6 +1,1 @@
-{
-  "material": "cod",
-  "name": "Raw Fish",
-  "npc_sell_price": 6,
-  "id": "RAW_FISH"
-}
+{"material":"cod","name":{"text":"Raw Fish"},"npc_sell_price":6,"id":"RAW_FISH","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

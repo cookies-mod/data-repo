@@ -1,8 +1,1 @@
-{
-  "material": "MYCELium",
-  "name": "Enchanted Mycelium",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 800,
-  "id": "ENCHANTED_MYCELIUM"
-}
+{"material":"MYCELium","name":{"text":"Enchanted Mycelium"},"glowing":true,"tier":"uncommon","npc_sell_price":800,"id":"ENCHANTED_MYCELIUM","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

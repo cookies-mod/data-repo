@@ -1,17 +1,1 @@
-{
-  "material": "LEATHER_LEGGINGS",
-  "color": "53,183,59",
-  "name": "Wyld Leggings",
-  "category": "LEGGINGS",
-  "tier": "UNCOMMON",
-  "origin": "RIFT",
-  "stats": {
-    "RIFT_TIME": 15
-  },
-  "id": "WYLD_LEGGINGS",
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"LEATHER_LEGGINGS","color":"53,183,59","name":{"text":"Wyld Leggings"},"category":"LEGGINGS","tier":"uncommon","origin":"RIFT","stats":{"RIFT_TIME":15},"id":"WYLD_LEGGINGS","description":[{"extra":[{"color":"gray","text":"Rift Time: "},{"color":"green","text":"+15s"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON LEGGINGS"},{"color":"green","text":""}],"text":""}]}

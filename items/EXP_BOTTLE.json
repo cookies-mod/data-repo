@@ -1,6 +1,1 @@
-{
-  "material": "Experience_bottle",
-  "name": "Experience Bottle",
-  "npc_sell_price": 5,
-  "id": "EXP_BOTTLE"
-}
+{"material":"Experience_bottle","name":{"text":"Experience Bottle"},"npc_sell_price":5,"id":"EXP_BOTTLE","tier":"common","description":[{"color":"gray","text":"Smash it open to receive"},{"color":"gray","text":"experience!"},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

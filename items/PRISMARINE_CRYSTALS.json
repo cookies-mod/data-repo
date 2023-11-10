@@ -1,6 +1,1 @@
-{
-  "material": "PRISMARINE_CRYSTALS",
-  "name": "Prismarine Crystals",
-  "npc_sell_price": 5,
-  "id": "PRISMARINE_CRYSTALS"
-}
+{"material":"PRISMARINE_CRYSTALS","name":{"text":"Prismarine Crystals"},"npc_sell_price":5,"id":"PRISMARINE_CRYSTALS","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

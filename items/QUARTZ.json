@@ -1,6 +1,1 @@
-{
-  "material": "QUARTZ",
-  "name": "Nether Quartz",
-  "npc_sell_price": 4,
-  "id": "QUARTZ"
-}
+{"material":"QUARTZ","name":{"text":"Nether Quartz"},"npc_sell_price":4,"id":"QUARTZ","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

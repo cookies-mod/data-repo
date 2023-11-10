@@ -1,14 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0aW1lc3RhbXAiOjE1NzUzMDE2MDgyNzUsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I1OTAyMDdhZWVhMmQ4ZmM4MDE5NGYyYTEwOWY1YjE5OTljOTFlYmQzNzdkZmYwMWI5ZTdlYmUwOTFhM2E0MTkifX19",
-  "name": "Broken Piggy Bank",
-  "category": "ACCESSORY",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 16000,
-  "id": "BROKEN_PIGGY_BANK",
-  "description": [
-    {"text":"It broke!","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"player_head","skin_url":"https://textures.minecraft.net/texture/b590207aeea2d8fc80194f2a109f5b1999c91ebd377dff01b9e7ebe091a3a419","id":"broken_piggy_bank","tier":"uncommon","name":{"text":"Broken Piggy Bank"},"description":[{"color":"gray","text":"It broke!"},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON ACCESSORY"},{"color":"green","text":""}],"text":""}]}

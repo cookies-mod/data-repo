@@ -1,18 +1,1 @@
-{
-  "material": "STONE_PICKAXE",
-  "name": "Stone Pickaxe",
-  "category": "PICKAXE",
-  "stats": {
-    "BREAKING_POWER": 2,
-    "DAMAGE": 20,
-    "MINING_SPEED": 110
-  },
-  "npc_sell_price": 2,
-  "id": "STONE_PICKAXE",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"STONE_PICKAXE","name":{"text":"Stone Pickaxe"},"category":"PICKAXE","stats":{"BREAKING_POWER":2,"DAMAGE":20,"MINING_SPEED":110},"npc_sell_price":2,"id":"STONE_PICKAXE","can_be_reforged":true,"description":[{"color":"dark_gray","text":"Breaking Power 2"},{"text":""},{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+20"}],"text":""},{"extra":[{"color":"gray","text":"Mining Speed: "},{"color":"green","text":"+110"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON PICKAXE"},{"color":"white","text":""}],"text":""}],"tier":"common"}

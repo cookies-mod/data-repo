@@ -1,6 +1,1 @@
-{
-  "material": "DIAMOND",
-  "name": "Diamond",
-  "npc_sell_price": 8,
-  "id": "DIAMOND"
-}
+{"material":"DIAMOND","name":{"text":"Diamond"},"npc_sell_price":8,"id":"DIAMOND","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

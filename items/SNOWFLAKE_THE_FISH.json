@@ -1,18 +1,1 @@
-{
-  "material": "COOKED_SALMON",
-  "durability": 1,
-  "name": "Flake the Fish",
-  "glowing": true,
-  "tier": "SPECIAL",
-  "museum": true,
-  "id": "SNOWFLAKE_THE_FISH",
-  "description": [
-    {
-      "color": "gray",
-      "text": "I\u0027m a special snowflake"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"COOKED_SALMON","durability":1,"name":{"text":"Flake the Fish"},"glowing":true,"tier":"special","museum":true,"id":"SNOWFLAKE_THE_FISH","description":[{"color":"gray","text":"I'm a special snowflake."},{"text":""},{"extra":[{"bold":true,"color":"red","text":"SPECIAL"},{"color":"red","text":""}],"text":""}]}

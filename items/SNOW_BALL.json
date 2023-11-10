@@ -1,6 +1,1 @@
-{
-  "material": "SNOWBALL",
-  "name": "Snowball",
-  "npc_sell_price": 1,
-  "id": "SNOW_BALL"
-}
+{"material":"SNOWBALL","name":{"text":"Snowball"},"npc_sell_price":1,"id":"SNOW_BALL","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

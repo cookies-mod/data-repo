@@ -1,7 +1,1 @@
-{
-  "material": "BOOK",
-  "name": "Book",
-  "npc_sell_price": 12,
-  "id": "BOOK",
-  "tier": "COMMON"
-}
+{"material":"BOOK","name":{"text":"Book"},"npc_sell_price":12,"id":"BOOK","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

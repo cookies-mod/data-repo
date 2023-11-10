@@ -1,18 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTk4ZGY0MmY0NzdmMjEzZmY1ZTlkN2ZhNWE0Y2M0YTY5ZjIwZDljZWYyYjkwYzRhZTRmMjliZDE3Mjg3YjUifX19",
-  "name": "Piggy Bank",
-  "category": "ACCESSORY",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 16000,
-  "id": "PIGGY_BANK",
-  "description": [
-    {"text": "Saves your coins from death.", "color": "gray"},
-    {"text": "Only when in player inventory or Accessory Bag.", "color": "gray"},
-    {"text": "Fragile!", "color": "red"},
-    {"text": ""},
-    {"text": "Triggers when losing 20k+ coins.", "color": "dark_gray"},
-    {"text": ""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTk4ZGY0MmY0NzdmMjEzZmY1ZTlkN2ZhNWE0Y2M0YTY5ZjIwZDljZWYyYjkwYzRhZTRmMjliZDE3Mjg3YjUifX19","name":{"text":"Piggy Bank"},"category":"ACCESSORY","tier":"uncommon","npc_sell_price":16000,"id":"PIGGY_BANK","description":[{"color":"gray","text":"Saves your coins from death."},{"color":"gray","text":"Only when in player inventory or Accessory Bag."},{"color":"red","text":"Fragile!"},{"text":""},{"color":"dark_gray","text":"Triggers when losing 20k+ coins."},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON ACCESSORY"},{"color":"green","text":""}],"text":""}]}

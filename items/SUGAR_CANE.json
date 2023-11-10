@@ -1,6 +1,1 @@
-{
-  "material": "SUGAR_CANE",
-  "name": "Sugar Cane",
-  "npc_sell_price": 4,
-  "id": "SUGAR_CANE"
-}
+{"material":"SUGAR_CANE","name":{"text":"Sugar Cane"},"npc_sell_price":4,"id":"SUGAR_CANE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

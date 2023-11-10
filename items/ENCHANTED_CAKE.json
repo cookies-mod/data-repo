@@ -1,14 +1,1 @@
-{
-  "material": "CAKE",
-  "name": "Enchanted Cake",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 2700,
-  "id": "ENCHANTED_CAKE",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"CAKE","name":{"text":"Enchanted Cake"},"glowing":true,"tier":"uncommon","npc_sell_price":2700,"id":"ENCHANTED_CAKE","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

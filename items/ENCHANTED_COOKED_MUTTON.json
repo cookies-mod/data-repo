@@ -1,14 +1,1 @@
-{
-  "material": "COOKED_MUTTON",
-  "name": "Enchanted Cooked Mutton",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 128000,
-  "id": "ENCHANTED_COOKED_MUTTON",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"COOKED_MUTTON","name":{"text":"Enchanted Cooked Mutton"},"glowing":true,"tier":"rare","npc_sell_price":128000,"id":"ENCHANTED_COOKED_MUTTON","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

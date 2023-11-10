@@ -1,6 +1,1 @@
-{
-  "material": "ANVIL",
-  "name": "Anvil",
-  "npc_sell_price": 45,
-  "id": "ANVIL"
-}
+{"material":"ANVIL","name":{"text":"Anvil"},"npc_sell_price":45,"id":"ANVIL","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

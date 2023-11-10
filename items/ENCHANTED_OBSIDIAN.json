@@ -1,8 +1,1 @@
-{
-  "material": "OBSIDIAN",
-  "name": "Enchanted Obsidian",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 1440,
-  "id": "ENCHANTED_OBSIDIAN"
-}
+{"material":"OBSIDIAN","name":{"text":"Enchanted Obsidian"},"glowing":true,"tier":"uncommon","npc_sell_price":1440,"id":"ENCHANTED_OBSIDIAN","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

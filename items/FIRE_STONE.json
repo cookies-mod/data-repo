@@ -1,10 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwMTExNTcyNCwKICAicHJvZmlsZUlkIiA6ICJjNTZlMjI0MmNiZWY0MWE2ODdlMzI2MGRjMGNmOTM2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMSlI3MzEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NmU5Yjk2MGRhZDRiMGQzMzBlOWQ4NzY2OTk4NjJlZWQ2YmEzODhkZDVmMzcyMDllYzAwMGFiM2U5Mjc3OTc5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
-  "name": "Firestone",
-  "category": "REFORGE_STONE",
-  "tier": "UNOBTAINABLE",
-  "npc_sell_price": 2000,
-  "id": "FIRE_STONE"
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwMTExNTcyNCwKICAicHJvZmlsZUlkIiA6ICJjNTZlMjI0MmNiZWY0MWE2ODdlMzI2MGRjMGNmOTM2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMSlI3MzEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NmU5Yjk2MGRhZDRiMGQzMzBlOWQ4NzY2OTk4NjJlZWQ2YmEzODhkZDVmMzcyMDllYzAwMGFiM2U5Mjc3OTc5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=","name":{"text":"Firestone"},"category":"REFORGE_STONE","tier":"epic","npc_sell_price":2000,"id":"FIRE_STONE","description":[{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC REFORGE STONE"},{"color":"dark_purple","text":""}],"text":""}]}

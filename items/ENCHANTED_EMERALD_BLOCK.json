@@ -1,9 +1,1 @@
-{
-  "material": "EMERALD_BLOCK",
-  "name": "Enchanted Emerald Block",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 153600,
-  "id": "ENCHANTED_EMERALD_BLOCK",
-  "description": [null]
-}
+{"material":"EMERALD_BLOCK","name":{"text":"Enchanted Emerald Block"},"glowing":true,"tier":"rare","npc_sell_price":153600,"id":"ENCHANTED_EMERALD_BLOCK","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

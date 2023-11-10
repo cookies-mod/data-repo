@@ -1,6 +1,1 @@
-{
-  "material": "stone_brick_stairs",
-  "name": "Stone Brick Stairs",
-  "npc_sell_price": 1,
-  "id": "SMOOTH_STAIRS"
-}
+{"material":"stone_brick_stairs","name":{"text":"Stone Brick Stairs"},"npc_sell_price":1,"id":"SMOOTH_STAIRS","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

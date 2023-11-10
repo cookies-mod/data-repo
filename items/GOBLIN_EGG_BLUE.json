@@ -1,11 +1,1 @@
-{
-  "material": "EGG",
-  "name": "\u00A73Blue Goblin Egg",
-  "tier": "RARE",
-  "id": "GOBLIN_EGG_BLUE",
-  "description": [
-    {"text":"What came first the goblin","color":"gray","italic":true},
-    {"text":"or the egg?","color":"gray","italic":true},
-    {"text":""}
-  ]
-}
+{"material":"EGG","name":{"color":"dark_aqua","text":"Blue Goblin Egg"},"tier":"","id":"GOBLIN_EGG_BLUE","description":[{"extra":[{"italic":true,"color":"gray","text":" What came first the goblin"},{"color":"gray","text":""}],"text":""},{"extra":[{"italic":true,"color":"gray","text":" or the egg?"},{"color":"gray","text":""}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

@@ -1,6 +1,1 @@
-{
-  "material": "POTION",
-  "name": "\u00a7cBottle of Jyrre",
-  "npc_sell_price": 100,
-  "id": "BOTTLE_OF_JYRRE"
-}
+{"material":"POTION","name":{"text":"Bottle of Jyrre"},"npc_sell_price":100,"id":"BOTTLE_OF_JYRRE","tier":"special","description":[{"extra":[{"color":"gray","text":"Provides a boost to your "},{"color":"aqua","text":"✎"}],"text":""},{"extra":[{"color":"aqua","text":"Intelligence"},{"color":"gray","text":"! The longer this"}],"text":""},{"color":"gray","text":"item stays in your inventory,"},{"color":"gray","text":"the more intelligent you will be"},{"color":"gray","text":"after drinking it. Must be kept"},{"color":"gray","text":"in your inventory at all times!"},{"text":""},{"extra":[{"color":"gray","text":"Intelligence Bonus: "},{"color":"aqua","text":"0"}],"text":""},{"extra":[{"color":"gray","text":"Duration: "},{"color":"aqua","text":"10 Minutes"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

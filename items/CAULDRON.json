@@ -1,16 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MDFkOTdmZjc3MzFiZGUwZTAyNTMyODZiOGMyOTM2ZmQ3ZTYzM2YxMzc5MzFhNGJmNDFlNTFlM2Y4YzdkODRlIn19fQ\u003d\u003d",
-  "name": "Cauldron",
-  "furniture": "CAULDRON",
-  "id": "CAULDRON",
-  "description": [
-    {"text": "Halloween Cosmetic", "color": "dark_gray"},
-    {"text": ""},
-    {"text": "This exclusive ", "color": "gray", "extra": [{"text": "Halloween", "color": "gold"}]},
-    {"text": "cosmetic can be placed on your", "color": "gray"},
-    {"text": "island or traded.", "color": "gray"},
-    {"text": ""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MDFkOTdmZjc3MzFiZGUwZTAyNTMyODZiOGMyOTM2ZmQ3ZTYzM2YxMzc5MzFhNGJmNDFlNTFlM2Y4YzdkODRlIn19fQ==","name":{"text":"Cauldron"},"furniture":"CAULDRON","id":"CAULDRON","description":[{"color":"dark_gray","text":"Furniture"},{"color":"dark_gray","text":"Halloween Cosmetic"},{"text":""},{"extra":[{"color":"gray","text":"This exclusive "},{"color":"gold","text":"Halloween"}],"text":""},{"color":"gray","text":"cosmetic can be placed on your"},{"color":"gray","text":"island or traded."},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

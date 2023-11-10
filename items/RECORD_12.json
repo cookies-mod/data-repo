@@ -1,7 +1,1 @@
-{
-  "material": "music_disc_wait",
-  "name": "Music Disc - Wait",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 20,
-  "id": "RECORD_12"
-}
+{"material":"music_disc_wait","name":{"text":"Music Disc - Wait"},"tier":"uncommon","npc_sell_price":20,"id":"RECORD_12","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

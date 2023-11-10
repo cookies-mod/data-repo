@@ -1,6 +1,1 @@
-{
-  "material": "CLAY_BALL",
-  "name": "Clay",
-  "npc_sell_price": 3,
-  "id": "CLAY_BALL"
-}
+{"material":"CLAY_BALL","name":{"text":"Clay"},"npc_sell_price":3,"id":"CLAY_BALL","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

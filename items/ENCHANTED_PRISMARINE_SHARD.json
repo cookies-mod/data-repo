@@ -1,8 +1,1 @@
-{
-  "material": "PRISMARINE_SHARD",
-  "name": "Enchanted Prismarine Shard",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 400,
-  "id": "ENCHANTED_PRISMARINE_SHARD"
-}
+{"material":"PRISMARINE_SHARD","name":{"text":"Enchanted Prismarine Shard"},"glowing":true,"tier":"uncommon","npc_sell_price":400,"id":"ENCHANTED_PRISMARINE_SHARD","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

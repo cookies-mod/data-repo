@@ -1,12 +1,1 @@
-{
-  "material": "poppy",
-  "name": "Ancient Rose",
-  "tier": "RARE",
-  "dungeon_item": true,
-  "id": "GOLEM_POPPY",
-  "description": [
-    {"text":"Ancient plant imbued with","color":"dark_gray","italic":true},
-    {"text":"the unyielding power of truth.","color":"dark_gray","italic":true},
-    {"text":""}
-  ]
-}
+{"material":"poppy","name":{"text":"Ancient Rose"},"tier":"rare","dungeon_item":true,"id":"GOLEM_POPPY","description":[{"extra":[{"italic":true,"color":"dark_gray","text":" Ancient plant imbued with"},{"color":"gray","text":""}],"text":""},{"extra":[{"italic":true,"color":"dark_gray","text":" the unyielding power of truth."},{"color":"dark_gray","text":""}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE DUNGEON ITEM"},{"color":"blue","text":""}],"text":""}]}

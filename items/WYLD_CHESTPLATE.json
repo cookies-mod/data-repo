@@ -1,16 +1,1 @@
-{
-  "material": "CHAINMAIL_CHESTPLATE",
-  "name": "Wyld Chain Top",
-  "category": "CHESTPLATE",
-  "tier": "UNCOMMON",
-  "origin": "RIFT",
-  "stats": {
-    "RIFT_TIME": 15
-  },
-  "id": "WYLD_CHESTPLATE",
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"CHAINMAIL_CHESTPLATE","name":{"text":"Wyld Chain Top"},"category":"CHESTPLATE","tier":"uncommon","origin":"RIFT","stats":{"RIFT_TIME":15},"id":"WYLD_CHESTPLATE","description":[{"extra":[{"color":"gray","text":"Rift Time: "},{"color":"green","text":"+15s"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON CHESTPLATE"},{"color":"green","text":""}],"text":""}]}

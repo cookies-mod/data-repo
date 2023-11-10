@@ -1,7 +1,1 @@
-{
-  "material": "NAME_TAG",
-  "name": "Jacob\u0027s Ticket",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 10000,
-  "id": "JACOBS_TICKET"
-}
+{"material":"NAME_TAG","name":{"text":"Jacob's Ticket"},"tier":"uncommon","npc_sell_price":10000,"id":"JACOBS_TICKET","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

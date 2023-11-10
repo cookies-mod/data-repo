@@ -1,13 +1,1 @@
-{
-  "material": "SLIME_BALL",
-  "name": "Slimeball",
-  "npc_sell_price": 5,
-  "motes_sell_price": 30,
-  "id": "SLIME_BALL",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"SLIME_BALL","name":{"text":"Slimeball"},"npc_sell_price":5,"motes_sell_price":30,"id":"SLIME_BALL","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

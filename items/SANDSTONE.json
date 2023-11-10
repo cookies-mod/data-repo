@@ -1,6 +1,1 @@
-{
-  "material": "SANDSTONE",
-  "name": "Sandstone",
-  "npc_sell_price": 3,
-  "id": "SANDSTONE"
-}
+{"material":"SANDSTONE","name":{"text":"Sandstone"},"npc_sell_price":3,"id":"SANDSTONE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

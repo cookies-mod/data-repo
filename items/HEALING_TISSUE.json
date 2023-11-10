@@ -1,16 +1,1 @@
-{
-  "material": "ROTTEN_FLESH",
-  "name": "Healing Tissue",
-  "tier": "RARE",
-  "dungeon_item": true,
-  "id": "HEALING_TISSUE",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"ROTTEN_FLESH","name":{"text":"Healing Tissue"},"tier":"rare","dungeon_item":true,"id":"HEALING_TISSUE","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE DUNGEON ITEM"},{"color":"blue","text":""}],"text":""}]}

@@ -1,14 +1,1 @@
-{
-  "material": "REDSTONE",
-  "name": "Enchanted Redstone",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 160,
-  "id": "ENCHANTED_REDSTONE",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"REDSTONE","name":{"text":"Enchanted Redstone"},"glowing":true,"tier":"uncommon","npc_sell_price":160,"id":"ENCHANTED_REDSTONE","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

@@ -1,8 +1,1 @@
-{
-  "material": "ITEM_FRAME",
-  "name": "Framed Volcanic Stonefish",
-  "tier": "RARE",
-  "npc_sell_price": 0,
-  "soulbound": "SOLO",
-  "id": "FRAMED_VOLCANIC_STONEFISH"
-}
+{"material":"ITEM_FRAME","name":{"text":"Framed Volcanic Stonefish"},"tier":"rare","npc_sell_price":0,"soulbound":"SOLO","id":"FRAMED_VOLCANIC_STONEFISH","description":[{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Soulbound "},{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

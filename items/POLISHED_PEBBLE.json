@@ -1,7 +1,1 @@
-{
-  "material": "FLINT",
-  "name": "Polished Pebble",
-  "museum": true,
-  "soulbound": "COOP",
-  "id": "POLISHED_PEBBLE"
-}
+{"material":"FLINT","name":{"text":"Polished Pebble"},"museum":true,"soulbound":"COOP","id":"POLISHED_PEBBLE","tier":"common","description":[{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Co-op Soulbound "},{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

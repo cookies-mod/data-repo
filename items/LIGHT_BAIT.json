@@ -1,16 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM2YTlhZGQyNTY0NWJmY2MzNzdjMjVlZjBjMmU5OTAxZDE5NDkzYzNlOTgxZWJjNmJhN2ExYTFiNjQ2NmNlNCJ9fX0\u003d",
-  "name": "Light Bait",
-  "category": "BAIT",
-  "npc_sell_price": 16,
-  "id": "LIGHT_BAIT",
-  "description": [
-    {"text": ""},
-    {"text": "Increases your chance to catch", "color": "gray"},
-    {"text": "rare Sea Creatures during the", "color": "gray"},
-    {"text": "day.", "color": "gray"},
-    {"text": ""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM2YTlhZGQyNTY0NWJmY2MzNzdjMjVlZjBjMmU5OTAxZDE5NDkzYzNlOTgxZWJjNmJhN2ExYTFiNjQ2NmNlNCJ9fX0=","name":{"text":"Light Bait"},"category":"BAIT","npc_sell_price":16,"id":"LIGHT_BAIT","description":[{"color":"dark_gray","text":"Fishing Bait"},{"color":"dark_gray","text":"Consumes on Cast"},{"text":""},{"color":"gray","text":"Increases your chance to catch"},{"color":"gray","text":"rare Sea Creatures during the"},{"color":"gray","text":"day."},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON BAIT"},{"color":"white","text":""}],"text":""}],"tier":"common"}

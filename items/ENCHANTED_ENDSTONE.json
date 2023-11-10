@@ -1,8 +1,1 @@
-{
-  "material": "END_STONE",
-  "name": "Enchanted End Stone",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 320,
-  "id": "ENCHANTED_ENDSTONE"
-}
+{"material":"END_STONE","name":{"text":"Enchanted End Stone"},"glowing":true,"tier":"uncommon","npc_sell_price":320,"id":"ENCHANTED_ENDSTONE","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

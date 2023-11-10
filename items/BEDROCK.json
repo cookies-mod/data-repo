@@ -1,17 +1,1 @@
-{
-  "material": "BEDROCK",
-  "name": "Bedrock",
-  "tier": "LEGENDARY",
-  "npc_sell_price": 1,
-  "description": [
-    {
-      "color": "red",
-      "text": "I guess you have this now."
-    },
-    {
-      "text": ""
-    }
-  ],
-  "museum": true,
-  "id": "BEDROCK"
-}
+{"material":"BEDROCK","name":{"text":"Bedrock"},"tier":"legendary","npc_sell_price":1,"description":[{"color":"red","text":"I guess you have this now."},{"text":""},{"extra":[{"bold":true,"color":"gold","text":"LEGENDARY"},{"color":"gold","text":""}],"text":""}],"museum":true,"id":"BEDROCK"}

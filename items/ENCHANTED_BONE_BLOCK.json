@@ -1,8 +1,1 @@
-{
-  "material": "QUARTZ_BLOCK",
-  "durability": 1,
-  "name": "Enchanted Bone Block",
-  "glowing": true,
-  "tier": "RARE",
-  "id": "ENCHANTED_BONE_BLOCK"
-}
+{"material":"QUARTZ_BLOCK","durability":1,"name":{"text":"Enchanted Bone Block"},"glowing":true,"tier":"rare","id":"ENCHANTED_BONE_BLOCK","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

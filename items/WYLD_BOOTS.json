@@ -1,17 +1,1 @@
-{
-  "material": "LEATHER_BOOTS",
-  "color": "21,73,24",
-  "name": "Wyld Boots",
-  "category": "BOOTS",
-  "tier": "UNCOMMON",
-  "origin": "RIFT",
-  "stats": {
-    "RIFT_TIME": 15
-  },
-  "id": "WYLD_BOOTS",
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"LEATHER_BOOTS","color":"21,73,24","name":{"text":"Wyld Boots"},"category":"BOOTS","tier":"uncommon","origin":"RIFT","stats":{"RIFT_TIME":15},"id":"WYLD_BOOTS","description":[{"extra":[{"color":"gray","text":"Rift Time: "},{"color":"green","text":"+15s"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON BOOTS"},{"color":"green","text":""}],"text":""}]}

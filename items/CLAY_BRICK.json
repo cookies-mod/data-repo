@@ -1,6 +1,1 @@
-{
-  "material": "Brick",
-  "name": "Brick",
-  "npc_sell_price": 2,
-  "id": "CLAY_BRICK"
-}
+{"material":"Brick","name":{"text":"Brick"},"npc_sell_price":2,"id":"CLAY_BRICK","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

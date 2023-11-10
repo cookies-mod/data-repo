@@ -1,8 +1,0 @@
-{
-  "material": "zombie_head",
-  "durability": 2,
-  "name": "Zombie Skull",
-  "tier": "RARE",
-  "npc_sell_price": 20,
-  "id": "SKULL_ITEM:2"
-}

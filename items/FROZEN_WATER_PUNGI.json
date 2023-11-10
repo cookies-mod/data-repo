@@ -1,17 +1,1 @@
-{
-  "material": "SPIDER_EYE",
-  "name": "Frozen Water Pungi",
-  "tier": "EPIC",
-  "origin": "RIFT",
-  "motes_sell_price": 10,
-  "unstackable": true,
-  "id": "FROZEN_WATER_PUNGI",
-  "description": [
-    {"text":""},
-    {"text":"Ability: Snake Taming ","color":"gold","extra":[{"text":"HOLD RIGHT CLICK","color":"yellow","bold":true}]},
-    {"text":"Aim at a ","color":"gray","extra":[{"text":"Living Metal Snake","color":"blue"}]},
-    {"text":"to deeply calm it, allowing","color":"gray"},
-    {"text":"another player ","color":"yellow","extra":[{"text":"to mine it.","color":"gray"}]},
-    {"text":""}
-  ]
-}
+{"material":"SPIDER_EYE","name":{"text":"Frozen Water Pungi"},"tier":"epic","origin":"RIFT","motes_sell_price":10,"unstackable":true,"id":"FROZEN_WATER_PUNGI","description":[{"extra":[{"color":"gold","text":"Ability: Snake Taming "},{"bold":true,"color":"yellow","text":"HOLD RIGHT CLICK"},{"color":"gold","text":""}],"text":""},{"extra":[{"color":"gray","text":"Aim at a "},{"color":"blue","text":"Living Metal Snake"}],"text":""},{"color":"gray","text":"to deeply calm it, allowing"},{"extra":[{"color":"yellow","text":"another player "},{"color":"gray","text":"to mine it."}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

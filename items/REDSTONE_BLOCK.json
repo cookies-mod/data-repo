@@ -1,6 +1,1 @@
-{
-  "material": "REDSTONE_BLOCK",
-  "name": "Block of Redstone",
-  "npc_sell_price": 9,
-  "id": "REDSTONE_BLOCK"
-}
+{"material":"REDSTONE_BLOCK","name":{"text":"Block of Redstone"},"npc_sell_price":9,"id":"REDSTONE_BLOCK","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

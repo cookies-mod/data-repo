@@ -1,16 +1,1 @@
-{
-  "material": "DROPPER",
-  "name": "Compactor",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 640,
-  "id": "COMPACTOR",
-  "description": [
-    {"text":"This item can be used as a","color":"gray"},
-    {"text":"minion upgrade. This will","color":"gray"},
-    {"text":"automatically turn materials","color":"gray"},
-    {"text":"that a minion produces into","color":"gray"},
-    {"text":"their block form.","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"DROPPER","name":{"text":"Compactor"},"glowing":true,"tier":"uncommon","npc_sell_price":640,"id":"COMPACTOR","description":[{"color":"gray","text":"This item can be used as a"},{"color":"gray","text":"minion upgrade. This will"},{"color":"gray","text":"automatically turn materials"},{"color":"gray","text":"that a minion produces into"},{"color":"gray","text":"their block form."},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

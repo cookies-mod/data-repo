@@ -1,6 +1,1 @@
-{
-  "material": "DARK_OAK_STAIRS",
-  "name": "Dark Oak Wood Stairs",
-  "npc_sell_price": 0.5,
-  "id": "DARK_OAK_STAIRS"
-}
+{"material":"DARK_OAK_STAIRS","name":{"text":"Dark Oak Wood Stairs"},"npc_sell_price":0.5,"id":"DARK_OAK_STAIRS","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

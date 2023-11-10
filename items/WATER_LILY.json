@@ -1,6 +1,1 @@
-{
-  "material": "lily_pad",
-  "name": "Lily Pad",
-  "npc_sell_price": 10,
-  "id": "WATER_LILY"
-}
+{"material":"lily_pad","name":{"text":"Lily Pad"},"npc_sell_price":10,"id":"WATER_LILY","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

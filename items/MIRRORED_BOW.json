@@ -1,8 +1,1 @@
-{
-  "material": "BOW",
-  "name": "woB",
-  "category": "BOW",
-  "origin": "RIFT",
-  "id": "MIRRORED_BOW",
-  "can_be_reforged": true
-}
+{"material":"BOW","name":{"color":"white","text":"woB"},"category":"BOW","origin":"RIFT","id":"MIRRORED_BOW","can_be_reforged":true,"tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON BOW"},{"color":"white","text":""}],"text":""}]}

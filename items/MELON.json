@@ -1,6 +1,1 @@
-{
-  "material": "MELON",
-  "name": "Melon",
-  "npc_sell_price": 2,
-  "id": "MELON"
-}
+{"material":"MELON","name":{"text":"Melon"},"npc_sell_price":2,"id":"MELON","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

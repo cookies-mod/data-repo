@@ -1,12 +1,1 @@
-{
-  "material": "OBSIDIAN",
-  "name": "Obsidian",
-  "npc_sell_price": 7,
-  "id": "OBSIDIAN",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"OBSIDIAN","name":{"text":"Obsidian"},"npc_sell_price":7,"id":"OBSIDIAN","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

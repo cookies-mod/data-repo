@@ -1,7 +1,1 @@
-{
-  "material": "music_disc_strad",
-  "name": "Music Disc - Strad",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 20,
-  "id": "RECORD_9"
-}
+{"material":"music_disc_strad","name":{"text":"Music Disc - Strad"},"tier":"uncommon","npc_sell_price":20,"id":"RECORD_9","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

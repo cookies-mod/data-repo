@@ -1,13 +1,1 @@
-{
-  "material": "EXPERIENCE_BOTTLE",
-  "name": "Colossal Experience Bottle",
-  "glowing": true,
-  "tier": "EPIC",
-  "npc_sell_price": 5000,
-  "id": "COLOSSAL_EXP_BOTTLE",
-  "description": [
-    {"text":"Smash it open to receive","color":"gray"},
-    {"text":"experience!","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"EXPERIENCE_BOTTLE","name":{"text":"Colossal Experience Bottle"},"glowing":true,"tier":"epic","npc_sell_price":5000,"id":"COLOSSAL_EXP_BOTTLE","description":[{"color":"gray","text":"Smash it open to receive"},{"color":"gray","text":"experience!"},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

@@ -1,8 +1,1 @@
-{
-  "material": "SLIME_BALL",
-  "name": "llabemilS",
-  "origin": "RIFT",
-  "motes_sell_price": 30,
-  "id": "MIRRORED_SLIME_BALL",
-  "description":[null]
-}
+{"material":"SLIME_BALL","name":{"color":"white","text":"llabemilS"},"origin":"RIFT","motes_sell_price":30,"id":"MIRRORED_SLIME_BALL","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

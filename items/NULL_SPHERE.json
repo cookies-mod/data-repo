@@ -1,16 +1,1 @@
-{
-  "material": "FIREWORK_star",
-  "name": "Null Sphere",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "id": "NULL_SPHERE",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"FIREWORK_star","name":{"text":"Null Sphere"},"glowing":true,"tier":"uncommon","id":"NULL_SPHERE","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

@@ -1,13 +1,1 @@
-{
-  "material": "gray_dye",
-  "durability": 8,
-  "name": "True Essence",
-  "glowing": true,
-  "id": "TRUE_ESSENCE",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"gray_dye","durability":8,"name":{"text":"True Essence"},"glowing":true,"id":"TRUE_ESSENCE","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

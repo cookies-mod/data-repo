@@ -1,16 +1,1 @@
-{
-  "material": "rose_bush",
-  "durability": 4,
-  "name": "\u00a7cRose Bouquet",
-  "description": [
-    {
-      "color": "gray",
-      "text": "Quest item"
-    },
-    {
-      "text": ""
-    }
-  ],
-  "soulbound": "COOP",
-  "id": "ROSE_BOUQUET"
-}
+{"material":"rose_bush","durability":4,"name":{"color":"red","text":"Rose Bouquet"},"description":[{"color":"gray","text":"Quest item"},{"text":""},{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":"Co-op Soulbound "},{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"soulbound":"COOP","id":"ROSE_BOUQUET","tier":""}

@@ -1,6 +1,1 @@
-{
-  "material": "WOODEN_SHOVEL",
-  "name": "Autowand Sleeve",
-  "tier": "UNOBTAINABLE",
-  "id": "AUTOWAND_SLEEVE"
-}
+{"material":"WOODEN_SHOVEL","name":{"text":"Autowand Sleeve"},"tier":"rare","id":"AUTOWAND_SLEEVE","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

@@ -1,11 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2RjYzBlYzk4NzNmNGY4ZDQwN2JhMGEwZjk4M2UyNTc3ODc3NzJlYWY4Nzg0ZTIyNmE2MWM3ZjcyN2FjOWUyNiJ9fX0",
-  "name": "Enchanted Titanium",
-  "glowing": true,
-  "tier": "EPIC",
-  "npc_sell_price": 3200,
-  "id": "ENCHANTED_TITANIUM",
-  "description": [null]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2RjYzBlYzk4NzNmNGY4ZDQwN2JhMGEwZjk4M2UyNTc3ODc3NzJlYWY4Nzg0ZTIyNmE2MWM3ZjcyN2FjOWUyNiJ9fX0","name":{"text":"Enchanted Titanium"},"glowing":true,"tier":"epic","npc_sell_price":3200,"id":"ENCHANTED_TITANIUM","description":[{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

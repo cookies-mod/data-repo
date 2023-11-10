@@ -1,14 +1,1 @@
-{
-  "material": "IRON_INGOT",
-  "name": "Potato War Silver Medal",
-  "tier": "SPECIAL",
-  "museum": true,
-  "id": "POTATO_SILVER_MEDAL",
-  "description": [
-    {"text":" There is no instance of a","color":"light_purple","italic":true},
-    {"text":" nation benefitting from prolonged","color":"light_purple","italic":true},
-    {"text":" warfare.","color":"light_purple","italic":true},
-    {"text":"- Sun Tzu, The Art of War","color":"dark_gray"},
-    {"text":""}
-  ]
-}
+{"material":"IRON_INGOT","name":{"text":"Potato War Silver Medal"},"tier":"special","museum":true,"id":"POTATO_SILVER_MEDAL","description":[{"extra":[{"italic":true,"color":"light_purple","text":" There is no instance of a"},{"color":"gray","text":""}],"text":""},{"extra":[{"italic":true,"color":"light_purple","text":" nation benefitting from prolonged"},{"color":"light_purple","text":""}],"text":""},{"extra":[{"italic":true,"color":"light_purple","text":" warfare."},{"color":"light_purple","text":""}],"text":""},{"color":"dark_gray","text":"- Sun Tzu, The Art of War"},{"text":""},{"extra":[{"bold":true,"color":"red","text":"SPECIAL"},{"color":"red","text":""}],"text":""}]}

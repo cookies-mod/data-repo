@@ -1,12 +1,1 @@
-{
-  "material": "BLAZE_POWDER",
-  "name": "Blaze Powder",
-  "npc_sell_price": 4,
-  "id": "BLAZE_POWDER",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"BLAZE_POWDER","name":{"text":"Blaze Powder"},"npc_sell_price":4,"id":"BLAZE_POWDER","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

@@ -1,6 +1,1 @@
-{
-  "material": "STONE_pressure_PLATE",
-  "name": "Stone Pressure Plate",
-  "npc_sell_price": 2,
-  "id": "STONE_PLATE"
-}
+{"material":"STONE_pressure_PLATE","name":{"text":"Stone Pressure Plate"},"npc_sell_price":2,"id":"STONE_PLATE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

@@ -1,6 +1,1 @@
-{
-  "material": "REDSTONE_LAMP",
-  "name": "Redstone Lamp",
-  "npc_sell_price": 6,
-  "id": "REDSTONE_LAMP_OFF"
-}
+{"material":"REDSTONE_LAMP","name":{"text":"Redstone Lamp"},"npc_sell_price":6,"id":"REDSTONE_LAMP_OFF","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

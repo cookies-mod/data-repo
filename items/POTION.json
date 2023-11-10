@@ -1,6 +1,1 @@
-{
-  "material": "POTION",
-  "name": "Water Bottle",
-  "npc_sell_price": 2,
-  "id": "POTION"
-}
+{"material":"POTION","name":{"text":"Water Bottle"},"npc_sell_price":2,"id":"POTION","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

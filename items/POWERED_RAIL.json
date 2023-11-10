@@ -1,7 +1,1 @@
-{
-  "material": "POWERED_RAIL",
-  "name": "Powered Rail",
-  "npc_sell_price": 3,
-  "id": "POWERED_RAIL",
-  "description":[null]
-}
+{"material":"POWERED_RAIL","name":{"text":"Powered Rail"},"npc_sell_price":3,"id":"POWERED_RAIL","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

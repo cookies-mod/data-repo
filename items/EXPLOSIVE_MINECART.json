@@ -1,6 +1,1 @@
-{
-  "material": "tnt_minecart",
-  "name": "Minecart with TNT",
-  "npc_sell_price": 22,
-  "id": "EXPLOSIVE_MINECART"
-}
+{"material":"tnt_minecart","name":{"text":"Minecart with TNT"},"npc_sell_price":22,"id":"EXPLOSIVE_MINECART","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

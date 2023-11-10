@@ -1,13 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODY5ZjRmMWE0MzQ2ZDA0YzllOTY2ZDRmZTU2ZDc3M2YyZmE2MmU0Nzg0YTRjMjg1MzczOGE5ZjJmNWNkMjY5In19fQ\u003d\u003d",
-  "name": "Lime Lamp",
-  "npc_sell_price": 500,
-  "id": "LAMP_LIME",
-  "description": [
-    {"text":"Decorate your island with this","color":"gray"},
-    {"text":"eco-friendly lamp!","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODY5ZjRmMWE0MzQ2ZDA0YzllOTY2ZDRmZTU2ZDc3M2YyZmE2MmU0Nzg0YTRjMjg1MzczOGE5ZjJmNWNkMjY5In19fQ==","name":{"text":"Lime Lamp"},"npc_sell_price":500,"id":"LAMP_LIME","description":[{"color":"gray","text":"Decorate your island with this"},{"color":"gray","text":"eco-friendly lamp!"},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

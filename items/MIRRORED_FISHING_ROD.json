@@ -1,7 +1,1 @@
-{
-  "material": "FISHING_ROD",
-  "name": "doR gnihsiF",
-  "origin": "RIFT",
-  "motes_sell_price": 30,
-  "id": "MIRRORED_FISHING_ROD"
-}
+{"material":"FISHING_ROD","name":{"extra":[{"color":"white","text":"doR "},{"color":"white","text":"gnihsiF"}],"text":""},"origin":"RIFT","motes_sell_price":30,"id":"MIRRORED_FISHING_ROD","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

@@ -1,6 +1,1 @@
-{
-  "material": "ROTTEN_FLESH",
-  "name": "Worm Membrane",
-  "tier": "UNCOMMON",
-  "id": "WORM_MEMBRANE"
-}
+{"material":"ROTTEN_FLESH","name":{"text":"Worm Membrane"},"tier":"uncommon","id":"WORM_MEMBRANE","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

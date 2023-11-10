@@ -1,6 +1,1 @@
-{
-  "material": "GOLDEN_CARROT",
-  "name": "Golden Carrot",
-  "npc_sell_price": 4,
-  "id": "GOLDEN_CARROT"
-}
+{"material":"GOLDEN_CARROT","name":{"text":"Golden Carrot"},"npc_sell_price":4,"id":"GOLDEN_CARROT","tier":"common","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

@@ -1,14 +1,1 @@
-{
-  "material": "REDSTONE_BLOCK",
-  "name": "Enchanted Redstone Block",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 25600,
-  "id": "ENCHANTED_REDSTONE_BLOCK",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"REDSTONE_BLOCK","name":{"text":"Enchanted Redstone Block"},"glowing":true,"tier":"rare","npc_sell_price":25600,"id":"ENCHANTED_REDSTONE_BLOCK","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

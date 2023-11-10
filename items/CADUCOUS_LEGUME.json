@@ -1,17 +1,1 @@
-{
-  "material": "SUGAR_CANE",
-  "name": "Caducous Legume",
-  "tier": "UNCOMMON",
-  "glowing": true,
-  "origin": "RIFT",
-  "item_specific": {
-    "rift_time_gain": 90
-  },
-  "id": "CADUCOUS_LEGUME",
-  "description": [
-    {"text":"Consume to gain ","color":"gray","extra":[ {"text":"+90\u0444 Rift Time","color":"green"},{"text":"."}]},
-    {"text":"May only be used once per visit in the ","color":"gray","extra":[{"text":"Rift","color":"light_purple"},{"text":"."}]},
-    {"text":"Consumed automatically when joining!","color":"green"},
-    {"text":""}
-  ]
-}
+{"material":"SUGAR_CANE","name":{"text":"Caducous Legume"},"tier":"uncommon","glowing":true,"origin":"RIFT","item_specific":{"rift_time_gain":90},"id":"CADUCOUS_LEGUME","description":[{"extra":[{"color":"gray","text":"Consume to gain "},{"color":"green","text":"+90ф Rift Time"},{"color":"gray","text":"."}],"text":""},{"extra":[{"color":"gray","text":"May only be used once per visit in the "},{"color":"light_purple","text":"Rift"},{"color":"gray","text":"."}],"text":""},{"color":"green","text":"Consumed automatically when joining!"},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

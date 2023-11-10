@@ -1,8 +1,1 @@
-{
-  "material": "QUARTZ",
-  "name": "Enchanted Quartz",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 640,
-  "id": "ENCHANTED_QUARTZ"
-}
+{"material":"QUARTZ","name":{"text":"Enchanted Quartz"},"glowing":true,"tier":"uncommon","npc_sell_price":640,"id":"ENCHANTED_QUARTZ","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

@@ -1,16 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YzNlOGMxOTRjOWYxNGZkOThjMjM0N2E0Y2M0ZmNjM2Q3NTVkOTQ4YmRjNThlNDI5MjZkOWQ2ZjQ1YjYyMGE1In19fQ\u003d\u003d",
-  "name": "Desk",
-  "furniture": "DESK",
-  "id": "DESK",
-  "description": [
-    {"text":""},
-    {"text":"Furniture can be placed on your","color":"gray"},
-    {"text":"world. Some furniture is","color":"gray"},
-    {"text":"interactable while some are","color":"gray"},
-    {"text":"purely cosmetic.","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0aW1lc3RhbXAiOjAsInByb2ZpbGVJZCI6ImRiYTJmMTE1NmNjMjQwMWJhOWU5YjRkMjdmN2M4OTdkIiwicHJvZmlsZU5hbWUiOiJjb2RlbmFtZV9CIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YzNlOGMxOTRjOWYxNGZkOThjMjM0N2E0Y2M0ZmNjM2Q3NTVkOTQ4YmRjNThlNDI5MjZkOWQ2ZjQ1YjYyMGE1In19fQ==","name":{"text":"Desk"},"furniture":"DESK","id":"DESK","description":[{"color":"dark_gray","text":"Furniture"},{"text":""},{"color":"gray","text":"Furniture can be placed on your"},{"color":"gray","text":"world. Some furniture is"},{"color":"gray","text":"interactable while some are"},{"color":"gray","text":"purely cosmetic."},{"text":""},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

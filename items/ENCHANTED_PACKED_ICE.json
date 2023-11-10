@@ -1,8 +1,1 @@
-{
-  "material": "PACKED_ICE",
-  "name": "Enchanted Packed Ice",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 12800,
-  "id": "ENCHANTED_PACKED_ICE"
-}
+{"material":"PACKED_ICE","name":{"text":"Enchanted Packed Ice"},"glowing":true,"tier":"rare","npc_sell_price":12800,"id":"ENCHANTED_PACKED_ICE","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

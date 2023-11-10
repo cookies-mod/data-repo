@@ -1,6 +1,1 @@
-{
-  "material": "PACKED_ICE",
-  "name": "Packed Ice",
-  "npc_sell_price": 4.5,
-  "id": "PACKED_ICE"
-}
+{"material":"PACKED_ICE","name":{"text":"Packed Ice"},"npc_sell_price":4.5,"id":"PACKED_ICE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

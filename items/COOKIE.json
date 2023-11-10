@@ -1,6 +1,1 @@
-{
-  "material": "COOKIE",
-  "name": "Cookie",
-  "npc_sell_price": 0.3,
-  "id": "COOKIE"
-}
+{"material":"COOKIE","name":{"text":"Cookie"},"npc_sell_price":0.3,"id":"COOKIE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

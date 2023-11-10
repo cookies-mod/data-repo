@@ -1,6 +1,1 @@
-{
-  "material": "COOKED_RABBIT",
-  "name": "Cooked Rabbit",
-  "npc_sell_price": 4,
-  "id": "COOKED_RABBIT"
-}
+{"material":"COOKED_RABBIT","name":{"text":"Cooked Rabbit"},"npc_sell_price":4,"id":"COOKED_RABBIT","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

@@ -1,6 +1,1 @@
-{
-  "material": "JUNGLE_FENCE_GATE",
-  "name": "Jungle Fence Gate",
-  "npc_sell_price": 1,
-  "id": "JUNGLE_FENCE_GATE"
-}
+{"material":"JUNGLE_FENCE_GATE","name":{"text":"Jungle Fence Gate"},"npc_sell_price":1,"id":"JUNGLE_FENCE_GATE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

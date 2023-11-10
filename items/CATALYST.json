@@ -1,14 +1,1 @@
-{
-  "material": "NETHER_STAR",
-  "name": "Catalyst",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 500,
-  "id": "CATALYST",
-  "description": [
-    {"text":"Increases the number of","color":"gray"},
-    {"text":"resources created by this minion","color":"gray"},
-    {"text":"by ","color":"gray","extra":[{"text":"x3","color":"green"},{"text":" for 3 hours","color":"gray"},{"text":"!","color":"gray"}]},
-    {"text":""}
-  ]
-}
+{"material":"NETHER_STAR","name":{"text":"Catalyst"},"glowing":true,"tier":"rare","npc_sell_price":500,"id":"CATALYST","description":[{"color":"gray","text":"Increases the number of"},{"color":"gray","text":"resources created by this minion"},{"extra":[{"color":"gray","text":"by "},{"color":"green","text":"x3"},{"color":"gray","text":" for 3 hours"},{"color":"gray","text":"!"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

@@ -1,17 +1,1 @@
-{
-  "material": "repeater",
-  "name": "Talbot\u0027s Theodolite",
-  "tier": "RARE",
-  "npc_sell_price": 10,
-  "unstackable": true,
-  "id": "TALBOTS_THEODOLITE",
-  "description": [
-    {"text":"Ability: Track ","color":"gold","extra":[{"text":"RIGHT CLICK","color":"yellow","bold":true}]},
-    {"text":"Indicates the approximate height","color":"gray"},
-    {"text":"difference and angle between you","color":"gray"},
-    {"text":"and your tracked mob.","color":"gray"},
-    {"text":"Mana Cost: ","color":"dark_gray","extra":[{"text":"100","color":"dark_aqua"}]},
-    {"text":"Cooldown: ","color":"dark_gray","extra":[{"text":"10s","color":"green"}]},
-    {"text":""}
-  ]
-}
+{"material":"repeater","name":{"text":"Talbot's Theodolite"},"tier":"rare","npc_sell_price":10,"unstackable":true,"id":"TALBOTS_THEODOLITE","description":[{"extra":[{"color":"gold","text":"Ability: Track "},{"bold":true,"color":"yellow","text":"RIGHT CLICK"},{"color":"gold","text":""}],"text":""},{"color":"gray","text":"Indicates the approximate height"},{"color":"gray","text":"difference and angle between you"},{"color":"gray","text":"and your tracked mob."},{"extra":[{"color":"dark_gray","text":"Mana Cost: "},{"color":"dark_aqua","text":"100"}],"text":""},{"extra":[{"color":"dark_gray","text":"Cooldown: "},{"color":"green","text":"10s"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

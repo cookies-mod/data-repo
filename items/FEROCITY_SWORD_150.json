@@ -1,13 +1,1 @@
-{
-  "material": "GOLDEN_SWORD",
-  "name": "Ferocity Sword 150",
-  "category": "SWORD",
-  "tier": "ADMIN",
-  "stats": {
-    "DAMAGE": 10,
-    "FEROCITY": 150
-  },
-  "id": "FEROCITY_SWORD_150",
-  "can_be_reforged": true,
-  "soulbound": "SOLO"
-}
+{"material":"GOLDEN_SWORD","name":{"color":"dark_red","text":"Ferocity Sword 150"},"category":"SWORD","tier":"","stats":{"DAMAGE":10,"FEROCITY":150},"id":"FEROCITY_SWORD_150","can_be_reforged":true,"soulbound":"SOLO","description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+10"}],"text":""},{"extra":[{"color":"gray","text":"Ferocity: "},{"color":"green","text":"+150"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"dark_gray","text":"* "},{"color":"dark_gray","text":" Soulbound "},{"bold":true,"color":"dark_gray","text":"*"},{"color":"dark_gray","text":""}],"text":""},{"extra":[{"bold":true,"color":"dark_red","text":"ADMIN SWORD"},{"color":"dark_red","text":""}],"text":""}]}

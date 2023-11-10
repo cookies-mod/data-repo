@@ -1,7 +1,1 @@
-{
-  "material": "oak_planks",
-  "name": "knalP dooW kaO",
-  "origin": "RIFT",
-  "motes_sell_price": 30,
-  "id": "MIRRORED_WOOD"
-}
+{"material":"oak_planks","name":{"extra":[{"color":"white","text":"knalP "},{"color":"white","text":"dooW "},{"color":"white","text":"kaO"}],"text":""},"origin":"RIFT","motes_sell_price":30,"id":"MIRRORED_WOOD","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

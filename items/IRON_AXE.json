@@ -1,16 +1,1 @@
-{
-  "material": "IRON_AXE",
-  "name": "Iron Axe",
-  "category": "AXE",
-  "stats": {
-    "DAMAGE": 25
-  },
-  "npc_sell_price": 4,
-  "id": "IRON_AXE",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"IRON_AXE","name":{"text":"Iron Axe"},"category":"AXE","stats":{"DAMAGE":25},"npc_sell_price":4,"id":"IRON_AXE","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Damage: "},{"color":"red","text":"+25"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON AXE"},{"color":"white","text":""}],"text":""}],"tier":"common"}

@@ -1,14 +1,1 @@
-{
-  "material": "SUGAR",
-  "name": "Enchanted Sugar",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 640,
-  "id": "ENCHANTED_SUGAR",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"SUGAR","name":{"text":"Enchanted Sugar"},"glowing":true,"tier":"uncommon","npc_sell_price":640,"id":"ENCHANTED_SUGAR","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

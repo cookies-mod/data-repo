@@ -1,8 +1,1 @@
-{
-  "material": "CARROT_ON_A_STICK",
-  "name": "Enchanted Carrot on a Stick",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 10240,
-  "id": "ENCHANTED_CARROT_STICK"
-}
+{"material":"CARROT_ON_A_STICK","name":{"text":"Enchanted Carrot on a Stick"},"glowing":true,"tier":"uncommon","npc_sell_price":10240,"id":"ENCHANTED_CARROT_STICK","description":[{"color":"gray","text":"Increases the speed of the"},{"color":"gray","text":"creature you are riding when"},{"color":"gray","text":"holding."},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

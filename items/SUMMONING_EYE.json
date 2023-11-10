@@ -1,15 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFhOGZjOGRlNjQxN2I0OGQ0OGM4MGI0NDNjZjUzMjZlM2Q5ZGE0ZGJlOWIyNWZjZDQ5NTQ5ZDk2MTY4ZmMwIn19fQ\u003d\u003d",
-  "name": "Summoning Eye",
-  "tier": "EPIC",
-  "museum": true,
-  "id": "SUMMONING_EYE",
-  "description": [
-    {"text":"Use this at the ","color":"gray","extra":[{"text":"Ender Altar","color":"dark_purple"}]},
-    {"text":"in the ","color":"gray","extra":[{"text":"Dragon's Nest ","color":"dark_purple"},{"text":"to","color":"gray"}]},
-    {"text":"summon Ender Dragons!","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFhOGZjOGRlNjQxN2I0OGQ0OGM4MGI0NDNjZjUzMjZlM2Q5ZGE0ZGJlOWIyNWZjZDQ5NTQ5ZDk2MTY4ZmMwIn19fQ==","name":{"text":"Summoning Eye"},"tier":"epic","museum":true,"id":"SUMMONING_EYE","description":[{"extra":[{"color":"gray","text":"Use this at the "},{"color":"dark_purple","text":"Ender Altar"}],"text":""},{"extra":[{"color":"gray","text":"in the "},{"color":"dark_purple","text":"Dragon's Nest "},{"color":"gray","text":"to"}],"text":""},{"color":"gray","text":"summon Ender Dragons!"},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

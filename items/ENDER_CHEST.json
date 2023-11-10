@@ -1,6 +1,1 @@
-{
-  "material": "ENDER_CHEST",
-  "name": "Ender Chest",
-  "npc_sell_price": 55,
-  "id": "ENDER_CHEST"
-}
+{"material":"ENDER_CHEST","name":{"text":"Ender Chest+"},"npc_sell_price":55,"id":"ENDER_CHEST","tier":"rare","description":[{"color":"dark_gray","text":"Furniture"},{"color":"dark_gray","text":"Storage"},{"text":""},{"color":"gray","text":"You can store three pages of"},{"color":"gray","text":"items in this chest"},{"text":""},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

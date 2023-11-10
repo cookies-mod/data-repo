@@ -1,8 +1,1 @@
-{
-  "material": "wheat_SEEDS",
-  "name": "Enchanted Seeds",
-  "tier": "UNCOMMON",
-  "glowing": true,
-  "npc_sell_price": 480,
-  "id": "ENCHANTED_SEEDS"
-}
+{"material":"wheat_SEEDS","name":{"text":"Enchanted Seeds"},"tier":"uncommon","glowing":true,"npc_sell_price":480,"id":"ENCHANTED_SEEDS","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

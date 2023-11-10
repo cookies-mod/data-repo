@@ -1,18 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY3OTY3MDI2MTE4MiwKICAicHJvZmlsZUlkIiA6ICIwOTZkYWUzZWY1MmU0YWU4ODk3ODY2N2EyOGIwZWFhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPb29rYXl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM5YTljZTcwZGMxNjNmM2YwNjlmYzg5NTg2MDIzNGNjOTM3MWVkNjkzY2JmYTZlMGViNGI0OGE5ZmU1ODhjMTkiCiAgICB9CiAgfQp9",
-  "name": "Lush Artifact",
-  "category": "ACCESSORY",
-  "tier": "EPIC",
-  "stats": {
-    "health": 5,
-    "health_regeneration": 1
-  },
-  "id": "LUSH_ARTIFACT",
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTY3OTY3MDI2MTE4MiwKICAicHJvZmlsZUlkIiA6ICIwOTZkYWUzZWY1MmU0YWU4ODk3ODY2N2EyOGIwZWFhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPb29rYXl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM5YTljZTcwZGMxNjNmM2YwNjlmYzg5NTg2MDIzNGNjOTM3MWVkNjkzY2JmYTZlMGViNGI0OGE5ZmU1ODhjMTkiCiAgICB9CiAgfQp9","name":{"text":"Lush Artifact"},"category":"ACCESSORY","tier":"epic","stats":{"health":5,"health_regeneration":1},"id":"LUSH_ARTIFACT","description":[{"extra":[{"color":"gray","text":"Health: "},{"color":"green","text":"+5"}],"text":""},{"extra":[{"color":"gray","text":"Health Regen: "},{"color":"green","text":"+1"}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC ACCESSORY"},{"color":"dark_purple","text":""}],"text":""}]}

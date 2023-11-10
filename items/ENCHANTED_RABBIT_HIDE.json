@@ -1,8 +1,1 @@
-{
-  "material": "RABBIT_HIDE",
-  "name": "Enchanted Rabbit Hide",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 2880,
-  "id": "ENCHANTED_RABBIT_HIDE"
-}
+{"material":"RABBIT_HIDE","name":{"text":"Enchanted Rabbit Hide"},"glowing":true,"tier":"rare","npc_sell_price":2880,"id":"ENCHANTED_RABBIT_HIDE","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

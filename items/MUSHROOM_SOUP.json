@@ -1,6 +1,1 @@
-{
-  "material": "MUSHROOM_STEW",
-  "name": "Mushroom Soup",
-  "npc_sell_price": 5,
-  "id": "MUSHROOM_SOUP"
-}
+{"material":"MUSHROOM_STEW","name":{"text":"Mushroom Soup"},"npc_sell_price":5,"id":"MUSHROOM_SOUP","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

@@ -1,8 +1,1 @@
-{
-  "material": "COBBLESTONE",
-  "name": "Enchanted Cobblestone",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 160,
-  "id": "ENCHANTED_COBBLESTONE"
-}
+{"material":"COBBLESTONE","name":{"text":"Enchanted Cobblestone"},"glowing":true,"tier":"uncommon","npc_sell_price":160,"id":"ENCHANTED_COBBLESTONE","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

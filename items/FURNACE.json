@@ -1,6 +1,1 @@
-{
-  "material": "FURNACE",
-  "name": "Furnace",
-  "npc_sell_price": 8,
-  "id": "FURNACE"
-}
+{"material":"FURNACE","name":{"text":"Furnace"},"npc_sell_price":8,"id":"FURNACE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

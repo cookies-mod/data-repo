@@ -1,6 +1,1 @@
-{
-  "material": "DROPPER",
-  "name": "Dropper",
-  "npc_sell_price": 4,
-  "id": "DROPPER"
-}
+{"material":"DROPPER","name":{"text":"Dropper"},"npc_sell_price":4,"id":"DROPPER","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

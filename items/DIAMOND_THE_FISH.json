@@ -1,10 +1,1 @@
-{
-  "material": "cooked_cod",
-  "durability": 1,
-  "name": "Diamond the Fish",
-  "glowing": true,
-  "tier": "SPECIAL",
-  "description": [{"text":"Shines bright like a fish","italic":true,"color":"gray"},{"text":""}],
-  "museum": true,
-  "id": "DIAMOND_THE_FISH"
-}
+{"material":"cooked_cod","durability":1,"name":{"text":"Diamond the Fish"},"glowing":true,"tier":"special","description":[{"extra":[{"italic":true,"color":"gray","text":" Shines bright like a fish"},{"color":"gray","text":""}],"text":""},{"text":""},{"extra":[{"bold":true,"color":"red","text":"SPECIAL"},{"color":"red","text":""}],"text":""}],"museum":true,"id":"DIAMOND_THE_FISH"}

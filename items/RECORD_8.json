@@ -1,15 +1,1 @@
-{
-  "material": "music_disc_stal",
-  "name": "Music Disc - Stal",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 20,
-  "id": "RECORD_8",
-  "description": [
-    {"text":"Place this inside a jukebox to","color":"gray"},
-    {"text":"play a dungeon song!", "color": "gray"},
-    {"text":""},
-    {"text":"Dungeon Drama", "color": "gold"},
-    {"text":"  By ShinkoNet", "color": "gray"},
-    {"text":""}
-  ]
-}
+{"material":"music_disc_stal","name":{"text":"Music Disc - Stal"},"tier":"uncommon","npc_sell_price":20,"id":"RECORD_8","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

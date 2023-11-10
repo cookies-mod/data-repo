@@ -1,13 +1,1 @@
-{
-  "material": "SEA_LANTERN",
-  "name": "Sea Lantern Hat",
-  "category": "HELMET",
-  "tier": "UNCOMMON",
-  "id": "SEA_LANTERN_HAT",
-  "can_be_reforged": true,
-  "description": [
-    {"text":"Breathe ","color":"gray","extra":[{"text":"5x ","color":"green"},{"text":"as long"}]},
-    {"text":"underwater when wearing!","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"SEA_LANTERN","name":{"text":"Sea Lantern Hat"},"category":"HELMET","tier":"uncommon","id":"SEA_LANTERN_HAT","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Breathe "},{"color":"green","text":"5x "},{"color":"gray","text":"as long"}],"text":""},{"color":"gray","text":"underwater when wearing!"},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON HELMET"},{"color":"green","text":""}],"text":""}]}

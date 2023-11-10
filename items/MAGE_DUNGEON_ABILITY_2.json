@@ -1,9 +1,0 @@
-{
-  "material": "PRISMARINE_SHARD",
-  "name": "Guided Sheep",
-  "glowing": true,
-  "tier": "UNOBTAINABLE",
-  "npc_sell_price": 1,
-  "dungeon_item": true,
-  "id": "MAGE_DUNGEON_ABILITY_2"
-}

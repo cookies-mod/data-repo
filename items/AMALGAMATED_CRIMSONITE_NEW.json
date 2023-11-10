@@ -1,17 +1,1 @@
-{
-  "material": "spider_spawn_egg",
-  "durability": 52,
-  "name": "Amalgamated Crimsonite",
-  "tier": "RARE",
-  "glowing": true,
-  "id": "AMALGAMATED_CRIMSONITE_NEW",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"spider_spawn_egg","durability":52,"name":{"text":"Amalgamated Crimsonite"},"tier":"rare","glowing":true,"id":"AMALGAMATED_CRIMSONITE_NEW","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

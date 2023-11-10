@@ -1,14 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0aW1lc3RhbXAiOjE1NjgyMjIyODAwNzAsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRkMDViYWE1ZGRhYTcwYmY0NTJmNTM1NDQ3MTFjYTUxMTZiOGFiYmQ2MjE4YjllMWFlZDk0YjFlNmIwOTQwMjIifX19",
-  "name": "Large Backpack",
-  "tier": "EPIC",
-  "id": "LARGE_BACKPACK",
-  "description": [
-    {"text":"A bag with ","color":"gray", "extra":[{"text":"27 ", "color":"green"},{"text":"slots which"}]},
-    {"text":"can be placed in your Storage","color":"gray"},
-    {"text":"Menu to store additional items.","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"player_head","durability":3,"skin":"eyJ0aW1lc3RhbXAiOjE1NjgyMjIyODAwNzAsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRkMDViYWE1ZGRhYTcwYmY0NTJmNTM1NDQ3MTFjYTUxMTZiOGFiYmQ2MjE4YjllMWFlZDk0YjFlNmIwOTQwMjIifX19","name":{"text":"Large Backpack"},"tier":"epic","id":"LARGE_BACKPACK","description":[{"extra":[{"color":"gray","text":"A bag with "},{"color":"green","text":"27"},{"color":"gray","text":" slots which"}],"text":""},{"color":"gray","text":"can be placed in your Storage"},{"color":"gray","text":"Menu to store additional items."},{"text":""},{"extra":[{"bold":true,"color":"dark_purple","text":"EPIC"},{"color":"dark_purple","text":""}],"text":""}]}

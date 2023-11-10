@@ -1,8 +1,1 @@
-{
-  "material": "STICK",
-  "name": "Bejeweled Handle",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 100,
-  "id": "BEJEWELED_HANDLE"
-}
+{"material":"STICK","name":{"text":"Bejeweled Handle"},"glowing":true,"tier":"rare","npc_sell_price":100,"id":"BEJEWELED_HANDLE","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

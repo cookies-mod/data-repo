@@ -1,6 +1,1 @@
-{
-  "material": "MAGMA_CREAM",
-  "name": "Magma Core",
-  "tier": "RARE",
-  "id": "MAGMA_CORE"
-}
+{"material":"MAGMA_CREAM","name":{"text":"Magma Core"},"tier":"rare","id":"MAGMA_CORE","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

@@ -1,16 +1,1 @@
-{
-  "material": "BLAZE_POWDER",
-  "name": "Molten Powder",
-  "tier": "RARE",
-  "glowing": true,
-  "id": "MOLTEN_POWDER",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"BLAZE_POWDER","name":{"text":"Molten Powder"},"tier":"rare","glowing":true,"id":"MOLTEN_POWDER","description":[{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

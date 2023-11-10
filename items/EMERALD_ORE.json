@@ -1,7 +1,1 @@
-{
-  "material": "EMERALD_ORE",
-  "name": "Emerald Ore",
-  "tier": "UNCOMMON",
-  "npc_sell_price": 8,
-  "id": "EMERALD_ORE"
-}
+{"material":"EMERALD_ORE","name":{"text":"Emerald Ore"},"tier":"uncommon","npc_sell_price":8,"id":"EMERALD_ORE","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

@@ -1,6 +1,1 @@
-{
-  "material": "SPONGE",
-  "name": "Sponge",
-  "npc_sell_price": 50,
-  "id": "SPONGE"
-}
+{"material":"SPONGE","name":{"text":"Sponge"},"npc_sell_price":50,"id":"SPONGE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

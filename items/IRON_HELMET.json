@@ -1,16 +1,1 @@
-{
-  "material": "IRON_HELMET",
-  "name": "Iron Helmet",
-  "category": "HELMET",
-  "stats": {
-    "DEFENSE": 10
-  },
-  "npc_sell_price": 7,
-  "id": "IRON_HELMET",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"IRON_HELMET","name":{"text":"Iron Helmet"},"category":"HELMET","stats":{"DEFENSE":10},"npc_sell_price":7,"id":"IRON_HELMET","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+10"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON HELMET"},{"color":"white","text":""}],"text":""}],"tier":"common"}

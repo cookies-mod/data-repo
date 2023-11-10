@@ -1,6 +1,1 @@
-{
-  "material": "RED_SANDSTONE_STAIRS",
-  "name": "Red Sandstone Stairs",
-  "npc_sell_price": 2,
-  "id": "RED_SANDSTONE_STAIRS"
-}
+{"material":"RED_SANDSTONE_STAIRS","name":{"text":"Red Sandstone Stairs"},"npc_sell_price":2,"id":"RED_SANDSTONE_STAIRS","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

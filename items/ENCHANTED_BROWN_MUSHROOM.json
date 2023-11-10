@@ -1,8 +1,1 @@
-{
-  "material": "BROWN_MUSHROOM",
-  "name": "Enchanted Brown Mushroom",
-  "glowing": true,
-  "npc_sell_price": 1600,
-  "tier": "UNCOMMON",
-  "id": "ENCHANTED_BROWN_MUSHROOM"
-}
+{"material":"BROWN_MUSHROOM","name":{"text":"Enchanted Brown Mushroom"},"glowing":true,"npc_sell_price":1600,"tier":"uncommon","id":"ENCHANTED_BROWN_MUSHROOM","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

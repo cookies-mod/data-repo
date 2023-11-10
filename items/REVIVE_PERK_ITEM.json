@@ -1,9 +1,0 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGRmYWRhNjdjYjI2MTQxMGEyNDg5MGVjNzRkMWNiNjA1NTE3ZGYxNDY5YzE5YmRjNWZlM2FhNDQ4ODc3YzYyMSJ9fX0\u003d",
-  "name": "Revive Dead",
-  "glowing": true,
-  "tier": "UNOBTAINABLE",
-  "id": "REVIVE_PERK_ITEM"
-}

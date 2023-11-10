@@ -1,17 +1,1 @@
-{
-  "material": "DIAMOND",
-  "name": "Scythe Blade",
-  "glowing": true,
-  "tier": "LEGENDARY",
-  "unstackable": true,
-  "id": "SCYTHE_BLADE",
-  "description": [
-    {
-      "color": "yellow",
-      "text": "Right-click to view recipes!"
-    },
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"DIAMOND","name":{"text":"Scythe Blade"},"glowing":true,"tier":"legendary","unstackable":true,"id":"SCYTHE_BLADE","description":[{"extra":[{"bold":true,"color":"gold","text":"LEGENDARY"},{"color":"gold","text":""}],"text":""}]}

@@ -1,14 +1,1 @@
-{
-  "material": "SUGAR_CANE",
-  "name": "Enchanted Sugar Cane",
-  "glowing": true,
-  "tier": "RARE",
-  "npc_sell_price": 102400,
-  "id": "ENCHANTED_SUGAR_CANE",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"SUGAR_CANE","name":{"text":"Enchanted Sugar Cane"},"glowing":true,"tier":"rare","npc_sell_price":102400,"id":"ENCHANTED_SUGAR_CANE","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"blue","text":"RARE"},{"color":"blue","text":""}],"text":""}]}

@@ -1,12 +1,1 @@
-{
-  "material": "GHAST_TEAR",
-  "name": "Ghast Tear",
-  "npc_sell_price": 16,
-  "id": "GHAST_TEAR",
-  "description": [
-    {
-      "color": "dark_gray",
-      "text": "Brewing Ingredient"
-    }
-  ]
-}
+{"material":"GHAST_TEAR","name":{"text":"Ghast Tear"},"npc_sell_price":16,"id":"GHAST_TEAR","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

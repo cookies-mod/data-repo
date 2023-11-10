@@ -1,6 +1,1 @@
-{
-  "material": "REDSTONE",
-  "name": "Redstone",
-  "npc_sell_price": 1,
-  "id": "REDSTONE"
-}
+{"material":"REDSTONE","name":{"text":"Redstone"},"npc_sell_price":1,"id":"REDSTONE","tier":"common","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

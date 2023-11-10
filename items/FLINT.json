@@ -1,6 +1,1 @@
-{
-  "material": "FLINT",
-  "name": "Flint",
-  "npc_sell_price": 4,
-  "id": "FLINT"
-}
+{"material":"FLINT","name":{"text":"Flint"},"npc_sell_price":4,"id":"FLINT","tier":"common","description":[{"color":"dark_gray","text":"Brewing Ingredient"},{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

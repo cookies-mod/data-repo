@@ -1,6 +1,1 @@
-{
-  "material": "SOUL_SAND",
-  "name": "Soul Sand",
-  "npc_sell_price": 4,
-  "id": "SOUL_SAND"
-}
+{"material":"SOUL_SAND","name":{"text":"Soul Sand"},"npc_sell_price":4,"id":"SOUL_SAND","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

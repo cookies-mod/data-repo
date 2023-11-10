@@ -1,8 +1,1 @@
-{
-  "material": "SPONGE",
-  "name": "Enchanted Sponge",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 2000,
-  "id": "ENCHANTED_SPONGE"
-}
+{"material":"SPONGE","name":{"text":"Enchanted Sponge"},"glowing":true,"tier":"uncommon","npc_sell_price":2000,"id":"ENCHANTED_SPONGE","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

@@ -1,8 +1,1 @@
-{
-  "material": "lily_pad",
-  "name": "Enchanted Lily Pad",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 1600,
-  "id": "ENCHANTED_WATER_LILY"
-}
+{"material":"lily_pad","name":{"text":"Enchanted Lily Pad"},"glowing":true,"tier":"uncommon","npc_sell_price":1600,"id":"ENCHANTED_WATER_LILY","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

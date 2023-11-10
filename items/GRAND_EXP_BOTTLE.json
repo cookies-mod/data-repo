@@ -1,13 +1,1 @@
-{
-  "material": "experience_bottle",
-  "name": "Grand Experience Bottle",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 480,
-  "id": "GRAND_EXP_BOTTLE",
-  "description": [
-    {"text":"Smash it open to receive","color":"gray"},
-    {"text":"experience!","color":"gray"},
-    {"text":""}
-  ]
-}
+{"material":"experience_bottle","name":{"text":"Grand Experience Bottle"},"glowing":true,"tier":"uncommon","npc_sell_price":480,"id":"GRAND_EXP_BOTTLE","description":[{"color":"gray","text":"Smash it open to receive"},{"color":"gray","text":"experience!"},{"text":""},{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

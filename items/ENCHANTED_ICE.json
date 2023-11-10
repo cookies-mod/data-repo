@@ -1,8 +1,1 @@
-{
-  "material": "ICE",
-  "name": "Enchanted Ice",
-  "glowing": true,
-  "tier": "UNCOMMON",
-  "npc_sell_price": 80,
-  "id": "ENCHANTED_ICE"
-}
+{"material":"ICE","name":{"text":"Enchanted Ice"},"glowing":true,"tier":"uncommon","npc_sell_price":80,"id":"ENCHANTED_ICE","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}

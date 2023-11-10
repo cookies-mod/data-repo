@@ -1,7 +1,1 @@
-{
-  "material": "HAY_BLOCK",
-  "name": "Hay Bale",
-  "npc_sell_price": 54,
-  "id": "HAY_BLOCK",
-  "description": [null]
-}
+{"material":"HAY_BLOCK","name":{"text":"Hay Bale"},"npc_sell_price":54,"id":"HAY_BLOCK","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}],"tier":"common"}

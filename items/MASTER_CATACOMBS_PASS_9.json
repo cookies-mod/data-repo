@@ -1,10 +1,1 @@
-{
-  "material": "player_head",
-  "durability": 3,
-  "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYxNzExMDc4MTM4OCwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjM2Q0NWZmNjcyOTg4YjQ2MzU4MTM3YmUzMmMzYzlhZGZkOWE2MjkxOTVjMmI2NDgxNGE5MzQ5OWRkNjYwNiIKICAgIH0KICB9Cn0",
-  "name": "Master Catacombs Pass IX",
-  "category": "DUNGEON_PASS",
-  "tier": "UNOBTAINABLE",
-  "dungeon_item": true,
-  "id": "MASTER_CATACOMBS_PASS_9"
-}
+{"material":"player_head","durability":3,"skin":"ewogICJ0aW1lc3RhbXAiIDogMTYxNzExMDc4MTM4OCwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjM2Q0NWZmNjcyOTg4YjQ2MzU4MTM3YmUzMmMzYzlhZGZkOWE2MjkxOTVjMmI2NDgxNGE5MzQ5OWRkNjYwNiIKICAgIH0KICB9Cn0","name":{"text":"MASTER MODE Catacombs - Floor VI"},"category":"DUNGEON_PASS","tier":"uncommon","dungeon_item":true,"id":"MASTER_CATACOMBS_PASS_9","description":[{"extra":[{"color":"gray","text":"Dungeon Size: "},{"color":"aqua","text":"Medium"}],"text":""},{"extra":[{"color":"gray","text":"Party size: "},{"color":"blue","text":"2-5"}],"text":""},{"text":""},{"extra":[{"color":"gray","text":"Boss: "},{"bold":true,"color":"red","text":"MASTER "},{"color":"red","text":"Sadan"},{"color":"green","text":" ✔"}],"text":""},{"color":"dark_gray","text":"Necromancer Lord"},{"color":"gray","text":"Necromancy was always strong in his"},{"color":"gray","text":"family. Says he once beat a Wither in a"},{"color":"gray","text":"duel. Likes to brag."},{"text":""},{"extra":[{"color":"gray","text":"Requires: "},{"color":"light_purple","text":"Catacombs Level XXXIV"}],"text":""},{"text":""},{"color":"yellow","text":"Click to queue for dungeon!"}]}

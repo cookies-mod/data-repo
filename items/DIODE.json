@@ -1,6 +1,1 @@
-{
-  "material": "Repeater",
-  "name": "Repeater",
-  "npc_sell_price": 3,
-  "id": "DIODE"
-}
+{"material":"Repeater","name":{"text":"Repeater"},"npc_sell_price":3,"id":"DIODE","tier":"common","description":[{"extra":[{"bold":true,"color":"white","text":"COMMON"},{"color":"white","text":""}],"text":""}]}

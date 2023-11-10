@@ -1,16 +1,1 @@
-{
-  "material": "GOLDEN_BOOTS",
-  "name": "Golden Boots",
-  "category": "BOOTS",
-  "stats": {
-    "DEFENSE": 5
-  },
-  "npc_sell_price": 8,
-  "id": "GOLD_BOOTS",
-  "can_be_reforged": true,
-  "description": [
-    {
-      "text": ""
-    }
-  ]
-}
+{"material":"GOLDEN_BOOTS","name":{"text":"Golden Boots"},"category":"BOOTS","stats":{"DEFENSE":5},"npc_sell_price":8,"id":"GOLD_BOOTS","can_be_reforged":true,"description":[{"extra":[{"color":"gray","text":"Defense: "},{"color":"green","text":"+5"}],"text":""},{"text":""},{"color":"dark_gray","text":"This item can be reforged!"},{"extra":[{"bold":true,"color":"white","text":"COMMON BOOTS"},{"color":"white","text":""}],"text":""}],"tier":"common"}

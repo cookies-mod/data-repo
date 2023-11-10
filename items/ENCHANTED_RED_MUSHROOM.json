@@ -1,9 +1,1 @@
-{
-  "material": "RED_MUSHROOM",
-  "name": "Enchanted Red Mushroom",
-  "glowing": true,
-  "npc_sell_price": 1600,
-  "tier": "UNCOMMON",
-  "id": "ENCHANTED_RED_MUSHROOM",
-  "description": [null]
-}
+{"material":"RED_MUSHROOM","name":{"text":"Enchanted Red Mushroom"},"glowing":true,"npc_sell_price":1600,"tier":"uncommon","id":"ENCHANTED_RED_MUSHROOM","description":[{"extra":[{"bold":true,"color":"green","text":"UNCOMMON"},{"color":"green","text":""}],"text":""}]}
