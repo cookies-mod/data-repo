@@ -1,5 +1,5 @@
 [
-  "skyblock:items/stained_glass_4:20",
+  "skyblock:items/yellow_stained_glass:20",
   "skyblock:items/compass:1",
   "skyblock:items/mithril_ore:20",
   "skyblock:items/firework_rocket:1",
@@ -10,5 +10,5 @@
   "skyblock:items/pumpkin:1",
   "skyblock:items/flint_and_steel:1",
   "skyblock:items/emerald:50",
-  "skyblock:items/wool_14:50"
+  "skyblock:items/red_wool:50"
 ]
