@@ -1,9 +1,14 @@
 name: Minify All Json Files
 
 on:
-  push:
-    tags:
-      - v*
+#  push:
+#    tags:
+#      - v*
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Version String
+        required: true
 
 jobs:
   minify:
@@ -31,5 +36,5 @@ jobs:
     - name: Create Release
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        TAG: ${{ github.ref_name }}
+        TAG: ${{ github.event.inputs.version }}
       run: gh release create "$TAG" --repo="$GITHUB_REPOSITORY" --title "${GITHUB_REPOSITORY#*/} ${TAG#v}" items.json recipes.json constants.json items.json.sha256 recipes.json.sha256 constants.json.sha256
