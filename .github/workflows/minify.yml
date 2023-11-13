@@ -9,6 +9,10 @@ on:
       version:
         description: Version String
         required: true
+      prefix:
+        description: Release Title Prefix
+        required: true
+        default: Release
 
 jobs:
   minify:
@@ -37,4 +41,4 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         TAG: ${{ github.event.inputs.version }}
-      run: gh release create "$TAG" --repo="$GITHUB_REPOSITORY" --title "${GITHUB_REPOSITORY#*/} ${TAG#v}" items.json recipes.json constants.json items.json.sha256 recipes.json.sha256 constants.json.sha256
+      run: gh release create "$TAG" --repo="$GITHUB_REPOSITORY" --title "${{ github.event.inputs.prefix }} ${TAG#v}" items.json recipes.json constants.json items.json.sha256 recipes.json.sha256 constants.json.sha256
